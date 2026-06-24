@@ -75,6 +75,18 @@ function initials(name) {
     .join("");
 }
 
+function lastNameKey(name) {
+  const parts = String(name || "").trim().split(/\s+/).filter(Boolean);
+  return parts.length ? parts[parts.length - 1] : "";
+}
+
+function comparePeopleByLastName(a, b) {
+  return (
+    lastNameKey(a.name).localeCompare(lastNameKey(b.name)) ||
+    String(a.name || "").localeCompare(String(b.name || ""))
+  );
+}
+
 function textForSearch(pub) {
   return [
     pub.title,
@@ -222,7 +234,8 @@ function closeCitationModal() {
 
 function renderPeople() {
   const list = document.getElementById("people-list");
-  list.innerHTML = state.people
+  const sortedPeople = [...state.people].sort(comparePeopleByLastName);
+  list.innerHTML = sortedPeople
     .map((person) => {
       const orcidUrl = person.orcid ? `https://orcid.org/${person.orcid}` : "";
       const scholarUrl = safeUrl(person.google_scholar_url);
@@ -250,7 +263,7 @@ function renderPeople() {
 
   const personFilter = document.getElementById("person-filter");
   personFilter.innerHTML = '<option value="">All people</option>';
-  for (const person of state.people) {
+  for (const person of sortedPeople) {
     const option = document.createElement("option");
     option.value = person.id;
     option.textContent = person.name;
