@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Visualization Group Scholar</title>
+    <link rel="stylesheet" href="assets/styles.css?v=export-toolbar-restored">
+  </head>
+  <body>
+    <div class="top-strip" aria-hidden="true"></div>
+
+    <main class="page-shell">
+      <header class="profile-header">
+        <div class="profile-avatar" aria-hidden="true">VG</div>
+        <div class="profile-main">
+          <h1>Visualization Group</h1>
+          <p class="profile-affiliation">Oak Ridge National Laboratory</p>
+          <p class="profile-source" id="last-updated">Data has not been generated yet.</p>
+          <div class="profile-counts">
+            <span><strong id="publication-count">0</strong> publications</span>
+            <span><strong id="member-count">0</strong> current members</span>
+          </div>
+        </div>
+      </header>
+
+      <div class="content-layout">
+        <section class="results-area" aria-label="Publications">
+          <div class="results-controls">
+            <p id="publication-status">Loading publications...</p>
+            <div class="controls" aria-label="Publication controls">
+              <input id="search-input" type="search" placeholder="Search title, author, venue, DOI">
+              <select id="person-filter" aria-label="Filter by person">
+                <option value="">All people</option>
+              </select>
+              <select id="sort-select" aria-label="Sort publications">
+                <option value="citations-desc">Most cited</option>
+                <option value="year-desc">Newest first</option>
+                <option value="title-asc">Title A-Z</option>
+              </select>
+            </div>
+          </div>
+
+          <div id="selection-toolbar" class="selection-toolbar" hidden>
+            <input id="toolbar-select-all" type="checkbox" aria-label="Select all visible publications">
+            <div class="export-control">
+              <button id="export-button" type="button" aria-haspopup="menu" aria-expanded="false">EXPORT</button>
+              <div id="export-menu" class="export-menu" role="menu" hidden>
+                <a href="#" role="menuitem" data-export-format="bibtex" download="selected-publications.bib">BibTeX</a>
+                <a href="#" role="menuitem" data-export-format="csv" download="selected-publications.csv">CSV</a>
+              </div>
+            </div>
+            <span id="selection-count" class="selection-count" aria-live="polite"></span>
+          </div>
+
+          <div class="table-wrap">
+            <table class="publications-table">
+              <thead>
+                <tr>
+                  <th class="checkbox-col"><input id="table-select-all" type="checkbox" aria-label="Select all visible publications"></th>
+                  <th class="publication-title">TITLE</th>
+                  <th class="citation-col sortable-header" aria-sort="descending">
+                    <button type="button" data-sort-value="citations-desc">CITED BY</button>
+                  </th>
+                  <th class="year-col sortable-header" aria-sort="none">
+                    <button type="button" data-sort-value="year-desc">YEAR</button>
+                  </th>
+                </tr>
+              </thead>
+              <tbody id="publications-body"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <aside class="scholar-sidebar" aria-label="Group metrics and members">
+          <section class="sidebar-block">
+            <div class="sidebar-heading">
+              <h2>Cited by</h2>
+              <button id="citation-modal-open" type="button">VIEW ALL</button>
+            </div>
+            <table class="metrics-table">
+              <thead>
+                <tr>
+                  <th></th>
+                  <th>All</th>
+                  <th id="since-heading">Since 2021</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>Citations</td>
+                  <td id="total-citations">0</td>
+                  <td id="since-citations">--</td>
+                </tr>
+                <tr>
+                  <td>h-index</td>
+                  <td id="h-index">0</td>
+                  <td id="since-h-index">--</td>
+                </tr>
+                <tr>
+                  <td>i10-index</td>
+                  <td id="i10-index">0</td>
+                  <td id="since-i10-index">--</td>
+                </tr>
+              </tbody>
+            </table>
+            <div id="citation-chart" class="citation-chart" aria-label="Citation trend"></div>
+          </section>
+
+          <section class="sidebar-block">
+            <div class="sidebar-heading">
+              <h2>Members</h2>
+            </div>
+            <div id="people-list" class="people-list"></div>
+          </section>
+        </aside>
+      </div>
+    </main>
+
+    <div id="citation-modal" class="modal-backdrop" hidden aria-hidden="true">
+      <section class="citation-dialog" role="dialog" aria-modal="true" aria-labelledby="citation-modal-title">
+        <div class="citation-dialog-header">
+          <h2 id="citation-modal-title">Citations per year</h2>
+          <button id="citation-modal-close" class="modal-close" type="button" aria-label="Close citation chart">&times;</button>
+        </div>
+        <div id="citation-modal-chart" class="citation-chart citation-chart-full" aria-label="Citation trend by year"></div>
+      </section>
+    </div>
+
+    <script src="assets/app.js?v=export-toolbar-restored"></script>
+  </body>
+</html>

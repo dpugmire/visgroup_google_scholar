@@ -1,0 +1,50 @@
+[
+  {
+    "id": "david-pugmire",
+    "name": "David Pugmire",
+    "role": "Current member",
+    "google_scholar_url": "https://scholar.google.com/citations?user=FmxWGN0AAAAJ&hl=en",
+    "orcid": "0000-0003-0647-2634",
+    "openalex_id": ""
+  },
+  {
+    "id": "ken-moreland",
+    "name": "Ken Moreland",
+    "role": "Current member",
+    "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=d00I5gUAAAAJ",
+    "orcid": "0000-0002-7051-3288",
+    "openalex_id": ""
+  },
+  {
+    "id": "tushar-athawale",
+    "name": "Tushar Athawale",
+    "role": "Current member",
+    "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=sMiEw1YAAAAJ",
+    "orcid": "0000-0003-3163-6274",
+    "openalex_id": ""
+  },
+  {
+    "id": "junghoon-chae",
+    "name": "Junghoon Chae",
+    "role": "Current member",
+    "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=98-9pVkAAAAJ",
+    "orcid": "0000-0002-0601-6746",
+    "openalex_id": ""
+  },
+  {
+    "id": "erik-schmidt",
+    "name": "Erik Schmidt",
+    "role": "Current member",
+    "google_scholar_url": "",
+    "orcid": "0000-0002-4454-1330",
+    "openalex_id": ""
+  },
+  {
+    "id": "timbwaoga-ouermi",
+    "name": "Timbwaoga A. J. Ouermi",
+    "role": "Current member",
+    "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=yjTNw5YAAAAJ",
+    "orcid": "0000-0002-3406-899X",
+    "openalex_id": ""
+  }
+]

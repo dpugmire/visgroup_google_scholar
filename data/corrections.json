@@ -1,0 +1,12 @@
+{
+  "exclude_dois": [],
+  "exclude_dois_by_person": {},
+  "exclude_scholar_ids": [],
+  "exclude_scholar_ids_by_person": {},
+  "exclude_titles": [],
+  "exclude_titles_by_person": {},
+  "doi_aliases": {},
+  "overrides": {},
+  "force_group_authors": {},
+  "remove_group_authors": {}
+}
