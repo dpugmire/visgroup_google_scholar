@@ -125,41 +125,6 @@ h2 {
   padding: 8px 14px;
 }
 
-.selection-toolbar {
-  position: relative;
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  min-height: 38px;
-  border-bottom: 1px solid var(--soft-line);
-  background: var(--header);
-  padding: 7px 14px;
-}
-
-.selection-toolbar[hidden] {
-  display: none;
-}
-
-.selection-toolbar button {
-  min-height: 26px;
-  border: 0;
-  background: transparent;
-  color: #3c4043;
-  cursor: pointer;
-  font: inherit;
-  padding: 0 6px;
-  text-transform: uppercase;
-}
-
-.selection-toolbar button:hover,
-.selection-toolbar button:focus {
-  background: #e9e9e9;
-}
-
-.selection-toolbar button:focus {
-  outline: 1px solid #4285f4;
-}
-
 .export-control {
   position: relative;
 }
@@ -262,6 +227,45 @@ thead th {
   font-size: 12px;
   font-weight: 400;
   text-transform: uppercase;
+}
+
+.selection-header-row[hidden] {
+  display: none;
+}
+
+.selection-header-row th {
+  color: #3c4043;
+}
+
+.selection-actions-cell {
+  padding: 5px 10px 5px 8px;
+}
+
+.selection-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 26px;
+}
+
+.selection-header-actions button {
+  min-height: 26px;
+  border: 0;
+  background: transparent;
+  color: #3c4043;
+  cursor: pointer;
+  font: inherit;
+  padding: 0 6px;
+  text-transform: uppercase;
+}
+
+.selection-header-actions button:hover,
+.selection-header-actions button:focus {
+  background: #e9e9e9;
+}
+
+.selection-header-actions button:focus {
+  outline: 1px solid #4285f4;
 }
 
 .sortable-header button {

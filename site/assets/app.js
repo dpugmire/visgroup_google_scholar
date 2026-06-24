@@ -521,13 +521,15 @@ function closeExportMenu() {
 function renderSelectionControls() {
   const selectedCount = state.selectedPublicationIds.size;
   const visibleIds = visiblePublicationIds();
-  const toolbar = document.getElementById("selection-toolbar");
+  const headerRow = document.getElementById("publication-header-row");
+  const selectionRow = document.getElementById("selection-header-row");
   const count = document.getElementById("selection-count");
-  toolbar.hidden = selectedCount === 0;
+  headerRow.hidden = selectedCount > 0;
+  selectionRow.hidden = selectedCount === 0;
   count.textContent = selectedCount ? `${formatNumber(selectedCount)} selected` : "";
 
   setSelectAllCheckboxState(document.getElementById("table-select-all"), visibleIds);
-  setSelectAllCheckboxState(document.getElementById("toolbar-select-all"), visibleIds);
+  setSelectAllCheckboxState(document.getElementById("selection-select-all"), visibleIds);
 
   if (!selectedCount) closeExportMenu();
 }
@@ -627,7 +629,7 @@ async function init() {
     document.getElementById("table-select-all").addEventListener("change", (event) => {
       toggleVisibleSelection(event.target.checked);
     });
-    document.getElementById("toolbar-select-all").addEventListener("change", (event) => {
+    document.getElementById("selection-select-all").addEventListener("change", (event) => {
       toggleVisibleSelection(event.target.checked);
     });
     document.getElementById("export-button").addEventListener("click", toggleExportMenu);

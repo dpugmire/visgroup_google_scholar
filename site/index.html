@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Visualization Group Scholar</title>
-    <link rel="stylesheet" href="assets/styles.css?v=export-toolbar-restored">
+    <link rel="stylesheet" href="assets/styles.css?v=export-header-row">
   </head>
   <body>
     <div class="top-strip" aria-hidden="true"></div>
@@ -40,22 +40,10 @@
             </div>
           </div>
 
-          <div id="selection-toolbar" class="selection-toolbar" hidden>
-            <input id="toolbar-select-all" type="checkbox" aria-label="Select all visible publications">
-            <div class="export-control">
-              <button id="export-button" type="button" aria-haspopup="menu" aria-expanded="false">EXPORT</button>
-              <div id="export-menu" class="export-menu" role="menu" hidden>
-                <a href="#" role="menuitem" data-export-format="bibtex" download="selected-publications.bib">BibTeX</a>
-                <a href="#" role="menuitem" data-export-format="csv" download="selected-publications.csv">CSV</a>
-              </div>
-            </div>
-            <span id="selection-count" class="selection-count" aria-live="polite"></span>
-          </div>
-
           <div class="table-wrap">
             <table class="publications-table">
               <thead>
-                <tr>
+                <tr id="publication-header-row">
                   <th class="checkbox-col"><input id="table-select-all" type="checkbox" aria-label="Select all visible publications"></th>
                   <th class="publication-title">TITLE</th>
                   <th class="citation-col sortable-header" aria-sort="descending">
@@ -63,6 +51,21 @@
                   </th>
                   <th class="year-col sortable-header" aria-sort="none">
                     <button type="button" data-sort-value="year-desc">YEAR</button>
+                  </th>
+                </tr>
+                <tr id="selection-header-row" class="selection-header-row" hidden>
+                  <th class="checkbox-col"><input id="selection-select-all" type="checkbox" aria-label="Select all visible publications"></th>
+                  <th class="selection-actions-cell" colspan="3">
+                    <div class="selection-header-actions">
+                      <div class="export-control">
+                        <button id="export-button" type="button" aria-haspopup="menu" aria-expanded="false">EXPORT</button>
+                        <div id="export-menu" class="export-menu" role="menu" hidden>
+                          <a href="#" role="menuitem" data-export-format="bibtex" download="selected-publications.bib">BibTeX</a>
+                          <a href="#" role="menuitem" data-export-format="csv" download="selected-publications.csv">CSV</a>
+                        </div>
+                      </div>
+                      <span id="selection-count" class="selection-count" aria-live="polite"></span>
+                    </div>
                   </th>
                 </tr>
               </thead>
@@ -126,6 +129,6 @@
       </section>
     </div>
 
-    <script src="assets/app.js?v=export-toolbar-restored"></script>
+    <script src="assets/app.js?v=export-header-row"></script>
   </body>
 </html>
