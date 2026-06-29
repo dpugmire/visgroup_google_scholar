@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-06-19T16:40:03+00:00",
+  "generated_at": "2026-06-29T13:18:05+00:00",
   "publications": [
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_relicensesurrender/3031246",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W7160849215",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Relicense and Surrender Pipeline Map, 2026",
+      "url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
+      "venue": "DOE Oak Ridge National Laboratory (ORNL) Repository",
+      "year": 2026
+    },
     {
       "citation_count": 0,
       "doi": "10.2172/3029729",
@@ -52,9 +66,37 @@
       "orcid_evidence": "David Pugmire; Ken Moreland; Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
-      "title": "MAGIC: Marching Cubes Isosurface Uncertainty Visualization for Gaussian Uncertain Data with Spatial Correlation",
+      "title": "MAGIC: <u>M</u> arching Cubes Isosurface Uncertainty Visualization for <u>G</u> auss <u>i</u> an Uncertain Data With Spatial <u>C</u> orrelation",
       "url": "https://doi.org/10.1109/tvcg.2026.3653244",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.64898/2026.03.12.711165",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W7136185952",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Detecting Manuscripts Related to Computable Phenotypes Using a Transformer-based Language Model",
+      "url": "https://doi.org/10.64898/2026.03.12.711165",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.11578/biomass_dss/dc.20260430.1",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W7158473150",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Decision Support System",
+      "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2026
     },
     {
@@ -72,7 +114,7 @@
       "year": 2026
     },
     {
-      "citation_count": 4,
+      "citation_count": 5,
       "doi": "10.1145/3712285.3759878",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -100,7 +142,7 @@
       "year": 2025
     },
     {
-      "citation_count": 1,
+      "citation_count": 2,
       "doi": "10.1109/qsw67625.2025.00011",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -143,11 +185,25 @@
     },
     {
       "citation_count": 1,
-      "doi": "10.1111/cgf.70138",
+      "doi": "10.1109/topoinvis68599.2025.00006",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
+      "openalex_url": "https://openalex.org/W7116849557",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "GASP: Gradient-Aware Shortest Path Algorithm for Boundary-Confined 2-Manifold Reeb Graph Visualization",
+      "url": "https://doi.org/10.1109/topoinvis68599.2025.00006",
+      "venue": "",
+      "year": 2025
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1111/cgf.70138",
+      "group_authors": "Timbwaoga A. J. Ouermi; Tushar Athawale",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi; Tushar Athawale",
       "openalex_url": "https://openalex.org/W4410622232",
-      "orcid_evidence": "Tushar Athawale",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi; Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
       "title": "Fast HARDI Uncertainty Quantification and Visualization with Spherical Sampling",
@@ -166,6 +222,34 @@
       "review_status": "trusted_orcid",
       "title": "Workflows for Science: A comprehensive guide for ensemble workflow tools usage with applications on OLCF systems",
       "url": "https://doi.org/10.2172/2575304",
+      "venue": "",
+      "year": 2025
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1109/qce65121.2025.10450",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4416875159",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visual Analytics of Crosstalk in Quantum Hardware",
+      "url": "https://doi.org/10.1109/qce65121.2025.10450",
+      "venue": "",
+      "year": 2025
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1109/uncertaintyvisualization68947.2025.00005",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W7123445971",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Uncertainty Tube Visualization of Particle Trajectories",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00005",
       "venue": "",
       "year": 2025
     },
@@ -241,23 +325,23 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/topoinvis68599.2025.00006",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W7116849557",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "GASP: Gradient-Aware Shortest Path Algorithm for Boundary-Confined 2-Manifold Reeb Graph Visualization",
-      "url": "https://doi.org/10.1109/topoinvis68599.2025.00006",
-      "venue": "",
+      "doi": "10.1615/int.j.uncertaintyquantification.2025059589",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W4415675888",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "HYPERDIFFERENTIAL SENSITIVITY ANALYSIS WITH RESPECT TO MODEL DISCREPANCY: PRIOR DISTRIBUTIONS",
+      "url": "https://doi.org/10.1615/int.j.uncertaintyquantification.2025059589",
+      "venue": "International Journal for Uncertainty Quantification",
       "year": 2025
     },
     {
       "citation_count": 0,
       "doi": "10.48550/arxiv.2510.01190",
-      "group_authors": "Ken Moreland; Tushar Athawale",
-      "openalex_candidate_for": "Ken Moreland; Tushar Athawale",
+      "group_authors": "Ken Moreland; Timbwaoga A. J. Ouermi; Tushar Athawale",
+      "openalex_candidate_for": "Ken Moreland; Timbwaoga A. J. Ouermi; Tushar Athawale",
       "openalex_url": "https://openalex.org/W4414814330",
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
@@ -270,12 +354,12 @@
     {
       "citation_count": 0,
       "doi": "10.1109/uncertaintyvisualization68947.2025.00006",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
+      "group_authors": "Timbwaoga A. J. Ouermi; Tushar Athawale",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi; Tushar Athawale",
       "openalex_url": "https://openalex.org/W7123474319",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
       "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
       "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00006",
       "venue": "",
@@ -324,7 +408,7 @@
       "year": 2025
     },
     {
-      "citation_count": 41,
+      "citation_count": 42,
       "doi": "10.1093/gji/ggae270",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -335,6 +419,20 @@
       "title": "GLAD-M35: a joint P and S global tomographic model with uncertainty quantification",
       "url": "https://doi.org/10.1093/gji/ggae270",
       "venue": "Geophysical Journal International",
+      "year": 2024
+    },
+    {
+      "citation_count": 19,
+      "doi": "10.1038/s41597-024-03219-x",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W4396976240",
+      "orcid_evidence": "Erik Schmidt",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "A baseline structure inventory with critical attribution for the US and its territories",
+      "url": "https://doi.org/10.1038/s41597-024-03219-x",
+      "venue": "Scientific Data",
       "year": 2024
     },
     {
@@ -352,7 +450,7 @@
       "year": 2024
     },
     {
-      "citation_count": 5,
+      "citation_count": 6,
       "doi": "10.1109/qce60285.2024.00168",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -395,6 +493,20 @@
     },
     {
       "citation_count": 2,
+      "doi": "10.1109/uncertaintyvisualization63963.2024.00014",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W4404371175",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Glyph-Based Uncertainty Visualization and Analysis of Time-Varying Vector Fields",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00014",
+      "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 2,
       "doi": "10.1109/e-science62913.2024.10678699",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -423,6 +535,20 @@
     },
     {
       "citation_count": 1,
+      "doi": "10.1109/isvlsi61997.2024.00116",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4402835792",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visual Analytics of Performance of Quantum Computing Systems and Circuit Optimization",
+      "url": "https://doi.org/10.1109/isvlsi61997.2024.00116",
+      "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 1,
       "doi": "10.1109/uncertaintyvisualization63963.2024.00010",
       "group_authors": "Ken Moreland; Tushar Athawale",
       "openalex_candidate_for": "Ken Moreland; Tushar Athawale",
@@ -438,10 +564,10 @@
     {
       "citation_count": 1,
       "doi": "10.1109/uncertaintyvisualization63963.2024.00012",
-      "group_authors": "Tushar Athawale",
+      "group_authors": "Timbwaoga A. J. Ouermi; Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
       "openalex_url": "https://openalex.org/W4404371321",
-      "orcid_evidence": "Tushar Athawale",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi; Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
       "title": "Estimation and Visualization of Isosurface Uncertainty from Linear and High-Order Interpolation Methods",
@@ -489,6 +615,34 @@
       "title": "A Personalized AI Assistant For Intuition-Driven Visual Explorations",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678681",
       "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1109/uncertaintyvisualization63963.2024.00016",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W4404371282",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Visualizing Uncertainties in Ensemble Wildfire Forecast Simulations",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00016",
+      "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.48550/arxiv.2409.06159",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4403593130",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visual Analytics of Performance of Quantum Computing Systems and Circuit Optimization",
+      "url": "https://doi.org/10.48550/arxiv.2409.06159",
+      "venue": "arXiv (Cornell University)",
       "year": 2024
     },
     {
@@ -549,6 +703,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.1109/icons62911.2024.00056",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4404915578",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "SNNVis: Visualizing Graph Embedding of Evolutionary Optimization for Spiking Neural Networks",
+      "url": "https://doi.org/10.1109/icons62911.2024.00056",
+      "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 0,
       "doi": "10.48550/arxiv.2410.09710",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -587,6 +755,20 @@
       "title": "Estimation and Visualization of Isosurface Uncertainty from Linear and High-Order Interpolation Methods",
       "url": "https://doi.org/10.48550/arxiv.2409.00043",
       "venue": "arXiv (Cornell University)",
+      "year": 2024
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.2172/2462877",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4403371580",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Data Visualization and Analytics for Optimal Process Parameter Selection in Turning",
+      "url": "https://doi.org/10.2172/2462877",
+      "venue": "",
       "year": 2024
     },
     {
@@ -660,7 +842,7 @@
       "year": 2024
     },
     {
-      "citation_count": 77,
+      "citation_count": 78,
       "doi": "10.1109/tps.2023.3268170",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -671,6 +853,20 @@
       "title": "2022 Review of Data-Driven Plasma Science",
       "url": "https://doi.org/10.1109/tps.2023.3268170",
       "venue": "IEEE Transactions on Plasma Science",
+      "year": 2023
+    },
+    {
+      "citation_count": 5,
+      "doi": "10.2172/2076189",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W4387730001",
+      "orcid_evidence": "Erik Schmidt",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "USA Structures Phase 2 Technical Report",
+      "url": "https://doi.org/10.2172/2076189",
+      "venue": "",
       "year": 2023
     },
     {
@@ -688,7 +884,7 @@
       "year": 2023
     },
     {
-      "citation_count": 3,
+      "citation_count": 4,
       "doi": "10.1145/3588983.3596689",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -730,6 +926,20 @@
       "year": 2023
     },
     {
+      "citation_count": 2,
+      "doi": "10.1145/3632291",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W4388568004",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Algorithm\u00a01041: HiPPIS\u2014A High-order Positivity-preserving Mapping Software for Structured Meshes",
+      "url": "https://doi.org/10.1145/3632291",
+      "venue": "ACM Transactions on Mathematical Software",
+      "year": 2023
+    },
+    {
       "citation_count": 1,
       "doi": "10.2172/1959590",
       "group_authors": "Ken Moreland",
@@ -740,6 +950,20 @@
       "review_status": "candidate_openalex",
       "title": "The VTK-m Users' Guide (V.2.0)",
       "url": "https://doi.org/10.2172/1959590",
+      "venue": "",
+      "year": 2023
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/qce57702.2023.10215",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4389167201",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "QVis: A Visual Analytics Tool for Exploring Noise and Errors in Quantum Computing Systems",
+      "url": "https://doi.org/10.1109/qce57702.2023.10215",
       "venue": "",
       "year": 2023
     },
@@ -797,6 +1021,20 @@
       "title": "Committees",
       "url": "https://doi.org/10.1109/ldav60332.2023.00006",
       "venue": "",
+      "year": 2023
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.2352/ei.2023.35.1.vda-395",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4322745921",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "CPViz: Visualizing clinical pathways represented in higher-order networks",
+      "url": "https://doi.org/10.2352/ei.2023.35.1.vda-395",
+      "venue": "Electronic Imaging",
       "year": 2023
     },
     {
@@ -937,6 +1175,34 @@
       "title": "Quantifying and Visualizing Uncertainty for Source Localisation in Electrocardiographic Imaging",
       "url": "https://doi.org/10.1080/21681163.2022.2113824",
       "venue": "Computer Methods in Biomechanics and Biomedical Engineering Imaging & Visualization",
+      "year": 2022
+    },
+    {
+      "citation_count": 2,
+      "doi": "10.1109/bigdata55660.2022.10020811",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4320024237",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Graph-based Cascading Impact Estimation for Identifying Crucial Infrastructure Components",
+      "url": "https://doi.org/10.1109/bigdata55660.2022.10020811",
+      "venue": "2022 IEEE International Conference on Big Data (Big Data)",
+      "year": 2022
+    },
+    {
+      "citation_count": 2,
+      "doi": "10.1007/s11075-022-01352-5",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W4285795742",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "ENO-based high-order data-bounded and constrained positivity-preserving interpolation",
+      "url": "https://doi.org/10.1007/s11075-022-01352-5",
+      "venue": "Numerical Algorithms",
       "year": 2022
     },
     {
@@ -1122,6 +1388,20 @@
       "year": 2021
     },
     {
+      "citation_count": 28,
+      "doi": "10.1145/3489849.3489890",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3216004612",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "TangibleData: Interactive Data Visualization with Mid-Air Haptics",
+      "url": "https://doi.org/10.1145/3489849.3489890",
+      "venue": "",
+      "year": 2021
+    },
+    {
       "citation_count": 27,
       "doi": "10.1177/10943420211019119",
       "group_authors": "David Pugmire",
@@ -1234,6 +1514,20 @@
       "year": 2021
     },
     {
+      "citation_count": 7,
+      "doi": "10.1016/j.tra.2021.07.013",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3199455679",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A modeling framework for designing and evaluating curbside traffic management policies at Dallas-Fort Worth International Airport",
+      "url": "https://doi.org/10.1016/j.tra.2021.07.013",
+      "venue": "Transportation Research Part A Policy and Practice",
+      "year": 2021
+    },
+    {
       "citation_count": 6,
       "doi": "10.1007/978-981-33-4859-2",
       "group_authors": "Tushar Athawale",
@@ -1262,6 +1556,20 @@
       "year": 2021
     },
     {
+      "citation_count": 3,
+      "doi": "10.1109/bigdata52589.2021.9672055",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4205372901",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visual Understanding of COVID-19 Knowledge Graph for Predictive Analysis",
+      "url": "https://doi.org/10.1109/bigdata52589.2021.9672055",
+      "venue": "2021 IEEE International Conference on Big Data (Big Data)",
+      "year": 2021
+    },
+    {
       "citation_count": 2,
       "doi": "10.1109/ldav53230.2021.00012",
       "group_authors": "Ken Moreland",
@@ -1272,6 +1580,20 @@
       "review_status": "candidate_openalex",
       "title": "GPU-based Image Compression for Efficient Compositing in Distributed Rendering Applications",
       "url": "https://doi.org/10.1109/ldav53230.2021.00012",
+      "venue": "",
+      "year": 2021
+    },
+    {
+      "citation_count": 2,
+      "doi": "10.1109/isgt49243.2021.9372256",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3139116659",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Data Analysis Approach for Large Data Volumes in a Connected Community",
+      "url": "https://doi.org/10.1109/isgt49243.2021.9372256",
       "venue": "",
       "year": 2021
     },
@@ -1416,7 +1738,7 @@
       "year": 2021
     },
     {
-      "citation_count": 228,
+      "citation_count": 230,
       "doi": "10.1093/gji/ggaa253",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1430,7 +1752,7 @@
       "year": 2020
     },
     {
-      "citation_count": 227,
+      "citation_count": 229,
       "doi": "10.1016/j.softx.2020.100561",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1444,7 +1766,7 @@
       "year": 2020
     },
     {
-      "citation_count": 73,
+      "citation_count": 74,
       "doi": "10.1177/1094342020935991",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1500,6 +1822,20 @@
       "year": 2020
     },
     {
+      "citation_count": 16,
+      "doi": "10.1016/j.gvc.2020.200013",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3025674082",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "CrossVis: A visual analytics system for exploring heterogeneous multivariate data with applications to materials and climate sciences",
+      "url": "https://doi.org/10.1016/j.gvc.2020.200013",
+      "venue": "Graphics and Visual Computing",
+      "year": 2020
+    },
+    {
       "citation_count": 8,
       "doi": "10.1109/ldav51489.2020.00009",
       "group_authors": "David Pugmire",
@@ -1538,6 +1874,20 @@
       "review_status": "candidate_openalex",
       "title": "Parallel Particle Advection Bake-Off for Scientific Visualization Workloads",
       "url": "https://doi.org/10.1109/cluster49012.2020.00048",
+      "venue": "",
+      "year": 2020
+    },
+    {
+      "citation_count": 3,
+      "doi": "10.1109/cbms49503.2020.00092",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3081824282",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
+      "url": "https://doi.org/10.1109/cbms49503.2020.00092",
       "venue": "",
       "year": 2020
     },
@@ -1609,6 +1959,20 @@
       "title": "STDA05-51 milestone",
       "url": "https://doi.org/10.2172/1595918",
       "venue": "",
+      "year": 2020
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.48550/arxiv.2009.08535",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W3087033368",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Numerical Testing of a New Positivity-Preserving Interpolation Algorithm",
+      "url": "https://doi.org/10.48550/arxiv.2009.08535",
+      "venue": "arXiv (Cornell University)",
       "year": 2020
     },
     {
@@ -1724,6 +2088,62 @@
       "year": 2019
     },
     {
+      "citation_count": 6,
+      "doi": "10.1109/bigdata47090.2019.9006048",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3007707119",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
+      "url": "https://doi.org/10.1109/bigdata47090.2019.9006048",
+      "venue": "",
+      "year": 2019
+    },
+    {
+      "citation_count": 6,
+      "doi": "10.1109/mlhpc49564.2019.00007",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3000589962",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Fine-Grained Exploitation of Mixed Precision for Faster CNN Training",
+      "url": "https://doi.org/10.1109/mlhpc49564.2019.00007",
+      "venue": "",
+      "year": 2019
+    },
+    {
+      "citation_count": 4,
+      "doi": "10.1109/bigdata47090.2019.9006470",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W3007641899",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visualization System for Evolutionary Neural Networks for Deep Learning",
+      "url": "https://doi.org/10.1109/bigdata47090.2019.9006470",
+      "venue": "",
+      "year": 2019
+    },
+    {
+      "citation_count": 4,
+      "doi": "10.1109/bigdata47090.2019.9006467",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2975608192",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Exascale Deep Learning to Accelerate Cancer Research",
+      "url": "https://doi.org/10.1109/bigdata47090.2019.9006467",
+      "venue": "",
+      "year": 2019
+    },
+    {
       "citation_count": 3,
       "doi": "10.1109/drbsd-549595.2019.00007",
       "group_authors": "David Pugmire",
@@ -1819,6 +2239,20 @@
       "title": "XVis: Visualization for the Extreme-Scale Scientific Computation Ecosystem (Final Report)",
       "url": "https://doi.org/10.2172/1547341",
       "venue": "",
+      "year": 2019
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1101/830844",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2988000369",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
+      "url": "https://doi.org/10.1101/830844",
+      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2019
     },
     {
@@ -1976,6 +2410,20 @@
       "year": 2019
     },
     {
+      "citation_count": 0,
+      "doi": "10.2352/issn.2470-1173.2019.1.vda-680",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2977047807",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Dynamic Color Mapping with a Multi-Scale Histogram: A Design Study with Physical Scientists",
+      "url": "https://doi.org/10.2352/issn.2470-1173.2019.1.vda-680",
+      "venue": "Electronic Imaging",
+      "year": 2019
+    },
+    {
       "citation_count": 30,
       "doi": "10.1109/escience.2018.00133",
       "group_authors": "David Pugmire; Ken Moreland",
@@ -2071,6 +2519,34 @@
       "title": "Binning Based Data Reduction for Vector Field Data of a Particle-In-Cell Fusion Simulation",
       "url": "https://doi.org/10.1007/978-3-030-02465-9_15",
       "venue": "Lecture notes in computer science",
+      "year": 2018
+    },
+    {
+      "citation_count": 2,
+      "doi": "10.1080/15481603.2018.1460933",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W2795622682",
+      "orcid_evidence": "Erik Schmidt",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Supervised classification of electric power transmission line nominal voltage from high-resolution aerial imagery",
+      "url": "https://doi.org/10.1080/15481603.2018.1460933",
+      "venue": "GIScience & Remote Sensing",
+      "year": 2018
+    },
+    {
+      "citation_count": 2,
+      "doi": "10.15803/ijnc.8.2_301",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W2818770269",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Performance Optimization Strategies for WRF Physics Schemes Used in Weather Modeling",
+      "url": "https://doi.org/10.15803/ijnc.8.2_301",
+      "venue": "International Journal of Networking and Computing",
       "year": 2018
     },
     {
@@ -2228,6 +2704,34 @@
       "year": 2017
     },
     {
+      "citation_count": 28,
+      "doi": "10.1177/1094428117720014",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2735776616",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Big Data Visualizations in Organizational Science",
+      "url": "https://doi.org/10.1177/1094428117720014",
+      "venue": "Organizational Research Methods",
+      "year": 2017
+    },
+    {
+      "citation_count": 6,
+      "doi": "10.1109/candar.2017.58",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W2799168433",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Optimization Strategies for WRF Single-Moment 6-Class Microphysics Scheme (WSM6) on Intel Microarchitectures",
+      "url": "https://doi.org/10.1109/candar.2017.58",
+      "venue": "",
+      "year": 2017
+    },
+    {
       "citation_count": 5,
       "doi": "10.1109/ldav.2017.8231845",
       "group_authors": "Ken Moreland",
@@ -2252,6 +2756,20 @@
       "review_status": "candidate_openalex",
       "title": "Exacution: Enhancing Scientific Data Management for Exascale",
       "url": "https://doi.org/10.1109/icdcs.2017.256",
+      "venue": "",
+      "year": 2017
+    },
+    {
+      "citation_count": 4,
+      "doi": "10.1145/3093338.3093387",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W2727751712",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "OpenMP 4 Fortran Modernization of WSM6 for KNL",
+      "url": "https://doi.org/10.1145/3093338.3093387",
       "venue": "",
       "year": 2017
     },
@@ -2382,7 +2900,7 @@
       "year": 2017
     },
     {
-      "citation_count": 283,
+      "citation_count": 284,
       "doi": "10.1093/gji/ggw356",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2435,6 +2953,34 @@
       "title": "Why We Use Bad Color Maps and What You Can Do About It",
       "url": "https://doi.org/10.2352/issn.2470-1173.2016.16.hvei-133",
       "venue": "Electronic Imaging",
+      "year": 2016
+    },
+    {
+      "citation_count": 76,
+      "doi": "10.1111/cgf.12931",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2417648990",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A Survey on Visual Analysis Approaches for Financial Data",
+      "url": "https://doi.org/10.1111/cgf.12931",
+      "venue": "Computer Graphics Forum",
+      "year": 2016
+    },
+    {
+      "citation_count": 21,
+      "doi": "10.1111/cgf.12920",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2416356973",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation",
+      "url": "https://doi.org/10.1111/cgf.12920",
+      "venue": "Computer Graphics Forum",
       "year": 2016
     },
     {
@@ -2550,6 +3096,20 @@
       "year": 2016
     },
     {
+      "citation_count": 1,
+      "doi": "10.1109/ths.2016.7568903",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2520386452",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Visual analytics for investigative analysis of hoax distress calls using social media",
+      "url": "https://doi.org/10.1109/ths.2016.7568903",
+      "venue": "",
+      "year": 2016
+    },
+    {
       "citation_count": 0,
       "doi": "10.2172/1257617",
       "group_authors": "Ken Moreland",
@@ -2578,7 +3138,7 @@
       "year": 2016
     },
     {
-      "citation_count": 195,
+      "citation_count": 198,
       "doi": "10.1145/2828612.2828624",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2634,6 +3194,48 @@
       "year": 2015
     },
     {
+      "citation_count": 18,
+      "doi": "10.2312/eurova.20151102",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2308155768",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Trajectory-based Visual Analytics for Anomalous Human Movement Analysis using Social Media",
+      "url": "https://doi.org/10.2312/eurova.20151102",
+      "venue": "Eurographics",
+      "year": 2015
+    },
+    {
+      "citation_count": 4,
+      "doi": "10.1109/vast.2015.7347654",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2187030387",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Visual analytics of heterogeneous data for criminal event analysis VAST challenge 2015: Grand challenge",
+      "url": "https://doi.org/10.1109/vast.2015.7347654",
+      "venue": "",
+      "year": 2015
+    },
+    {
+      "citation_count": 4,
+      "doi": "10.1109/vast.2015.7347669",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2184765594",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "ParkAnalyzer: Characterizing the movement patterns of visitors VAST 2015 Mini-Challenge 1",
+      "url": "https://doi.org/10.1109/vast.2015.7347669",
+      "venue": "",
+      "year": 2015
+    },
+    {
       "citation_count": 3,
       "doi": "10.14529/jsfi150306",
       "group_authors": "Ken Moreland",
@@ -2649,6 +3251,20 @@
     },
     {
       "citation_count": 2,
+      "doi": "10.1007/978-3-319-18552-1_12",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2249991349",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Visual Analytics of User Influence and Location-Based Social Networks",
+      "url": "https://doi.org/10.1007/978-3-319-18552-1_12",
+      "venue": "",
+      "year": 2015
+    },
+    {
+      "citation_count": 2,
       "doi": "10.2172/1184599",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2658,6 +3274,20 @@
       "review_status": "candidate_openalex",
       "title": "The Future of Scientific Workflows. Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia contributions)",
       "url": "https://doi.org/10.2172/1184599",
+      "venue": "",
+      "year": 2015
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/vast.2015.7347648",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2188354766",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Visual analytics for detecting communication patterns",
+      "url": "https://doi.org/10.1109/vast.2015.7347648",
       "venue": "",
       "year": 2015
     },
@@ -2716,6 +3346,20 @@
       "url": "https://doi.org/10.2172/1172613",
       "venue": "",
       "year": 2015
+    },
+    {
+      "citation_count": 30,
+      "doi": "10.1109/vast.2014.7042484",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W1969745267",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Analyzing High-dimensional Multivariate Network Links with Integrated Anomaly Detection, Highlighting and Exploration",
+      "url": "https://doi.org/10.1109/vast.2014.7042484",
+      "venue": "",
+      "year": 2014
     },
     {
       "citation_count": 21,
@@ -2800,6 +3444,20 @@
       "url": "https://doi.org/10.11578/dc.20171025.1587",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2014
+    },
+    {
+      "citation_count": 186,
+      "doi": "10.1016/j.cag.2013.10.008",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2048018384",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Public behavior response analysis in disaster events utilizing visual analytics of microblog data",
+      "url": "https://doi.org/10.1016/j.cag.2013.10.008",
+      "venue": "Computers & Graphics",
+      "year": 2013
     },
     {
       "citation_count": 52,
@@ -2914,6 +3572,20 @@
       "year": 2013
     },
     {
+      "citation_count": 1,
+      "doi": "10.2312/pe.eurovast.eurova13.067-071",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W103151635",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visual Analytics of Microblog Data for Public Behavior Analysis in Disaster Events",
+      "url": "https://doi.org/10.2312/pe.eurovast.eurova13.067-071",
+      "venue": "Eurographics",
+      "year": 2013
+    },
+    {
       "citation_count": 0,
       "doi": "10.25080/majora-8b375195-00b",
       "group_authors": "David Pugmire",
@@ -2928,6 +3600,20 @@
       "year": 2013
     },
     {
+      "citation_count": 283,
+      "doi": "10.1109/vast.2012.6400557",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2009662901",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Spatiotemporal social media analytics for abnormal event detection and examination using seasonal-trend decomposition",
+      "url": "https://doi.org/10.1109/vast.2012.6400557",
+      "venue": "",
+      "year": 2012
+    },
+    {
       "citation_count": 87,
       "doi": "10.1109/tvcg.2012.133",
       "group_authors": "Ken Moreland",
@@ -2939,6 +3625,20 @@
       "title": "A Survey of Visualization Pipelines",
       "url": "https://doi.org/10.1109/tvcg.2012.133",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2012
+    },
+    {
+      "citation_count": 61,
+      "doi": "10.1177/193229681200600231",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2147707785",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Comparison of Known Food Weights with Image-Based Portion-Size Automated Estimation and Adolescents' Self-Reported Portion Size",
+      "url": "https://doi.org/10.1177/193229681200600231",
+      "venue": "Journal of Diabetes Science and Technology",
       "year": 2012
     },
     {
@@ -3040,7 +3740,7 @@
       "year": 2012
     },
     {
-      "citation_count": 9,
+      "citation_count": 10,
       "doi": "10.2172/1034694",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -3135,6 +3835,20 @@
       "title": "The ParaView Coprocessing Library: A scalable, general purpose in situ visualization library",
       "url": "https://doi.org/10.1109/ldav.2011.6092322",
       "venue": "",
+      "year": 2011
+    },
+    {
+      "citation_count": 83,
+      "doi": "10.1117/12.876669",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2049552648",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Volume estimation using food specific shape templates in mobile image-based dietary assessment",
+      "url": "https://doi.org/10.1117/12.876669",
+      "venue": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
       "year": 2011
     },
     {
@@ -3278,7 +3992,7 @@
       "year": 2011
     },
     {
-      "citation_count": 85,
+      "citation_count": 86,
       "doi": "10.1109/mcg.2010.51",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",

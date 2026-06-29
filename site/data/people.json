@@ -1,508 +1,86 @@
 [
   {
-    "annual_citations": [
-      {
-        "citations": 12,
-        "total": 74,
-        "year": 2010
-      },
-      {
-        "citations": 61,
-        "total": 135,
-        "year": 2011
-      },
-      {
-        "citations": 89,
-        "total": 224,
-        "year": 2012
-      },
-      {
-        "citations": 79,
-        "total": 303,
-        "year": 2013
-      },
-      {
-        "citations": 80,
-        "total": 383,
-        "year": 2014
-      },
-      {
-        "citations": 123,
-        "total": 506,
-        "year": 2015
-      },
-      {
-        "citations": 171,
-        "total": 677,
-        "year": 2016
-      },
-      {
-        "citations": 190,
-        "total": 867,
-        "year": 2017
-      },
-      {
-        "citations": 241,
-        "total": 1108,
-        "year": 2018
-      },
-      {
-        "citations": 275,
-        "total": 1383,
-        "year": 2019
-      },
-      {
-        "citations": 347,
-        "total": 1730,
-        "year": 2020
-      },
-      {
-        "citations": 380,
-        "total": 2110,
-        "year": 2021
-      },
-      {
-        "citations": 491,
-        "total": 2601,
-        "year": 2022
-      },
-      {
-        "citations": 458,
-        "total": 3059,
-        "year": 2023
-      },
-      {
-        "citations": 445,
-        "total": 3504,
-        "year": 2024
-      },
-      {
-        "citations": 520,
-        "total": 4024,
-        "year": 2025
-      },
-      {
-        "citations": 222,
-        "total": 4246,
-        "year": 2026
-      }
-    ],
-    "citation_count": 4246,
+    "citation_count": 2211,
     "google_scholar_url": "https://scholar.google.com/citations?user=FmxWGN0AAAAJ&hl=en",
-    "h_index": 27,
-    "i10_index": 67,
+    "h_index": 22,
+    "i10_index": 42,
     "id": "david-pugmire",
     "name": "David Pugmire",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0003-0647-2634",
-    "publish_or_perish_query_time": 1781890309,
-    "publish_or_perish_query_type": "PoPGSCProfile",
-    "resolved_openalex_id": "",
+    "resolved_openalex_id": "https://openalex.org/A5041404935",
     "role": "Current member",
-    "scholar_user_id": "FmxWGN0AAAAJ",
-    "works_count": 195
+    "works_count": 129
   },
   {
-    "annual_citations": [
-      {
-        "citations": 16,
-        "total": 134,
-        "year": 2002
-      },
-      {
-        "citations": 29,
-        "total": 163,
-        "year": 2003
-      },
-      {
-        "citations": 82,
-        "total": 245,
-        "year": 2004
-      },
-      {
-        "citations": 103,
-        "total": 348,
-        "year": 2005
-      },
-      {
-        "citations": 89,
-        "total": 437,
-        "year": 2006
-      },
-      {
-        "citations": 113,
-        "total": 550,
-        "year": 2007
-      },
-      {
-        "citations": 107,
-        "total": 657,
-        "year": 2008
-      },
-      {
-        "citations": 147,
-        "total": 804,
-        "year": 2009
-      },
-      {
-        "citations": 144,
-        "total": 948,
-        "year": 2010
-      },
-      {
-        "citations": 229,
-        "total": 1177,
-        "year": 2011
-      },
-      {
-        "citations": 244,
-        "total": 1421,
-        "year": 2012
-      },
-      {
-        "citations": 212,
-        "total": 1633,
-        "year": 2013
-      },
-      {
-        "citations": 241,
-        "total": 1874,
-        "year": 2014
-      },
-      {
-        "citations": 281,
-        "total": 2155,
-        "year": 2015
-      },
-      {
-        "citations": 280,
-        "total": 2435,
-        "year": 2016
-      },
-      {
-        "citations": 254,
-        "total": 2689,
-        "year": 2017
-      },
-      {
-        "citations": 310,
-        "total": 2999,
-        "year": 2018
-      },
-      {
-        "citations": 341,
-        "total": 3340,
-        "year": 2019
-      },
-      {
-        "citations": 346,
-        "total": 3686,
-        "year": 2020
-      },
-      {
-        "citations": 319,
-        "total": 4005,
-        "year": 2021
-      },
-      {
-        "citations": 323,
-        "total": 4328,
-        "year": 2022
-      },
-      {
-        "citations": 291,
-        "total": 4619,
-        "year": 2023
-      },
-      {
-        "citations": 238,
-        "total": 4857,
-        "year": 2024
-      },
-      {
-        "citations": 265,
-        "total": 5122,
-        "year": 2025
-      },
-      {
-        "citations": 113,
-        "total": 5235,
-        "year": 2026
-      }
-    ],
-    "citation_count": 5235,
+    "citation_count": 2558,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=d00I5gUAAAAJ",
-    "h_index": 32,
-    "i10_index": 63,
+    "h_index": 23,
+    "i10_index": 37,
     "id": "ken-moreland",
     "name": "Ken Moreland",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-7051-3288",
-    "publish_or_perish_query_time": 1781890072,
-    "publish_or_perish_query_type": "PoPGSCProfile",
-    "resolved_openalex_id": "",
+    "resolved_openalex_id": "https://openalex.org/A5102833835",
     "role": "Current member",
-    "scholar_user_id": "d00I5gUAAAAJ",
-    "works_count": 344
+    "works_count": 148
   },
   {
-    "annual_citations": [
-      {
-        "citations": 6,
-        "total": 9,
-        "year": 2015
-      },
-      {
-        "citations": 7,
-        "total": 16,
-        "year": 2016
-      },
-      {
-        "citations": 15,
-        "total": 31,
-        "year": 2017
-      },
-      {
-        "citations": 22,
-        "total": 53,
-        "year": 2018
-      },
-      {
-        "citations": 13,
-        "total": 66,
-        "year": 2019
-      },
-      {
-        "citations": 27,
-        "total": 93,
-        "year": 2020
-      },
-      {
-        "citations": 22,
-        "total": 115,
-        "year": 2021
-      },
-      {
-        "citations": 40,
-        "total": 155,
-        "year": 2022
-      },
-      {
-        "citations": 29,
-        "total": 184,
-        "year": 2023
-      },
-      {
-        "citations": 105,
-        "total": 289,
-        "year": 2024
-      },
-      {
-        "citations": 81,
-        "total": 370,
-        "year": 2025
-      },
-      {
-        "citations": 52,
-        "total": 422,
-        "year": 2026
-      }
-    ],
-    "citation_count": 422,
+    "citation_count": 265,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=sMiEw1YAAAAJ",
-    "h_index": 11,
-    "i10_index": 13,
+    "h_index": 8,
+    "i10_index": 7,
     "id": "tushar-athawale",
     "name": "Tushar Athawale",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0003-3163-6274",
-    "publish_or_perish_query_time": 1781890257,
-    "publish_or_perish_query_type": "PoPGSCProfile",
-    "resolved_openalex_id": "",
+    "resolved_openalex_id": "https://openalex.org/A5080292005",
     "role": "Current member",
-    "scholar_user_id": "sMiEw1YAAAAJ",
-    "works_count": 58
+    "works_count": 55
   },
   {
-    "annual_citations": [
-      {
-        "citations": 10,
-        "total": 35,
-        "year": 2012
-      },
-      {
-        "citations": 38,
-        "total": 73,
-        "year": 2013
-      },
-      {
-        "citations": 54,
-        "total": 127,
-        "year": 2014
-      },
-      {
-        "citations": 88,
-        "total": 215,
-        "year": 2015
-      },
-      {
-        "citations": 84,
-        "total": 299,
-        "year": 2016
-      },
-      {
-        "citations": 127,
-        "total": 426,
-        "year": 2017
-      },
-      {
-        "citations": 134,
-        "total": 560,
-        "year": 2018
-      },
-      {
-        "citations": 130,
-        "total": 690,
-        "year": 2019
-      },
-      {
-        "citations": 138,
-        "total": 828,
-        "year": 2020
-      },
-      {
-        "citations": 111,
-        "total": 939,
-        "year": 2021
-      },
-      {
-        "citations": 110,
-        "total": 1049,
-        "year": 2022
-      },
-      {
-        "citations": 102,
-        "total": 1151,
-        "year": 2023
-      },
-      {
-        "citations": 89,
-        "total": 1240,
-        "year": 2024
-      },
-      {
-        "citations": 81,
-        "total": 1321,
-        "year": 2025
-      },
-      {
-        "citations": 27,
-        "total": 1348,
-        "year": 2026
-      }
-    ],
-    "citation_count": 1348,
+    "citation_count": 882,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=98-9pVkAAAAJ",
-    "h_index": 15,
-    "i10_index": 17,
+    "h_index": 11,
+    "i10_index": 11,
     "id": "junghoon-chae",
     "name": "Junghoon Chae",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-0601-6746",
-    "publish_or_perish_query_time": 1781891434,
-    "publish_or_perish_query_type": "PoPGSCProfile",
-    "resolved_openalex_id": "",
+    "resolved_openalex_id": "https://openalex.org/A5061467967",
     "role": "Current member",
-    "scholar_user_id": "98-9pVkAAAAJ",
-    "works_count": 53
+    "works_count": 36
   },
   {
-    "citation_count": 0,
+    "citation_count": 26,
     "google_scholar_url": "",
-    "h_index": 0,
-    "i10_index": 0,
+    "h_index": 2,
+    "i10_index": 1,
     "id": "erik-schmidt",
     "name": "Erik Schmidt",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-4454-1330",
-    "publish_or_perish_query_type": "",
-    "resolved_openalex_id": "",
+    "resolved_openalex_id": "https://openalex.org/A5134876250",
     "role": "Current member",
-    "scholar_user_id": "",
-    "works_count": 0
+    "works_count": 5
   },
   {
-    "annual_citations": [
-      {
-        "citations": 2,
-        "total": 2,
-        "year": 2017
-      },
-      {
-        "citations": 2,
-        "total": 4,
-        "year": 2018
-      },
-      {
-        "citations": 2,
-        "total": 6,
-        "year": 2019
-      },
-      {
-        "citations": 1,
-        "total": 7,
-        "year": 2020
-      },
-      {
-        "citations": 1,
-        "total": 8,
-        "year": 2021
-      },
-      {
-        "citations": 6,
-        "total": 14,
-        "year": 2022
-      },
-      {
-        "citations": 4,
-        "total": 18,
-        "year": 2023
-      },
-      {
-        "citations": 6,
-        "total": 24,
-        "year": 2024
-      },
-      {
-        "citations": 8,
-        "total": 32,
-        "year": 2025
-      },
-      {
-        "citations": 4,
-        "total": 36,
-        "year": 2026
-      }
-    ],
-    "citation_count": 36,
+    "citation_count": 20,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=yjTNw5YAAAAJ",
-    "h_index": 4,
+    "h_index": 2,
     "i10_index": 0,
     "id": "timbwaoga-ouermi",
     "name": "Timbwaoga A. J. Ouermi",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-3406-899X",
-    "publish_or_perish_query_time": 1781891482,
-    "publish_or_perish_query_type": "PoPGSCProfile",
-    "resolved_openalex_id": "",
+    "resolved_openalex_id": "https://openalex.org/A5061777250",
     "role": "Current member",
-    "scholar_user_id": "yjTNw5YAAAAJ",
-    "works_count": 19
+    "works_count": 14
   }
 ]
