@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T13:18:05+00:00",
+  "generated_at": "2026-07-06T13:01:02+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -111,6 +111,20 @@
       "title": "An uncertainty visualization framework for large-scale cardiovascular flow simulations: A case study on aortic stenosis",
       "url": "https://doi.org/10.1016/j.jocs.2026.102914",
       "venue": "Journal of Computational Science",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1111/cgf.70552",
+      "group_authors": "Ken Moreland",
+      "openalex_candidate_for": "Ken Moreland",
+      "openalex_url": "https://openalex.org/W7166680062",
+      "orcid_evidence": "Ken Moreland",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "An Accelerated Clip Algorithm for Unstructured Meshes: A Batch\u2010Driven Approach Using Data\u2010Parallel Primitives",
+      "url": "https://doi.org/10.1111/cgf.70552",
+      "venue": "Computer Graphics Forum",
       "year": 2026
     },
     {
@@ -320,7 +334,7 @@
       "review_status": "candidate_openalex",
       "title": "ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling",
       "url": "https://doi.org/10.48550/arxiv.2505.04802",
-      "venue": "ArXiv.org",
+      "venue": "arXiv (Cornell University)",
       "year": 2025
     },
     {
@@ -348,7 +362,7 @@
       "review_status": "candidate_openalex",
       "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
       "url": "https://doi.org/10.48550/arxiv.2510.01190",
-      "venue": "ArXiv.org",
+      "venue": "arXiv (Cornell University)",
       "year": 2025
     },
     {
@@ -422,7 +436,7 @@
       "year": 2024
     },
     {
-      "citation_count": 19,
+      "citation_count": 20,
       "doi": "10.1038/s41597-024-03219-x",
       "group_authors": "Erik Schmidt",
       "openalex_candidate_for": "",
@@ -1374,7 +1388,7 @@
       "year": 2022
     },
     {
-      "citation_count": 65,
+      "citation_count": 66,
       "doi": "10.1109/tc.2021.3092201",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1458,7 +1472,7 @@
       "year": 2021
     },
     {
-      "citation_count": 16,
+      "citation_count": 17,
       "doi": "10.1007/978-3-030-90539-2_33",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -1500,7 +1514,7 @@
       "year": 2021
     },
     {
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1016/j.parco.2021.102834",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1734,7 +1748,7 @@
       "review_status": "candidate_openalex",
       "title": "Large-Scale In Situ Visualization of Raleigh-Taylor Instability with Ascent and VTK-m",
       "url": "https://doi.org/10.6084/m9.figshare.16926130.v1",
-      "venue": "Figshare",
+      "venue": "INDIGO (University of Illinois at Chicago)",
       "year": 2021
     },
     {
@@ -2718,7 +2732,7 @@
       "year": 2017
     },
     {
-      "citation_count": 6,
+      "citation_count": 7,
       "doi": "10.1109/candar.2017.58",
       "group_authors": "Timbwaoga A. J. Ouermi",
       "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
@@ -2914,7 +2928,7 @@
       "year": 2016
     },
     {
-      "citation_count": 149,
+      "citation_count": 150,
       "doi": "10.1109/mcg.2016.48",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -3026,7 +3040,7 @@
       "year": 2016
     },
     {
-      "citation_count": 12,
+      "citation_count": 13,
       "doi": "10.1109/ldav.2016.7874308",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3544,7 +3558,7 @@
       "year": 2013
     },
     {
-      "citation_count": 7,
+      "citation_count": 8,
       "doi": "10.1145/2535571.2535591",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4580,7 +4594,7 @@
       "year": 2002
     },
     {
-      "citation_count": 71,
+      "citation_count": 72,
       "doi": "10.1109/38.933525",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4594,7 +4608,7 @@
       "year": 2001
     },
     {
-      "citation_count": 41,
+      "citation_count": 42,
       "doi": "10.5555/502125.502141",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",

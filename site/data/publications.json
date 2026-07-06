@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T13:18:05+00:00",
+  "generated_at": "2026-07-06T13:01:02+00:00",
   "publications": [
     {
       "author_names": [
@@ -422,7 +422,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Detecting Manuscripts Related to Computable Phenotypes Using a Transformer-based Language Model",
-      "type": "article",
+      "type": "preprint",
       "url": "https://doi.org/10.64898/2026.03.12.711165",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2026
@@ -471,7 +471,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Decision Support System",
-      "type": "other",
+      "type": "software",
       "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2026
@@ -553,6 +553,65 @@
       "type": "preprint",
       "url": "https://doi.org/10.1016/j.jocs.2026.102914",
       "venue": "Journal of Computational Science",
+      "year": 2026
+    },
+    {
+      "author_names": [
+        "Spiros Tsalikis",
+        "Will Schroeder",
+        "Daniel Szaf\u0131r",
+        "Kenneth Moreland"
+      ],
+      "authors": [
+        {
+          "name": "Spiros Tsalikis",
+          "openalex_id": "https://openalex.org/A5093817170"
+        },
+        {
+          "name": "Will Schroeder",
+          "openalex_id": "https://openalex.org/A5045542854"
+        },
+        {
+          "name": "Daniel Szaf\u0131r",
+          "openalex_id": "https://openalex.org/A5024581242"
+        },
+        {
+          "name": "Kenneth Moreland",
+          "openalex_id": "https://openalex.org/A5102833835"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.1111/cgf.70552",
+      "doi_url": "https://doi.org/10.1111/cgf.70552",
+      "group_author_ids": [
+        "ken-moreland"
+      ],
+      "id": "doi:10.1111/cgf.70552",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "ken-moreland"
+      ],
+      "openalex_id": "https://openalex.org/W7166680062",
+      "openalex_ids": [
+        "https://openalex.org/W7166680062"
+      ],
+      "openalex_url": "https://openalex.org/W7166680062",
+      "orcid_person_ids": [
+        "ken-moreland"
+      ],
+      "publication_date": "2026-06-30",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "An Accelerated Clip Algorithm for Unstructured Meshes: A Batch\u2010Driven Approach Using Data\u2010Parallel Primitives",
+      "type": "article",
+      "url": "https://doi.org/10.1111/cgf.70552",
+      "venue": "Computer Graphics Forum",
       "year": 2026
     },
     {
@@ -1710,7 +1769,7 @@
       "title": "ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling",
       "type": "preprint",
       "url": "https://doi.org/10.48550/arxiv.2505.04802",
-      "venue": "ArXiv.org",
+      "venue": "arXiv (Cornell University)",
       "year": 2025
     },
     {
@@ -1845,7 +1904,7 @@
       "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
       "type": "preprint",
       "url": "https://doi.org/10.48550/arxiv.2510.01190",
-      "venue": "ArXiv.org",
+      "venue": "arXiv (Cornell University)",
       "year": 2025
     },
     {
@@ -2003,7 +2062,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "CODARcode/MGARD",
-      "type": "other",
+      "type": "software",
       "url": "https://doi.org/10.11578/dc.20260217.1",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2025
@@ -2344,7 +2403,7 @@
         "last_page": "502",
         "volume": "11"
       },
-      "citation_count": 19,
+      "citation_count": 20,
       "doi": "10.1038/s41597-024-03219-x",
       "doi_url": "https://doi.org/10.1038/s41597-024-03219-x",
       "group_author_ids": [
@@ -3261,7 +3320,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/scw63240.2024.00059",
-      "oa_url": "www.osti.gov/servlets/purl/2538098",
+      "oa_url": "https://www.osti.gov/servlets/purl/2538098",
       "openalex_author_person_ids": [
         "tushar-athawale"
       ],
@@ -5399,7 +5458,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "FunMC^2: A Filter for Uncertainty Visualization of Marching Cubes on Multi-Core Devices",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.2312/pgv.20231081",
       "venue": "Eurographics",
       "year": 2023
@@ -7996,7 +8055,7 @@
         "last_page": "1536",
         "volume": "71"
       },
-      "citation_count": 65,
+      "citation_count": 66,
       "doi": "10.1109/tc.2021.3092201",
       "doi_url": "https://doi.org/10.1109/tc.2021.3092201",
       "group_author_ids": [
@@ -8650,7 +8709,7 @@
         "last_page": "494",
         "volume": ""
       },
-      "citation_count": 16,
+      "citation_count": 17,
       "doi": "10.1007/978-3-030-90539-2_33",
       "doi_url": "https://doi.org/10.1007/978-3-030-90539-2_33",
       "group_author_ids": [
@@ -9072,7 +9131,7 @@
         "last_page": "102834",
         "volume": "108"
       },
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1016/j.parco.2021.102834",
       "doi_url": "https://doi.org/10.1016/j.parco.2021.102834",
       "group_author_ids": [
@@ -10140,7 +10199,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.6084/m9.figshare.16926130.v1",
-      "oa_url": "",
+      "oa_url": "https://figshare.com/articles/presentation/Large-Scale_In_Situ_Visualization_of_Raleigh-Taylor_Instability_with_Ascent_and_VTK-m/16926130",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -10158,7 +10217,7 @@
       "title": "Large-Scale In Situ Visualization of Raleigh-Taylor Instability with Ascent and VTK-m",
       "type": "article",
       "url": "https://doi.org/10.6084/m9.figshare.16926130.v1",
-      "venue": "Figshare",
+      "venue": "INDIGO (University of Illinois at Chicago)",
       "year": 2021
     },
     {
@@ -15853,7 +15912,7 @@
         "last_page": "152",
         "volume": "35"
       },
-      "citation_count": 6,
+      "citation_count": 7,
       "doi": "10.1109/candar.2017.58",
       "doi_url": "https://doi.org/10.1109/candar.2017.58",
       "group_author_ids": [
@@ -16950,7 +17009,7 @@
         "last_page": "58",
         "volume": "36"
       },
-      "citation_count": 149,
+      "citation_count": 150,
       "doi": "10.1109/mcg.2016.48",
       "doi_url": "https://doi.org/10.1109/mcg.2016.48",
       "group_author_ids": [
@@ -17484,7 +17543,7 @@
         "last_page": "46",
         "volume": "1"
       },
-      "citation_count": 12,
+      "citation_count": 13,
       "doi": "10.1109/ldav.2016.7874308",
       "doi_url": "https://doi.org/10.1109/ldav.2016.7874308",
       "group_author_ids": [
@@ -20031,7 +20090,7 @@
         "last_page": "10",
         "volume": ""
       },
-      "citation_count": 7,
+      "citation_count": 8,
       "doi": "10.1145/2535571.2535591",
       "doi_url": "https://doi.org/10.1145/2535571.2535591",
       "group_author_ids": [
@@ -24742,7 +24801,7 @@
         "last_page": "69",
         "volume": "21"
       },
-      "citation_count": 71,
+      "citation_count": 72,
       "doi": "10.1109/38.933525",
       "doi_url": "https://doi.org/10.1109/38.933525",
       "group_author_ids": [
@@ -24796,7 +24855,7 @@
         "last_page": "92",
         "volume": ""
       },
-      "citation_count": 41,
+      "citation_count": 42,
       "doi": "10.5555/502125.502141",
       "doi_url": "https://doi.org/10.5555/502125.502141",
       "group_author_ids": [
