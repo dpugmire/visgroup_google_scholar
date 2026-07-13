@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T13:01:02+00:00",
+  "generated_at": "2026-07-13T12:18:32+00:00",
   "publications": [
     {
       "author_names": [
@@ -474,6 +474,85 @@
       "type": "software",
       "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2026
+    },
+    {
+      "author_names": [
+        "Xue Xiao",
+        "Tushar M. Athawale",
+        "Jon W.S.; id_orcid 0000-0002-9606-0408 McCullough",
+        "Sharp C.Y. Lo",
+        "Ioannis Zacharoudiou",
+        "B\u00e1lint Jo\u00f3",
+        "Antigoni Georgiadou",
+        "Peter V. Coveney"
+      ],
+      "authors": [
+        {
+          "name": "Xue Xiao",
+          "openalex_id": "https://openalex.org/A5101441767"
+        },
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Jon W.S.; id_orcid 0000-0002-9606-0408 McCullough",
+          "openalex_id": "https://openalex.org/A5129150782"
+        },
+        {
+          "name": "Sharp C.Y. Lo",
+          "openalex_id": "https://openalex.org/A5129235484"
+        },
+        {
+          "name": "Ioannis Zacharoudiou",
+          "openalex_id": "https://openalex.org/A5049280090"
+        },
+        {
+          "name": "B\u00e1lint Jo\u00f3",
+          "openalex_id": "https://openalex.org/A5038029051"
+        },
+        {
+          "name": "Antigoni Georgiadou",
+          "openalex_id": "https://openalex.org/A5029949290"
+        },
+        {
+          "name": "Peter V. Coveney",
+          "openalex_id": "https://openalex.org/A5066453821"
+        }
+      ],
+      "biblio": {
+        "first_page": "102963",
+        "issue": "",
+        "last_page": "102963",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.1016/j.jocs.2026.102963",
+      "doi_url": "https://doi.org/10.1016/j.jocs.2026.102963",
+      "group_author_ids": [
+        "tushar-athawale"
+      ],
+      "id": "doi:10.1016/j.jocs.2026.102963",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W7167673845",
+      "openalex_ids": [
+        "https://openalex.org/W7167673845"
+      ],
+      "openalex_url": "https://openalex.org/W7167673845",
+      "orcid_person_ids": [],
+      "publication_date": "2026-07-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Corrigendum to \u2018An uncertainty visualization framework for large-scale cardiovascular flow simulations: A case study on aortic stenosis\u2019 [J. Comput. Sci., vol. 99 (2026), 102914]",
+      "type": "article",
+      "url": "https://doi.org/10.1016/j.jocs.2026.102963",
+      "venue": "Journal of Computational Science",
       "year": 2026
     },
     {
@@ -5680,185 +5759,6 @@
     },
     {
       "author_names": [
-        "Hank Childs",
-        "Kenneth Morelan",
-        "Julien Tierny",
-        "Mark Bolstad",
-        "Hamish Carr",
-        "Soumya Dutta",
-        "Takanori Fujiwara",
-        "Tim Gerrits",
-        "Pascal Grosset",
-        "Hanqi Guo",
-        "Markus Hadwiger",
-        "King Abdullah",
-        "Joseph A. Insley",
-        "Jiang Ming",
-        "Aaron Knoll",
-        "Micro Devices",
-        "Kwan\u2010Liu Ma",
-        "Nicole Marsaglia",
-        "Patrick O'leary",
-        "David Pugmire",
-        "Bruno Raffin",
-        "David Rogers",
-        "Filip Sadlo",
-        "Timothy M. Shead",
-        "Han-Wei Shen",
-        "David Thompson",
-        "Will Usher",
-        "Qi Wu"
-      ],
-      "authors": [
-        {
-          "name": "Hank Childs",
-          "openalex_id": "https://openalex.org/A5109351251"
-        },
-        {
-          "name": "Kenneth Morelan",
-          "openalex_id": "https://openalex.org/A5099511341"
-        },
-        {
-          "name": "Julien Tierny",
-          "openalex_id": "https://openalex.org/A5074734666"
-        },
-        {
-          "name": "Mark Bolstad",
-          "openalex_id": "https://openalex.org/A5040079787"
-        },
-        {
-          "name": "Hamish Carr",
-          "openalex_id": "https://openalex.org/A5020952435"
-        },
-        {
-          "name": "Soumya Dutta",
-          "openalex_id": "https://openalex.org/A5035530630"
-        },
-        {
-          "name": "Takanori Fujiwara",
-          "openalex_id": "https://openalex.org/A5074006931"
-        },
-        {
-          "name": "Tim Gerrits",
-          "openalex_id": "https://openalex.org/A5103045373"
-        },
-        {
-          "name": "Pascal Grosset",
-          "openalex_id": "https://openalex.org/A5088426387"
-        },
-        {
-          "name": "Hanqi Guo",
-          "openalex_id": "https://openalex.org/A5054749881"
-        },
-        {
-          "name": "Markus Hadwiger",
-          "openalex_id": "https://openalex.org/A5008754293"
-        },
-        {
-          "name": "King Abdullah",
-          "openalex_id": "https://openalex.org/A5086249906"
-        },
-        {
-          "name": "Joseph A. Insley",
-          "openalex_id": "https://openalex.org/A5087592613"
-        },
-        {
-          "name": "Jiang Ming",
-          "openalex_id": "https://openalex.org/A5101420644"
-        },
-        {
-          "name": "Aaron Knoll",
-          "openalex_id": "https://openalex.org/A5033987709"
-        },
-        {
-          "name": "Micro Devices",
-          "openalex_id": "https://openalex.org/A5099511340"
-        },
-        {
-          "name": "Kwan\u2010Liu Ma",
-          "openalex_id": "https://openalex.org/A5037161857"
-        },
-        {
-          "name": "Nicole Marsaglia",
-          "openalex_id": "https://openalex.org/A5006050524"
-        },
-        {
-          "name": "Patrick O'leary",
-          "openalex_id": "https://openalex.org/A5051659943"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Bruno Raffin",
-          "openalex_id": "https://openalex.org/A5074769385"
-        },
-        {
-          "name": "David Rogers",
-          "openalex_id": "https://openalex.org/A5109593212"
-        },
-        {
-          "name": "Filip Sadlo",
-          "openalex_id": "https://openalex.org/A5011941798"
-        },
-        {
-          "name": "Timothy M. Shead",
-          "openalex_id": "https://openalex.org/A5063003315"
-        },
-        {
-          "name": "Han-Wei Shen",
-          "openalex_id": "https://openalex.org/A5101074262"
-        },
-        {
-          "name": "David Thompson",
-          "openalex_id": "https://openalex.org/A5005895442"
-        },
-        {
-          "name": "Will Usher",
-          "openalex_id": "https://openalex.org/A5018299238"
-        },
-        {
-          "name": "Qi Wu",
-          "openalex_id": "https://openalex.org/A5100731725"
-        }
-      ],
-      "biblio": {
-        "first_page": "vii",
-        "issue": "",
-        "last_page": "vii",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/ldav60332.2023.00006",
-      "doi_url": "https://doi.org/10.1109/ldav60332.2023.00006",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1109/ldav60332.2023.00006",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/10336353/10336395/10336405.pdf",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W4389400686",
-      "openalex_ids": [
-        "https://openalex.org/W4389400686"
-      ],
-      "openalex_url": "https://openalex.org/W4389400686",
-      "orcid_person_ids": [],
-      "publication_date": "2023-10-23",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Committees",
-      "type": "article",
-      "url": "https://doi.org/10.1109/ldav60332.2023.00006",
-      "venue": "",
-      "year": 2023
-    },
-    {
-      "author_names": [
         "Junghoon Chae",
         "Byung H. Park",
         "Minsu Kim",
@@ -7271,160 +7171,6 @@
     },
     {
       "author_names": [
-        "Tushar M. Athawale",
-        "Paul Bendich",
-        "Harsh Bhatia",
-        "Mathieu Carri\u00e8re",
-        "Guoning Chen",
-        "Leila De Floriani",
-        "Tobias G\u00fcnther",
-        "Mustafa Hajij",
-        "Ingrid Hotz",
-        "Vitaliy Kurlin",
-        "Joshua A. Levine",
-        "Lars Linsen",
-        "Filip Sadlo",
-        "Tobias Schreck",
-        "Martina Scolamiero",
-        "Martin Skrodzki",
-        "Jaya Sreevalsan Nair",
-        "Brian Summa",
-        "Alexandru Telea",
-        "Bei Wang",
-        "Yusu Wang",
-        "Eugene Zhang",
-        "Yue Zhang"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Paul Bendich",
-          "openalex_id": "https://openalex.org/A5007045835"
-        },
-        {
-          "name": "Harsh Bhatia",
-          "openalex_id": "https://openalex.org/A5069061531"
-        },
-        {
-          "name": "Mathieu Carri\u00e8re",
-          "openalex_id": "https://openalex.org/A5106364337"
-        },
-        {
-          "name": "Guoning Chen",
-          "openalex_id": "https://openalex.org/A5055426585"
-        },
-        {
-          "name": "Leila De Floriani",
-          "openalex_id": "https://openalex.org/A5018924195"
-        },
-        {
-          "name": "Tobias G\u00fcnther",
-          "openalex_id": "https://openalex.org/A5088860259"
-        },
-        {
-          "name": "Mustafa Hajij",
-          "openalex_id": "https://openalex.org/A5001225767"
-        },
-        {
-          "name": "Ingrid Hotz",
-          "openalex_id": "https://openalex.org/A5040236693"
-        },
-        {
-          "name": "Vitaliy Kurlin",
-          "openalex_id": "https://openalex.org/A5067536683"
-        },
-        {
-          "name": "Joshua A. Levine",
-          "openalex_id": "https://openalex.org/A5070956346"
-        },
-        {
-          "name": "Lars Linsen",
-          "openalex_id": "https://openalex.org/A5027852213"
-        },
-        {
-          "name": "Filip Sadlo",
-          "openalex_id": "https://openalex.org/A5011941798"
-        },
-        {
-          "name": "Tobias Schreck",
-          "openalex_id": "https://openalex.org/A5016219620"
-        },
-        {
-          "name": "Martina Scolamiero",
-          "openalex_id": "https://openalex.org/A5049927421"
-        },
-        {
-          "name": "Martin Skrodzki",
-          "openalex_id": "https://openalex.org/A5090381297"
-        },
-        {
-          "name": "Jaya Sreevalsan Nair",
-          "openalex_id": "https://openalex.org/A5012218222"
-        },
-        {
-          "name": "Brian Summa",
-          "openalex_id": "https://openalex.org/A5063625747"
-        },
-        {
-          "name": "Alexandru Telea",
-          "openalex_id": "https://openalex.org/A5024074640"
-        },
-        {
-          "name": "Bei Wang",
-          "openalex_id": "https://openalex.org/A5100349956"
-        },
-        {
-          "name": "Yusu Wang",
-          "openalex_id": "https://openalex.org/A5101536052"
-        },
-        {
-          "name": "Eugene Zhang",
-          "openalex_id": "https://openalex.org/A5026074051"
-        },
-        {
-          "name": "Yue Zhang",
-          "openalex_id": "https://openalex.org/A5100333760"
-        }
-      ],
-      "biblio": {
-        "first_page": "8",
-        "issue": "",
-        "last_page": "9",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/topoinvis57755.2022.00006",
-      "doi_url": "https://doi.org/10.1109/topoinvis57755.2022.00006",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1109/topoinvis57755.2022.00006",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/9975790/9975808/09975818.pdf",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4313195773",
-      "openalex_ids": [
-        "https://openalex.org/W4313195773"
-      ],
-      "openalex_url": "https://openalex.org/W4313195773",
-      "orcid_person_ids": [],
-      "publication_date": "2022-10-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "TopoInVis 2022 Committees",
-      "type": "article",
-      "url": "https://doi.org/10.1109/topoinvis57755.2022.00006",
-      "venue": "",
-      "year": 2022
-    },
-    {
-      "author_names": [
         "Kenneth Moreland",
         "Vicente Bolea",
         "Hank Childs",
@@ -7676,125 +7422,6 @@
       "title": "Leveraging production visualization tools in situ",
       "type": "report",
       "url": "https://doi.org/10.21079/11681/44844",
-      "venue": "",
-      "year": 2022
-    },
-    {
-      "author_names": [
-        "Peer\u2010Timo Bremer",
-        "Kristi Potter",
-        "Chaoli Wang",
-        "Johanna Beyer",
-        "Paul Navr\u00e1til",
-        "Steffen Frey",
-        "Silvio Rizzi",
-        "Stefan Zellmann",
-        "Janine Camille Bennett",
-        "Hank Childs",
-        "Christoph Garth",
-        "Kenneth Moreland",
-        "Hongfeng Yu",
-        "Wes Bethel",
-        "Mark Bolstad",
-        "Hamish Carr"
-      ],
-      "authors": [
-        {
-          "name": "Peer\u2010Timo Bremer",
-          "openalex_id": "https://openalex.org/A5019902487"
-        },
-        {
-          "name": "Kristi Potter",
-          "openalex_id": "https://openalex.org/A5032606338"
-        },
-        {
-          "name": "Chaoli Wang",
-          "openalex_id": "https://openalex.org/A5101913449"
-        },
-        {
-          "name": "Johanna Beyer",
-          "openalex_id": "https://openalex.org/A5010238198"
-        },
-        {
-          "name": "Paul Navr\u00e1til",
-          "openalex_id": "https://openalex.org/A5030485512"
-        },
-        {
-          "name": "Steffen Frey",
-          "openalex_id": "https://openalex.org/A5052673631"
-        },
-        {
-          "name": "Silvio Rizzi",
-          "openalex_id": "https://openalex.org/A5022638931"
-        },
-        {
-          "name": "Stefan Zellmann",
-          "openalex_id": "https://openalex.org/A5065331110"
-        },
-        {
-          "name": "Janine Camille Bennett",
-          "openalex_id": "https://openalex.org/A5035473399"
-        },
-        {
-          "name": "Hank Childs",
-          "openalex_id": "https://openalex.org/A5015951381"
-        },
-        {
-          "name": "Christoph Garth",
-          "openalex_id": "https://openalex.org/A5071898071"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Hongfeng Yu",
-          "openalex_id": "https://openalex.org/A5020745360"
-        },
-        {
-          "name": "Wes Bethel",
-          "openalex_id": "https://openalex.org/A5061898871"
-        },
-        {
-          "name": "Mark Bolstad",
-          "openalex_id": "https://openalex.org/A5040079787"
-        },
-        {
-          "name": "Hamish Carr",
-          "openalex_id": "https://openalex.org/A5020952435"
-        }
-      ],
-      "biblio": {
-        "first_page": "vii",
-        "issue": "",
-        "last_page": "ix",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/ldav57265.2022.9966398",
-      "doi_url": "https://doi.org/10.1109/ldav57265.2022.9966398",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.1109/ldav57265.2022.9966398",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/9966414/9966388/09966398.pdf",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W4310793437",
-      "openalex_ids": [
-        "https://openalex.org/W4310793437"
-      ],
-      "openalex_url": "https://openalex.org/W4310793437",
-      "orcid_person_ids": [],
-      "publication_date": "2022-10-16",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "LDAV 2022 Committees",
-      "type": "article",
-      "url": "https://doi.org/10.1109/ldav57265.2022.9966398",
       "venue": "",
       "year": 2022
     },
@@ -8055,7 +7682,7 @@
         "last_page": "1536",
         "volume": "71"
       },
-      "citation_count": 66,
+      "citation_count": 68,
       "doi": "10.1109/tc.2021.3092201",
       "doi_url": "https://doi.org/10.1109/tc.2021.3092201",
       "group_author_ids": [
@@ -8387,7 +8014,7 @@
         "last_page": "13",
         "volume": ""
       },
-      "citation_count": 25,
+      "citation_count": 27,
       "doi": "10.1145/3458817.3476179",
       "doi_url": "https://doi.org/10.1145/3458817.3476179",
       "group_author_ids": [
@@ -10089,90 +9716,6 @@
     },
     {
       "author_names": [
-        "Janine Camille Bennett",
-        "Johanna Beyer",
-        "Peer\u2010Timo Bremer",
-        "Steffen Frey",
-        "Christoph Garth",
-        "Kenneth Moreland",
-        "Kristi Potter",
-        "Silvio Rizzi",
-        "Julien Tierny"
-      ],
-      "authors": [
-        {
-          "name": "Janine Camille Bennett",
-          "openalex_id": "https://openalex.org/A5035473399"
-        },
-        {
-          "name": "Johanna Beyer",
-          "openalex_id": "https://openalex.org/A5010238198"
-        },
-        {
-          "name": "Peer\u2010Timo Bremer",
-          "openalex_id": "https://openalex.org/A5019902487"
-        },
-        {
-          "name": "Steffen Frey",
-          "openalex_id": "https://openalex.org/A5052673631"
-        },
-        {
-          "name": "Christoph Garth",
-          "openalex_id": "https://openalex.org/A5071898071"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Kristi Potter",
-          "openalex_id": "https://openalex.org/A5032606338"
-        },
-        {
-          "name": "Silvio Rizzi",
-          "openalex_id": "https://openalex.org/A5022638931"
-        },
-        {
-          "name": "Julien Tierny",
-          "openalex_id": "https://openalex.org/A5074734666"
-        }
-      ],
-      "biblio": {
-        "first_page": "ix",
-        "issue": "",
-        "last_page": "ix",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/ldav53230.2021.00006",
-      "doi_url": "https://doi.org/10.1109/ldav53230.2021.00006",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.1109/ldav53230.2021.00006",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/9623061/9623062/09623194.pdf",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W4200530491",
-      "openalex_ids": [
-        "https://openalex.org/W4200530491"
-      ],
-      "openalex_url": "https://openalex.org/W4200530491",
-      "orcid_person_ids": [],
-      "publication_date": "2021-10-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Organizing Committee",
-      "type": "article",
-      "url": "https://doi.org/10.1109/ldav53230.2021.00006",
-      "venue": "",
-      "year": 2021
-    },
-    {
-      "author_names": [
         "Kenneth Moreland",
         "Matthew Larsen"
       ],
@@ -10219,95 +9762,6 @@
       "url": "https://doi.org/10.6084/m9.figshare.16926130.v1",
       "venue": "INDIGO (University of Illinois at Chicago)",
       "year": 2021
-    },
-    {
-      "author_names": [
-        "Wenjie Lei",
-        "Youyi Ruan",
-        "E. Bozda\u011f",
-        "Daniel Peter",
-        "Matthieu Lef\u00e8bvre",
-        "Dimitri Komatitsch",
-        "Jeroen Tromp",
-        "Judith Hill",
-        "Norbert Podhorszki",
-        "David Pugmire"
-      ],
-      "authors": [
-        {
-          "name": "Wenjie Lei",
-          "openalex_id": "https://openalex.org/A5075601869"
-        },
-        {
-          "name": "Youyi Ruan",
-          "openalex_id": "https://openalex.org/A5038868566"
-        },
-        {
-          "name": "E. Bozda\u011f",
-          "openalex_id": "https://openalex.org/A5074274360"
-        },
-        {
-          "name": "Daniel Peter",
-          "openalex_id": "https://openalex.org/A5006190361"
-        },
-        {
-          "name": "Matthieu Lef\u00e8bvre",
-          "openalex_id": "https://openalex.org/A5103850694"
-        },
-        {
-          "name": "Dimitri Komatitsch",
-          "openalex_id": "https://openalex.org/A5001988181"
-        },
-        {
-          "name": "Jeroen Tromp",
-          "openalex_id": "https://openalex.org/A5034672570"
-        },
-        {
-          "name": "Judith Hill",
-          "openalex_id": "https://openalex.org/A5020527473"
-        },
-        {
-          "name": "Norbert Podhorszki",
-          "openalex_id": "https://openalex.org/A5071286199"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        }
-      ],
-      "biblio": {
-        "first_page": "1",
-        "issue": "1",
-        "last_page": "21",
-        "volume": "223"
-      },
-      "citation_count": 230,
-      "doi": "10.1093/gji/ggaa253",
-      "doi_url": "https://doi.org/10.1093/gji/ggaa253",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1093/gji/ggaa253",
-      "oa_url": "https://www.osti.gov/biblio/1637980",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W3027649956",
-      "openalex_ids": [
-        "https://openalex.org/W3027649956"
-      ],
-      "openalex_url": "https://openalex.org/W3027649956",
-      "orcid_person_ids": [],
-      "publication_date": "2020-05-20",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Global adjoint tomography\u2014model GLAD-M25",
-      "type": "article",
-      "url": "https://doi.org/10.1093/gji/ggaa253",
-      "venue": "Geophysical Journal International",
-      "year": 2020
     },
     {
       "author_names": [
@@ -10465,7 +9919,7 @@
         "last_page": "100561",
         "volume": "12"
       },
-      "citation_count": 229,
+      "citation_count": 231,
       "doi": "10.1016/j.softx.2020.100561",
       "doi_url": "https://doi.org/10.1016/j.softx.2020.100561",
       "group_author_ids": [
@@ -10491,6 +9945,95 @@
       "type": "article",
       "url": "https://doi.org/10.1016/j.softx.2020.100561",
       "venue": "SoftwareX",
+      "year": 2020
+    },
+    {
+      "author_names": [
+        "Wenjie Lei",
+        "Youyi Ruan",
+        "E. Bozda\u011f",
+        "Daniel Peter",
+        "Matthieu Lef\u00e8bvre",
+        "Dimitri Komatitsch",
+        "Jeroen Tromp",
+        "Judith Hill",
+        "Norbert Podhorszki",
+        "David Pugmire"
+      ],
+      "authors": [
+        {
+          "name": "Wenjie Lei",
+          "openalex_id": "https://openalex.org/A5075601869"
+        },
+        {
+          "name": "Youyi Ruan",
+          "openalex_id": "https://openalex.org/A5038868566"
+        },
+        {
+          "name": "E. Bozda\u011f",
+          "openalex_id": "https://openalex.org/A5074274360"
+        },
+        {
+          "name": "Daniel Peter",
+          "openalex_id": "https://openalex.org/A5006190361"
+        },
+        {
+          "name": "Matthieu Lef\u00e8bvre",
+          "openalex_id": "https://openalex.org/A5103850694"
+        },
+        {
+          "name": "Dimitri Komatitsch",
+          "openalex_id": "https://openalex.org/A5001988181"
+        },
+        {
+          "name": "Jeroen Tromp",
+          "openalex_id": "https://openalex.org/A5034672570"
+        },
+        {
+          "name": "Judith Hill",
+          "openalex_id": "https://openalex.org/A5020527473"
+        },
+        {
+          "name": "Norbert Podhorszki",
+          "openalex_id": "https://openalex.org/A5071286199"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        }
+      ],
+      "biblio": {
+        "first_page": "1",
+        "issue": "1",
+        "last_page": "21",
+        "volume": "223"
+      },
+      "citation_count": 230,
+      "doi": "10.1093/gji/ggaa253",
+      "doi_url": "https://doi.org/10.1093/gji/ggaa253",
+      "group_author_ids": [
+        "david-pugmire"
+      ],
+      "id": "doi:10.1093/gji/ggaa253",
+      "oa_url": "https://www.osti.gov/biblio/1637980",
+      "openalex_author_person_ids": [
+        "david-pugmire"
+      ],
+      "openalex_id": "https://openalex.org/W3027649956",
+      "openalex_ids": [
+        "https://openalex.org/W3027649956"
+      ],
+      "openalex_url": "https://openalex.org/W3027649956",
+      "orcid_person_ids": [],
+      "publication_date": "2020-05-20",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global adjoint tomography\u2014model GLAD-M25",
+      "type": "article",
+      "url": "https://doi.org/10.1093/gji/ggaa253",
+      "venue": "Geophysical Journal International",
       "year": 2020
     },
     {
@@ -11563,450 +11106,6 @@
       "type": "preprint",
       "url": "https://doi.org/10.48550/arxiv.2007.04457",
       "venue": "arXiv (Cornell University)",
-      "year": 2020
-    },
-    {
-      "author_names": [
-        "Wenwen Dou",
-        "Charlotte Christopher",
-        "Collins Ontario",
-        "Fanny Chevalier",
-        "David Gotz",
-        "Hans\u2010Christian Hege",
-        "Christina Gillman",
-        "Bahador Saket",
-        "Alper Sar\u0131kaya",
-        "Emily Wall",
-        "Cindy Xiong",
-        "Mennatallah El\u2010Assady",
-        "Josua Krause",
-        "Greg Abram",
-        "Shamal Al-Dohuki",
-        "Fereshteh Amini",
-        "Christopher Andrews",
-        "Tushar M. Athawale",
-        "Divya Banesh",
-        "Michael Behrisch",
-        "Matthew Berger",
-        "J\u00fcrgen Bernard",
-        "Andy Berres",
-        "Lonni Besan\u00e7on",
-        "Johanna Beyer",
-        "Alex Bigelow",
-        "Ayan Biswas",
-        "A. Bock",
-        "Peer\u2010Timo Bremer",
-        "Chris Bryan",
-        "Jan By\u0161ka",
-        "Dylan Cashman",
-        "Jian Chen",
-        "Siming Chen",
-        "Qing Chen",
-        "Shenghui Cheng",
-        "Isaac Cho",
-        "Jaegul Choo",
-        "Tarik Crnovrsanin",
-        "Wei Cui",
-        "Aritra Dasgupta",
-        "Evanthia Dimara",
-        "Michelle Dowling",
-        "Fan Du",
-        "Soumya Dutta",
-        "James Eagan",
-        "Geoffrey Ellis",
-        "Hoque Enamul",
-        "Paolo Federico",
-        "Cristian Felix",
-        "Nivan Ferreira",
-        "Siwei Fu",
-        "Katar\u00edna Furmanov\u00e1",
-        "Mohamed Ghoneim",
-        "Christina Gillmann",
-        "Mike Glueck",
-        "Alex Godwin",
-        "Daniel Haehn",
-        "Florian Heimerl",
-        "Uta Hinrichs",
-        "Mario Hlawitschka",
-        "Thomas H\u00f6llt",
-        "Sungsoo Ray",
-        "Hong Mona",
-        "Hosseinkhani Loorak",
-        "Takayuki Itoh",
-        "Stefan J\u00e4nicke",
-        "Alark Joshi",
-        "Minsuk Kahng",
-        "Yeaseul Kim",
-        "Nam Kim",
-        "Karsten Klein",
-        "S\u00f8ren Knudsen",
-        "David Koop",
-        "Helen Kostis",
-        "Barbora Kozl\u00edkov\u00e1",
-        "Michael Krone",
-        "Robert Kuno",
-        "Kurzhals Bum",
-        "Chul Kwon",
-        "Marcos Lage"
-      ],
-      "authors": [
-        {
-          "name": "Wenwen Dou",
-          "openalex_id": "https://openalex.org/A5055992752"
-        },
-        {
-          "name": "Charlotte Christopher",
-          "openalex_id": "https://openalex.org/A5095005069"
-        },
-        {
-          "name": "Collins Ontario",
-          "openalex_id": "https://openalex.org/A5095005070"
-        },
-        {
-          "name": "Fanny Chevalier",
-          "openalex_id": "https://openalex.org/A5029815396"
-        },
-        {
-          "name": "David Gotz",
-          "openalex_id": "https://openalex.org/A5077712580"
-        },
-        {
-          "name": "Hans\u2010Christian Hege",
-          "openalex_id": "https://openalex.org/A5091630951"
-        },
-        {
-          "name": "Christina Gillman",
-          "openalex_id": "https://openalex.org/A5109560024"
-        },
-        {
-          "name": "Bahador Saket",
-          "openalex_id": "https://openalex.org/A5079272514"
-        },
-        {
-          "name": "Alper Sar\u0131kaya",
-          "openalex_id": "https://openalex.org/A5035982870"
-        },
-        {
-          "name": "Emily Wall",
-          "openalex_id": "https://openalex.org/A5010499463"
-        },
-        {
-          "name": "Cindy Xiong",
-          "openalex_id": "https://openalex.org/A5067858887"
-        },
-        {
-          "name": "Mennatallah El\u2010Assady",
-          "openalex_id": "https://openalex.org/A5020415668"
-        },
-        {
-          "name": "Josua Krause",
-          "openalex_id": "https://openalex.org/A5038395206"
-        },
-        {
-          "name": "Greg Abram",
-          "openalex_id": "https://openalex.org/A5113929219"
-        },
-        {
-          "name": "Shamal Al-Dohuki",
-          "openalex_id": "https://openalex.org/A5005067182"
-        },
-        {
-          "name": "Fereshteh Amini",
-          "openalex_id": "https://openalex.org/A5061444760"
-        },
-        {
-          "name": "Christopher Andrews",
-          "openalex_id": "https://openalex.org/A5114004223"
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Divya Banesh",
-          "openalex_id": "https://openalex.org/A5080104236"
-        },
-        {
-          "name": "Michael Behrisch",
-          "openalex_id": "https://openalex.org/A5040794392"
-        },
-        {
-          "name": "Matthew Berger",
-          "openalex_id": "https://openalex.org/A5060051655"
-        },
-        {
-          "name": "J\u00fcrgen Bernard",
-          "openalex_id": "https://openalex.org/A5078086722"
-        },
-        {
-          "name": "Andy Berres",
-          "openalex_id": "https://openalex.org/A5015051311"
-        },
-        {
-          "name": "Lonni Besan\u00e7on",
-          "openalex_id": "https://openalex.org/A5087889244"
-        },
-        {
-          "name": "Johanna Beyer",
-          "openalex_id": "https://openalex.org/A5010238198"
-        },
-        {
-          "name": "Alex Bigelow",
-          "openalex_id": "https://openalex.org/A5085246385"
-        },
-        {
-          "name": "Ayan Biswas",
-          "openalex_id": "https://openalex.org/A5076860785"
-        },
-        {
-          "name": "A. Bock",
-          "openalex_id": "https://openalex.org/A5110884676"
-        },
-        {
-          "name": "Peer\u2010Timo Bremer",
-          "openalex_id": "https://openalex.org/A5019902487"
-        },
-        {
-          "name": "Chris Bryan",
-          "openalex_id": "https://openalex.org/A5038402825"
-        },
-        {
-          "name": "Jan By\u0161ka",
-          "openalex_id": "https://openalex.org/A5039343836"
-        },
-        {
-          "name": "Dylan Cashman",
-          "openalex_id": "https://openalex.org/A5033915638"
-        },
-        {
-          "name": "Jian Chen",
-          "openalex_id": "https://openalex.org/A5100326501"
-        },
-        {
-          "name": "Siming Chen",
-          "openalex_id": "https://openalex.org/A5109616081"
-        },
-        {
-          "name": "Qing Chen",
-          "openalex_id": "https://openalex.org/A5045397113"
-        },
-        {
-          "name": "Shenghui Cheng",
-          "openalex_id": "https://openalex.org/A5076034475"
-        },
-        {
-          "name": "Isaac Cho",
-          "openalex_id": "https://openalex.org/A5062185996"
-        },
-        {
-          "name": "Jaegul Choo",
-          "openalex_id": "https://openalex.org/A5047912015"
-        },
-        {
-          "name": "Tarik Crnovrsanin",
-          "openalex_id": "https://openalex.org/A5005364495"
-        },
-        {
-          "name": "Wei Cui",
-          "openalex_id": "https://openalex.org/A5100653960"
-        },
-        {
-          "name": "Aritra Dasgupta",
-          "openalex_id": "https://openalex.org/A5051193196"
-        },
-        {
-          "name": "Evanthia Dimara",
-          "openalex_id": "https://openalex.org/A5039822376"
-        },
-        {
-          "name": "Michelle Dowling",
-          "openalex_id": "https://openalex.org/A5056817428"
-        },
-        {
-          "name": "Fan Du",
-          "openalex_id": "https://openalex.org/A5073516753"
-        },
-        {
-          "name": "Soumya Dutta",
-          "openalex_id": "https://openalex.org/A5088361669"
-        },
-        {
-          "name": "James Eagan",
-          "openalex_id": "https://openalex.org/A5034670941"
-        },
-        {
-          "name": "Geoffrey Ellis",
-          "openalex_id": "https://openalex.org/A5011528639"
-        },
-        {
-          "name": "Hoque Enamul",
-          "openalex_id": "https://openalex.org/A5095005071"
-        },
-        {
-          "name": "Paolo Federico",
-          "openalex_id": "https://openalex.org/A5054248452"
-        },
-        {
-          "name": "Cristian Felix",
-          "openalex_id": "https://openalex.org/A5078653899"
-        },
-        {
-          "name": "Nivan Ferreira",
-          "openalex_id": "https://openalex.org/A5114004224"
-        },
-        {
-          "name": "Siwei Fu",
-          "openalex_id": "https://openalex.org/A5058364844"
-        },
-        {
-          "name": "Katar\u00edna Furmanov\u00e1",
-          "openalex_id": "https://openalex.org/A5067830242"
-        },
-        {
-          "name": "Mohamed Ghoneim",
-          "openalex_id": "https://openalex.org/A5013312751"
-        },
-        {
-          "name": "Christina Gillmann",
-          "openalex_id": "https://openalex.org/A5056440494"
-        },
-        {
-          "name": "Mike Glueck",
-          "openalex_id": "https://openalex.org/A5095005072"
-        },
-        {
-          "name": "Alex Godwin",
-          "openalex_id": "https://openalex.org/A5112795515"
-        },
-        {
-          "name": "Daniel Haehn",
-          "openalex_id": "https://openalex.org/A5062859783"
-        },
-        {
-          "name": "Florian Heimerl",
-          "openalex_id": "https://openalex.org/A5061027107"
-        },
-        {
-          "name": "Uta Hinrichs",
-          "openalex_id": "https://openalex.org/A5082796790"
-        },
-        {
-          "name": "Mario Hlawitschka",
-          "openalex_id": "https://openalex.org/A5102737743"
-        },
-        {
-          "name": "Thomas H\u00f6llt",
-          "openalex_id": "https://openalex.org/A5019308726"
-        },
-        {
-          "name": "Sungsoo Ray",
-          "openalex_id": "https://openalex.org/A5101165849"
-        },
-        {
-          "name": "Hong Mona",
-          "openalex_id": "https://openalex.org/A5095005073"
-        },
-        {
-          "name": "Hosseinkhani Loorak",
-          "openalex_id": "https://openalex.org/A5095005074"
-        },
-        {
-          "name": "Takayuki Itoh",
-          "openalex_id": "https://openalex.org/A5071094223"
-        },
-        {
-          "name": "Stefan J\u00e4nicke",
-          "openalex_id": "https://openalex.org/A5037571749"
-        },
-        {
-          "name": "Alark Joshi",
-          "openalex_id": "https://openalex.org/A5067212091"
-        },
-        {
-          "name": "Minsuk Kahng",
-          "openalex_id": "https://openalex.org/A5042350842"
-        },
-        {
-          "name": "Yeaseul Kim",
-          "openalex_id": "https://openalex.org/A5103936170"
-        },
-        {
-          "name": "Nam Kim",
-          "openalex_id": "https://openalex.org/A5108319134"
-        },
-        {
-          "name": "Karsten Klein",
-          "openalex_id": "https://openalex.org/A5023110492"
-        },
-        {
-          "name": "S\u00f8ren Knudsen",
-          "openalex_id": "https://openalex.org/A5069232944"
-        },
-        {
-          "name": "David Koop",
-          "openalex_id": "https://openalex.org/A5022618145"
-        },
-        {
-          "name": "Helen Kostis",
-          "openalex_id": "https://openalex.org/A5095005075"
-        },
-        {
-          "name": "Barbora Kozl\u00edkov\u00e1",
-          "openalex_id": "https://openalex.org/A5022022242"
-        },
-        {
-          "name": "Michael Krone",
-          "openalex_id": "https://openalex.org/A5003476748"
-        },
-        {
-          "name": "Robert Kuno",
-          "openalex_id": "https://openalex.org/A5095005076"
-        },
-        {
-          "name": "Kurzhals Bum",
-          "openalex_id": "https://openalex.org/A5095005077"
-        },
-        {
-          "name": "Chul Kwon",
-          "openalex_id": "https://openalex.org/A5110884677"
-        },
-        {
-          "name": "Marcos Lage",
-          "openalex_id": "https://openalex.org/A5049830796"
-        }
-      ],
-      "biblio": {
-        "first_page": "12",
-        "issue": "",
-        "last_page": "12",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/vis47514.2020.00006",
-      "doi_url": "https://doi.org/10.1109/vis47514.2020.00006",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1109/vis47514.2020.00006",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/9329359/9331017/09331262.pdf",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4242557540",
-      "openalex_ids": [
-        "https://openalex.org/W4242557540"
-      ],
-      "openalex_url": "https://openalex.org/W4242557540",
-      "orcid_person_ids": [],
-      "publication_date": "2020-10-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "VIS 2020 Short Paper Committees",
-      "type": "article",
-      "url": "https://doi.org/10.1109/vis47514.2020.00006",
-      "venue": "",
       "year": 2020
     },
     {
@@ -13514,85 +12613,6 @@
     },
     {
       "author_names": [
-        "Jieyang Chen",
-        "David Pugmire",
-        "Nicholas Thompson",
-        "Dorit Hammerling ; Allison",
-        "H Baker",
-        "Peter Lindstrom",
-        "Jong Youl",
-        "Choi"
-      ],
-      "authors": [
-        {
-          "name": "Jieyang Chen",
-          "openalex_id": "https://openalex.org/A5063649910"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Nicholas Thompson",
-          "openalex_id": "https://openalex.org/A5032831588"
-        },
-        {
-          "name": "Dorit Hammerling ; Allison",
-          "openalex_id": ""
-        },
-        {
-          "name": "H Baker",
-          "openalex_id": ""
-        },
-        {
-          "name": "Peter Lindstrom",
-          "openalex_id": ""
-        },
-        {
-          "name": "Jong Youl",
-          "openalex_id": ""
-        },
-        {
-          "name": "Choi",
-          "openalex_id": ""
-        }
-      ],
-      "biblio": {
-        "first_page": "3",
-        "issue": "",
-        "last_page": "4",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/drbsd-549595.2019.00003",
-      "doi_url": "https://doi.org/10.1109/drbsd-549595.2019.00003",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1109/drbsd-549595.2019.00003",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/8949348/8955080/08955118.pdf",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W4239040321",
-      "openalex_ids": [
-        "https://openalex.org/W4239040321"
-      ],
-      "openalex_url": "https://openalex.org/W4239040321",
-      "orcid_person_ids": [],
-      "publication_date": "2019-11-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Table of contents",
-      "type": "article",
-      "url": "https://doi.org/10.1109/drbsd-549595.2019.00003",
-      "venue": "",
-      "year": 2019
-    },
-    {
-      "author_names": [
         "Kenneth Moreland",
         "Thomas Ertl"
       ],
@@ -13638,250 +12658,6 @@
       "type": "report",
       "url": "https://doi.org/10.2172/1490892",
       "venue": "",
-      "year": 2019
-    },
-    {
-      "author_names": [
-        "Wes Bethel",
-        "Stefan Br\u00fcckner",
-        "Roxana Bujack",
-        "Hamish Carr",
-        "Baoquan Chen",
-        "Min Chen",
-        "Hank Childs",
-        "Paolo Cignoni",
-        "Jo\u00e3o L. D. Comba",
-        "Leila De Floriani",
-        "Harish Doraiswamy",
-        "Alireza Entezari",
-        "Thomas Ertl",
-        "Steffen Frey",
-        "Tobias G\u00fcnther",
-        "Markus Hadwiger",
-        "Hans Hagen",
-        "Helwig Hauser",
-        "Christopher G. Healey",
-        "Mario Hlawitschka",
-        "Ingrid Hotz",
-        "Jian Huang",
-        "Tobias Isenberg",
-        "Mike Kirby",
-        "Koji Koyamada",
-        "Barbora Kozl\u00edkov\u00e1",
-        "Michael Krone",
-        "Jens Kr\u00fcger",
-        "David H. Laidlaw",
-        "Robert S. Laramee",
-        "Joshua A. Levine",
-        "Lars Linsen",
-        "Patric Ljung",
-        "Aidong Lu",
-        "Kwan\u2010Liu Ma",
-        "G. Elisabeta Marai",
-        "Kenneth Moreland",
-        "Vijay Natarajan",
-        "Steffen Oeltze\u2010Jafra",
-        "Alex Pang",
-        "Voicu Popescu"
-      ],
-      "authors": [
-        {
-          "name": "Wes Bethel",
-          "openalex_id": "https://openalex.org/A5061898871"
-        },
-        {
-          "name": "Stefan Br\u00fcckner",
-          "openalex_id": "https://openalex.org/A5063965880"
-        },
-        {
-          "name": "Roxana Bujack",
-          "openalex_id": "https://openalex.org/A5063964395"
-        },
-        {
-          "name": "Hamish Carr",
-          "openalex_id": "https://openalex.org/A5020952435"
-        },
-        {
-          "name": "Baoquan Chen",
-          "openalex_id": "https://openalex.org/A5010714340"
-        },
-        {
-          "name": "Min Chen",
-          "openalex_id": "https://openalex.org/A5100337178"
-        },
-        {
-          "name": "Hank Childs",
-          "openalex_id": "https://openalex.org/A5015951381"
-        },
-        {
-          "name": "Paolo Cignoni",
-          "openalex_id": "https://openalex.org/A5049441601"
-        },
-        {
-          "name": "Jo\u00e3o L. D. Comba",
-          "openalex_id": "https://openalex.org/A5029235009"
-        },
-        {
-          "name": "Leila De Floriani",
-          "openalex_id": "https://openalex.org/A5018924195"
-        },
-        {
-          "name": "Harish Doraiswamy",
-          "openalex_id": "https://openalex.org/A5033801646"
-        },
-        {
-          "name": "Alireza Entezari",
-          "openalex_id": "https://openalex.org/A5058158315"
-        },
-        {
-          "name": "Thomas Ertl",
-          "openalex_id": "https://openalex.org/A5038629539"
-        },
-        {
-          "name": "Steffen Frey",
-          "openalex_id": "https://openalex.org/A5052673631"
-        },
-        {
-          "name": "Tobias G\u00fcnther",
-          "openalex_id": "https://openalex.org/A5088860259"
-        },
-        {
-          "name": "Markus Hadwiger",
-          "openalex_id": "https://openalex.org/A5008754293"
-        },
-        {
-          "name": "Hans Hagen",
-          "openalex_id": "https://openalex.org/A5108428297"
-        },
-        {
-          "name": "Helwig Hauser",
-          "openalex_id": "https://openalex.org/A5000755776"
-        },
-        {
-          "name": "Christopher G. Healey",
-          "openalex_id": "https://openalex.org/A5013460936"
-        },
-        {
-          "name": "Mario Hlawitschka",
-          "openalex_id": "https://openalex.org/A5102737743"
-        },
-        {
-          "name": "Ingrid Hotz",
-          "openalex_id": "https://openalex.org/A5040236693"
-        },
-        {
-          "name": "Jian Huang",
-          "openalex_id": "https://openalex.org/A5041484012"
-        },
-        {
-          "name": "Tobias Isenberg",
-          "openalex_id": "https://openalex.org/A5083454802"
-        },
-        {
-          "name": "Mike Kirby",
-          "openalex_id": "https://openalex.org/A5051732609"
-        },
-        {
-          "name": "Koji Koyamada",
-          "openalex_id": "https://openalex.org/A5069861564"
-        },
-        {
-          "name": "Barbora Kozl\u00edkov\u00e1",
-          "openalex_id": "https://openalex.org/A5022022242"
-        },
-        {
-          "name": "Michael Krone",
-          "openalex_id": "https://openalex.org/A5003476748"
-        },
-        {
-          "name": "Jens Kr\u00fcger",
-          "openalex_id": "https://openalex.org/A5087449583"
-        },
-        {
-          "name": "David H. Laidlaw",
-          "openalex_id": "https://openalex.org/A5030179454"
-        },
-        {
-          "name": "Robert S. Laramee",
-          "openalex_id": "https://openalex.org/A5031570473"
-        },
-        {
-          "name": "Joshua A. Levine",
-          "openalex_id": "https://openalex.org/A5070956346"
-        },
-        {
-          "name": "Lars Linsen",
-          "openalex_id": "https://openalex.org/A5027852213"
-        },
-        {
-          "name": "Patric Ljung",
-          "openalex_id": "https://openalex.org/A5087545747"
-        },
-        {
-          "name": "Aidong Lu",
-          "openalex_id": "https://openalex.org/A5015271163"
-        },
-        {
-          "name": "Kwan\u2010Liu Ma",
-          "openalex_id": "https://openalex.org/A5037161857"
-        },
-        {
-          "name": "G. Elisabeta Marai",
-          "openalex_id": "https://openalex.org/A5056104510"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Vijay Natarajan",
-          "openalex_id": "https://openalex.org/A5083989376"
-        },
-        {
-          "name": "Steffen Oeltze\u2010Jafra",
-          "openalex_id": "https://openalex.org/A5004833443"
-        },
-        {
-          "name": "Alex Pang",
-          "openalex_id": "https://openalex.org/A5016076717"
-        },
-        {
-          "name": "Voicu Popescu",
-          "openalex_id": "https://openalex.org/A5051307646"
-        }
-      ],
-      "biblio": {
-        "first_page": "xxii",
-        "issue": "1",
-        "last_page": "xxii",
-        "volume": "26"
-      },
-      "citation_count": 0,
-      "doi": "10.1109/tvcg.2019.2935659",
-      "doi_url": "https://doi.org/10.1109/tvcg.2019.2935659",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.1109/tvcg.2019.2935659",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/2945/8911289/08915868.pdf",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W4254358345",
-      "openalex_ids": [
-        "https://openalex.org/W4254358345"
-      ],
-      "openalex_url": "https://openalex.org/W4254358345",
-      "orcid_person_ids": [],
-      "publication_date": "2019-11-27",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "SciVis International Program Committee",
-      "type": "article",
-      "url": "https://doi.org/10.1109/tvcg.2019.2935659",
-      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2019
     },
     {
@@ -13984,120 +12760,6 @@
       "title": "STDA05-18 P6 Milestone Delivery",
       "type": "report",
       "url": "https://doi.org/10.2172/1761961",
-      "venue": "",
-      "year": 2019
-    },
-    {
-      "author_names": [
-        "Hongfeng Yu",
-        "Kenneth Moreland",
-        "Kristi Potter",
-        "Chaoli Wang",
-        "Julien Tierny",
-        "Khairi Reda",
-        "Tom Vierjahn",
-        "Zhicheng Liu",
-        "Kwan\u2010Liu Ma",
-        "Ron A. Oldfield",
-        "Patrick O'leary",
-        "Brian Summa",
-        "Jun Tao",
-        "Xavier Tricoche",
-        "Yang Wang"
-      ],
-      "authors": [
-        {
-          "name": "Hongfeng Yu",
-          "openalex_id": "https://openalex.org/A5020745360"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Kristi Potter",
-          "openalex_id": "https://openalex.org/A5032606338"
-        },
-        {
-          "name": "Chaoli Wang",
-          "openalex_id": "https://openalex.org/A5101913449"
-        },
-        {
-          "name": "Julien Tierny",
-          "openalex_id": "https://openalex.org/A5074734666"
-        },
-        {
-          "name": "Khairi Reda",
-          "openalex_id": "https://openalex.org/A5095391802"
-        },
-        {
-          "name": "Tom Vierjahn",
-          "openalex_id": "https://openalex.org/A5022621856"
-        },
-        {
-          "name": "Zhicheng Liu",
-          "openalex_id": "https://openalex.org/A5100745766"
-        },
-        {
-          "name": "Kwan\u2010Liu Ma",
-          "openalex_id": "https://openalex.org/A5037161857"
-        },
-        {
-          "name": "Ron A. Oldfield",
-          "openalex_id": "https://openalex.org/A5108471980"
-        },
-        {
-          "name": "Patrick O'leary",
-          "openalex_id": "https://openalex.org/A5051659943"
-        },
-        {
-          "name": "Brian Summa",
-          "openalex_id": "https://openalex.org/A5063625747"
-        },
-        {
-          "name": "Jun Tao",
-          "openalex_id": "https://openalex.org/A5089486689"
-        },
-        {
-          "name": "Xavier Tricoche",
-          "openalex_id": "https://openalex.org/A5000413604"
-        },
-        {
-          "name": "Yang Wang",
-          "openalex_id": "https://openalex.org/A5100322572"
-        }
-      ],
-      "biblio": {
-        "first_page": "i",
-        "issue": "",
-        "last_page": "i",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/ldav48142.2019.8944354",
-      "doi_url": "https://doi.org/10.1109/ldav48142.2019.8944354",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.1109/ldav48142.2019.8944354",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/8941005/8944263/08944354.pdf",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W4255809395",
-      "openalex_ids": [
-        "https://openalex.org/W4255809395"
-      ],
-      "openalex_url": "https://openalex.org/W4255809395",
-      "orcid_person_ids": [],
-      "publication_date": "2019-10-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "LDAV 2019 Organizing Committee",
-      "type": "article",
-      "url": "https://doi.org/10.1109/ldav48142.2019.8944354",
       "venue": "",
       "year": 2019
     },
@@ -16900,7 +15562,7 @@
         "last_page": "1766",
         "volume": "207"
       },
-      "citation_count": 284,
+      "citation_count": 285,
       "doi": "10.1093/gji/ggw356",
       "doi_url": "https://doi.org/10.1093/gji/ggw356",
       "group_author_ids": [
@@ -23939,7 +22601,7 @@
         "last_page": "",
         "volume": ""
       },
-      "citation_count": 88,
+      "citation_count": 90,
       "doi": "10.1093/0199276897.001.0001",
       "doi_url": "https://doi.org/10.1093/0199276897.001.0001",
       "group_author_ids": [
@@ -24929,465 +23591,6 @@
     },
     {
       "author_names": [
-        "Mrs Desmond",
-        "Alan Winter -Mpr Teltech",
-        "Vijay K. Bhargava",
-        "M. Strachan",
-        "S Adhem",
-        "P. Agathoklis",
-        "Majid Ahmadi",
-        "Pierre Allard",
-        "Nancy Beaulieu",
-        "C Belisle",
-        "Gabriele Berg",
-        "Fernand Bilodeau",
-        "B. Boashash",
-        "Jens B\u00f8rnemann",
-        "A. Brind'Amour",
-        "Bernard C. Broughton",
-        "K. Bryden",
-        "Chi Kin Chan",
-        "P.K. Chande",
-        "Philip Cohen",
-        "M.J. Corinthios",
-        "G.I. Costache",
-        "William J. Daily",
-        "N.J. Dimopoulos",
-        "D.E. Dodds",
-        "Welisson De",
-        "M.E. El-Hawary",
-        "S Erlic",
-        "G Foda",
-        "Alex Gu",
-        "David J. Gulliver",
-        "Robert R. Haccoun",
-        "H Hackam",
-        "G Hassanein",
-        "F Heppler",
-        "R Hlawatsch",
-        "Michael Hutcheon",
-        "T Iravani",
-        "Emi Ito",
-        "Robert L. Jernigan",
-        "Michael Kirlin",
-        "A Klemes",
-        "H K\u00fcmmert",
-        "Tho Le-Hug",
-        "C Le-Ngoc",
-        "Xi Yu Leung",
-        "Di Li",
-        "William Little",
-        "J. Litva",
-        "G\u00e9raldine Martens",
-        "Frank McLane",
-        "G.D. McLean",
-        "Anna Meta\u00d7as",
-        "Michelle A. Miller",
-        "Kenneth Moreland",
-        "John T. Noonan",
-        "R. Normandin",
-        "Robert J. Olsen",
-        "A.V. Ramani",
-        "S.M. Richard",
-        "G. Rodr\u00edguez",
-        "M. Sablatash",
-        "U Sauvegerd",
-        "David Schimmel",
-        "Norman J. Secord",
-        "Jack Shield",
-        "A Smith",
-        "Pieter-jan Van Steenkiste",
-        "Ruth E. K. Stein",
-        "S.S. Stuchly",
-        "Andrej Tenne-Sens",
-        "Bruce Thompson",
-        "R. Vahldieck",
-        "S Venhata",
-        "Avi J. Waksberg",
-        "H Wang",
-        "Rod Ward",
-        "Harry Wechsler",
-        "Lisa D. White",
-        "S Wilson",
-        "Ke Wu",
-        "Maurice Yeates",
-        "P Ziogas",
-        "P Ziogas"
-      ],
-      "authors": [
-        {
-          "name": "Mrs Desmond",
-          "openalex_id": "https://openalex.org/A5110887323"
-        },
-        {
-          "name": "Alan Winter -Mpr Teltech",
-          "openalex_id": "https://openalex.org/A5095564300"
-        },
-        {
-          "name": "Vijay K. Bhargava",
-          "openalex_id": "https://openalex.org/A5108785149"
-        },
-        {
-          "name": "M. Strachan",
-          "openalex_id": "https://openalex.org/A5109187857"
-        },
-        {
-          "name": "S Adhem",
-          "openalex_id": "https://openalex.org/A5095564313"
-        },
-        {
-          "name": "P. Agathoklis",
-          "openalex_id": "https://openalex.org/A5052682615"
-        },
-        {
-          "name": "Majid Ahmadi",
-          "openalex_id": "https://openalex.org/A5116239815"
-        },
-        {
-          "name": "Pierre Allard",
-          "openalex_id": "https://openalex.org/A5014014469"
-        },
-        {
-          "name": "Nancy Beaulieu",
-          "openalex_id": "https://openalex.org/A5003491655"
-        },
-        {
-          "name": "C Belisle",
-          "openalex_id": "https://openalex.org/A5095564299"
-        },
-        {
-          "name": "Gabriele Berg",
-          "openalex_id": "https://openalex.org/A5044534495"
-        },
-        {
-          "name": "Fernand Bilodeau",
-          "openalex_id": "https://openalex.org/A5055580554"
-        },
-        {
-          "name": "B. Boashash",
-          "openalex_id": "https://openalex.org/A5068266042"
-        },
-        {
-          "name": "Jens B\u00f8rnemann",
-          "openalex_id": "https://openalex.org/A5006146090"
-        },
-        {
-          "name": "A. Brind'Amour",
-          "openalex_id": "https://openalex.org/A5021689827"
-        },
-        {
-          "name": "Bernard C. Broughton",
-          "openalex_id": "https://openalex.org/A5111714344"
-        },
-        {
-          "name": "K. Bryden",
-          "openalex_id": "https://openalex.org/A5033596532"
-        },
-        {
-          "name": "Chi Kin Chan",
-          "openalex_id": "https://openalex.org/A5045671268"
-        },
-        {
-          "name": "P.K. Chande",
-          "openalex_id": "https://openalex.org/A5108286012"
-        },
-        {
-          "name": "Philip Cohen",
-          "openalex_id": "https://openalex.org/A5010890113"
-        },
-        {
-          "name": "M.J. Corinthios",
-          "openalex_id": "https://openalex.org/A5033404533"
-        },
-        {
-          "name": "G.I. Costache",
-          "openalex_id": "https://openalex.org/A5051310625"
-        },
-        {
-          "name": "William J. Daily",
-          "openalex_id": "https://openalex.org/A5109594673"
-        },
-        {
-          "name": "N.J. Dimopoulos",
-          "openalex_id": "https://openalex.org/A5051681787"
-        },
-        {
-          "name": "D.E. Dodds",
-          "openalex_id": "https://openalex.org/A5110286908"
-        },
-        {
-          "name": "Welisson De",
-          "openalex_id": "https://openalex.org/A5110887324"
-        },
-        {
-          "name": "M.E. El-Hawary",
-          "openalex_id": "https://openalex.org/A5079538687"
-        },
-        {
-          "name": "S Erlic",
-          "openalex_id": "https://openalex.org/A5095564301"
-        },
-        {
-          "name": "G Foda",
-          "openalex_id": "https://openalex.org/A5095564302"
-        },
-        {
-          "name": "Alex Gu",
-          "openalex_id": "https://openalex.org/A5007842855"
-        },
-        {
-          "name": "David J. Gulliver",
-          "openalex_id": "https://openalex.org/A5078886194"
-        },
-        {
-          "name": "Robert R. Haccoun",
-          "openalex_id": "https://openalex.org/A5037030335"
-        },
-        {
-          "name": "H Hackam",
-          "openalex_id": "https://openalex.org/A5095564303"
-        },
-        {
-          "name": "G Hassanein",
-          "openalex_id": "https://openalex.org/A5095564304"
-        },
-        {
-          "name": "F Heppler",
-          "openalex_id": "https://openalex.org/A5095564305"
-        },
-        {
-          "name": "R Hlawatsch",
-          "openalex_id": "https://openalex.org/A5095564306"
-        },
-        {
-          "name": "Michael Hutcheon",
-          "openalex_id": "https://openalex.org/A5109247435"
-        },
-        {
-          "name": "T Iravani",
-          "openalex_id": "https://openalex.org/A5095564307"
-        },
-        {
-          "name": "Emi Ito",
-          "openalex_id": "https://openalex.org/A5005330871"
-        },
-        {
-          "name": "Robert L. Jernigan",
-          "openalex_id": "https://openalex.org/A5023494109"
-        },
-        {
-          "name": "Michael Kirlin",
-          "openalex_id": "https://openalex.org/A5095564308"
-        },
-        {
-          "name": "A Klemes",
-          "openalex_id": "https://openalex.org/A5095564309"
-        },
-        {
-          "name": "H K\u00fcmmert",
-          "openalex_id": "https://openalex.org/A5095564310"
-        },
-        {
-          "name": "Tho Le-Hug",
-          "openalex_id": "https://openalex.org/A5095564311"
-        },
-        {
-          "name": "C Le-Ngoc",
-          "openalex_id": "https://openalex.org/A5095564312"
-        },
-        {
-          "name": "Xi Yu Leung",
-          "openalex_id": "https://openalex.org/A5026028786"
-        },
-        {
-          "name": "Di Li",
-          "openalex_id": "https://openalex.org/A5100446377"
-        },
-        {
-          "name": "William Little",
-          "openalex_id": "https://openalex.org/A5113717469"
-        },
-        {
-          "name": "J. Litva",
-          "openalex_id": "https://openalex.org/A5055331137"
-        },
-        {
-          "name": "G\u00e9raldine Martens",
-          "openalex_id": "https://openalex.org/A5072810625"
-        },
-        {
-          "name": "Frank McLane",
-          "openalex_id": "https://openalex.org/A5037469441"
-        },
-        {
-          "name": "G.D. McLean",
-          "openalex_id": "https://openalex.org/A5110239867"
-        },
-        {
-          "name": "Anna Meta\u00d7as",
-          "openalex_id": "https://openalex.org/A5061685044"
-        },
-        {
-          "name": "Michelle A. Miller",
-          "openalex_id": "https://openalex.org/A5051853482"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "John T. Noonan",
-          "openalex_id": "https://openalex.org/A5114250513"
-        },
-        {
-          "name": "R. Normandin",
-          "openalex_id": "https://openalex.org/A5042962527"
-        },
-        {
-          "name": "Robert J. Olsen",
-          "openalex_id": "https://openalex.org/A5039913080"
-        },
-        {
-          "name": "A.V. Ramani",
-          "openalex_id": "https://openalex.org/A5027056491"
-        },
-        {
-          "name": "S.M. Richard",
-          "openalex_id": "https://openalex.org/A5034068289"
-        },
-        {
-          "name": "G. Rodr\u00edguez",
-          "openalex_id": "https://openalex.org/A5070437450"
-        },
-        {
-          "name": "M. Sablatash",
-          "openalex_id": "https://openalex.org/A5109868552"
-        },
-        {
-          "name": "U Sauvegerd",
-          "openalex_id": "https://openalex.org/A5095564314"
-        },
-        {
-          "name": "David Schimmel",
-          "openalex_id": "https://openalex.org/A5002218378"
-        },
-        {
-          "name": "Norman J. Secord",
-          "openalex_id": "https://openalex.org/A5089672770"
-        },
-        {
-          "name": "Jack Shield",
-          "openalex_id": "https://openalex.org/A5020338405"
-        },
-        {
-          "name": "A Smith",
-          "openalex_id": "https://openalex.org/A5113952424"
-        },
-        {
-          "name": "Pieter-jan Van Steenkiste",
-          "openalex_id": "https://openalex.org/A5031235291"
-        },
-        {
-          "name": "Ruth E. K. Stein",
-          "openalex_id": "https://openalex.org/A5013296740"
-        },
-        {
-          "name": "S.S. Stuchly",
-          "openalex_id": "https://openalex.org/A5110189507"
-        },
-        {
-          "name": "Andrej Tenne-Sens",
-          "openalex_id": "https://openalex.org/A5057857950"
-        },
-        {
-          "name": "Bruce Thompson",
-          "openalex_id": "https://openalex.org/A5006201777"
-        },
-        {
-          "name": "R. Vahldieck",
-          "openalex_id": "https://openalex.org/A5108516868"
-        },
-        {
-          "name": "S Venhata",
-          "openalex_id": "https://openalex.org/A5095564315"
-        },
-        {
-          "name": "Avi J. Waksberg",
-          "openalex_id": "https://openalex.org/A5065259699"
-        },
-        {
-          "name": "H Wang",
-          "openalex_id": "https://openalex.org/A5004363718"
-        },
-        {
-          "name": "Rod Ward",
-          "openalex_id": "https://openalex.org/A5081908888"
-        },
-        {
-          "name": "Harry Wechsler",
-          "openalex_id": "https://openalex.org/A5058156010"
-        },
-        {
-          "name": "Lisa D. White",
-          "openalex_id": "https://openalex.org/A5013075939"
-        },
-        {
-          "name": "S Wilson",
-          "openalex_id": "https://openalex.org/A5101599066"
-        },
-        {
-          "name": "Ke Wu",
-          "openalex_id": "https://openalex.org/A5066267152"
-        },
-        {
-          "name": "Maurice Yeates",
-          "openalex_id": "https://openalex.org/A5019774101"
-        },
-        {
-          "name": "P Ziogas",
-          "openalex_id": "https://openalex.org/A5095564316"
-        },
-        {
-          "name": "P Ziogas",
-          "openalex_id": ""
-        }
-      ],
-      "biblio": {
-        "first_page": "7",
-        "issue": "1",
-        "last_page": "7",
-        "volume": "17"
-      },
-      "citation_count": 0,
-      "doi": "10.1109/cjece.1992.6593900",
-      "doi_url": "https://doi.org/10.1109/cjece.1992.6593900",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.1109/cjece.1992.6593900",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/9754/6452130/06593900.pdf",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W4243701561",
-      "openalex_ids": [
-        "https://openalex.org/W4243701561"
-      ],
-      "openalex_url": "https://openalex.org/W4243701561",
-      "orcid_person_ids": [],
-      "publication_date": "1992-01-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Report from the director of publications and conferences",
-      "type": "article",
-      "url": "https://doi.org/10.1109/cjece.1992.6593900",
-      "venue": "Canadian Journal of Electrical and Computer Engineering",
-      "year": 1992
-    },
-    {
-      "author_names": [
         "David Pugmire"
       ],
       "authors": [
@@ -25522,110 +23725,6 @@
       "url": "https://doi.org/10.1093/aristoteliansupp/56.1.157",
       "venue": "Aristotelian Society Supplementary Volume",
       "year": 1982
-    },
-    {
-      "author_names": [
-        "Sarah Crozier",
-        "Michael E. Wilson",
-        "Kenneth Moreland",
-        "Joseph Camelon",
-        "P.J. McLane",
-        "A. R. Lunan",
-        "I. Grier",
-        "Jennifer T. Huang",
-        "Joseph M. Lam",
-        "V. Ramachandran",
-        "M. N. S. Swamy",
-        "M. Vainberg",
-        "K.G. Balmain"
-      ],
-      "authors": [
-        {
-          "name": "Sarah Crozier",
-          "openalex_id": "https://openalex.org/A5035294203"
-        },
-        {
-          "name": "Michael E. Wilson",
-          "openalex_id": "https://openalex.org/A5101466415"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Joseph Camelon",
-          "openalex_id": "https://openalex.org/A5033917456"
-        },
-        {
-          "name": "P.J. McLane",
-          "openalex_id": "https://openalex.org/A5003871868"
-        },
-        {
-          "name": "A. R. Lunan",
-          "openalex_id": "https://openalex.org/A5019364838"
-        },
-        {
-          "name": "I. Grier",
-          "openalex_id": "https://openalex.org/A5090168267"
-        },
-        {
-          "name": "Jennifer T. Huang",
-          "openalex_id": "https://openalex.org/A5003107485"
-        },
-        {
-          "name": "Joseph M. Lam",
-          "openalex_id": "https://openalex.org/A5003762584"
-        },
-        {
-          "name": "V. Ramachandran",
-          "openalex_id": "https://openalex.org/A5043162904"
-        },
-        {
-          "name": "M. N. S. Swamy",
-          "openalex_id": "https://openalex.org/A5082538217"
-        },
-        {
-          "name": "M. Vainberg",
-          "openalex_id": "https://openalex.org/A5030307561"
-        },
-        {
-          "name": "K.G. Balmain",
-          "openalex_id": "https://openalex.org/A5029559999"
-        }
-      ],
-      "biblio": {
-        "first_page": "1",
-        "issue": "3",
-        "last_page": "1",
-        "volume": "6"
-      },
-      "citation_count": 0,
-      "doi": "10.1109/ceej.1981.6592446",
-      "doi_url": "https://doi.org/10.1109/ceej.1981.6592446",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.1109/ceej.1981.6592446",
-      "oa_url": "https://ieeexplore.ieee.org/ielx7/6449389/6451815/06592446.pdf",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W4210863807",
-      "openalex_ids": [
-        "https://openalex.org/W4210863807"
-      ],
-      "openalex_url": "https://openalex.org/W4210863807",
-      "orcid_person_ids": [],
-      "publication_date": "1981-07-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Table of contents",
-      "type": "article",
-      "url": "https://doi.org/10.1109/ceej.1981.6592446",
-      "venue": "Canadian Electrical Engineering Journal",
-      "year": 1981
     },
     {
       "author_names": [

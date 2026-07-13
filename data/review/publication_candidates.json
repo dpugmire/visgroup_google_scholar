@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T13:01:02+00:00",
+  "generated_at": "2026-07-13T12:18:32+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -97,6 +97,20 @@
       "title": "Decision Support System",
       "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1016/j.jocs.2026.102963",
+      "group_authors": "Tushar Athawale",
+      "openalex_candidate_for": "Tushar Athawale",
+      "openalex_url": "https://openalex.org/W7167673845",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Corrigendum to \u2018An uncertainty visualization framework for large-scale cardiovascular flow simulations: A case study on aortic stenosis\u2019 [J. Comput. Sci., vol. 99 (2026), 102914]",
+      "url": "https://doi.org/10.1016/j.jocs.2026.102963",
+      "venue": "Journal of Computational Science",
       "year": 2026
     },
     {
@@ -1025,20 +1039,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/ldav60332.2023.00006",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4389400686",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Committees",
-      "url": "https://doi.org/10.1109/ldav60332.2023.00006",
-      "venue": "",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
       "doi": "10.2352/ei.2023.35.1.vda-395",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -1277,20 +1277,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/topoinvis57755.2022.00006",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4313195773",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "TopoInVis 2022 Committees",
-      "url": "https://doi.org/10.1109/topoinvis57755.2022.00006",
-      "venue": "",
-      "year": 2022
-    },
-    {
-      "citation_count": 0,
       "doi": "10.2172/1895214",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1328,20 +1314,6 @@
       "review_status": "candidate_openalex",
       "title": "Leveraging production visualization tools in situ",
       "url": "https://doi.org/10.21079/11681/44844",
-      "venue": "",
-      "year": 2022
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1109/ldav57265.2022.9966398",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4310793437",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "LDAV 2022 Committees",
-      "url": "https://doi.org/10.1109/ldav57265.2022.9966398",
       "venue": "",
       "year": 2022
     },
@@ -1388,7 +1360,7 @@
       "year": 2022
     },
     {
-      "citation_count": 66,
+      "citation_count": 68,
       "doi": "10.1109/tc.2021.3092201",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1430,7 +1402,7 @@
       "year": 2021
     },
     {
-      "citation_count": 25,
+      "citation_count": 27,
       "doi": "10.1145/3458817.3476179",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1725,20 +1697,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/ldav53230.2021.00006",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4200530491",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Organizing Committee",
-      "url": "https://doi.org/10.1109/ldav53230.2021.00006",
-      "venue": "",
-      "year": 2021
-    },
-    {
-      "citation_count": 0,
       "doi": "10.6084/m9.figshare.16926130.v1",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -1752,6 +1710,20 @@
       "year": 2021
     },
     {
+      "citation_count": 231,
+      "doi": "10.1016/j.softx.2020.100561",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3041193038",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management",
+      "url": "https://doi.org/10.1016/j.softx.2020.100561",
+      "venue": "SoftwareX",
+      "year": 2020
+    },
+    {
       "citation_count": 230,
       "doi": "10.1093/gji/ggaa253",
       "group_authors": "David Pugmire",
@@ -1763,20 +1735,6 @@
       "title": "Global adjoint tomography\u2014model GLAD-M25",
       "url": "https://doi.org/10.1093/gji/ggaa253",
       "venue": "Geophysical Journal International",
-      "year": 2020
-    },
-    {
-      "citation_count": 229,
-      "doi": "10.1016/j.softx.2020.100561",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3041193038",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management",
-      "url": "https://doi.org/10.1016/j.softx.2020.100561",
-      "venue": "SoftwareX",
       "year": 2020
     },
     {
@@ -1917,20 +1875,6 @@
       "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
       "url": "https://doi.org/10.48550/arxiv.2007.04457",
       "venue": "arXiv (Cornell University)",
-      "year": 2020
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1109/vis47514.2020.00006",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4242557540",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "VIS 2020 Short Paper Committees",
-      "url": "https://doi.org/10.1109/vis47514.2020.00006",
-      "venue": "",
       "year": 2020
     },
     {
@@ -2271,20 +2215,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/drbsd-549595.2019.00003",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4239040321",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Table of contents",
-      "url": "https://doi.org/10.1109/drbsd-549595.2019.00003",
-      "venue": "",
-      "year": 2019
-    },
-    {
-      "citation_count": 0,
       "doi": "10.2172/1490892",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2295,20 +2225,6 @@
       "title": "Scientific Visualization Showcase SC18/19 Turnover Report",
       "url": "https://doi.org/10.2172/1490892",
       "venue": "",
-      "year": 2019
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1109/tvcg.2019.2935659",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4254358345",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "SciVis International Program Committee",
-      "url": "https://doi.org/10.1109/tvcg.2019.2935659",
-      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2019
     },
     {
@@ -2336,20 +2252,6 @@
       "review_status": "candidate_openalex",
       "title": "STDA05-18 P6 Milestone Delivery",
       "url": "https://doi.org/10.2172/1761961",
-      "venue": "",
-      "year": 2019
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1109/ldav48142.2019.8944354",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4255809395",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "LDAV 2019 Organizing Committee",
-      "url": "https://doi.org/10.1109/ldav48142.2019.8944354",
       "venue": "",
       "year": 2019
     },
@@ -2914,7 +2816,7 @@
       "year": 2017
     },
     {
-      "citation_count": 284,
+      "citation_count": 285,
       "doi": "10.1093/gji/ggw356",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4342,7 +4244,7 @@
       "year": 2006
     },
     {
-      "citation_count": 88,
+      "citation_count": 90,
       "doi": "10.1093/0199276897.001.0001",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4637,20 +4539,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/cjece.1992.6593900",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4243701561",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Report from the director of publications and conferences",
-      "url": "https://doi.org/10.1109/cjece.1992.6593900",
-      "venue": "Canadian Journal of Electrical and Computer Engineering",
-      "year": 1992
-    },
-    {
-      "citation_count": 0,
       "doi": "10.1017/s003181910004448x",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4690,20 +4578,6 @@
       "url": "https://doi.org/10.1093/aristoteliansupp/56.1.157",
       "venue": "Aristotelian Society Supplementary Volume",
       "year": 1982
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1109/ceej.1981.6592446",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4210863807",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Table of contents",
-      "url": "https://doi.org/10.1109/ceej.1981.6592446",
-      "venue": "Canadian Electrical Engineering Journal",
-      "year": 1981
     },
     {
       "citation_count": 0,
