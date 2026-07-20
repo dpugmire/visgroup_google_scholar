@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-07-13T12:18:32+00:00",
+  "generated_at": "2026-07-20T11:59:38+00:00",
   "publications": [
     {
       "citation_count": 0,
-      "doi": "10.21951/hmr_relicensesurrender/3031246",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W7160849215",
+      "doi": "10.1109/mcg.2026.3714725",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W7169606422",
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "U.S. Hydropower Relicense and Surrender Pipeline Map, 2026",
-      "url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
-      "venue": "DOE Oak Ridge National Laboratory (ORNL) Repository",
+      "title": "WebUVisBox: A Scenario-Based Framework for Collaborative and Accessible 3D Uncertainty Visualization on the Web",
+      "url": "https://doi.org/10.1109/mcg.2026.3714725",
+      "venue": "IEEE Computer Graphics and Applications",
       "year": 2026
     },
     {
@@ -83,20 +83,6 @@
       "title": "Detecting Manuscripts Related to Computable Phenotypes Using a Transformer-based Language Model",
       "url": "https://doi.org/10.64898/2026.03.12.711165",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2026
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.11578/biomass_dss/dc.20260430.1",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W7158473150",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Decision Support System",
-      "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2026
     },
     {
@@ -436,7 +422,7 @@
       "year": 2025
     },
     {
-      "citation_count": 42,
+      "citation_count": 43,
       "doi": "10.1093/gji/ggae270",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -453,7 +439,7 @@
       "citation_count": 20,
       "doi": "10.1038/s41597-024-03219-x",
       "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "",
+      "openalex_candidate_for": "Erik Schmidt",
       "openalex_url": "https://openalex.org/W4396976240",
       "orcid_evidence": "Erik Schmidt",
       "review_notes": "",
@@ -464,7 +450,7 @@
       "year": 2024
     },
     {
-      "citation_count": 7,
+      "citation_count": 8,
       "doi": "10.1109/sc41406.2024.00091",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -492,7 +478,7 @@
       "year": 2024
     },
     {
-      "citation_count": 2,
+      "citation_count": 3,
       "doi": "10.1109/uncertaintyvisualization63963.2024.00013",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -633,6 +619,20 @@
     },
     {
       "citation_count": 1,
+      "doi": "10.1109/uncertaintyvisualization63963.2024.00009",
+      "group_authors": "Tushar Athawale",
+      "openalex_candidate_for": "Tushar Athawale",
+      "openalex_url": "https://openalex.org/W4404371185",
+      "orcid_evidence": "Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Accelerated Depth Computation for Surface Boxplots with Deep Learning",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00009",
+      "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 1,
       "doi": "10.1109/e-science62913.2024.10678681",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -699,6 +699,20 @@
       "title": "Uncertainty Visualization of Critical Points of 2D Scalar Fields for Parametric and Nonparametric Probabilistic Models",
       "url": "https://doi.org/10.48550/arxiv.2407.18015",
       "venue": "arXiv (Cornell University)",
+      "year": 2024
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_storymap/2447930",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4403381682",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Market Report Story Map",
+      "url": "https://doi.org/10.21951/hmr_storymap/2447930",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2024
     },
     {
@@ -829,20 +843,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/uncertaintyvisualization63963.2024.00009",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4404371185",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Accelerated Depth Computation for Surface Boxplots with Deep Learning",
-      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00009",
-      "venue": "",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
       "doi": "10.1109/mcg.2024.3383137",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -870,7 +870,7 @@
       "year": 2024
     },
     {
-      "citation_count": 78,
+      "citation_count": 80,
       "doi": "10.1109/tps.2023.3268170",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -887,7 +887,7 @@
       "citation_count": 5,
       "doi": "10.2172/2076189",
       "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "",
+      "openalex_candidate_for": "Erik Schmidt",
       "openalex_url": "https://openalex.org/W4387730001",
       "orcid_evidence": "Erik Schmidt",
       "review_notes": "",
@@ -997,6 +997,20 @@
     },
     {
       "citation_count": 1,
+      "doi": "10.21951/hmr_pipelinemaps/1972066",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4392576714",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Map U.S. Pumped Storage Hydropower Development Pipeline, 2023",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972066",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "citation_count": 1,
       "doi": "10.2312/pgv.20231081",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "",
@@ -1035,6 +1049,90 @@
       "title": "Understanding Node Allocation on Leadership-Class Supercomputers with Graph Analytics",
       "url": "https://doi.org/10.1109/hpcc-dss-smartcity-dependsys60770.2023.00113",
       "venue": "",
+      "year": 2023
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1972065",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4392576715",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Map U.S. Hydropower Development Pipeline, 2023",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972065",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/2000507",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4403517166",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Lifecycle of US Hydropower Facilities: How data at every stage drives growth",
+      "url": "https://doi.org/10.21951/2000507",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972209",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4392576726",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Global Pumped Storage Hydropower Development Pipeline, 2023",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972209",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972208",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4392576727",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Global Operational Pumped Storage Hydropower, 2023",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972208",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972207",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4392576728",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Global Operational Hydropower, 2023",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972207",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972210",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4392576724",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Global Hydropower Development Pipeline, 2023",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972210",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2023
     },
     {
@@ -1108,7 +1206,7 @@
       "year": 2022
     },
     {
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1109/vis54862.2022.00040",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -1221,6 +1319,20 @@
     },
     {
       "citation_count": 1,
+      "doi": "10.21951/hmr_pipelinemaps/1864509",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4229068496",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Development Pipeline Map 2022",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864509",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2022
+    },
+    {
+      "citation_count": 1,
       "doi": "10.2172/1881112",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1231,6 +1343,20 @@
       "title": "The Exploitation of Data Reduction for Visualization",
       "url": "https://doi.org/10.2172/1881112",
       "venue": "",
+      "year": 2022
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.21951/nationalhydropowermap_fy22/1877924",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4288199915",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "The 2022 National Hydropower Map",
+      "url": "https://doi.org/10.21951/nationalhydropowermap_fy22/1877924",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2022
     },
     {
@@ -1277,6 +1403,34 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.6084/m9.figshare.20995453",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4394455181",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "UT Bldgs - ORNL USA Structure Dataset",
+      "url": "https://doi.org/10.6084/m9.figshare.20995453",
+      "venue": "Figshare",
+      "year": 2022
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1864510",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4229007642",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "U.S. Pumped Storage Hydropower Development Pipeline Map 2022",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864510",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2022
+    },
+    {
+      "citation_count": 0,
       "doi": "10.2172/1895214",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1315,6 +1469,20 @@
       "title": "Leveraging production visualization tools in situ",
       "url": "https://doi.org/10.21079/11681/44844",
       "venue": "",
+      "year": 2022
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.6084/m9.figshare.20514243",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4394518369",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "IL Bldgs - ORNL USA Structure Dataset",
+      "url": "https://doi.org/10.6084/m9.figshare.20514243",
+      "venue": "Figshare",
       "year": 2022
     },
     {
@@ -1360,7 +1528,7 @@
       "year": 2022
     },
     {
-      "citation_count": 68,
+      "citation_count": 69,
       "doi": "10.1109/tc.2021.3092201",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1430,7 +1598,7 @@
       "year": 2021
     },
     {
-      "citation_count": 22,
+      "citation_count": 23,
       "doi": "10.1109/ipdps49936.2021.00095",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1683,6 +1851,34 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1814129",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4287007263",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Pumped Storage Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN.",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814129",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2021
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1814127",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W4403517158",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814127",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2021
+    },
+    {
+      "citation_count": 0,
       "doi": "10.48550/arxiv.2105.12764",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1752,7 +1948,7 @@
       "year": 2020
     },
     {
-      "citation_count": 29,
+      "citation_count": 30,
       "doi": "10.1109/tvcg.2020.3030394",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -1777,6 +1973,20 @@
       "title": "Opportunities for Cost Savings with\u00a0In-Transit Visualization",
       "url": "https://doi.org/10.1007/978-3-030-50743-5_8",
       "venue": "Lecture notes in computer science",
+      "year": 2020
+    },
+    {
+      "citation_count": 17,
+      "doi": "10.1145/3423459.3430760",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W3106969537",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "COVID-19 Joint Pandemic Modeling and Analysis Platform",
+      "url": "https://doi.org/10.1145/3423459.3430760",
+      "venue": "",
       "year": 2020
     },
     {
@@ -1945,6 +2155,20 @@
       "title": "Large-Scale Visualization on Exascale Hardware Technical Advances in the Era of Big Data Analysis and Visualization LDAV 2020 Panel.",
       "url": "https://doi.org/10.2172/1830929",
       "venue": "",
+      "year": 2020
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1007/978-3-030-63393-6_29",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W3118212170",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Examining and Presenting Cycles in Temperature Logs from the Vulcan Diffractometer",
+      "url": "https://doi.org/10.1007/978-3-030-63393-6_29",
+      "venue": "Communications in computer and information science",
       "year": 2020
     },
     {
@@ -2441,7 +2665,7 @@
       "citation_count": 2,
       "doi": "10.1080/15481603.2018.1460933",
       "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "",
+      "openalex_candidate_for": "Erik Schmidt",
       "openalex_url": "https://openalex.org/W2795622682",
       "orcid_evidence": "Erik Schmidt",
       "review_notes": "",
@@ -2606,7 +2830,7 @@
       "year": 2018
     },
     {
-      "citation_count": 179,
+      "citation_count": 180,
       "doi": "10.1177/1094342017704893",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2714,6 +2938,20 @@
       "review_status": "candidate_openalex",
       "title": "In Situ Visualization of Radiation Transport Geometry",
       "url": "https://doi.org/10.1145/3144769.3144770",
+      "venue": "",
+      "year": 2017
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.4324/9781315270838-23",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2904764515",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Big data in emerging cities",
+      "url": "https://doi.org/10.4324/9781315270838-23",
       "venue": "",
       "year": 2017
     },
@@ -3068,7 +3306,7 @@
       "year": 2015
     },
     {
-      "citation_count": 56,
+      "citation_count": 57,
       "doi": "10.1109/tvcg.2015.2467958",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3390,7 +3628,7 @@
       "year": 2013
     },
     {
-      "citation_count": 48,
+      "citation_count": 49,
       "doi": "10.1109/tvcg.2013.208",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3488,6 +3726,20 @@
       "year": 2013
     },
     {
+      "citation_count": 2,
+      "doi": "10.1162/comj_r_00171",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2065529867",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Demos and Late-Breaking Session of the Thirteenth International Society for Music Information Retrieval Conference (ISMIR 2012)",
+      "url": "https://doi.org/10.1162/comj_r_00171",
+      "venue": "Computer Music Journal",
+      "year": 2013
+    },
+    {
       "citation_count": 1,
       "doi": "10.2312/pe.eurovast.eurova13.067-071",
       "group_authors": "Junghoon Chae",
@@ -3558,7 +3810,7 @@
       "year": 2012
     },
     {
-      "citation_count": 42,
+      "citation_count": 43,
       "doi": "10.1201/b12985-17",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4090,6 +4342,20 @@
       "year": 2008
     },
     {
+      "citation_count": 0,
+      "doi": "10.1007/978-1-4020-6872-0_11",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W55329371",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Thresholds, Vagueness and the Psychology of Small Improvements",
+      "url": "https://doi.org/10.1007/978-1-4020-6872-0_11",
+      "venue": "Philosophical studies series",
+      "year": 2008
+    },
+    {
       "citation_count": 33,
       "doi": "10.1109/tvcg.2007.70600",
       "group_authors": "Ken Moreland",
@@ -4539,6 +4805,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.1524/slaw.1989.34.16.424",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2317557886",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "\u201eGeistiges Und Literarisches Leben In Ru\u00dfland 1789 \u2013 1825 Und Die Franz\u00f6sische Revolution\"",
+      "url": "https://doi.org/10.1524/slaw.1989.34.16.424",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1989
+    },
+    {
+      "citation_count": 0,
       "doi": "10.1017/s003181910004448x",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4566,7 +4846,35 @@
       "year": 1987
     },
     {
-      "citation_count": 108,
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1985.30.16.598",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2322424025",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "\u201eDie rassische Literatur der Aufkl\u00e4rung\u201c (1650\u20141825)",
+      "url": "https://doi.org/10.1524/slaw.1985.30.16.598",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1985
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1985.30.16.331",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2318305958",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "\u0397. F. Schmids und \u0392. Trautmanns Programmschrift \u201eWesen und Aufgaben der deutschen Slavistik\u201c (1927)",
+      "url": "https://doi.org/10.1524/slaw.1985.30.16.331",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1985
+    },
+    {
+      "citation_count": 109,
       "doi": "10.1093/aristoteliansupp/56.1.157",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4578,6 +4886,20 @@
       "url": "https://doi.org/10.1093/aristoteliansupp/56.1.157",
       "venue": "Aristotelian Society Supplementary Volume",
       "year": 1982
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1524/slaw.1978.23.1.38",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2325606562",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "L. \u039d. Tolstoj in der realistischen deutschen Literatur des 20. Jahrhunderts",
+      "url": "https://doi.org/10.1524/slaw.1978.23.1.38",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1978
     },
     {
       "citation_count": 0,
@@ -4594,6 +4916,20 @@
       "year": 1972
     },
     {
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1971.16.1.873",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2324167126",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Die deutsche Dostoevskij-Rezeption der 20er Jahre",
+      "url": "https://doi.org/10.1524/slaw.1971.16.1.873",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1971
+    },
+    {
       "citation_count": 7,
       "doi": "10.1080/00201746908601568",
       "group_authors": "David Pugmire",
@@ -4606,6 +4942,20 @@
       "url": "https://doi.org/10.1080/00201746908601568",
       "venue": "Inquiry",
       "year": 1969
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1968.13.1.565",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W2317361790",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Die Dostoevskij-Rezeption der deutschen revolution\u00e4ren Arbeiterbewegung (1920-1925)",
+      "url": "https://doi.org/10.1524/slaw.1968.13.1.565",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1968
     },
     {
       "citation_count": 26,

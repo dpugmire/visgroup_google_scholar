@@ -1,6 +1,6 @@
 [
   {
-    "citation_count": 2223,
+    "citation_count": 2232,
     "google_scholar_url": "https://scholar.google.com/citations?user=FmxWGN0AAAAJ&hl=en",
     "h_index": 22,
     "i10_index": 42,
@@ -14,7 +14,7 @@
     "works_count": 127
   },
   {
-    "citation_count": 2565,
+    "citation_count": 2566,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=d00I5gUAAAAJ",
     "h_index": 23,
     "i10_index": 37,
@@ -28,7 +28,7 @@
     "works_count": 143
   },
   {
-    "citation_count": 265,
+    "citation_count": 272,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=sMiEw1YAAAAJ",
     "h_index": 8,
     "i10_index": 7,
@@ -56,18 +56,18 @@
     "works_count": 36
   },
   {
-    "citation_count": 27,
+    "citation_count": 51,
     "google_scholar_url": "",
-    "h_index": 2,
-    "i10_index": 1,
+    "h_index": 3,
+    "i10_index": 2,
     "id": "erik-schmidt",
     "name": "Erik Schmidt",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-4454-1330",
-    "resolved_openalex_id": "https://openalex.org/A5134876250",
+    "resolved_openalex_id": "https://openalex.org/A5040001193",
     "role": "Current member",
-    "works_count": 5
+    "works_count": 29
   },
   {
     "citation_count": 21,
@@ -81,6 +81,6 @@
     "orcid": "0000-0002-3406-899X",
     "resolved_openalex_id": "https://openalex.org/A5061777250",
     "role": "Current member",
-    "works_count": 14
+    "works_count": 15
   }
 ]

@@ -1,58 +1,63 @@
 {
-  "generated_at": "2026-07-13T12:18:32+00:00",
+  "generated_at": "2026-07-20T11:59:38+00:00",
   "publications": [
     {
       "author_names": [
-        "Erik Schmidt",
-        "Megan Johnson",
-        "Rocio Uria-Martinez"
+        "J Li",
+        "T. A. J. Ouermi",
+        "Mengjiao Han",
+        "Chris R. Johnson"
       ],
       "authors": [
         {
-          "name": "Erik Schmidt",
-          "openalex_id": "https://openalex.org/A5134876250"
+          "name": "J Li",
+          "openalex_id": "https://openalex.org/A5074090396"
         },
         {
-          "name": "Megan Johnson",
-          "openalex_id": "https://openalex.org/A5130988322"
+          "name": "T. A. J. Ouermi",
+          "openalex_id": "https://openalex.org/A5061777250"
         },
         {
-          "name": "Rocio Uria-Martinez",
-          "openalex_id": "https://openalex.org/A5099130915"
+          "name": "Mengjiao Han",
+          "openalex_id": "https://openalex.org/A5141066677"
+        },
+        {
+          "name": "Chris R. Johnson",
+          "openalex_id": "https://openalex.org/A5048780291"
         }
       ],
       "biblio": {
-        "first_page": "",
+        "first_page": "1",
         "issue": "",
-        "last_page": "",
-        "volume": ""
+        "last_page": "13",
+        "volume": "PP"
       },
       "citation_count": 0,
-      "doi": "10.21951/hmr_relicensesurrender/3031246",
-      "doi_url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
+      "doi": "10.1109/mcg.2026.3714725",
+      "doi_url": "https://doi.org/10.1109/mcg.2026.3714725",
       "group_author_ids": [
-        "erik-schmidt"
+        "timbwaoga-ouermi"
       ],
-      "id": "doi:10.21951/hmr_relicensesurrender/3031246",
-      "oa_url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
+      "id": "doi:10.1109/mcg.2026.3714725",
+      "oa_url": "",
       "openalex_author_person_ids": [
-        "erik-schmidt"
+        "timbwaoga-ouermi"
       ],
-      "openalex_id": "https://openalex.org/W7160849215",
+      "openalex_id": "https://openalex.org/W7169606422",
       "openalex_ids": [
-        "https://openalex.org/W7160849215"
+        "https://openalex.org/W7169606422"
       ],
-      "openalex_url": "https://openalex.org/W7160849215",
+      "openalex_url": "https://openalex.org/W7169606422",
       "orcid_person_ids": [],
-      "publication_date": "2026-05-11",
+      "publication_date": "2026-01-01",
       "review_notes": [
         "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
       ],
       "review_status": "candidate_openalex",
-      "title": "U.S. Hydropower Relicense and Surrender Pipeline Map, 2026",
-      "type": "dataset",
-      "url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
-      "venue": "DOE Oak Ridge National Laboratory (ORNL) Repository",
+      "title": "WebUVisBox: A Scenario-Based Framework for Collaborative and Accessible 3D Uncertainty Visualization on the Web",
+      "type": "article",
+      "url": "https://doi.org/10.1109/mcg.2026.3714725",
+      "venue": "IEEE Computer Graphics and Applications",
       "year": 2026
     },
     {
@@ -198,7 +203,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/pacificvis68791.2026.00029",
       "venue": "",
       "year": 2026
@@ -429,55 +434,6 @@
     },
     {
       "author_names": [
-        "Maggie Davis",
-        "Erik Schmidt"
-      ],
-      "authors": [
-        {
-          "name": "Maggie Davis",
-          "openalex_id": "https://openalex.org/A5134907990"
-        },
-        {
-          "name": "Erik Schmidt",
-          "openalex_id": "https://openalex.org/A5134876250"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.11578/biomass_dss/dc.20260430.1",
-      "doi_url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
-      "group_author_ids": [
-        "erik-schmidt"
-      ],
-      "id": "doi:10.11578/biomass_dss/dc.20260430.1",
-      "oa_url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
-      "openalex_author_person_ids": [
-        "erik-schmidt"
-      ],
-      "openalex_id": "https://openalex.org/W7158473150",
-      "openalex_ids": [
-        "https://openalex.org/W7158473150"
-      ],
-      "openalex_url": "https://openalex.org/W7158473150",
-      "orcid_person_ids": [],
-      "publication_date": "2026-01-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Decision Support System",
-      "type": "software",
-      "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2026
-    },
-    {
-      "author_names": [
         "Xue Xiao",
         "Tushar M. Athawale",
         "Jon W.S.; id_orcid 0000-0002-9606-0408 McCullough",
@@ -550,7 +506,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Corrigendum to \u2018An uncertainty visualization framework for large-scale cardiovascular flow simulations: A case study on aortic stenosis\u2019 [J. Comput. Sci., vol. 99 (2026), 102914]",
-      "type": "article",
+      "type": "erratum",
       "url": "https://doi.org/10.1016/j.jocs.2026.102963",
       "venue": "Journal of Computational Science",
       "year": 2026
@@ -613,7 +569,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1016/j.jocs.2026.102914",
-      "oa_url": "https://arxiv.org/pdf/2508.15420",
+      "oa_url": "https://doi.org/10.1016/j.jocs.2026.102914",
       "openalex_author_person_ids": [
         "tushar-athawale"
       ],
@@ -629,7 +585,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "An uncertainty visualization framework for large-scale cardiovascular flow simulations: A case study on aortic stenosis",
-      "type": "preprint",
+      "type": "article",
       "url": "https://doi.org/10.1016/j.jocs.2026.102914",
       "venue": "Journal of Computational Science",
       "year": 2026
@@ -782,7 +738,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Stability-preserving Lossy Compression for Large-scale Partial Differential Equations",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3712285.3759878",
       "venue": "",
       "year": 2025
@@ -911,7 +867,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3712285.3771989",
       "venue": "",
       "year": 2025
@@ -977,7 +933,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visualization of Noisy and Less Noisy Computational Basis States in Quantum Computing",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/qsw67625.2025.00011",
       "venue": "",
       "year": 2025
@@ -1076,7 +1032,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3712285.3759795",
       "venue": "",
       "year": 2025
@@ -1201,7 +1157,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "GASP: Gradient-Aware Shortest Path Algorithm for Boundary-Confined 2-Manifold Reeb Graph Visualization",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/topoinvis68599.2025.00006",
       "venue": "",
       "year": 2025
@@ -1441,7 +1397,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visual Analytics of Crosstalk in Quantum Hardware",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/qce65121.2025.10450",
       "venue": "",
       "year": 2025
@@ -1503,7 +1459,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Uncertainty Tube Visualization of Particle Trajectories",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00005",
       "venue": "",
       "year": 2025
@@ -2052,7 +2008,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00006",
       "venue": "",
       "year": 2025
@@ -2383,7 +2339,7 @@
         "last_page": "502",
         "volume": "239"
       },
-      "citation_count": 42,
+      "citation_count": 43,
       "doi": "10.1093/gji/ggae270",
       "doi_url": "https://doi.org/10.1093/gji/ggae270",
       "group_author_ids": [
@@ -2490,7 +2446,9 @@
       ],
       "id": "doi:10.1038/s41597-024-03219-x",
       "oa_url": "https://www.nature.com/articles/s41597-024-03219-x.pdf",
-      "openalex_author_person_ids": [],
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
       "openalex_id": "https://openalex.org/W4396976240",
       "openalex_ids": [
         "https://openalex.org/W4396976240"
@@ -2503,7 +2461,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "A baseline structure inventory with critical attribution for the US and its territories",
-      "type": "article",
+      "type": "data-paper",
       "url": "https://doi.org/10.1038/s41597-024-03219-x",
       "venue": "Scientific Data",
       "year": 2024
@@ -2574,7 +2532,7 @@
         "last_page": "18",
         "volume": ""
       },
-      "citation_count": 7,
+      "citation_count": 8,
       "doi": "10.1109/sc41406.2024.00091",
       "doi_url": "https://doi.org/10.1109/sc41406.2024.00091",
       "group_author_ids": [
@@ -2597,7 +2555,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc41406.2024.00091",
       "venue": "",
       "year": 2024
@@ -2676,7 +2634,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "PQML: Enabling the Predictive Reproducibility on NISQ Machines for Quantum ML Applications",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/qce60285.2024.00168",
       "venue": "",
       "year": 2024
@@ -2732,7 +2690,7 @@
         "last_page": "72",
         "volume": ""
       },
-      "citation_count": 2,
+      "citation_count": 3,
       "doi": "10.1109/uncertaintyvisualization63963.2024.00013",
       "doi_url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00013",
       "group_author_ids": [
@@ -2757,7 +2715,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Uncertainty-Informed Volume Visualization using Implicit Neural Representation",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00013",
       "venue": "",
       "year": 2024
@@ -2904,7 +2862,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Glyph-Based Uncertainty Visualization and Analysis of Time-Varying Vector Fields",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00014",
       "venue": "",
       "year": 2024
@@ -3008,7 +2966,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "A General Framework for Error-controlled Unstructured Scientific Data Compression",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678699",
       "venue": "",
       "year": 2024
@@ -3179,7 +3137,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visual Analytics of Performance of Quantum Computing Systems and Circuit Optimization",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/isvlsi61997.2024.00116",
       "venue": "",
       "year": 2024
@@ -3270,7 +3228,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "FunM<sup>2</sup>C: A Filter for Uncertainty Visualization of Multivariate Data on Multi-Core Devices",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00010",
       "venue": "",
       "year": 2024
@@ -3331,7 +3289,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Estimation and Visualization of Isosurface Uncertainty from Linear and High-Order Interpolation Methods",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00012",
       "venue": "",
       "year": 2024
@@ -3415,7 +3373,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Ensemble Simulations on Leadership Computing Systems",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/scw63240.2024.00059",
       "venue": "",
       "year": 2024
@@ -3476,9 +3434,68 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Data-Driven Computation of Probabilistic Marching Cubes for Efficient Visualization of Level-Set Uncertainty",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.2312/evs.20241071",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2024
+    },
+    {
+      "author_names": [
+        "Mengjiao Han",
+        "Tushar M. Athawale",
+        "Jixian Li",
+        "Chris R. Johnson"
+      ],
+      "authors": [
+        {
+          "name": "Mengjiao Han",
+          "openalex_id": "https://openalex.org/A5076196910"
+        },
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Jixian Li",
+          "openalex_id": "https://openalex.org/A5080356123"
+        },
+        {
+          "name": "Chris R. Johnson",
+          "openalex_id": "https://openalex.org/A5048780291"
+        }
+      ],
+      "biblio": {
+        "first_page": "38",
+        "issue": "",
+        "last_page": "42",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.1109/uncertaintyvisualization63963.2024.00009",
+      "doi_url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00009",
+      "group_author_ids": [
+        "tushar-athawale"
+      ],
+      "id": "doi:10.1109/uncertaintyvisualization63963.2024.00009",
+      "oa_url": "https://www.osti.gov/servlets/purl/2538111",
+      "openalex_author_person_ids": [
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W4404371185",
+      "openalex_ids": [
+        "https://openalex.org/W4404371185"
+      ],
+      "openalex_url": "https://openalex.org/W4404371185",
+      "orcid_person_ids": [
+        "tushar-athawale"
+      ],
+      "publication_date": "2024-10-14",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "Accelerated Depth Computation for Surface Boxplots with Deep Learning",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00009",
+      "venue": "",
       "year": 2024
     },
     {
@@ -3545,7 +3562,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "A Personalized AI Assistant For Intuition-Driven Visual Explorations",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678681",
       "venue": "",
       "year": 2024
@@ -3599,7 +3616,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Visualizing Uncertainties in Ensemble Wildfire Forecast Simulations",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00016",
       "venue": "",
       "year": 2024
@@ -3824,6 +3841,60 @@
     },
     {
       "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_storymap/2447930",
+      "doi_url": "https://doi.org/10.21951/hmr_storymap/2447930",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_storymap/2447930",
+      "oa_url": "https://www.osti.gov/biblio/2447930",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4403381682",
+      "openalex_ids": [
+        "https://openalex.org/W4403381682"
+      ],
+      "openalex_url": "https://openalex.org/W4403381682",
+      "orcid_person_ids": [],
+      "publication_date": "2024-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Market Report Story Map",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_storymap/2447930",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2024
+    },
+    {
+      "author_names": [
         "David Pugmire",
         "Kenneth Moreland",
         "Tushar M. Athawale",
@@ -3885,7 +3956,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Top Research Challenges and Opportunities for Near Real-Time Extreme-Scale Visualization of Scientific Data",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678727",
       "venue": "",
       "year": 2024
@@ -3988,7 +4059,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "SNNVis: Visualizing Graph Embedding of Evolutionary Optimization for Spiking Neural Networks",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/icons62911.2024.00056",
       "venue": "",
       "year": 2024
@@ -4163,7 +4234,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "IEEE LDAV 2024 Preface",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav64567.2024.00005",
       "venue": "",
       "year": 2024
@@ -4405,67 +4476,8 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "An Entropy-Based Test and Development Framework for Uncertainty Modeling in Level-Set Visualizations",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00015",
-      "venue": "",
-      "year": 2024
-    },
-    {
-      "author_names": [
-        "Mengjiao Han",
-        "Tushar M. Athawale",
-        "Jixian Li",
-        "Chris R. Johnson"
-      ],
-      "authors": [
-        {
-          "name": "Mengjiao Han",
-          "openalex_id": "https://openalex.org/A5076196910"
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Jixian Li",
-          "openalex_id": "https://openalex.org/A5080356123"
-        },
-        {
-          "name": "Chris R. Johnson",
-          "openalex_id": "https://openalex.org/A5048780291"
-        }
-      ],
-      "biblio": {
-        "first_page": "38",
-        "issue": "",
-        "last_page": "42",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1109/uncertaintyvisualization63963.2024.00009",
-      "doi_url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00009",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1109/uncertaintyvisualization63963.2024.00009",
-      "oa_url": "https://www.osti.gov/servlets/purl/2538111",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4404371185",
-      "openalex_ids": [
-        "https://openalex.org/W4404371185"
-      ],
-      "openalex_url": "https://openalex.org/W4404371185",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2024-10-14",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Accelerated Depth Computation for Surface Boxplots with Deep Learning",
-      "type": "article",
-      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00009",
       "venue": "",
       "year": 2024
     },
@@ -4943,7 +4955,7 @@
         "last_page": "1838",
         "volume": "51"
       },
-      "citation_count": 78,
+      "citation_count": 80,
       "doi": "10.1109/tps.2023.3268170",
       "doi_url": "https://doi.org/10.1109/tps.2023.3268170",
       "group_author_ids": [
@@ -5020,7 +5032,9 @@
       ],
       "id": "doi:10.2172/2076189",
       "oa_url": "https://www.osti.gov/servlets/purl/2076189",
-      "openalex_author_person_ids": [],
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
       "openalex_id": "https://openalex.org/W4387730001",
       "openalex_ids": [
         "https://openalex.org/W4387730001"
@@ -5164,7 +5178,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Advancing Comprehension of Quantum Application Outputs: A Visualization Technique",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3588983.3596689",
       "venue": "",
       "year": 2023
@@ -5313,7 +5327,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "VTK-m: Visualization for the Exascale Era and Beyond",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3587421.3595466",
       "venue": "",
       "year": 2023
@@ -5470,9 +5484,63 @@
       ],
       "review_status": "candidate_openalex",
       "title": "QVis: A Visual Analytics Tool for Exploring Noise and Errors in Quantum Computing Systems",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/qce57702.2023.10215",
       "venue": "",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.21951/hmr_pipelinemaps/1972066",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1972066",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1972066",
+      "oa_url": "https://www.osti.gov/biblio/1972066",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576714",
+      "openalex_ids": [
+        "https://openalex.org/W4392576714"
+      ],
+      "openalex_url": "https://openalex.org/W4392576714",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Map U.S. Pumped Storage Hydropower Development Pipeline, 2023",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972066",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2023
     },
     {
@@ -5663,7 +5731,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "VTK-m v. 2.0",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.11578/dc.20230405.1",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2023
@@ -5752,9 +5820,343 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Understanding Node Allocation on Leadership-Class Supercomputers with Graph Analytics",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/hpcc-dss-smartcity-dependsys60770.2023.00113",
       "venue": "",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1972065",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1972065",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1972065",
+      "oa_url": "https://www.osti.gov/biblio/1972065",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576715",
+      "openalex_ids": [
+        "https://openalex.org/W4392576715"
+      ],
+      "openalex_url": "https://openalex.org/W4392576715",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Map U.S. Hydropower Development Pipeline, 2023",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972065",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Debjani Singh",
+        "Thomas Ruggles",
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Mchale, Mimi"
+      ],
+      "authors": [
+        {
+          "name": "Debjani Singh",
+          "openalex_id": "https://openalex.org/A5110928508"
+        },
+        {
+          "name": "Thomas Ruggles",
+          "openalex_id": "https://openalex.org/A5025288504"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Mchale, Mimi",
+          "openalex_id": ""
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/2000507",
+      "doi_url": "https://doi.org/10.21951/2000507",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/2000507",
+      "oa_url": "https://www.osti.gov/biblio/2000507",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4403517166",
+      "openalex_ids": [
+        "https://openalex.org/W4403517166"
+      ],
+      "openalex_url": "https://openalex.org/W4403517166",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Lifecycle of US Hydropower Facilities: How data at every stage drives growth",
+      "type": "other",
+      "url": "https://doi.org/10.21951/2000507",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972209",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972209",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972209",
+      "oa_url": "https://www.osti.gov/biblio/1972209",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576726",
+      "openalex_ids": [
+        "https://openalex.org/W4392576726"
+      ],
+      "openalex_url": "https://openalex.org/W4392576726",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Pumped Storage Hydropower Development Pipeline, 2023",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972209",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972208",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972208",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972208",
+      "oa_url": "https://www.osti.gov/biblio/1972208",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576727",
+      "openalex_ids": [
+        "https://openalex.org/W4392576727"
+      ],
+      "openalex_url": "https://openalex.org/W4392576727",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Operational Pumped Storage Hydropower, 2023",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972208",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972207",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972207",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972207",
+      "oa_url": "https://www.osti.gov/biblio/1972207",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576728",
+      "openalex_ids": [
+        "https://openalex.org/W4392576728"
+      ],
+      "openalex_url": "https://openalex.org/W4392576728",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Operational Hydropower, 2023",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972207",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972210",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972210",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972210",
+      "oa_url": "https://www.osti.gov/biblio/1972210",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576724",
+      "openalex_ids": [
+        "https://openalex.org/W4392576724"
+      ],
+      "openalex_url": "https://openalex.org/W4392576724",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Hydropower Development Pipeline, 2023",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972210",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2023
     },
     {
@@ -6014,7 +6416,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Maintaining Trust in Reduction: Preserving the Accuracy of Quantities of Interest for Lossy Compression",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-96498-6_2",
       "venue": "Communications in computer and information science",
       "year": 2022
@@ -6196,7 +6598,7 @@
         "last_page": "159",
         "volume": ""
       },
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1109/vis54862.2022.00040",
       "doi_url": "https://doi.org/10.1109/vis54862.2022.00040",
       "group_author_ids": [
@@ -6221,7 +6623,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vis54862.2022.00040",
       "venue": "",
       "year": 2022
@@ -6325,7 +6727,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Hybrid Analysis of Fusion Data for Online Understanding of Complex Science on Extreme Scale Computers",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/cluster51413.2022.00035",
       "venue": "",
       "year": 2022
@@ -6386,7 +6788,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "The Need for\u00a0Pervasive In\u00a0Situ Analysis and\u00a0Visualization (P-ISAV)",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-031-23220-6_21",
       "venue": "Lecture notes in computer science",
       "year": 2022
@@ -6807,7 +7209,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Graph-based Cascading Impact Estimation for Identifying Crucial Infrastructure Components",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/bigdata55660.2022.10020811",
       "venue": "2022 IEEE International Conference on Big Data (Big Data)",
       "year": 2022
@@ -6868,6 +7270,60 @@
     },
     {
       "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.21951/hmr_pipelinemaps/1864509",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1864509",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1864509",
+      "oa_url": "https://www.osti.gov/biblio/1864509",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4229068496",
+      "openalex_ids": [
+        "https://openalex.org/W4229068496"
+      ],
+      "openalex_url": "https://openalex.org/W4229068496",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Development Pipeline Map 2022",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864509",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2022
+    },
+    {
+      "author_names": [
         "Kenneth Moreland",
         "David Pugmire",
         "Jieyang Chen"
@@ -6920,6 +7376,50 @@
       "type": "report",
       "url": "https://doi.org/10.2172/1881112",
       "venue": "",
+      "year": 2022
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.21951/nationalhydropowermap_fy22/1877924",
+      "doi_url": "https://doi.org/10.21951/nationalhydropowermap_fy22/1877924",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/nationalhydropowermap_fy22/1877924",
+      "oa_url": "https://www.osti.gov/biblio/1877924",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4288199915",
+      "openalex_ids": [
+        "https://openalex.org/W4288199915"
+      ],
+      "openalex_url": "https://openalex.org/W4288199915",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "The 2022 National Hydropower Map",
+      "type": "other",
+      "url": "https://doi.org/10.21951/nationalhydropowermap_fy22/1877924",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2022
     },
     {
@@ -7167,6 +7667,149 @@
       "type": "book-chapter",
       "url": "https://doi.org/10.1007/978-3-030-81627-8_10",
       "venue": "Mathematics and visualization",
+      "year": 2022
+    },
+    {
+      "author_names": [
+        "H. Lexie Yang",
+        "Mark Tuttle",
+        "Melanie Laverdiere",
+        "Taylor Hauser",
+        "Benjamin Swan",
+        "Erik Schmidt",
+        "Jessica Moehl",
+        "Andrew Reith",
+        "Jacob McKee",
+        "Matt Whitehead"
+      ],
+      "authors": [
+        {
+          "name": "H. Lexie Yang",
+          "openalex_id": "https://openalex.org/A5024089585"
+        },
+        {
+          "name": "Mark Tuttle",
+          "openalex_id": "https://openalex.org/A5074700178"
+        },
+        {
+          "name": "Melanie Laverdiere",
+          "openalex_id": "https://openalex.org/A5058451584"
+        },
+        {
+          "name": "Taylor Hauser",
+          "openalex_id": "https://openalex.org/A5089635612"
+        },
+        {
+          "name": "Benjamin Swan",
+          "openalex_id": "https://openalex.org/A5067431685"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Jessica Moehl",
+          "openalex_id": "https://openalex.org/A5077453893"
+        },
+        {
+          "name": "Andrew Reith",
+          "openalex_id": "https://openalex.org/A5063529123"
+        },
+        {
+          "name": "Jacob McKee",
+          "openalex_id": "https://openalex.org/A5048709163"
+        },
+        {
+          "name": "Matt Whitehead",
+          "openalex_id": "https://openalex.org/A5023914529"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.6084/m9.figshare.20995453",
+      "doi_url": "https://doi.org/10.6084/m9.figshare.20995453",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.6084/m9.figshare.20995453",
+      "oa_url": "https://doi.org/10.6084/m9.figshare.20995453",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4394455181",
+      "openalex_ids": [
+        "https://openalex.org/W4394455181"
+      ],
+      "openalex_url": "https://openalex.org/W4394455181",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "UT Bldgs - ORNL USA Structure Dataset",
+      "type": "dataset",
+      "url": "https://doi.org/10.6084/m9.figshare.20995453",
+      "venue": "Figshare",
+      "year": 2022
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1864510",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1864510",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1864510",
+      "oa_url": "https://www.osti.gov/biblio/1864510",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4229007642",
+      "openalex_ids": [
+        "https://openalex.org/W4229007642"
+      ],
+      "openalex_url": "https://openalex.org/W4229007642",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "U.S. Pumped Storage Hydropower Development Pipeline Map 2022",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864510",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2022
     },
     {
@@ -7427,6 +8070,95 @@
     },
     {
       "author_names": [
+        "H. Lexie Yang",
+        "Mark Tuttle",
+        "Melanie Laverdiere",
+        "Taylor Hauser",
+        "Benjamin Swan",
+        "Erik Schmidt",
+        "Jessica Moehl",
+        "Andrew Reith",
+        "Jacob McKee",
+        "Matt Whitehead"
+      ],
+      "authors": [
+        {
+          "name": "H. Lexie Yang",
+          "openalex_id": "https://openalex.org/A5024089585"
+        },
+        {
+          "name": "Mark Tuttle",
+          "openalex_id": "https://openalex.org/A5074700178"
+        },
+        {
+          "name": "Melanie Laverdiere",
+          "openalex_id": "https://openalex.org/A5058451584"
+        },
+        {
+          "name": "Taylor Hauser",
+          "openalex_id": "https://openalex.org/A5089635612"
+        },
+        {
+          "name": "Benjamin Swan",
+          "openalex_id": "https://openalex.org/A5067431685"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Jessica Moehl",
+          "openalex_id": "https://openalex.org/A5077453893"
+        },
+        {
+          "name": "Andrew Reith",
+          "openalex_id": "https://openalex.org/A5063529123"
+        },
+        {
+          "name": "Jacob McKee",
+          "openalex_id": "https://openalex.org/A5048709163"
+        },
+        {
+          "name": "Matt Whitehead",
+          "openalex_id": "https://openalex.org/A5023914529"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.6084/m9.figshare.20514243",
+      "doi_url": "https://doi.org/10.6084/m9.figshare.20514243",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.6084/m9.figshare.20514243",
+      "oa_url": "https://doi.org/10.6084/m9.figshare.20514243",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4394518369",
+      "openalex_ids": [
+        "https://openalex.org/W4394518369"
+      ],
+      "openalex_url": "https://openalex.org/W4394518369",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "IL Bldgs - ORNL USA Structure Dataset",
+      "type": "dataset",
+      "url": "https://doi.org/10.6084/m9.figshare.20514243",
+      "venue": "Figshare",
+      "year": 2022
+    },
+    {
+      "author_names": [
         "Tushar M. Athawale",
         "Chris R. Johnson",
         "Sudhanshu Sane",
@@ -7682,7 +8414,7 @@
         "last_page": "1536",
         "volume": "71"
       },
-      "citation_count": 68,
+      "citation_count": 69,
       "doi": "10.1109/tc.2021.3092201",
       "doi_url": "https://doi.org/10.1109/tc.2021.3092201",
       "group_author_ids": [
@@ -7764,7 +8496,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "TangibleData: Interactive Data Visualization with Mid-Air Haptics",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3489849.3489890",
       "venue": "",
       "year": 2021
@@ -8037,7 +8769,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Error-controlled, progressive, and adaptable retrieval of scientific data with multilevel decomposition",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3458817.3476179",
       "venue": "",
       "year": 2021
@@ -8262,7 +8994,7 @@
         "last_page": "868",
         "volume": ""
       },
-      "citation_count": 22,
+      "citation_count": 23,
       "doi": "10.1109/ipdps49936.2021.00095",
       "doi_url": "https://doi.org/10.1109/ipdps49936.2021.00095",
       "group_author_ids": [
@@ -8285,7 +9017,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ipdps49936.2021.00095",
       "venue": "",
       "year": 2021
@@ -8359,7 +9091,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Catalyst Revised: Rethinking the ParaView in Situ Analysis and Visualization API",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-90539-2_33",
       "venue": "Lecture notes in computer science",
       "year": 2021
@@ -8707,7 +9439,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Fides: A General Purpose Data Model Library for Streaming Data",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-90539-2_34",
       "venue": "Lecture notes in computer science",
       "year": 2021
@@ -8980,7 +9712,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Visualizing Interactions Between Solar Photovoltaic Farms and the Atmospheric Boundary Layer",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3447555.3466599",
       "venue": "",
       "year": 2021
@@ -9054,7 +9786,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visual Understanding of COVID-19 Knowledge Graph for Predictive Analysis",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/bigdata52589.2021.9672055",
       "venue": "2021 IEEE International Conference on Big Data (Big Data)",
       "year": 2021
@@ -9113,7 +9845,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "GPU-based Image Compression for Efficient Compositing in Distributed Rendering Applications",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav53230.2021.00012",
       "venue": "",
       "year": 2021
@@ -9207,7 +9939,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Data Analysis Approach for Large Data Volumes in a Connected Community",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/isgt49243.2021.9372256",
       "venue": "",
       "year": 2021
@@ -9286,7 +10018,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Scalable In Situ Computation of Lagrangian Representations via Local Flow Maps",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.2312/pgv.20211040",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2021
@@ -9546,7 +10278,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Uncertainty Visualization of the Marching Squares and Marching Cubes Topology Cases",
-      "type": "preprint",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vis49827.2021.9623267",
       "venue": "",
       "year": 2021
@@ -9608,6 +10340,114 @@
       "type": "preprint",
       "url": "https://doi.org/10.48550/arxiv.2106.12138",
       "venue": "arXiv (Cornell University)",
+      "year": 2021
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1814129",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1814129",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1814129",
+      "oa_url": "https://hydrosource.s3.us-east-2.amazonaws.com/files/data/maps/us-pumped-storage-hydropower-development-pipeline-2021/hmr_us_psh_2021.pdf",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4287007263",
+      "openalex_ids": [
+        "https://openalex.org/W4287007263"
+      ],
+      "openalex_url": "https://openalex.org/W4287007263",
+      "orcid_person_ids": [],
+      "publication_date": "2021-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Pumped Storage Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN.",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814129",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2021
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1814127",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1814127",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1814127",
+      "oa_url": "https://hydrosource.s3.us-east-2.amazonaws.com/files/data/maps/map-us-hydropower-development-pipeline-2021/hmr_us_hy_2021.pdf",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4403517158",
+      "openalex_ids": [
+        "https://openalex.org/W4403517158"
+      ],
+      "openalex_url": "https://openalex.org/W4403517158",
+      "orcid_person_ids": [],
+      "publication_date": "2021-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN",
+      "type": "other",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814127",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2021
     },
     {
@@ -9942,7 +10782,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management",
-      "type": "article",
+      "type": "software-paper",
       "url": "https://doi.org/10.1016/j.softx.2020.100561",
       "venue": "SoftwareX",
       "year": 2020
@@ -10398,7 +11238,7 @@
         "last_page": "1807",
         "volume": "27"
       },
-      "citation_count": 29,
+      "citation_count": 30,
       "doi": "10.1109/tvcg.2020.3030394",
       "doi_url": "https://doi.org/10.1109/tvcg.2020.3030394",
       "group_author_ids": [
@@ -10505,9 +11345,103 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Opportunities for Cost Savings with\u00a0In-Transit Visualization",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-50743-5_8",
       "venue": "Lecture notes in computer science",
+      "year": 2020
+    },
+    {
+      "author_names": [
+        "Gautam Thakur",
+        "K. Sparks",
+        "Andy Berres",
+        "Varisara Tansakul",
+        "Supriya Chinthavali",
+        "Matthew Whitehead",
+        "Erik Schmidt",
+        "Haowen Xu",
+        "Junchuan Fan",
+        "Dustin Spears",
+        "Elton Cranfill"
+      ],
+      "authors": [
+        {
+          "name": "Gautam Thakur",
+          "openalex_id": "https://openalex.org/A5109581864"
+        },
+        {
+          "name": "K. Sparks",
+          "openalex_id": "https://openalex.org/A5071367873"
+        },
+        {
+          "name": "Andy Berres",
+          "openalex_id": "https://openalex.org/A5015051311"
+        },
+        {
+          "name": "Varisara Tansakul",
+          "openalex_id": "https://openalex.org/A5081065900"
+        },
+        {
+          "name": "Supriya Chinthavali",
+          "openalex_id": "https://openalex.org/A5041052894"
+        },
+        {
+          "name": "Matthew Whitehead",
+          "openalex_id": "https://openalex.org/A5049406568"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Haowen Xu",
+          "openalex_id": "https://openalex.org/A5018883565"
+        },
+        {
+          "name": "Junchuan Fan",
+          "openalex_id": "https://openalex.org/A5018366475"
+        },
+        {
+          "name": "Dustin Spears",
+          "openalex_id": "https://openalex.org/A5012865256"
+        },
+        {
+          "name": "Elton Cranfill",
+          "openalex_id": "https://openalex.org/A5033221715"
+        }
+      ],
+      "biblio": {
+        "first_page": "43",
+        "issue": "",
+        "last_page": "52",
+        "volume": ""
+      },
+      "citation_count": 17,
+      "doi": "10.1145/3423459.3430760",
+      "doi_url": "https://doi.org/10.1145/3423459.3430760",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1145/3423459.3430760",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W3106969537",
+      "openalex_ids": [
+        "https://openalex.org/W3106969537"
+      ],
+      "openalex_url": "https://openalex.org/W3106969537",
+      "orcid_person_ids": [],
+      "publication_date": "2020-11-03",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "COVID-19 Joint Pandemic Modeling and Analysis Platform",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/3423459.3430760",
+      "venue": "",
       "year": 2020
     },
     {
@@ -10747,7 +11681,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Comparing Time-to-Solution for In Situ Visualization Paradigms at Scale",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav51489.2020.00009",
       "venue": "",
       "year": 2020
@@ -10886,7 +11820,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visualization as a Service for Scientific Data",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-63393-6_11",
       "venue": "Communications in computer and information science",
       "year": 2020
@@ -10945,7 +11879,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Parallel Particle Advection Bake-Off for Scientific Visualization Workloads",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/cluster49012.2020.00048",
       "venue": "",
       "year": 2020
@@ -11009,7 +11943,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/cbms49503.2020.00092",
       "venue": "",
       "year": 2020
@@ -11358,9 +12292,68 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Large-Scale Visualization on Exascale Hardware Technical Advances in the Era of Big Data Analysis and Visualization LDAV 2020 Panel.",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.2172/1830929",
       "venue": "",
+      "year": 2020
+    },
+    {
+      "author_names": [
+        "Regan Moreno",
+        "Chad A. Steed",
+        "Katherine Engstrom",
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Regan Moreno",
+          "openalex_id": "https://openalex.org/A5006883368"
+        },
+        {
+          "name": "Chad A. Steed",
+          "openalex_id": "https://openalex.org/A5048471884"
+        },
+        {
+          "name": "Katherine Engstrom",
+          "openalex_id": "https://openalex.org/A5056174573"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "443",
+        "issue": "",
+        "last_page": "450",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.1007/978-3-030-63393-6_29",
+      "doi_url": "https://doi.org/10.1007/978-3-030-63393-6_29",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1007/978-3-030-63393-6_29",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W3118212170",
+      "openalex_ids": [
+        "https://openalex.org/W3118212170"
+      ],
+      "openalex_url": "https://openalex.org/W3118212170",
+      "orcid_person_ids": [],
+      "publication_date": "2020-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Examining and Presenting Cycles in Temperature Logs from the Vulcan Diffractometer",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1007/978-3-030-63393-6_29",
+      "venue": "Communications in computer and information science",
       "year": 2020
     },
     {
@@ -11592,7 +12585,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Comparing the Efficiency of In Situ Visualization Paradigms at Scale",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-20656-7_6",
       "venue": "Lecture notes in computer science",
       "year": 2019
@@ -11651,7 +12644,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav48142.2019.8944355",
       "venue": "",
       "year": 2019
@@ -11740,7 +12733,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Understanding Performance-Quality Trade-offs in Scientific Visualization Workflows with Lossy Compression",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/drbsd-549595.2019.00006",
       "venue": "",
       "year": 2019
@@ -11868,7 +12861,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/bigdata47090.2019.9006048",
       "venue": "",
       "year": 2019
@@ -11942,7 +12935,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Fine-Grained Exploitation of Mixed Precision for Faster CNN Training",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/mlhpc49564.2019.00007",
       "venue": "",
       "year": 2019
@@ -12016,7 +13009,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visualization System for Evolutionary Neural Networks for Deep Learning",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/bigdata47090.2019.9006470",
       "venue": "",
       "year": 2019
@@ -12115,7 +13108,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Exascale Deep Learning to Accelerate Cancer Research",
-      "type": "preprint",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/bigdata47090.2019.9006467",
       "venue": "",
       "year": 2019
@@ -12169,7 +13162,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "PAVE: An In Situ Framework for Scientific Visualization and Machine Learning Coupling",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/drbsd-549595.2019.00007",
       "venue": "",
       "year": 2019
@@ -12223,7 +13216,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "In situ particle advection via parallelizing over particles",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3364228.3364235",
       "venue": "",
       "year": 2019
@@ -12277,7 +13270,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Efficient Point Merging Using Data Parallel Techniques",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.2312/pgv.20191112",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2019
@@ -12471,7 +13464,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "A Statistical Framework for Visualization of Positional Uncertainty in Deep Brain Stimulation Electrodes",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vahc47919.2019.8945037",
       "venue": "",
       "year": 2019
@@ -13263,7 +14256,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Coupling Exascale Multiphysics Applications: Methods and Lessons Learned",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/escience.2018.00133",
       "venue": "",
       "year": 2018
@@ -13386,7 +14379,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Performance-Portable Particle Advection with VTK-m",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.2312/pgv.20181094",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2018
@@ -13594,7 +14587,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "A View from ORNL: Scientific Data Research Opportunities in the Big Data Age",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/icdcs.2018.00136",
       "venue": "",
       "year": 2018
@@ -13725,7 +14718,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "In Situ Analysis and Visualization of Fusion Simulations: Lessons Learned",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-02465-9_16",
       "venue": "Lecture notes in computer science",
       "year": 2018
@@ -13794,7 +14787,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Binning Based Data Reduction for Vector Field Data of a Particle-In-Cell Fusion Simulation",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-02465-9_15",
       "venue": "Lecture notes in computer science",
       "year": 2018
@@ -13838,7 +14831,9 @@
       ],
       "id": "doi:10.1080/15481603.2018.1460933",
       "oa_url": "https://www.osti.gov/biblio/1471940",
-      "openalex_author_person_ids": [],
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
       "openalex_id": "https://openalex.org/W2795622682",
       "openalex_ids": [
         "https://openalex.org/W2795622682"
@@ -13949,7 +14944,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Comparing Binary-Swap Algorithms for Odd Factors of Processes",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav.2018.8739210",
       "venue": "",
       "year": 2018
@@ -14228,7 +15223,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Dense Texture Flow Visualization using Data-Parallel Primitives",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.2312/pgv.20181095",
       "venue": "Eurographics",
       "year": 2018
@@ -14431,7 +15426,7 @@
         "last_page": "175",
         "volume": "32"
       },
-      "citation_count": 179,
+      "citation_count": 180,
       "doi": "10.1177/1094342017704893",
       "doi_url": "https://doi.org/10.1177/1094342017704893",
       "group_author_ids": [
@@ -14597,7 +15592,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Optimization Strategies for WRF Single-Moment 6-Class Microphysics Scheme (WSM6) on Intel Microarchitectures",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/candar.2017.58",
       "venue": "",
       "year": 2017
@@ -14656,7 +15651,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Techniques for data-parallel searching for duplicate elements",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav.2017.8231845",
       "venue": "",
       "year": 2017
@@ -14780,7 +15775,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Exacution: Enhancing Scientific Data Management for Exascale",
-      "type": "paratext",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/icdcs.2017.256",
       "venue": "",
       "year": 2017
@@ -14839,7 +15834,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "OpenMP 4 Fortran Modernization of WSM6 for KNL",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3093338.3093387",
       "venue": "",
       "year": 2017
@@ -15097,8 +16092,87 @@
       ],
       "review_status": "candidate_openalex",
       "title": "In Situ Visualization of Radiation Transport Geometry",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3144769.3144770",
+      "venue": "",
+      "year": 2017
+    },
+    {
+      "author_names": [
+        "Pranab K. Roy Chowdhury",
+        "Susanna Hannah Sutherland",
+        "Kathleen Ernst",
+        "Alexander Pawlowski",
+        "Erik Schmidt",
+        "Janna Caspersen",
+        "Ziliang Zhao",
+        "Budhendra Bhaduri"
+      ],
+      "authors": [
+        {
+          "name": "Pranab K. Roy Chowdhury",
+          "openalex_id": "https://openalex.org/A5057369823"
+        },
+        {
+          "name": "Susanna Hannah Sutherland",
+          "openalex_id": "https://openalex.org/A5044543447"
+        },
+        {
+          "name": "Kathleen Ernst",
+          "openalex_id": "https://openalex.org/A5038579898"
+        },
+        {
+          "name": "Alexander Pawlowski",
+          "openalex_id": "https://openalex.org/A5113856349"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Janna Caspersen",
+          "openalex_id": "https://openalex.org/A5083500004"
+        },
+        {
+          "name": "Ziliang Zhao",
+          "openalex_id": "https://openalex.org/A5101087544"
+        },
+        {
+          "name": "Budhendra Bhaduri",
+          "openalex_id": "https://openalex.org/A5104505028"
+        }
+      ],
+      "biblio": {
+        "first_page": "277",
+        "issue": "",
+        "last_page": "291",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.4324/9781315270838-23",
+      "doi_url": "https://doi.org/10.4324/9781315270838-23",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.4324/9781315270838-23",
+      "oa_url": "https://www.osti.gov/biblio/1376332",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2904764515",
+      "openalex_ids": [
+        "https://openalex.org/W2904764515"
+      ],
+      "openalex_url": "https://openalex.org/W2904764515",
+      "orcid_person_ids": [],
+      "publication_date": "2017-08-07",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Big data in emerging cities",
+      "type": "book-chapter",
+      "url": "https://doi.org/10.4324/9781315270838-23",
       "venue": "",
       "year": 2017
     },
@@ -15318,7 +16392,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Pillars of the Mantle",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/3093338.3104170",
       "venue": "",
       "year": 2017
@@ -16110,7 +17184,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Performance Modeling of In Situ Rendering",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc.2016.23",
       "venue": "",
       "year": 2016
@@ -16169,7 +17243,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visualization and Analysis Requirements for In Situ Processing for a Large-Scale Fusion Simulation Code",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/isav.2016.014",
       "venue": "",
       "year": 2016
@@ -16228,7 +17302,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Optimizing multi-image sort-last parallel rendering",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav.2016.7874308",
       "venue": "",
       "year": 2016
@@ -16332,7 +17406,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visualization and Analysis for Near-Real-Time Decision Making in Distributed Workflows",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ipdpsw.2016.175",
       "venue": "",
       "year": 2016
@@ -16440,7 +17514,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Tuned to Terrible: A Study of Parallel Particle Advection State of the Practice",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ipdpsw.2016.173",
       "venue": "",
       "year": 2016
@@ -16539,7 +17613,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Stream processing for near real-time scientific data analysis",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/nysds.2016.7747804",
       "venue": "",
       "year": 2016
@@ -16608,7 +17682,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Visual analytics for investigative analysis of hoax distress calls using social media",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ths.2016.7568903",
       "venue": "",
       "year": 2016
@@ -16822,7 +17896,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "ParaView Catalyst",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2828612.2828624",
       "venue": "",
       "year": 2015
@@ -16853,7 +17927,7 @@
         "last_page": "786",
         "volume": "22"
       },
-      "citation_count": 56,
+      "citation_count": 57,
       "doi": "10.1109/tvcg.2015.2467958",
       "doi_url": "https://doi.org/10.1109/tvcg.2015.2467958",
       "group_author_ids": [
@@ -16945,7 +18019,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Loosely Coupled In Situ Visualization",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2828612.2828623",
       "venue": "",
       "year": 2015
@@ -16994,7 +18068,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Formal Metrics for Large-Scale Parallel Performance",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-319-20119-1_34",
       "venue": "Lecture notes in computer science",
       "year": 2015
@@ -17063,7 +18137,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Trajectory-based Visual Analytics for Anomalous Human Movement Analysis using Social Media",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.2312/eurova.20151102",
       "venue": "Eurographics",
       "year": 2015
@@ -17162,7 +18236,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Visual analytics of heterogeneous data for criminal event analysis VAST challenge 2015: Grand challenge",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vast.2015.7347654",
       "venue": "",
       "year": 2015
@@ -17266,7 +18340,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "ParkAnalyzer: Characterizing the movement patterns of visitors VAST 2015 Mini-Challenge 1",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vast.2015.7347669",
       "venue": "",
       "year": 2015
@@ -17547,7 +18621,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Visual analytics for detecting communication patterns",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vast.2015.7347648",
       "venue": "",
       "year": 2015
@@ -17912,7 +18986,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Analyzing High-dimensional Multivariate Network Links with Integrated Anomaly Detection, Highlighting and Exploration",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vast.2014.7042484",
       "venue": "",
       "year": 2014
@@ -17971,7 +19045,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Evaluation of methods to integrate analysis into a large-scale shock shock physics code",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2597652.2597668",
       "venue": "",
       "year": 2014
@@ -18172,7 +19246,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Dax v. 1.0",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.11578/dc.20171025.1345",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2014
@@ -18216,7 +19290,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "ADIOS Schema reader for VTK",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.11578/dc.20171025.1587",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2014
@@ -18390,7 +19464,7 @@
         "last_page": "2732",
         "volume": "19"
       },
-      "citation_count": 48,
+      "citation_count": 49,
       "doi": "10.1109/tvcg.2013.208",
       "doi_url": "https://doi.org/10.1109/tvcg.2013.208",
       "group_author_ids": [
@@ -18573,7 +19647,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "ADIOS Visualization Schema: A First Step Towards Improving Interdisciplinary Collaboration in High Performance Computing",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/escience.2013.24",
       "venue": "",
       "year": 2013
@@ -18652,7 +19726,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "GPU Acceleration of Particle Advection Workloads in a Parallel, Distributed Memory Setting",
-      "type": "paratext",
+      "type": "article",
       "url": "https://doi.org/10.2312/egpgv/egpgv13/001-008",
       "venue": "eScholarship (California Digital Library)",
       "year": 2013
@@ -18716,7 +19790,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Optimizing threshold for extreme scale analysis",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1117/12.2007320",
       "venue": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
       "year": 2013
@@ -18775,7 +19849,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "A classification of scientific visualization algorithms for massive threading",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2535571.2535591",
       "venue": "",
       "year": 2013
@@ -18837,6 +19911,70 @@
       "type": "report",
       "url": "https://doi.org/10.2172/1093707",
       "venue": "",
+      "year": 2013
+    },
+    {
+      "author_names": [
+        "Am\u00e9lie Anglade",
+        "Eric J. Humphrey",
+        "Erik Schmidt",
+        "Sebastian Stober",
+        "Mohamed Sordo"
+      ],
+      "authors": [
+        {
+          "name": "Am\u00e9lie Anglade",
+          "openalex_id": "https://openalex.org/A5000116710"
+        },
+        {
+          "name": "Eric J. Humphrey",
+          "openalex_id": "https://openalex.org/A5072108348"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Sebastian Stober",
+          "openalex_id": "https://openalex.org/A5034558147"
+        },
+        {
+          "name": "Mohamed Sordo",
+          "openalex_id": "https://openalex.org/A5079883919"
+        }
+      ],
+      "biblio": {
+        "first_page": "91",
+        "issue": "2",
+        "last_page": "93",
+        "volume": "37"
+      },
+      "citation_count": 2,
+      "doi": "10.1162/comj_r_00171",
+      "doi_url": "https://doi.org/10.1162/comj_r_00171",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1162/comj_r_00171",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2065529867",
+      "openalex_ids": [
+        "https://openalex.org/W2065529867"
+      ],
+      "openalex_url": "https://openalex.org/W2065529867",
+      "orcid_person_ids": [],
+      "publication_date": "2013-06-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Demos and Late-Breaking Session of the Thirteenth International Society for Music Information Retrieval Conference (ISMIR 2012)",
+      "type": "article",
+      "url": "https://doi.org/10.1162/comj_r_00171",
+      "venue": "Computer Music Journal",
       "year": 2013
     },
     {
@@ -18903,7 +20041,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visual Analytics of Microblog Data for Public Behavior Analysis in Disaster Events",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.2312/pe.eurovast.eurova13.067-071",
       "venue": "Eurographics",
       "year": 2013
@@ -18967,7 +20105,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Exploring Collaborative HPC Visualization Workflows using VisIt and Python",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.25080/majora-8b375195-00b",
       "venue": "Proceedings of the Python in Science Conferences",
       "year": 2013
@@ -19041,7 +20179,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Spatiotemporal social media analytics for abnormal event detection and examination using seasonal-trend decomposition",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vast.2012.6400557",
       "venue": "",
       "year": 2012
@@ -19085,7 +20223,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "A Survey of Visualization Pipelines",
-      "type": "review",
+      "type": "article",
       "url": "https://doi.org/10.1109/tvcg.2012.133",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2012
@@ -19210,7 +20348,7 @@
         "last_page": "",
         "volume": ""
       },
-      "citation_count": 42,
+      "citation_count": 43,
       "doi": "10.1201/b12985-17",
       "doi_url": "https://doi.org/10.1201/b12985-17",
       "group_author_ids": [
@@ -19297,7 +20435,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Parallel stream surface computation for large data sets",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav.2012.6378974",
       "venue": "",
       "year": 2012
@@ -19341,7 +20479,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Oh, $#*@! Exascale! The Effect of Emerging Architectures on Scientific Discovery",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc.companion.2012.38",
       "venue": "",
       "year": 2012
@@ -19400,7 +20538,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "A distributed data-parallel framework for analysis and visualization algorithm development",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2159430.2159432",
       "venue": "",
       "year": 2012
@@ -19498,7 +20636,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Redirecting research in large-format displays for visualization",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav.2012.6378981",
       "venue": "",
       "year": 2012
@@ -19582,7 +20720,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "The SDAV Software Frameworks for Visualization and Analysis on Next-Generation Multi-Core and Many-Core Architectures",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc.companion.2012.36",
       "venue": "",
       "year": 2012
@@ -19730,7 +20868,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Flexible Analysis Software for Emerging Architectures",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc.companion.2012.115",
       "venue": "",
       "year": 2012
@@ -19988,7 +21126,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Mining hidden mixture context with ADIOS-P to improve predictive pre-fetcher accuracy",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/escience.2012.6404418",
       "venue": "",
       "year": 2012
@@ -20067,7 +21205,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Collaborative monitoring and visualization of HPC data",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/cts.2012.6261083",
       "venue": "",
       "year": 2012
@@ -20190,7 +21328,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "The ParaView Coprocessing Library: A scalable, general purpose in situ visualization library",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav.2011.6092322",
       "venue": "",
       "year": 2011
@@ -20269,7 +21407,7 @@
       "review_notes": [],
       "review_status": "trusted_orcid",
       "title": "Volume estimation using food specific shape templates in mobile image-based dietary assessment",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1117/12.876669",
       "venue": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
       "year": 2011
@@ -20328,7 +21466,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "An image compositing solution at scale",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2063384.2063417",
       "venue": "",
       "year": 2011
@@ -20427,7 +21565,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Examples of <i>in transit</i> visualization",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2110205.2110207",
       "venue": "",
       "year": 2011
@@ -20486,7 +21624,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Dax Toolkit: A proposed framework for data analysis and visualization at Extreme Scale",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ldav.2011.6092323",
       "venue": "",
       "year": 2011
@@ -20772,7 +21910,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Advances in Visual Computing: 7th International Symposium, ISVC 2011, Las Vegas, NV, USA, September 26-28, 2011. Proceedings, Part I",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.1007/978-3-642-24028-7",
       "venue": "Digital Access to Libraries (Universit\u00e9 catholique de Louvain (UCL), l'Universit\u00e9 de Namur (UNamur) and the Universit\u00e9 Saint-Louis (USL-B))",
       "year": 2011
@@ -20816,7 +21954,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Image Composition Engine for Tiles",
-      "type": "article",
+      "type": "other",
       "url": "https://doi.org/10.11578/dc.20171025.1292",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2011
@@ -20954,7 +22092,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Magnetic field outflows from active galactic nuclei",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1145/2148600.2148668",
       "venue": "",
       "year": 2011
@@ -21210,7 +22348,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "A case study of collaborative facilities use in engineering design",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1117/12.839511",
       "venue": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
       "year": 2010
@@ -21254,7 +22392,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Diverging Color Maps for Scientific Visualization",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-642-10520-3_9",
       "venue": "Lecture notes in computer science",
       "year": 2009
@@ -21497,7 +22635,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Occam's razor and petascale visual data analysis",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1088/1742-6596/180/1/012084",
       "venue": "Journal of Physics Conference Series",
       "year": 2009
@@ -21689,7 +22827,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Visualization and parallel I/O at extreme scale",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1088/1742-6596/125/1/012099",
       "venue": "Journal of Physics Conference Series",
       "year": 2008
@@ -21748,7 +22886,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Remote rendering for ultrascale data",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1088/1742-6596/125/1/012096",
       "venue": "Journal of Physics Conference Series",
       "year": 2008
@@ -21807,7 +22945,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Analysis of fragmentation in shock physics simulation",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/ultravis.2008.5154062",
       "venue": "",
       "year": 2008
@@ -21874,6 +23012,50 @@
       "type": "report",
       "url": "https://doi.org/10.2172/941404",
       "venue": "",
+      "year": 2008
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "193",
+        "issue": "",
+        "last_page": "204",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.1007/978-1-4020-6872-0_11",
+      "doi_url": "https://doi.org/10.1007/978-1-4020-6872-0_11",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1007/978-1-4020-6872-0_11",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W55329371",
+      "openalex_ids": [
+        "https://openalex.org/W55329371"
+      ],
+      "openalex_url": "https://openalex.org/W55329371",
+      "orcid_person_ids": [],
+      "publication_date": "2008-02-02",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Thresholds, Vagueness and the Psychology of Small Improvements",
+      "type": "book-chapter",
+      "url": "https://doi.org/10.1007/978-1-4020-6872-0_11",
+      "venue": "Philosophical studies series",
       "year": 2008
     },
     {
@@ -21989,7 +23171,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Parallel unstructured volume rendering in ParaView",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1117/12.704533",
       "venue": "Proceedings of SPIE, the International Society for Optical Engineering/Proceedings of SPIE",
       "year": 2007
@@ -22068,7 +23250,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Ultra-Scale Visualization: Research and Education",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1088/1742-6596/78/1/012088",
       "venue": "Journal of Physics Conference Series",
       "year": 2007
@@ -22157,7 +23339,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Intelligence Analysis Using Titan",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/vast.2007.4389036",
       "venue": "",
       "year": 2007
@@ -22221,7 +23403,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Corrections to \"Time Dependent Processing in a Parallel Pipeline Architecture\"",
-      "type": "article",
+      "type": "erratum",
       "url": "https://doi.org/10.1109/tvcg.2008.3",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2007
@@ -22580,7 +23762,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Ultra-scale visualization---Workshop on ultra-scale visualization",
-      "type": "article",
+      "type": "conference-abstract",
       "url": "https://doi.org/10.1145/1188455.1188700",
       "venue": "",
       "year": 2006
@@ -23113,7 +24295,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "From cluster to wall with VTK",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/pvgs.2003.1249039",
       "venue": "IEEE Sensors Journal",
       "year": 2004
@@ -23211,7 +24393,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "The FFT on a GPU",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.5555/844174.844191",
       "venue": "SIGGRAPH/EUROGRAPHICS Conference On Graphics Hardware",
       "year": 2003
@@ -23270,7 +24452,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Tetrahedral projection using vertex shaders",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/swg.2002.1226504",
       "venue": "",
       "year": 2003
@@ -23324,7 +24506,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Sort-last parallel rendering for viewing extremely large data sets on tile displays",
-      "type": "article",
+      "type": "conference-paper",
       "url": "https://doi.org/10.1109/pvgs.2001.964408",
       "venue": "",
       "year": 2002
@@ -23591,6 +24773,50 @@
     },
     {
       "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1-6",
+        "last_page": "",
+        "volume": "34"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1989.34.16.424",
+      "doi_url": "https://doi.org/10.1524/slaw.1989.34.16.424",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1989.34.16.424",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2317557886",
+      "openalex_ids": [
+        "https://openalex.org/W2317557886"
+      ],
+      "openalex_url": "https://openalex.org/W2317557886",
+      "orcid_person_ids": [],
+      "publication_date": "1989-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "\u201eGeistiges Und Literarisches Leben In Ru\u00dfland 1789 \u2013 1825 Und Die Franz\u00f6sische Revolution\"",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1989.34.16.424",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1989
+    },
+    {
+      "author_names": [
         "David Pugmire"
       ],
       "authors": [
@@ -23679,6 +24905,94 @@
     },
     {
       "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1-6",
+        "last_page": "",
+        "volume": "30"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1985.30.16.598",
+      "doi_url": "https://doi.org/10.1524/slaw.1985.30.16.598",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1985.30.16.598",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2322424025",
+      "openalex_ids": [
+        "https://openalex.org/W2322424025"
+      ],
+      "openalex_url": "https://openalex.org/W2322424025",
+      "orcid_person_ids": [],
+      "publication_date": "1985-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "\u201eDie rassische Literatur der Aufkl\u00e4rung\u201c (1650\u20141825)",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1985.30.16.598",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1985
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1-6",
+        "last_page": "",
+        "volume": "30"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1985.30.16.331",
+      "doi_url": "https://doi.org/10.1524/slaw.1985.30.16.331",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1985.30.16.331",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2318305958",
+      "openalex_ids": [
+        "https://openalex.org/W2318305958"
+      ],
+      "openalex_url": "https://openalex.org/W2318305958",
+      "orcid_person_ids": [],
+      "publication_date": "1985-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "\u0397. F. Schmids und \u0392. Trautmanns Programmschrift \u201eWesen und Aufgaben der deutschen Slavistik\u201c (1927)",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1985.30.16.331",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1985
+    },
+    {
+      "author_names": [
         "D. F. Pears",
         "David Pugmire"
       ],
@@ -23698,7 +25012,7 @@
         "last_page": "196",
         "volume": "56"
       },
-      "citation_count": 108,
+      "citation_count": 109,
       "doi": "10.1093/aristoteliansupp/56.1.157",
       "doi_url": "https://doi.org/10.1093/aristoteliansupp/56.1.157",
       "group_author_ids": [
@@ -23725,6 +25039,50 @@
       "url": "https://doi.org/10.1093/aristoteliansupp/56.1.157",
       "venue": "Aristotelian Society Supplementary Volume",
       "year": 1982
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1",
+        "last_page": "",
+        "volume": "23"
+      },
+      "citation_count": 1,
+      "doi": "10.1524/slaw.1978.23.1.38",
+      "doi_url": "https://doi.org/10.1524/slaw.1978.23.1.38",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1978.23.1.38",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2325606562",
+      "openalex_ids": [
+        "https://openalex.org/W2325606562"
+      ],
+      "openalex_url": "https://openalex.org/W2325606562",
+      "orcid_person_ids": [],
+      "publication_date": "1978-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "L. \u039d. Tolstoj in der realistischen deutschen Literatur des 20. Jahrhunderts",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1978.23.1.38",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1978
     },
     {
       "author_names": [
@@ -23772,6 +25130,50 @@
     },
     {
       "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1",
+        "last_page": "",
+        "volume": "16"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1971.16.1.873",
+      "doi_url": "https://doi.org/10.1524/slaw.1971.16.1.873",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1971.16.1.873",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2324167126",
+      "openalex_ids": [
+        "https://openalex.org/W2324167126"
+      ],
+      "openalex_url": "https://openalex.org/W2324167126",
+      "orcid_person_ids": [],
+      "publication_date": "1971-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Die deutsche Dostoevskij-Rezeption der 20er Jahre",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1971.16.1.873",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1971
+    },
+    {
+      "author_names": [
         "David Pugmire"
       ],
       "authors": [
@@ -23813,6 +25215,50 @@
       "url": "https://doi.org/10.1080/00201746908601568",
       "venue": "Inquiry",
       "year": 1969
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1",
+        "last_page": "",
+        "volume": "13"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1968.13.1.565",
+      "doi_url": "https://doi.org/10.1524/slaw.1968.13.1.565",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1968.13.1.565",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2317361790",
+      "openalex_ids": [
+        "https://openalex.org/W2317361790"
+      ],
+      "openalex_url": "https://openalex.org/W2317361790",
+      "orcid_person_ids": [],
+      "publication_date": "1968-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Die Dostoevskij-Rezeption der deutschen revolution\u00e4ren Arbeiterbewegung (1920-1925)",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1968.13.1.565",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1968
     },
     {
       "author_names": [
