@@ -1,6 +1,6 @@
 [
   {
-    "citation_count": 2232,
+    "citation_count": 2233,
     "google_scholar_url": "https://scholar.google.com/citations?user=FmxWGN0AAAAJ&hl=en",
     "h_index": 22,
     "i10_index": 42,
@@ -56,18 +56,18 @@
     "works_count": 36
   },
   {
-    "citation_count": 51,
+    "citation_count": 27,
     "google_scholar_url": "",
-    "h_index": 3,
-    "i10_index": 2,
+    "h_index": 2,
+    "i10_index": 1,
     "id": "erik-schmidt",
     "name": "Erik Schmidt",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-4454-1330",
-    "resolved_openalex_id": "https://openalex.org/A5040001193",
+    "resolved_openalex_id": "https://openalex.org/A5134876250",
     "role": "Current member",
-    "works_count": 29
+    "works_count": 5
   },
   {
     "citation_count": 21,
