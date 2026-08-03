@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:39:11+00:00",
+  "generated_at": "2026-08-03T12:37:59+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -156,7 +156,7 @@
       "year": 2026
     },
     {
-      "citation_count": 5,
+      "citation_count": 6,
       "doi": "10.1145/3712285.3759878",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -251,6 +251,20 @@
       "title": "Fast HARDI Uncertainty Quantification and Visualization with Spherical Sampling",
       "url": "https://doi.org/10.1111/cgf.70138",
       "venue": "Computer Graphics Forum",
+      "year": 2025
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/uncertaintyvisualization68947.2025.00006",
+      "group_authors": "Timbwaoga A. J. Ouermi; Tushar Athawale",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi; Tushar Athawale",
+      "openalex_url": "https://openalex.org/W7123474319",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00006",
+      "venue": "",
       "year": 2025
     },
     {
@@ -395,20 +409,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1109/uncertaintyvisualization68947.2025.00006",
-      "group_authors": "Timbwaoga A. J. Ouermi; Tushar Athawale",
-      "openalex_candidate_for": "Timbwaoga A. J. Ouermi; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W7123474319",
-      "orcid_evidence": "Timbwaoga A. J. Ouermi",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
-      "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00006",
-      "venue": "",
-      "year": 2025
-    },
-    {
-      "citation_count": 0,
       "doi": "10.11578/dc.20260217.1",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -506,7 +506,7 @@
       "year": 2024
     },
     {
-      "citation_count": 3,
+      "citation_count": 4,
       "doi": "10.1109/uncertaintyvisualization63963.2024.00013",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -517,6 +517,34 @@
       "title": "Uncertainty-Informed Volume Visualization using Implicit Neural Representation",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00013",
       "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 3,
+      "doi": "10.1109/uncertaintyvisualization63963.2024.00014",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W4404371175",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Glyph-Based Uncertainty Visualization and Analysis of Time-Varying Vector Fields",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00014",
+      "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 2,
+      "doi": "10.1177/10943420241270969",
+      "group_authors": "Ken Moreland; Tushar Athawale",
+      "openalex_candidate_for": "Ken Moreland; Tushar Athawale",
+      "openalex_url": "https://openalex.org/W4401580285",
+      "orcid_evidence": "Ken Moreland; Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Visualization at exascale: Making it all work with VTK-m",
+      "url": "https://doi.org/10.1177/10943420241270969",
+      "venue": "The International Journal of High Performance Computing Applications",
       "year": 2024
     },
     {
@@ -535,15 +563,15 @@
     },
     {
       "citation_count": 2,
-      "doi": "10.1109/uncertaintyvisualization63963.2024.00014",
-      "group_authors": "Timbwaoga A. J. Ouermi",
-      "openalex_candidate_for": "",
-      "openalex_url": "https://openalex.org/W4404371175",
-      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "doi": "10.1109/uncertaintyvisualization63963.2024.00010",
+      "group_authors": "Ken Moreland; Tushar Athawale",
+      "openalex_candidate_for": "Ken Moreland; Tushar Athawale",
+      "openalex_url": "https://openalex.org/W4404371251",
+      "orcid_evidence": "Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
-      "title": "Glyph-Based Uncertainty Visualization and Analysis of Time-Varying Vector Fields",
-      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00014",
+      "title": "FunM<sup>2</sup>C: A Filter for Uncertainty Visualization of Multivariate Data on Multi-Core Devices",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00010",
       "venue": "",
       "year": 2024
     },
@@ -563,20 +591,6 @@
     },
     {
       "citation_count": 1,
-      "doi": "10.1177/10943420241270969",
-      "group_authors": "Ken Moreland; Tushar Athawale",
-      "openalex_candidate_for": "Ken Moreland; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4401580285",
-      "orcid_evidence": "Ken Moreland; Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Visualization at exascale: Making it all work with VTK-m",
-      "url": "https://doi.org/10.1177/10943420241270969",
-      "venue": "The International Journal of High Performance Computing Applications",
-      "year": 2024
-    },
-    {
-      "citation_count": 1,
       "doi": "10.1109/isvlsi61997.2024.00116",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -586,20 +600,6 @@
       "review_status": "candidate_openalex",
       "title": "Visual Analytics of Performance of Quantum Computing Systems and Circuit Optimization",
       "url": "https://doi.org/10.1109/isvlsi61997.2024.00116",
-      "venue": "",
-      "year": 2024
-    },
-    {
-      "citation_count": 1,
-      "doi": "10.1109/uncertaintyvisualization63963.2024.00010",
-      "group_authors": "Ken Moreland; Tushar Athawale",
-      "openalex_candidate_for": "Ken Moreland; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4404371251",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "FunM<sup>2</sup>C: A Filter for Uncertainty Visualization of Multivariate Data on Multi-Core Devices",
-      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00010",
       "venue": "",
       "year": 2024
     },
@@ -884,7 +884,7 @@
       "year": 2024
     },
     {
-      "citation_count": 80,
+      "citation_count": 81,
       "doi": "10.1109/tps.2023.3268170",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1094,7 +1094,7 @@
       "year": 2022
     },
     {
-      "citation_count": 12,
+      "citation_count": 13,
       "doi": "10.1109/tvcg.2022.3209424",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -1105,6 +1105,20 @@
       "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
       "url": "https://doi.org/10.1109/tvcg.2022.3209424",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022
+    },
+    {
+      "citation_count": 10,
+      "doi": "10.1109/vis54862.2022.00040",
+      "group_authors": "David Pugmire; Tushar Athawale",
+      "openalex_candidate_for": "David Pugmire; Tushar Athawale",
+      "openalex_url": "https://openalex.org/W4313030952",
+      "orcid_evidence": "Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles",
+      "url": "https://doi.org/10.1109/vis54862.2022.00040",
+      "venue": "",
       "year": 2022
     },
     {
@@ -1119,20 +1133,6 @@
       "title": "Understanding the Impact of Data Staging for Coupled Scientific Workflows",
       "url": "https://doi.org/10.1109/tpds.2022.3179989",
       "venue": "IEEE Transactions on Parallel and Distributed Systems",
-      "year": 2022
-    },
-    {
-      "citation_count": 9,
-      "doi": "10.1109/vis54862.2022.00040",
-      "group_authors": "David Pugmire; Tushar Athawale",
-      "openalex_candidate_for": "David Pugmire; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4313030952",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles",
-      "url": "https://doi.org/10.1109/vis54862.2022.00040",
-      "venue": "",
       "year": 2022
     },
     {
@@ -1374,7 +1374,7 @@
       "year": 2022
     },
     {
-      "citation_count": 69,
+      "citation_count": 70,
       "doi": "10.1109/tc.2021.3092201",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1766,7 +1766,7 @@
       "year": 2020
     },
     {
-      "citation_count": 30,
+      "citation_count": 31,
       "doi": "10.1109/tvcg.2020.3030394",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2368,7 +2368,7 @@
       "year": 2018
     },
     {
-      "citation_count": 17,
+      "citation_count": 18,
       "doi": "10.1109/tvcg.2018.2864505",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2634,7 +2634,7 @@
       "year": 2017
     },
     {
-      "citation_count": 28,
+      "citation_count": 29,
       "doi": "10.1177/1094428117720014",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -2844,7 +2844,7 @@
       "year": 2016
     },
     {
-      "citation_count": 150,
+      "citation_count": 151,
       "doi": "10.1109/mcg.2016.48",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -2872,7 +2872,7 @@
       "year": 2016
     },
     {
-      "citation_count": 78,
+      "citation_count": 79,
       "doi": "10.2352/issn.2470-1173.2016.16.hvei-133",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3082,7 +3082,7 @@
       "year": 2015
     },
     {
-      "citation_count": 57,
+      "citation_count": 58,
       "doi": "10.1109/tvcg.2015.2467958",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3404,7 +3404,7 @@
       "year": 2013
     },
     {
-      "citation_count": 49,
+      "citation_count": 50,
       "doi": "10.1109/tvcg.2013.208",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -4258,7 +4258,7 @@
       "year": 2006
     },
     {
-      "citation_count": 90,
+      "citation_count": 91,
       "doi": "10.1093/0199276897.001.0001",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
