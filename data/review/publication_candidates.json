@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:37:59+00:00",
+  "generated_at": "2026-08-10T10:38:46+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -884,7 +884,7 @@
       "year": 2024
     },
     {
-      "citation_count": 81,
+      "citation_count": 83,
       "doi": "10.1109/tps.2023.3268170",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1724,7 +1724,7 @@
       "year": 2021
     },
     {
-      "citation_count": 231,
+      "citation_count": 232,
       "doi": "10.1016/j.softx.2020.100561",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1752,7 +1752,7 @@
       "year": 2020
     },
     {
-      "citation_count": 74,
+      "citation_count": 75,
       "doi": "10.1177/1094342020935991",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1776,6 +1776,20 @@
       "review_status": "trusted_orcid",
       "title": "Direct Volume Rendering with Nonparametric Models of Uncertainty",
       "url": "https://doi.org/10.1109/tvcg.2020.3030394",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2020
+    },
+    {
+      "citation_count": 26,
+      "doi": "10.1109/tvcg.2020.3022359",
+      "group_authors": "Tushar Athawale",
+      "openalex_candidate_for": "Tushar Athawale",
+      "openalex_url": "https://openalex.org/W3085701794",
+      "orcid_evidence": "Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Uncertainty Visualization of 2D Morse Complex Ensembles Using Statistical Summary Maps",
+      "url": "https://doi.org/10.1109/tvcg.2020.3022359",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2020
     },
@@ -2830,7 +2844,7 @@
       "year": 2017
     },
     {
-      "citation_count": 285,
+      "citation_count": 286,
       "doi": "10.1093/gji/ggw356",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2858,7 +2872,7 @@
       "year": 2016
     },
     {
-      "citation_count": 148,
+      "citation_count": 149,
       "doi": "10.1111/cgf.12930",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3202,7 +3216,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "The Future of Scientific Workflows. Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia contributions)",
+      "title": "The Future of Scientific Workflows: Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia Contributions)",
       "url": "https://doi.org/10.2172/1184599",
       "venue": "",
       "year": 2015
@@ -4426,20 +4440,6 @@
       "year": 2004
     },
     {
-      "citation_count": 12,
-      "doi": "10.1021/acsomega.3c07555",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W38405500",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Fast high accuracy volume rendering",
-      "url": "https://doi.org/10.1021/acsomega.3c07555",
-      "venue": "",
-      "year": 2004
-    },
-    {
       "citation_count": 288,
       "doi": "10.5555/844174.844191",
       "group_authors": "Ken Moreland",
@@ -4620,20 +4620,6 @@
       "url": "https://doi.org/10.1080/00201746908601568",
       "venue": "Inquiry",
       "year": 1969
-    },
-    {
-      "citation_count": 26,
-      "doi": "10.1109/tvcg.2020.3022359",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W32897861",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "THE REGENERATION OF RADIOLUMINOPHORS",
-      "url": "https://doi.org/10.1109/tvcg.2020.3022359",
-      "venue": "Zeitschrift fuer Naturforschung  (West Germany)     Divided into Z. Nautrforsch., A, and Z. Naturforsch., B: Anorg. Chem., Org. Chem., Biochem., Biophys.,",
-      "year": 1963
     }
   ]
 }

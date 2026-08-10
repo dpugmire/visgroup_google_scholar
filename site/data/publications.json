@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T12:37:59+00:00",
+  "generated_at": "2026-08-10T10:38:46+00:00",
   "publications": [
     {
       "author_names": [
@@ -593,7 +593,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1016/j.jocs.2026.102963",
-      "oa_url": "",
+      "oa_url": "https://pure.qub.ac.uk/en/publications/6933d5b1-ce07-4d7f-8553-72e646292f75",
       "openalex_author_person_ids": [
         "tushar-athawale"
       ],
@@ -3518,7 +3518,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.2312/evs.20241071",
-      "oa_url": "https://www.osti.gov/servlets/purl/2406718",
+      "oa_url": "https://www.osti.gov/biblio/2406718",
       "openalex_author_person_ids": [
         "david-pugmire",
         "tushar-athawale"
@@ -5002,7 +5002,7 @@
         "last_page": "1838",
         "volume": "51"
       },
-      "citation_count": 81,
+      "citation_count": 83,
       "doi": "10.1109/tps.2023.3268170",
       "doi_url": "https://doi.org/10.1109/tps.2023.3268170",
       "group_author_ids": [
@@ -7398,7 +7398,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1885308",
-      "oa_url": "https://www.osti.gov/servlets/purl/1885308",
+      "oa_url": "https://www.osti.gov/biblio/1885308",
       "openalex_author_person_ids": [
         "david-pugmire",
         "ken-moreland"
@@ -9978,7 +9978,7 @@
         "last_page": "100561",
         "volume": "12"
       },
-      "citation_count": 231,
+      "citation_count": 232,
       "doi": "10.1016/j.softx.2020.100561",
       "doi_url": "https://doi.org/10.1016/j.softx.2020.100561",
       "group_author_ids": [
@@ -10391,7 +10391,7 @@
         "last_page": "691",
         "volume": "34"
       },
-      "citation_count": 74,
+      "citation_count": 75,
       "doi": "10.1177/1094342020935991",
       "doi_url": "https://doi.org/10.1177/1094342020935991",
       "group_author_ids": [
@@ -10482,6 +10482,75 @@
       "title": "Direct Volume Rendering with Nonparametric Models of Uncertainty",
       "type": "article",
       "url": "https://doi.org/10.1109/tvcg.2020.3030394",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2020
+    },
+    {
+      "author_names": [
+        "Tushar M. Athawale",
+        "Dan Maljovec",
+        "Lin Yan",
+        "Chris R. Johnson",
+        "Valerio Pascucci",
+        "Bei Wang"
+      ],
+      "authors": [
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Dan Maljovec",
+          "openalex_id": "https://openalex.org/A5112096823"
+        },
+        {
+          "name": "Lin Yan",
+          "openalex_id": "https://openalex.org/A5025624671"
+        },
+        {
+          "name": "Chris R. Johnson",
+          "openalex_id": "https://openalex.org/A5048780291"
+        },
+        {
+          "name": "Valerio Pascucci",
+          "openalex_id": "https://openalex.org/A5009460413"
+        },
+        {
+          "name": "Bei Wang",
+          "openalex_id": "https://openalex.org/A5100349956"
+        }
+      ],
+      "biblio": {
+        "first_page": "1955",
+        "issue": "4",
+        "last_page": "1966",
+        "volume": "28"
+      },
+      "citation_count": 26,
+      "doi": "10.1109/tvcg.2020.3022359",
+      "doi_url": "https://doi.org/10.1109/tvcg.2020.3022359",
+      "group_author_ids": [
+        "tushar-athawale"
+      ],
+      "id": "doi:10.1109/tvcg.2020.3022359",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8935531",
+      "openalex_author_person_ids": [
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W3085701794",
+      "openalex_ids": [
+        "https://openalex.org/W3085701794"
+      ],
+      "openalex_url": "https://openalex.org/W3085701794",
+      "orcid_person_ids": [
+        "tushar-athawale"
+      ],
+      "publication_date": "2020-09-08",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "Uncertainty Visualization of 2D Morse Complex Ensembles Using Statistical Summary Maps",
+      "type": "article",
+      "url": "https://doi.org/10.1109/tvcg.2020.3022359",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2020
     },
@@ -11401,7 +11470,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1830929",
-      "oa_url": "https://www.osti.gov/biblio/1830929",
+      "oa_url": "https://www.osti.gov/servlets/purl/1830929",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -11445,7 +11514,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1656933",
-      "oa_url": "https://www.osti.gov/biblio/1656933",
+      "oa_url": "https://www.osti.gov/servlets/purl/1656933",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -11489,7 +11558,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1688572",
-      "oa_url": "https://www.osti.gov/biblio/1688572",
+      "oa_url": "https://www.osti.gov/servlets/purl/1688572",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -12742,7 +12811,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1762621",
-      "oa_url": "https://www.osti.gov/biblio/1762621",
+      "oa_url": "https://www.osti.gov/servlets/purl/1762621",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -13896,7 +13965,7 @@
         "erik-schmidt"
       ],
       "id": "doi:10.1080/15481603.2018.1460933",
-      "oa_url": "https://www.osti.gov/biblio/1471940",
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2018.1460933?needAccess=true&role=button",
       "openalex_author_person_ids": [],
       "openalex_id": "https://openalex.org/W2795622682",
       "openalex_ids": [
@@ -15210,7 +15279,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1408391",
-      "oa_url": "https://www.osti.gov/biblio/1408391",
+      "oa_url": "https://www.osti.gov/servlets/purl/1408391",
       "openalex_author_person_ids": [
         "david-pugmire",
         "ken-moreland"
@@ -15281,7 +15350,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1367456",
-      "oa_url": "https://www.osti.gov/biblio/1367456",
+      "oa_url": "https://www.osti.gov/servlets/purl/1367456",
       "openalex_author_person_ids": [
         "david-pugmire",
         "ken-moreland"
@@ -15449,7 +15518,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1372614",
-      "oa_url": "https://www.osti.gov/biblio/1372614",
+      "oa_url": "https://www.osti.gov/servlets/purl/1372614",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -15493,7 +15562,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1365519",
-      "oa_url": "https://www.osti.gov/biblio/1365519",
+      "oa_url": "https://www.osti.gov/servlets/purl/1365519",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -15621,7 +15690,7 @@
         "last_page": "1766",
         "volume": "207"
       },
-      "citation_count": 285,
+      "citation_count": 286,
       "doi": "10.1093/gji/ggw356",
       "doi_url": "https://doi.org/10.1093/gji/ggw356",
       "group_author_ids": [
@@ -15826,7 +15895,7 @@
         "last_page": "597",
         "volume": "35"
       },
-      "citation_count": 148,
+      "citation_count": 149,
       "doi": "10.1111/cgf.12930",
       "doi_url": "https://doi.org/10.1111/cgf.12930",
       "group_author_ids": [
@@ -17506,7 +17575,7 @@
         "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
       ],
       "review_status": "candidate_openalex",
-      "title": "The Future of Scientific Workflows. Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia contributions)",
+      "title": "The Future of Scientific Workflows: Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia Contributions)",
       "type": "report",
       "url": "https://doi.org/10.2172/1184599",
       "venue": "",
@@ -18161,7 +18230,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1164814",
-      "oa_url": "https://www.osti.gov/biblio/1164814",
+      "oa_url": "https://www.osti.gov/servlets/purl/1164814",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -18695,7 +18764,7 @@
         "david-pugmire"
       ],
       "id": "doi:10.2312/egpgv/egpgv13/001-008",
-      "oa_url": "http://www.escholarship.org/uc/item/8kk91412",
+      "oa_url": "https://escholarship.org/uc/item/8kk91412",
       "openalex_author_person_ids": [
         "david-pugmire"
       ],
@@ -18711,7 +18780,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "GPU Acceleration of Particle Advection Workloads in a Parallel, Distributed Memory Setting",
-      "type": "conference-paper",
+      "type": "article",
       "url": "https://doi.org/10.2312/egpgv/egpgv13/001-008",
       "venue": "eScholarship (California Digital Library)",
       "year": 2013
@@ -18877,7 +18946,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1093707",
-      "oa_url": "https://www.osti.gov/biblio/1093707",
+      "oa_url": "https://www.osti.gov/servlets/purl/1093707",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -19714,7 +19783,7 @@
         "david-pugmire"
       ],
       "id": "doi:10.2172/1034694",
-      "oa_url": "https://www.osti.gov/biblio/1034694",
+      "oa_url": "https://www.osti.gov/servlets/purl/1034694",
       "openalex_author_person_ids": [
         "david-pugmire"
       ],
@@ -21614,7 +21683,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/972889",
-      "oa_url": "https://www.osti.gov/biblio/972889",
+      "oa_url": "https://www.osti.gov/servlets/purl/972889",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -22387,7 +22456,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/921736",
-      "oa_url": "https://www.osti.gov/biblio/921736",
+      "oa_url": "https://www.osti.gov/servlets/purl/921736",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -23179,55 +23248,6 @@
     },
     {
       "author_names": [
-        "Edward Angel",
-        "Kenneth Moreland"
-      ],
-      "authors": [
-        {
-          "name": "Edward Angel",
-          "openalex_id": "https://openalex.org/A5103175735"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        }
-      ],
-      "biblio": {
-        "first_page": "7850",
-        "issue": "7",
-        "last_page": "7868",
-        "volume": "9"
-      },
-      "citation_count": 12,
-      "doi": "10.1021/acsomega.3c07555",
-      "doi_url": "https://doi.org/10.1021/acsomega.3c07555",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.1021/acsomega.3c07555",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W38405500",
-      "openalex_ids": [
-        "https://openalex.org/W38405500"
-      ],
-      "openalex_url": "https://openalex.org/W38405500",
-      "orcid_person_ids": [],
-      "publication_date": "2004-01-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Fast high accuracy volume rendering",
-      "type": "article",
-      "url": "https://doi.org/10.1021/acsomega.3c07555",
-      "venue": "",
-      "year": 2004
-    },
-    {
-      "author_names": [
         "Kenneth Moreland",
         "Edward Angel"
       ],
@@ -23872,76 +23892,6 @@
       "url": "https://doi.org/10.1080/00201746908601568",
       "venue": "Inquiry",
       "year": 1969
-    },
-    {
-      "author_names": [
-        "Tushar M. Athawale",
-        "Dan Maljovec",
-        "Lin Yan",
-        "Chris R. Johnson",
-        "Valerio Pascucci",
-        "Bei Wang"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Dan Maljovec",
-          "openalex_id": "https://openalex.org/A5112096823"
-        },
-        {
-          "name": "Lin Yan",
-          "openalex_id": "https://openalex.org/A5025624671"
-        },
-        {
-          "name": "Chris R. Johnson",
-          "openalex_id": "https://openalex.org/A5048780291"
-        },
-        {
-          "name": "Valerio Pascucci",
-          "openalex_id": "https://openalex.org/A5009460413"
-        },
-        {
-          "name": "Bei Wang",
-          "openalex_id": "https://openalex.org/A5100349956"
-        }
-      ],
-      "biblio": {
-        "first_page": "1955",
-        "issue": "4",
-        "last_page": "1966",
-        "volume": "28"
-      },
-      "citation_count": 26,
-      "doi": "10.1109/tvcg.2020.3022359",
-      "doi_url": "https://doi.org/10.1109/tvcg.2020.3022359",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1109/tvcg.2020.3022359",
-      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8935531",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W32897861",
-      "openalex_ids": [
-        "https://openalex.org/W3085701794",
-        "https://openalex.org/W32897861"
-      ],
-      "openalex_url": "https://openalex.org/W32897861",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "1963-01-01",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "THE REGENERATION OF RADIOLUMINOPHORS",
-      "type": "article",
-      "url": "https://doi.org/10.1109/tvcg.2020.3022359",
-      "venue": "Zeitschrift fuer Naturforschung  (West Germany)     Divided into Z. Nautrforsch., A, and Z. Naturforsch., B: Anorg. Chem., Org. Chem., Biochem., Biophys.,",
-      "year": 1963
     }
   ],
   "source": "Curated OpenAlex author candidates with ORCID DOI evidence"
