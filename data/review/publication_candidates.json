@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:38:46+00:00",
+  "generated_at": "2026-08-17T10:00:44+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -33,7 +33,7 @@
       "citation_count": 0,
       "doi": "10.2172/3029729",
       "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "",
+      "openalex_candidate_for": "Ken Moreland",
       "openalex_url": "https://openalex.org/W7154831308",
       "orcid_evidence": "Ken Moreland",
       "review_notes": "",
@@ -450,7 +450,7 @@
       "year": 2025
     },
     {
-      "citation_count": 44,
+      "citation_count": 45,
       "doi": "10.1093/gji/ggae270",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -506,7 +506,7 @@
       "year": 2024
     },
     {
-      "citation_count": 4,
+      "citation_count": 5,
       "doi": "10.1109/uncertaintyvisualization63963.2024.00013",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -884,7 +884,7 @@
       "year": 2024
     },
     {
-      "citation_count": 83,
+      "citation_count": 84,
       "doi": "10.1109/tps.2023.3268170",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -969,6 +969,20 @@
     },
     {
       "citation_count": 2,
+      "doi": "10.1109/qce57702.2023.10215",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W4389167201",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "QVis: A Visual Analytics Tool for Exploring Noise and Errors in Quantum Computing Systems",
+      "url": "https://doi.org/10.1109/qce57702.2023.10215",
+      "venue": "",
+      "year": 2023
+    },
+    {
+      "citation_count": 2,
       "doi": "10.1145/3632291",
       "group_authors": "Timbwaoga A. J. Ouermi",
       "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
@@ -992,20 +1006,6 @@
       "review_status": "candidate_openalex",
       "title": "The VTK-m Users' Guide (V.2.0)",
       "url": "https://doi.org/10.2172/1959590",
-      "venue": "",
-      "year": 2023
-    },
-    {
-      "citation_count": 1,
-      "doi": "10.1109/qce57702.2023.10215",
-      "group_authors": "Junghoon Chae",
-      "openalex_candidate_for": "Junghoon Chae",
-      "openalex_url": "https://openalex.org/W4389167201",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "QVis: A Visual Analytics Tool for Exploring Noise and Errors in Quantum Computing Systems",
-      "url": "https://doi.org/10.1109/qce57702.2023.10215",
       "venue": "",
       "year": 2023
     },
@@ -1080,6 +1080,20 @@
       "year": 2023
     },
     {
+      "citation_count": 14,
+      "doi": "10.1109/tvcg.2022.3209424",
+      "group_authors": "David Pugmire; Tushar Athawale",
+      "openalex_candidate_for": "David Pugmire; Tushar Athawale",
+      "openalex_url": "https://openalex.org/W4297094541",
+      "orcid_evidence": "David Pugmire; Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
+      "url": "https://doi.org/10.1109/tvcg.2022.3209424",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022
+    },
+    {
       "citation_count": 13,
       "doi": "10.1007/978-3-030-96498-6_2",
       "group_authors": "David Pugmire",
@@ -1091,20 +1105,6 @@
       "title": "Maintaining Trust in Reduction: Preserving the Accuracy of Quantities of Interest for Lossy Compression",
       "url": "https://doi.org/10.1007/978-3-030-96498-6_2",
       "venue": "Communications in computer and information science",
-      "year": 2022
-    },
-    {
-      "citation_count": 13,
-      "doi": "10.1109/tvcg.2022.3209424",
-      "group_authors": "David Pugmire; Tushar Athawale",
-      "openalex_candidate_for": "David Pugmire; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4297094541",
-      "orcid_evidence": "David Pugmire; Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
-      "url": "https://doi.org/10.1109/tvcg.2022.3209424",
-      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2022
     },
     {
@@ -1374,7 +1374,7 @@
       "year": 2022
     },
     {
-      "citation_count": 70,
+      "citation_count": 71,
       "doi": "10.1109/tc.2021.3092201",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1500,7 +1500,7 @@
       "year": 2021
     },
     {
-      "citation_count": 9,
+      "citation_count": 10,
       "doi": "10.1016/j.parco.2021.102834",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1724,7 +1724,7 @@
       "year": 2021
     },
     {
-      "citation_count": 232,
+      "citation_count": 233,
       "doi": "10.1016/j.softx.2020.100561",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1766,7 +1766,7 @@
       "year": 2020
     },
     {
-      "citation_count": 31,
+      "citation_count": 32,
       "doi": "10.1109/tvcg.2020.3030394",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -1780,7 +1780,7 @@
       "year": 2020
     },
     {
-      "citation_count": 26,
+      "citation_count": 28,
       "doi": "10.1109/tvcg.2020.3022359",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2634,7 +2634,7 @@
       "year": 2018
     },
     {
-      "citation_count": 180,
+      "citation_count": 181,
       "doi": "10.1177/1094342017704893",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2676,7 +2676,7 @@
       "year": 2017
     },
     {
-      "citation_count": 5,
+      "citation_count": 6,
       "doi": "10.1109/ldav.2017.8231845",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2844,7 +2844,7 @@
       "year": 2017
     },
     {
-      "citation_count": 286,
+      "citation_count": 285,
       "doi": "10.1093/gji/ggw356",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2858,7 +2858,7 @@
       "year": 2016
     },
     {
-      "citation_count": 151,
+      "citation_count": 152,
       "doi": "10.1109/mcg.2016.48",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -2872,7 +2872,7 @@
       "year": 2016
     },
     {
-      "citation_count": 149,
+      "citation_count": 151,
       "doi": "10.1111/cgf.12930",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2886,7 +2886,7 @@
       "year": 2016
     },
     {
-      "citation_count": 79,
+      "citation_count": 78,
       "doi": "10.2352/issn.2470-1173.2016.16.hvei-133",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3082,7 +3082,7 @@
       "year": 2016
     },
     {
-      "citation_count": 198,
+      "citation_count": 199,
       "doi": "10.1145/2828612.2828624",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3096,7 +3096,7 @@
       "year": 2015
     },
     {
-      "citation_count": 58,
+      "citation_count": 60,
       "doi": "10.1109/tvcg.2015.2467958",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3194,6 +3194,20 @@
       "year": 2015
     },
     {
+      "citation_count": 3,
+      "doi": "10.2172/1184599",
+      "group_authors": "Ken Moreland",
+      "openalex_candidate_for": "Ken Moreland",
+      "openalex_url": "https://openalex.org/W2517490961",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "The Future of Scientific Workflows: Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia Contributions)",
+      "url": "https://doi.org/10.2172/1184599",
+      "venue": "",
+      "year": 2015
+    },
+    {
       "citation_count": 2,
       "doi": "10.1007/978-3-319-18552-1_12",
       "group_authors": "Junghoon Chae",
@@ -3204,20 +3218,6 @@
       "review_status": "trusted_orcid",
       "title": "Visual Analytics of User Influence and Location-Based Social Networks",
       "url": "https://doi.org/10.1007/978-3-319-18552-1_12",
-      "venue": "",
-      "year": 2015
-    },
-    {
-      "citation_count": 2,
-      "doi": "10.2172/1184599",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2517490961",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "The Future of Scientific Workflows: Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia Contributions)",
-      "url": "https://doi.org/10.2172/1184599",
       "venue": "",
       "year": 2015
     },
@@ -3330,7 +3330,7 @@
       "review_status": "candidate_openalex",
       "title": "Finely-Threaded History-Based Topology Computation",
       "url": "https://doi.org/10.2312/pgv.20141083",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "venue": "",
       "year": 2014
     },
     {
@@ -3390,7 +3390,7 @@
       "year": 2014
     },
     {
-      "citation_count": 186,
+      "citation_count": 187,
       "doi": "10.1016/j.cag.2013.10.008",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3405,20 +3405,6 @@
     },
     {
       "citation_count": 52,
-      "doi": "10.1109/mc.2013.179",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2161473239",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Research Challenges for Visualization Software",
-      "url": "https://doi.org/10.1109/mc.2013.179",
-      "venue": "Computer",
-      "year": 2013
-    },
-    {
-      "citation_count": 50,
       "doi": "10.1109/tvcg.2013.208",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3429,6 +3415,20 @@
       "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction",
       "url": "https://doi.org/10.1109/tvcg.2013.208",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2013
+    },
+    {
+      "citation_count": 52,
+      "doi": "10.1109/mc.2013.179",
+      "group_authors": "Ken Moreland",
+      "openalex_candidate_for": "Ken Moreland",
+      "openalex_url": "https://openalex.org/W2161473239",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Research Challenges for Visualization Software",
+      "url": "https://doi.org/10.1109/mc.2013.179",
+      "venue": "Computer",
       "year": 2013
     },
     {
@@ -3474,7 +3474,7 @@
       "year": 2013
     },
     {
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1117/12.2007320",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3488,7 +3488,7 @@
       "year": 2013
     },
     {
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1145/2535571.2535591",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3544,7 +3544,7 @@
       "year": 2013
     },
     {
-      "citation_count": 283,
+      "citation_count": 284,
       "doi": "10.1109/vast.2012.6400557",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3796,7 +3796,7 @@
       "year": 2011
     },
     {
-      "citation_count": 59,
+      "citation_count": 60,
       "doi": "10.1145/2063384.2063417",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3992,7 +3992,7 @@
       "year": 2010
     },
     {
-      "citation_count": 217,
+      "citation_count": 218,
       "doi": "10.1007/978-3-642-10520-3_9",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4440,7 +4440,7 @@
       "year": 2004
     },
     {
-      "citation_count": 288,
+      "citation_count": 289,
       "doi": "10.5555/844174.844191",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",

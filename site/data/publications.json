@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:38:46+00:00",
+  "generated_at": "2026-08-17T10:00:44+00:00",
   "publications": [
     {
       "author_names": [
@@ -123,24 +123,24 @@
         "Rick Archibald",
         "Scott Klasky",
         "Norbert Podhorszki",
-        "Ken Moreland"
+        "Kenneth Moreland"
       ],
       "authors": [
         {
           "name": "USDOE",
-          "openalex_id": ""
+          "openalex_id": "https://openalex.org/A5146857793"
         },
         {
           "name": "Viktor Reshniak",
-          "openalex_id": ""
+          "openalex_id": "https://openalex.org/A5070770993"
         },
         {
           "name": "General Electric Co., Cincinnati, OH (United States)",
-          "openalex_id": ""
+          "openalex_id": "https://openalex.org/A5146739600"
         },
         {
           "name": "Qian Gong",
-          "openalex_id": ""
+          "openalex_id": "https://openalex.org/A5063502813"
         },
         {
           "name": "Rick Archibald",
@@ -148,15 +148,15 @@
         },
         {
           "name": "Scott Klasky",
-          "openalex_id": ""
+          "openalex_id": "https://openalex.org/A5030373337"
         },
         {
           "name": "Norbert Podhorszki",
-          "openalex_id": ""
+          "openalex_id": "https://openalex.org/A5071286199"
         },
         {
-          "name": "Ken Moreland",
-          "openalex_id": ""
+          "name": "Kenneth Moreland",
+          "openalex_id": "https://openalex.org/A5102833835"
         }
       ],
       "biblio": {
@@ -173,7 +173,9 @@
       ],
       "id": "doi:10.2172/3029729",
       "oa_url": "https://www.osti.gov/servlets/purl/3029729",
-      "openalex_author_person_ids": [],
+      "openalex_author_person_ids": [
+        "ken-moreland"
+      ],
       "openalex_id": "https://openalex.org/W7154831308",
       "openalex_ids": [
         "https://openalex.org/W7154831308"
@@ -2442,7 +2444,7 @@
         "last_page": "502",
         "volume": "239"
       },
-      "citation_count": 44,
+      "citation_count": 45,
       "doi": "10.1093/gji/ggae270",
       "doi_url": "https://doi.org/10.1093/gji/ggae270",
       "group_author_ids": [
@@ -2791,7 +2793,7 @@
         "last_page": "72",
         "volume": ""
       },
-      "citation_count": 4,
+      "citation_count": 5,
       "doi": "10.1109/uncertaintyvisualization63963.2024.00013",
       "doi_url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00013",
       "group_author_ids": [
@@ -5002,7 +5004,7 @@
         "last_page": "1838",
         "volume": "51"
       },
-      "citation_count": 83,
+      "citation_count": 84,
       "doi": "10.1109/tps.2023.3268170",
       "doi_url": "https://doi.org/10.1109/tps.2023.3268170",
       "group_author_ids": [
@@ -5379,6 +5381,65 @@
     },
     {
       "author_names": [
+        "Chad A. Steed",
+        "Junghoon Chae",
+        "Samudra Dasgupta",
+        "Travis S. Humble"
+      ],
+      "authors": [
+        {
+          "name": "Chad A. Steed",
+          "openalex_id": "https://openalex.org/A5048471884"
+        },
+        {
+          "name": "Junghoon Chae",
+          "openalex_id": "https://openalex.org/A5061467967"
+        },
+        {
+          "name": "Samudra Dasgupta",
+          "openalex_id": "https://openalex.org/A5028309038"
+        },
+        {
+          "name": "Travis S. Humble",
+          "openalex_id": "https://openalex.org/A5001784263"
+        }
+      ],
+      "biblio": {
+        "first_page": "211",
+        "issue": "",
+        "last_page": "214",
+        "volume": "21"
+      },
+      "citation_count": 2,
+      "doi": "10.1109/qce57702.2023.10215",
+      "doi_url": "https://doi.org/10.1109/qce57702.2023.10215",
+      "group_author_ids": [
+        "junghoon-chae"
+      ],
+      "id": "doi:10.1109/qce57702.2023.10215",
+      "oa_url": "https://www.osti.gov/servlets/purl/2001390",
+      "openalex_author_person_ids": [
+        "junghoon-chae"
+      ],
+      "openalex_id": "https://openalex.org/W4389167201",
+      "openalex_ids": [
+        "https://openalex.org/W4389167201"
+      ],
+      "openalex_url": "https://openalex.org/W4389167201",
+      "orcid_person_ids": [],
+      "publication_date": "2023-09-17",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "QVis: A Visual Analytics Tool for Exploring Noise and Errors in Quantum Computing Systems",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1109/qce57702.2023.10215",
+      "venue": "",
+      "year": 2023
+    },
+    {
+      "author_names": [
         "T. A. J. Ouermi",
         "Robert M. Kirby",
         "Martin Berzins"
@@ -5472,65 +5533,6 @@
       "title": "The VTK-m Users' Guide (V.2.0)",
       "type": "report",
       "url": "https://doi.org/10.2172/1959590",
-      "venue": "",
-      "year": 2023
-    },
-    {
-      "author_names": [
-        "Chad A. Steed",
-        "Junghoon Chae",
-        "Samudra Dasgupta",
-        "Travis S. Humble"
-      ],
-      "authors": [
-        {
-          "name": "Chad A. Steed",
-          "openalex_id": "https://openalex.org/A5048471884"
-        },
-        {
-          "name": "Junghoon Chae",
-          "openalex_id": "https://openalex.org/A5061467967"
-        },
-        {
-          "name": "Samudra Dasgupta",
-          "openalex_id": "https://openalex.org/A5028309038"
-        },
-        {
-          "name": "Travis S. Humble",
-          "openalex_id": "https://openalex.org/A5001784263"
-        }
-      ],
-      "biblio": {
-        "first_page": "211",
-        "issue": "",
-        "last_page": "214",
-        "volume": "21"
-      },
-      "citation_count": 1,
-      "doi": "10.1109/qce57702.2023.10215",
-      "doi_url": "https://doi.org/10.1109/qce57702.2023.10215",
-      "group_author_ids": [
-        "junghoon-chae"
-      ],
-      "id": "doi:10.1109/qce57702.2023.10215",
-      "oa_url": "https://www.osti.gov/servlets/purl/2001390",
-      "openalex_author_person_ids": [
-        "junghoon-chae"
-      ],
-      "openalex_id": "https://openalex.org/W4389167201",
-      "openalex_ids": [
-        "https://openalex.org/W4389167201"
-      ],
-      "openalex_url": "https://openalex.org/W4389167201",
-      "orcid_person_ids": [],
-      "publication_date": "2023-09-17",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "QVis: A Visual Analytics Tool for Exploring Noise and Errors in Quantum Computing Systems",
-      "type": "conference-paper",
-      "url": "https://doi.org/10.1109/qce57702.2023.10215",
       "venue": "",
       "year": 2023
     },
@@ -5961,6 +5963,68 @@
     },
     {
       "author_names": [
+        "Tushar M. Athawale",
+        "Chris R. Johnson",
+        "Sudhanshu Sane",
+        "David Pugmire"
+      ],
+      "authors": [
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Chris R. Johnson",
+          "openalex_id": "https://openalex.org/A5048780291"
+        },
+        {
+          "name": "Sudhanshu Sane",
+          "openalex_id": "https://openalex.org/A5089272942"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        }
+      ],
+      "biblio": {
+        "first_page": "613",
+        "issue": "1",
+        "last_page": "623",
+        "volume": "29"
+      },
+      "citation_count": 14,
+      "doi": "10.1109/tvcg.2022.3209424",
+      "doi_url": "https://doi.org/10.1109/tvcg.2022.3209424",
+      "group_author_ids": [
+        "david-pugmire",
+        "tushar-athawale"
+      ],
+      "id": "doi:10.1109/tvcg.2022.3209424",
+      "oa_url": "https://www.osti.gov/servlets/purl/1991680",
+      "openalex_author_person_ids": [
+        "david-pugmire",
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W4297094541",
+      "openalex_ids": [
+        "https://openalex.org/W4297094541"
+      ],
+      "openalex_url": "https://openalex.org/W4297094541",
+      "orcid_person_ids": [
+        "david-pugmire",
+        "tushar-athawale"
+      ],
+      "publication_date": "2022-09-26",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
+      "type": "article",
+      "url": "https://doi.org/10.1109/tvcg.2022.3209424",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2022
+    },
+    {
+      "author_names": [
         "Qian Gong",
         "Xin Liang",
         "Ben Whitney",
@@ -6076,68 +6140,6 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.1007/978-3-030-96498-6_2",
       "venue": "Communications in computer and information science",
-      "year": 2022
-    },
-    {
-      "author_names": [
-        "Tushar M. Athawale",
-        "Chris R. Johnson",
-        "Sudhanshu Sane",
-        "David Pugmire"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Chris R. Johnson",
-          "openalex_id": "https://openalex.org/A5048780291"
-        },
-        {
-          "name": "Sudhanshu Sane",
-          "openalex_id": "https://openalex.org/A5089272942"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        }
-      ],
-      "biblio": {
-        "first_page": "613",
-        "issue": "1",
-        "last_page": "623",
-        "volume": "29"
-      },
-      "citation_count": 13,
-      "doi": "10.1109/tvcg.2022.3209424",
-      "doi_url": "https://doi.org/10.1109/tvcg.2022.3209424",
-      "group_author_ids": [
-        "david-pugmire",
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1109/tvcg.2022.3209424",
-      "oa_url": "https://www.osti.gov/servlets/purl/1991680",
-      "openalex_author_person_ids": [
-        "david-pugmire",
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4297094541",
-      "openalex_ids": [
-        "https://openalex.org/W4297094541"
-      ],
-      "openalex_url": "https://openalex.org/W4297094541",
-      "orcid_person_ids": [
-        "david-pugmire",
-        "tushar-athawale"
-      ],
-      "publication_date": "2022-09-26",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
-      "type": "article",
-      "url": "https://doi.org/10.1109/tvcg.2022.3209424",
-      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2022
     },
     {
@@ -7741,7 +7743,7 @@
         "last_page": "1536",
         "volume": "71"
       },
-      "citation_count": 70,
+      "citation_count": 71,
       "doi": "10.1109/tc.2021.3092201",
       "doi_url": "https://doi.org/10.1109/tc.2021.3092201",
       "group_author_ids": [
@@ -8817,7 +8819,7 @@
         "last_page": "102834",
         "volume": "108"
       },
-      "citation_count": 9,
+      "citation_count": 10,
       "doi": "10.1016/j.parco.2021.102834",
       "doi_url": "https://doi.org/10.1016/j.parco.2021.102834",
       "group_author_ids": [
@@ -9978,7 +9980,7 @@
         "last_page": "100561",
         "volume": "12"
       },
-      "citation_count": 232,
+      "citation_count": 233,
       "doi": "10.1016/j.softx.2020.100561",
       "doi_url": "https://doi.org/10.1016/j.softx.2020.100561",
       "group_author_ids": [
@@ -10457,7 +10459,7 @@
         "last_page": "1807",
         "volume": "27"
       },
-      "citation_count": 31,
+      "citation_count": 32,
       "doi": "10.1109/tvcg.2020.3030394",
       "doi_url": "https://doi.org/10.1109/tvcg.2020.3030394",
       "group_author_ids": [
@@ -10526,7 +10528,7 @@
         "last_page": "1966",
         "volume": "28"
       },
-      "citation_count": 26,
+      "citation_count": 28,
       "doi": "10.1109/tvcg.2020.3022359",
       "doi_url": "https://doi.org/10.1109/tvcg.2020.3022359",
       "group_author_ids": [
@@ -10617,7 +10619,7 @@
         "david-pugmire"
       ],
       "id": "doi:10.1007/978-3-030-50743-5_8",
-      "oa_url": "https://www.osti.gov/biblio/1635087",
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7295346",
       "openalex_author_person_ids": [
         "david-pugmire"
       ],
@@ -14559,7 +14561,7 @@
         "last_page": "175",
         "volume": "32"
       },
-      "citation_count": 180,
+      "citation_count": 181,
       "doi": "10.1177/1094342017704893",
       "doi_url": "https://doi.org/10.1177/1094342017704893",
       "group_author_ids": [
@@ -14761,7 +14763,7 @@
         "last_page": "5",
         "volume": ""
       },
-      "citation_count": 5,
+      "citation_count": 6,
       "doi": "10.1109/ldav.2017.8231845",
       "doi_url": "https://doi.org/10.1109/ldav.2017.8231845",
       "group_author_ids": [
@@ -15690,7 +15692,7 @@
         "last_page": "1766",
         "volume": "207"
       },
-      "citation_count": 286,
+      "citation_count": 285,
       "doi": "10.1093/gji/ggw356",
       "doi_url": "https://doi.org/10.1093/gji/ggw356",
       "group_author_ids": [
@@ -15799,7 +15801,7 @@
         "last_page": "58",
         "volume": "36"
       },
-      "citation_count": 151,
+      "citation_count": 152,
       "doi": "10.1109/mcg.2016.48",
       "doi_url": "https://doi.org/10.1109/mcg.2016.48",
       "group_author_ids": [
@@ -15895,7 +15897,7 @@
         "last_page": "597",
         "volume": "35"
       },
-      "citation_count": 149,
+      "citation_count": 151,
       "doi": "10.1111/cgf.12930",
       "doi_url": "https://doi.org/10.1111/cgf.12930",
       "group_author_ids": [
@@ -15939,7 +15941,7 @@
         "last_page": "6",
         "volume": "28"
       },
-      "citation_count": 79,
+      "citation_count": 78,
       "doi": "10.2352/issn.2470-1173.2016.16.hvei-133",
       "doi_url": "https://doi.org/10.2352/issn.2470-1173.2016.16.hvei-133",
       "group_author_ids": [
@@ -16927,7 +16929,7 @@
         "last_page": "29",
         "volume": ""
       },
-      "citation_count": 198,
+      "citation_count": 199,
       "doi": "10.1145/2828612.2828624",
       "doi_url": "https://doi.org/10.1145/2828612.2828624",
       "group_author_ids": [
@@ -16981,7 +16983,7 @@
         "last_page": "786",
         "volume": "22"
       },
-      "citation_count": 58,
+      "citation_count": 60,
       "doi": "10.1109/tvcg.2015.2467958",
       "doi_url": "https://doi.org/10.1109/tvcg.2015.2467958",
       "group_author_ids": [
@@ -17455,6 +17457,50 @@
     },
     {
       "author_names": [
+        "Kenneth Moreland"
+      ],
+      "authors": [
+        {
+          "name": "Kenneth Moreland",
+          "openalex_id": "https://openalex.org/A5102833835"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 3,
+      "doi": "10.2172/1184599",
+      "doi_url": "https://doi.org/10.2172/1184599",
+      "group_author_ids": [
+        "ken-moreland"
+      ],
+      "id": "doi:10.2172/1184599",
+      "oa_url": "https://www.osti.gov/servlets/purl/1184599",
+      "openalex_author_person_ids": [
+        "ken-moreland"
+      ],
+      "openalex_id": "https://openalex.org/W2517490961",
+      "openalex_ids": [
+        "https://openalex.org/W2517490961"
+      ],
+      "openalex_url": "https://openalex.org/W2517490961",
+      "orcid_person_ids": [],
+      "publication_date": "2015-06-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "The Future of Scientific Workflows: Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia Contributions)",
+      "type": "report",
+      "url": "https://doi.org/10.2172/1184599",
+      "venue": "",
+      "year": 2015
+    },
+    {
+      "author_names": [
         "Jiawei Zhang",
         "Junghoon Chae",
         "Shehzad Afzal",
@@ -17534,50 +17580,6 @@
       "title": "Visual Analytics of User Influence and Location-Based Social Networks",
       "type": "book-chapter",
       "url": "https://doi.org/10.1007/978-3-319-18552-1_12",
-      "venue": "",
-      "year": 2015
-    },
-    {
-      "author_names": [
-        "Kenneth Moreland"
-      ],
-      "authors": [
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 2,
-      "doi": "10.2172/1184599",
-      "doi_url": "https://doi.org/10.2172/1184599",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.2172/1184599",
-      "oa_url": "https://www.osti.gov/servlets/purl/1184599",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W2517490961",
-      "openalex_ids": [
-        "https://openalex.org/W2517490961"
-      ],
-      "openalex_url": "https://openalex.org/W2517490961",
-      "orcid_person_ids": [],
-      "publication_date": "2015-06-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "The Future of Scientific Workflows: Report of the DOE NGNS/CS Scientific Workflows Workshop (Sandia Contributions)",
-      "type": "report",
-      "url": "https://doi.org/10.2172/1184599",
       "venue": "",
       "year": 2015
     },
@@ -18153,9 +18155,9 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Finely-Threaded History-Based Topology Computation",
-      "type": "paratext",
+      "type": "article",
       "url": "https://doi.org/10.2312/pgv.20141083",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "venue": "",
       "year": 2014
     },
     {
@@ -18390,7 +18392,7 @@
         "last_page": "60",
         "volume": "38"
       },
-      "citation_count": 186,
+      "citation_count": 187,
       "doi": "10.1016/j.cag.2013.10.008",
       "doi_url": "https://doi.org/10.1016/j.cag.2013.10.008",
       "group_author_ids": [
@@ -18416,6 +18418,55 @@
       "type": "article",
       "url": "https://doi.org/10.1016/j.cag.2013.10.008",
       "venue": "Computers & Graphics",
+      "year": 2013
+    },
+    {
+      "author_names": [
+        "Tushar M. Athawale",
+        "Alireza Entezari"
+      ],
+      "authors": [
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Alireza Entezari",
+          "openalex_id": "https://openalex.org/A5058158315"
+        }
+      ],
+      "biblio": {
+        "first_page": "2723",
+        "issue": "12",
+        "last_page": "2732",
+        "volume": "19"
+      },
+      "citation_count": 52,
+      "doi": "10.1109/tvcg.2013.208",
+      "doi_url": "https://doi.org/10.1109/tvcg.2013.208",
+      "group_author_ids": [
+        "tushar-athawale"
+      ],
+      "id": "doi:10.1109/tvcg.2013.208",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W2165453175",
+      "openalex_ids": [
+        "https://openalex.org/W2165453175"
+      ],
+      "openalex_url": "https://openalex.org/W2165453175",
+      "orcid_person_ids": [
+        "tushar-athawale"
+      ],
+      "publication_date": "2013-10-16",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction",
+      "type": "article",
+      "url": "https://doi.org/10.1109/tvcg.2013.208",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2013
     },
     {
@@ -18495,55 +18546,6 @@
       "type": "article",
       "url": "https://doi.org/10.1109/mc.2013.179",
       "venue": "Computer",
-      "year": 2013
-    },
-    {
-      "author_names": [
-        "Tushar M. Athawale",
-        "Alireza Entezari"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Alireza Entezari",
-          "openalex_id": "https://openalex.org/A5058158315"
-        }
-      ],
-      "biblio": {
-        "first_page": "2723",
-        "issue": "12",
-        "last_page": "2732",
-        "volume": "19"
-      },
-      "citation_count": 50,
-      "doi": "10.1109/tvcg.2013.208",
-      "doi_url": "https://doi.org/10.1109/tvcg.2013.208",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1109/tvcg.2013.208",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W2165453175",
-      "openalex_ids": [
-        "https://openalex.org/W2165453175"
-      ],
-      "openalex_url": "https://openalex.org/W2165453175",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2013-10-16",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction",
-      "type": "article",
-      "url": "https://doi.org/10.1109/tvcg.2013.208",
-      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2013
     },
     {
@@ -18821,7 +18823,7 @@
         "last_page": "86540Y",
         "volume": "8654"
       },
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1117/12.2007320",
       "doi_url": "https://doi.org/10.1117/12.2007320",
       "group_author_ids": [
@@ -18880,7 +18882,7 @@
         "last_page": "10",
         "volume": ""
       },
-      "citation_count": 8,
+      "citation_count": 9,
       "doi": "10.1145/2535571.2535591",
       "doi_url": "https://doi.org/10.1145/2535571.2535591",
       "group_author_ids": [
@@ -19146,7 +19148,7 @@
         "last_page": "152",
         "volume": ""
       },
-      "citation_count": 283,
+      "citation_count": 284,
       "doi": "10.1109/vast.2012.6400557",
       "doi_url": "https://doi.org/10.1109/vast.2012.6400557",
       "group_author_ids": [
@@ -20433,7 +20435,7 @@
         "last_page": "10",
         "volume": ""
       },
-      "citation_count": 59,
+      "citation_count": 60,
       "doi": "10.1145/2063384.2063417",
       "doi_url": "https://doi.org/10.1145/2063384.2063417",
       "group_author_ids": [
@@ -21359,7 +21361,7 @@
         "last_page": "103",
         "volume": ""
       },
-      "citation_count": 217,
+      "citation_count": 218,
       "doi": "10.1007/978-3-642-10520-3_9",
       "doi_url": "https://doi.org/10.1007/978-3-642-10520-3_9",
       "group_author_ids": [
@@ -23267,7 +23269,7 @@
         "last_page": "119",
         "volume": ""
       },
-      "citation_count": 288,
+      "citation_count": 289,
       "doi": "10.5555/844174.844191",
       "doi_url": "https://doi.org/10.5555/844174.844191",
       "group_author_ids": [
