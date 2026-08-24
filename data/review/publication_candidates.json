@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:00:44+00:00",
+  "generated_at": "2026-08-24T10:06:37+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -80,9 +80,23 @@
       "orcid_evidence": "David Pugmire; Ken Moreland; Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
-      "title": "MAGIC: <u>M</u> arching Cubes Isosurface Uncertainty Visualization for <u>G</u> auss <u>i</u> an Uncertain Data With Spatial <u>C</u> orrelation",
+      "title": "MAGIC: M arching Cubes Isosurface Uncertainty Visualization for G auss i an Uncertain Data With Spatial C orrelation",
       "url": "https://doi.org/10.1109/tvcg.2026.3653244",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.48550/arxiv.2608.18220",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W7203870500",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Distribution-Agnostic Isocontour Confidence Bounds for Robust Uncertainty Visualization of Scalar Field Data",
+      "url": "https://doi.org/10.48550/arxiv.2608.18220",
+      "venue": "arXiv (Cornell University)",
       "year": 2026
     },
     {
@@ -381,6 +395,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.1111/cgf.70108",
+      "group_authors": "Ken Moreland",
+      "openalex_candidate_for": "Ken Moreland",
+      "openalex_url": "https://openalex.org/W4410674910",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "In Situ Workload Estimation for Block Assignment and Duplication in Parallelization\u2010Over\u2010Data Particle Advection",
+      "url": "https://doi.org/10.1111/cgf.70108",
+      "venue": "Computer Graphics Forum",
+      "year": 2025
+    },
+    {
+      "citation_count": 0,
       "doi": "10.1615/int.j.uncertaintyquantification.2025059589",
       "group_authors": "Timbwaoga A. J. Ouermi",
       "openalex_candidate_for": "",
@@ -433,20 +461,6 @@
       "title": "A General Framework for Error-controlled Unstructured Scientific Data Compression",
       "url": "https://doi.org/10.48550/arxiv.2501.06910",
       "venue": "arXiv (Cornell University)",
-      "year": 2025
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1111/cgf.70108",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4410674910",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "<i>In Situ</i> Workload Estimation for Block Assignment and Duplication in Parallelization\u2010Over\u2010Data Particle Advection",
-      "url": "https://doi.org/10.1111/cgf.70108",
-      "venue": "Computer Graphics Forum",
       "year": 2025
     },
     {
@@ -570,7 +584,7 @@
       "orcid_evidence": "Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
-      "title": "FunM<sup>2</sup>C: A Filter for Uncertainty Visualization of Multivariate Data on Multi-Core Devices",
+      "title": "FunM2C: A Filter for Uncertainty Visualization of Multivariate Data on Multi-Core Devices",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00010",
       "venue": "",
       "year": 2024
@@ -901,7 +915,7 @@
       "citation_count": 5,
       "doi": "10.2172/2076189",
       "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "",
+      "openalex_candidate_for": "Erik Schmidt",
       "openalex_url": "https://openalex.org/W4387730001",
       "orcid_evidence": "Erik Schmidt",
       "review_notes": "",
@@ -990,7 +1004,7 @@
       "orcid_evidence": "Timbwaoga A. J. Ouermi",
       "review_notes": "",
       "review_status": "trusted_orcid",
-      "title": "Algorithm\u00a01041: HiPPIS\u2014A High-order Positivity-preserving Mapping Software for Structured Meshes",
+      "title": "Algorithm 1041: HiPPIS\u2014A High-order Positivity-preserving Mapping Software for Structured Meshes",
       "url": "https://doi.org/10.1145/3632291",
       "venue": "ACM Transactions on Mathematical Software",
       "year": 2023
@@ -1158,7 +1172,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "The Need for\u00a0Pervasive In\u00a0Situ Analysis and\u00a0Visualization (P-ISAV)",
+      "title": "The Need for Pervasive In Situ Analysis and Visualization (P-ISAV)",
       "url": "https://doi.org/10.1007/978-3-031-23220-6_21",
       "venue": "Lecture notes in computer science",
       "year": 2022
@@ -1570,7 +1584,7 @@
       "year": 2021
     },
     {
-      "citation_count": 2,
+      "citation_count": 3,
       "doi": "10.1109/ldav53230.2021.00012",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -1724,7 +1738,7 @@
       "year": 2021
     },
     {
-      "citation_count": 233,
+      "citation_count": 234,
       "doi": "10.1016/j.softx.2020.100561",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1738,7 +1752,7 @@
       "year": 2020
     },
     {
-      "citation_count": 230,
+      "citation_count": 232,
       "doi": "10.1093/gji/ggaa253",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1802,7 +1816,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "Opportunities for Cost Savings with\u00a0In-Transit Visualization",
+      "title": "Opportunities for Cost Savings with In-Transit Visualization",
       "url": "https://doi.org/10.1007/978-3-030-50743-5_8",
       "venue": "Lecture notes in computer science",
       "year": 2020
@@ -2068,7 +2082,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "<i>Cladocopium</i> community divergence in two <i>Acropora</i> coral hosts across multiple spatial scales",
+      "title": "Cladocopium community divergence in two Acropora coral hosts across multiple spatial scales",
       "url": "https://doi.org/10.1101/575183",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2019
@@ -2187,20 +2201,6 @@
     },
     {
       "citation_count": 1,
-      "doi": "10.2172/1762947",
-      "group_authors": "David Pugmire; Ken Moreland",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland",
-      "openalex_url": "https://openalex.org/W4237184387",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "XVis: Visualization for the Extreme-Scale Scientific Computation Ecosystem. Final Report",
-      "url": "https://doi.org/10.2172/1762947",
-      "venue": "",
-      "year": 2019
-    },
-    {
-      "citation_count": 1,
       "doi": "10.1109/vahc47919.2019.8945037",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2210,20 +2210,6 @@
       "review_status": "trusted_orcid",
       "title": "A Statistical Framework for Visualization of Positional Uncertainty in Deep Brain Stimulation Electrodes",
       "url": "https://doi.org/10.1109/vahc47919.2019.8945037",
-      "venue": "",
-      "year": 2019
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.2172/1547341",
-      "group_authors": "David Pugmire; Ken Moreland",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland",
-      "openalex_url": "https://openalex.org/W2977129827",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "XVis: Visualization for the Extreme-Scale Scientific Computation Ecosystem (Final Report)",
-      "url": "https://doi.org/10.2172/1547341",
       "venue": "",
       "year": 2019
     },
@@ -2239,20 +2225,6 @@
       "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
       "url": "https://doi.org/10.1101/830844",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2019
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.2172/1490892",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2917782640",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Scientific Visualization Showcase SC18/19 Turnover Report",
-      "url": "https://doi.org/10.2172/1490892",
-      "venue": "",
       "year": 2019
     },
     {
@@ -2509,20 +2481,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.2172/1528839",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2954174268",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "SNL ATDM Visualization (ECP ST Capability Assessment Report)",
-      "url": "https://doi.org/10.2172/1528839",
-      "venue": "",
-      "year": 2018
-    },
-    {
-      "citation_count": 0,
       "doi": "10.2172/1434574",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2616,20 +2574,6 @@
       "review_status": "candidate_openalex",
       "title": "ATDM/ECP Milestone Memo WBS 2.3.4.04 / SNL ATDM Data and Visualization Projects STDV04-20 - [MS4/YR2] Document/Tune performance of VTK-m algorithms on ATS-1",
       "url": "https://doi.org/10.2172/1481597",
-      "venue": "",
-      "year": 2018
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.2172/1528797",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2954289576",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "A Need for Better Management of Heterogenous HPC Resources",
-      "url": "https://doi.org/10.2172/1528797",
       "venue": "",
       "year": 2018
     },
@@ -2747,20 +2691,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.2172/1408391",
-      "group_authors": "David Pugmire; Ken Moreland",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland",
-      "openalex_url": "https://openalex.org/W4231137075",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "XVis: Visualization for the Extreme-Scale Scientific-Computation Ecosystem: Year-end report FY17.",
-      "url": "https://doi.org/10.2172/1408391",
-      "venue": "",
-      "year": 2017
-    },
-    {
-      "citation_count": 0,
       "doi": "10.2172/1367456",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -2832,8 +2762,8 @@
     {
       "citation_count": 0,
       "doi": "10.2172/1414661",
-      "group_authors": "David Pugmire; Ken Moreland",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
       "openalex_url": "https://openalex.org/W3196095555",
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
@@ -2841,6 +2771,20 @@
       "title": "ECP Milestone Report WBS 2.3.4.13 ECP/VTK-m FY18Q1 [MS-18/01-03] Multiblock / Gradients / Release STDA05-5.",
       "url": "https://doi.org/10.2172/1414661",
       "venue": "",
+      "year": 2017
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.11578/dc.20171025.1345",
+      "group_authors": "Ken Moreland",
+      "openalex_candidate_for": "Ken Moreland",
+      "openalex_url": "https://openalex.org/W4405134336",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Dax v. 1.0",
+      "url": "https://doi.org/10.11578/dc.20171025.1345",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2017
     },
     {
@@ -2880,7 +2824,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "<i>In Situ</i>Methods, Infrastructures, and Applications on High Performance Computing Platforms",
+      "title": "In Situ Methods, Infrastructures, and Applications on High Performance Computing Platforms",
       "url": "https://doi.org/10.1111/cgf.12930",
       "venue": "Computer Graphics Forum",
       "year": 2016
@@ -3070,8 +3014,8 @@
     {
       "citation_count": 0,
       "doi": "10.2172/1562428",
-      "group_authors": "David Pugmire; Ken Moreland",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
       "openalex_url": "https://openalex.org/W4236857331",
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
@@ -3264,34 +3208,6 @@
       "year": 2015
     },
     {
-      "citation_count": 0,
-      "doi": "10.2172/1177971",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2301619467",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "XVis: Visualization for the Extreme-Scale Scientific-Computation Ecosystem (Mid-year report FY15 Q2)",
-      "url": "https://doi.org/10.2172/1177971",
-      "venue": "",
-      "year": 2015
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.2172/1172613",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2340937712",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Institute for Ultralscale Visualization (Final Report)",
-      "url": "https://doi.org/10.2172/1172613",
-      "venue": "",
-      "year": 2015
-    },
-    {
       "citation_count": 30,
       "doi": "10.1109/vast.2014.7042484",
       "group_authors": "Junghoon Chae",
@@ -3359,20 +3275,6 @@
       "title": "A Pervasive Parallel Processing Framework for Data Visualization and Analysis at Extreme Scale",
       "url": "https://doi.org/10.2172/1164814",
       "venue": "",
-      "year": 2014
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.11578/dc.20171025.1345",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4405134336",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Dax v. 1.0",
-      "url": "https://doi.org/10.11578/dc.20171025.1345",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2014
     },
     {
@@ -3558,7 +3460,7 @@
       "year": 2012
     },
     {
-      "citation_count": 87,
+      "citation_count": 88,
       "doi": "10.1109/tvcg.2012.133",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3694,7 +3596,7 @@
       "review_status": "candidate_openalex",
       "title": "Integrated Radiation Transport and Nuclear Fuel Performance for Assembly-Level Simulations",
       "url": "https://doi.org/10.2172/1034694",
-      "venue": "ORNL",
+      "venue": "",
       "year": 2012
     },
     {
@@ -3796,7 +3698,7 @@
       "year": 2011
     },
     {
-      "citation_count": 60,
+      "citation_count": 61,
       "doi": "10.1145/2063384.2063417",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3818,7 +3720,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "Examples of <i>in transit</i> visualization",
+      "title": "Examples of in transit visualization",
       "url": "https://doi.org/10.1145/2110205.2110207",
       "venue": "",
       "year": 2011
@@ -4112,7 +4014,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "Post-processing V&amp;V Level II ASC Milestone (2843) results.",
+      "title": "Post-processing V&V Level II ASC Milestone (2843) results.",
       "url": "https://doi.org/10.2172/941404",
       "venue": "",
       "year": 2008
@@ -4196,7 +4098,7 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "Post-processing V&amp;V level II ASC milestone (2360) results.",
+      "title": "Post-processing V&V level II ASC milestone (2360) results.",
       "url": "https://doi.org/10.2172/933216",
       "venue": "",
       "year": 2007
