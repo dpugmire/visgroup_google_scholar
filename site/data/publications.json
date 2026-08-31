@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:06:37+00:00",
+  "generated_at": "2026-08-31T17:06:39+00:00",
   "publications": [
     {
       "author_names": [
@@ -58,60 +58,6 @@
       "type": "article",
       "url": "https://doi.org/10.1109/mcg.2026.3714725",
       "venue": "IEEE Computer Graphics and Applications",
-      "year": 2026
-    },
-    {
-      "author_names": [
-        "Erik Schmidt",
-        "Megan Johnson",
-        "Rocio Uria-Martinez"
-      ],
-      "authors": [
-        {
-          "name": "Erik Schmidt",
-          "openalex_id": "https://openalex.org/A5134876250"
-        },
-        {
-          "name": "Megan Johnson",
-          "openalex_id": "https://openalex.org/A5130988322"
-        },
-        {
-          "name": "Rocio Uria-Martinez",
-          "openalex_id": "https://openalex.org/A5099130915"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.21951/hmr_relicensesurrender/3031246",
-      "doi_url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
-      "group_author_ids": [
-        "erik-schmidt"
-      ],
-      "id": "doi:10.21951/hmr_relicensesurrender/3031246",
-      "oa_url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
-      "openalex_author_person_ids": [
-        "erik-schmidt"
-      ],
-      "openalex_id": "https://openalex.org/W7160849215",
-      "openalex_ids": [
-        "https://openalex.org/W7160849215"
-      ],
-      "openalex_url": "https://openalex.org/W7160849215",
-      "orcid_person_ids": [],
-      "publication_date": "2026-05-11",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "U.S. Hydropower Relicense and Surrender Pipeline Map, 2026",
-      "type": "dataset",
-      "url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
-      "venue": "DOE Oak Ridge National Laboratory (ORNL) Repository",
       "year": 2026
     },
     {
@@ -442,7 +388,7 @@
         "timbwaoga-ouermi"
       ],
       "id": "doi:10.48550/arxiv.2608.18220",
-      "oa_url": "https://doi.org/10.48550/arxiv.2608.18220",
+      "oa_url": "https://arxiv.org/pdf/2608.18220",
       "openalex_author_person_ids": [
         "timbwaoga-ouermi"
       ],
@@ -545,55 +491,6 @@
       "type": "preprint",
       "url": "https://doi.org/10.64898/2026.03.12.711165",
       "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2026
-    },
-    {
-      "author_names": [
-        "Maggie Davis",
-        "Erik Schmidt"
-      ],
-      "authors": [
-        {
-          "name": "Maggie Davis",
-          "openalex_id": "https://openalex.org/A5134907990"
-        },
-        {
-          "name": "Erik Schmidt",
-          "openalex_id": "https://openalex.org/A5134876250"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.11578/biomass_dss/dc.20260430.1",
-      "doi_url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
-      "group_author_ids": [
-        "erik-schmidt"
-      ],
-      "id": "doi:10.11578/biomass_dss/dc.20260430.1",
-      "oa_url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
-      "openalex_author_person_ids": [
-        "erik-schmidt"
-      ],
-      "openalex_id": "https://openalex.org/W7158473150",
-      "openalex_ids": [
-        "https://openalex.org/W7158473150"
-      ],
-      "openalex_url": "https://openalex.org/W7158473150",
-      "orcid_person_ids": [],
-      "publication_date": "2026-01-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Decision Support System",
-      "type": "software",
-      "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2026
     },
     {
@@ -2503,7 +2400,7 @@
         "last_page": "502",
         "volume": "239"
       },
-      "citation_count": 45,
+      "citation_count": 46,
       "doi": "10.1093/gji/ggae270",
       "doi_url": "https://doi.org/10.1093/gji/ggae270",
       "group_author_ids": [
@@ -2610,7 +2507,9 @@
       ],
       "id": "doi:10.1038/s41597-024-03219-x",
       "oa_url": "https://doi.org/10.1038/s41597-024-03219-x",
-      "openalex_author_person_ids": [],
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
       "openalex_id": "https://openalex.org/W4396976240",
       "openalex_ids": [
         "https://openalex.org/W4396976240"
@@ -4003,6 +3902,60 @@
     },
     {
       "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_storymap/2447930",
+      "doi_url": "https://doi.org/10.21951/hmr_storymap/2447930",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_storymap/2447930",
+      "oa_url": "https://www.osti.gov/biblio/2447930",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4403381682",
+      "openalex_ids": [
+        "https://openalex.org/W4403381682"
+      ],
+      "openalex_url": "https://openalex.org/W4403381682",
+      "orcid_person_ids": [],
+      "publication_date": "2024-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Market Report Story Map",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_storymap/2447930",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2024
+    },
+    {
+      "author_names": [
         "David Pugmire",
         "Kenneth Moreland",
         "Tushar M. Athawale",
@@ -5083,7 +5036,7 @@
         "last_page": "1838",
         "volume": "51"
       },
-      "citation_count": 84,
+      "citation_count": 85,
       "doi": "10.1109/tps.2023.3268170",
       "doi_url": "https://doi.org/10.1109/tps.2023.3268170",
       "group_author_ids": [
@@ -5165,9 +5118,7 @@
       ],
       "id": "doi:10.2172/2076189",
       "oa_url": "https://www.osti.gov/servlets/purl/2076189",
-      "openalex_author_person_ids": [
-        "erik-schmidt"
-      ],
+      "openalex_author_person_ids": [],
       "openalex_id": "https://openalex.org/W4387730001",
       "openalex_ids": [
         "https://openalex.org/W4387730001"
@@ -5624,6 +5575,60 @@
     },
     {
       "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.21951/hmr_pipelinemaps/1972066",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1972066",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1972066",
+      "oa_url": "https://www.osti.gov/servlets/purl/1972066",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576714",
+      "openalex_ids": [
+        "https://openalex.org/W4392576714"
+      ],
+      "openalex_url": "https://openalex.org/W4392576714",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Map U.S. Pumped Storage Hydropower Development Pipeline, 2023",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972066",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
         "Wang, Zhe",
         "Athawale, TusharM.",
         "Moreland, Kenneth",
@@ -5902,6 +5907,340 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/hpcc-dss-smartcity-dependsys60770.2023.00113",
       "venue": "",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1972065",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1972065",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1972065",
+      "oa_url": "https://www.osti.gov/servlets/purl/1972065",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576715",
+      "openalex_ids": [
+        "https://openalex.org/W4392576715"
+      ],
+      "openalex_url": "https://openalex.org/W4392576715",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Map U.S. Hydropower Development Pipeline, 2023",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972065",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Debjani Singh",
+        "Thomas Ruggles",
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Mchale, Mimi"
+      ],
+      "authors": [
+        {
+          "name": "Debjani Singh",
+          "openalex_id": "https://openalex.org/A5110928508"
+        },
+        {
+          "name": "Thomas Ruggles",
+          "openalex_id": "https://openalex.org/A5025288504"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Mchale, Mimi",
+          "openalex_id": ""
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/2000507",
+      "doi_url": "https://doi.org/10.21951/2000507",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/2000507",
+      "oa_url": "https://www.osti.gov/biblio/2000507",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4403517166",
+      "openalex_ids": [
+        "https://openalex.org/W4403517166"
+      ],
+      "openalex_url": "https://openalex.org/W4403517166",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Lifecycle of US Hydropower Facilities: How data at every stage drives growth",
+      "type": "article",
+      "url": "https://doi.org/10.21951/2000507",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972209",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972209",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972209",
+      "oa_url": "https://www.osti.gov/servlets/purl/1972209",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576726",
+      "openalex_ids": [
+        "https://openalex.org/W4392576726"
+      ],
+      "openalex_url": "https://openalex.org/W4392576726",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Pumped Storage Hydropower Development Pipeline, 2023",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972209",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972208",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972208",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972208",
+      "oa_url": "https://www.osti.gov/biblio/1972208",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576727",
+      "openalex_ids": [
+        "https://openalex.org/W4392576727"
+      ],
+      "openalex_url": "https://openalex.org/W4392576727",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Operational Pumped Storage Hydropower, 2023",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972208",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972207",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972207",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972207",
+      "oa_url": "https://www.osti.gov/biblio/1972207",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576728",
+      "openalex_ids": [
+        "https://openalex.org/W4392576728"
+      ],
+      "openalex_url": "https://openalex.org/W4392576728",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Operational Hydropower, 2023",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972207",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2023
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_globalmaps/1972210",
+      "doi_url": "https://doi.org/10.21951/hmr_globalmaps/1972210",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_globalmaps/1972210",
+      "oa_url": "https://www.osti.gov/servlets/purl/1972210",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4392576724",
+      "openalex_ids": [
+        "https://openalex.org/W4392576724"
+      ],
+      "openalex_url": "https://openalex.org/W4392576724",
+      "orcid_person_ids": [],
+      "publication_date": "2023-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global Hydropower Development Pipeline, 2023",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_globalmaps/1972210",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2023
     },
     {
@@ -7015,6 +7354,60 @@
     },
     {
       "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.21951/hmr_pipelinemaps/1864509",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1864509",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1864509",
+      "oa_url": "https://www.osti.gov/servlets/purl/1864509",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4229068496",
+      "openalex_ids": [
+        "https://openalex.org/W4229068496"
+      ],
+      "openalex_url": "https://openalex.org/W4229068496",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Development Pipeline Map 2022",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864509",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2022
+    },
+    {
+      "author_names": [
         "Kenneth Moreland",
         "David Pugmire",
         "Jieyang Chen"
@@ -7067,6 +7460,60 @@
       "type": "report",
       "url": "https://doi.org/10.2172/1881112",
       "venue": "",
+      "year": 2022
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Debjani Singh"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Debjani Singh",
+          "openalex_id": "https://openalex.org/A5110928508"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 1,
+      "doi": "10.21951/nationalhydropowermap_fy22/1877924",
+      "doi_url": "https://doi.org/10.21951/nationalhydropowermap_fy22/1877924",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/nationalhydropowermap_fy22/1877924",
+      "oa_url": "https://www.osti.gov/servlets/purl/1877924",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4288199915",
+      "openalex_ids": [
+        "https://openalex.org/W4288199915"
+      ],
+      "openalex_url": "https://openalex.org/W4288199915",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "The 2022 National Hydropower Map",
+      "type": "article",
+      "url": "https://doi.org/10.21951/nationalhydropowermap_fy22/1877924",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2022
     },
     {
@@ -7318,6 +7765,149 @@
     },
     {
       "author_names": [
+        "H. Lexie Yang",
+        "Mark Tuttle",
+        "Melanie Laverdiere",
+        "Taylor Hauser",
+        "Benjamin Swan",
+        "Erik Schmidt",
+        "Jessica Moehl",
+        "Andrew Reith",
+        "Jacob McKee",
+        "Matt Whitehead"
+      ],
+      "authors": [
+        {
+          "name": "H. Lexie Yang",
+          "openalex_id": "https://openalex.org/A5024089585"
+        },
+        {
+          "name": "Mark Tuttle",
+          "openalex_id": "https://openalex.org/A5074700178"
+        },
+        {
+          "name": "Melanie Laverdiere",
+          "openalex_id": "https://openalex.org/A5058451584"
+        },
+        {
+          "name": "Taylor Hauser",
+          "openalex_id": "https://openalex.org/A5089635612"
+        },
+        {
+          "name": "Benjamin Swan",
+          "openalex_id": "https://openalex.org/A5067431685"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Jessica Moehl",
+          "openalex_id": "https://openalex.org/A5077453893"
+        },
+        {
+          "name": "Andrew Reith",
+          "openalex_id": "https://openalex.org/A5063529123"
+        },
+        {
+          "name": "Jacob McKee",
+          "openalex_id": "https://openalex.org/A5048709163"
+        },
+        {
+          "name": "Matt Whitehead",
+          "openalex_id": "https://openalex.org/A5023914529"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.6084/m9.figshare.20995453",
+      "doi_url": "https://doi.org/10.6084/m9.figshare.20995453",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.6084/m9.figshare.20995453",
+      "oa_url": "https://doi.org/10.6084/m9.figshare.20995453",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4394455181",
+      "openalex_ids": [
+        "https://openalex.org/W4394455181"
+      ],
+      "openalex_url": "https://openalex.org/W4394455181",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "UT Bldgs - ORNL USA Structure Dataset",
+      "type": "dataset",
+      "url": "https://doi.org/10.6084/m9.figshare.20995453",
+      "venue": "Figshare",
+      "year": 2022
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1864510",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1864510",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1864510",
+      "oa_url": "https://www.osti.gov/servlets/purl/1864510",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4229007642",
+      "openalex_ids": [
+        "https://openalex.org/W4229007642"
+      ],
+      "openalex_url": "https://openalex.org/W4229007642",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "U.S. Pumped Storage Hydropower Development Pipeline Map 2022",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864510",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2022
+    },
+    {
+      "author_names": [
         "Kenneth Moreland",
         "Vicente Bolea",
         "Hank Childs",
@@ -7486,7 +8076,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/1885308",
-      "oa_url": "https://www.osti.gov/biblio/1885308",
+      "oa_url": "https://www.osti.gov/servlets/purl/1885308",
       "openalex_author_person_ids": [
         "david-pugmire",
         "ken-moreland"
@@ -7570,6 +8160,95 @@
       "type": "report",
       "url": "https://doi.org/10.21079/11681/44844",
       "venue": "",
+      "year": 2022
+    },
+    {
+      "author_names": [
+        "H. Lexie Yang",
+        "Mark Tuttle",
+        "Melanie Laverdiere",
+        "Taylor Hauser",
+        "Benjamin Swan",
+        "Erik Schmidt",
+        "Jessica Moehl",
+        "Andrew Reith",
+        "Jacob McKee",
+        "Matt Whitehead"
+      ],
+      "authors": [
+        {
+          "name": "H. Lexie Yang",
+          "openalex_id": "https://openalex.org/A5024089585"
+        },
+        {
+          "name": "Mark Tuttle",
+          "openalex_id": "https://openalex.org/A5074700178"
+        },
+        {
+          "name": "Melanie Laverdiere",
+          "openalex_id": "https://openalex.org/A5058451584"
+        },
+        {
+          "name": "Taylor Hauser",
+          "openalex_id": "https://openalex.org/A5089635612"
+        },
+        {
+          "name": "Benjamin Swan",
+          "openalex_id": "https://openalex.org/A5067431685"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Jessica Moehl",
+          "openalex_id": "https://openalex.org/A5077453893"
+        },
+        {
+          "name": "Andrew Reith",
+          "openalex_id": "https://openalex.org/A5063529123"
+        },
+        {
+          "name": "Jacob McKee",
+          "openalex_id": "https://openalex.org/A5048709163"
+        },
+        {
+          "name": "Matt Whitehead",
+          "openalex_id": "https://openalex.org/A5023914529"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.6084/m9.figshare.20514243",
+      "doi_url": "https://doi.org/10.6084/m9.figshare.20514243",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.6084/m9.figshare.20514243",
+      "oa_url": "https://doi.org/10.6084/m9.figshare.20514243",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4394518369",
+      "openalex_ids": [
+        "https://openalex.org/W4394518369"
+      ],
+      "openalex_url": "https://openalex.org/W4394518369",
+      "orcid_person_ids": [],
+      "publication_date": "2022-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "IL Bldgs - ORNL USA Structure Dataset",
+      "type": "dataset",
+      "url": "https://doi.org/10.6084/m9.figshare.20514243",
+      "venue": "Figshare",
       "year": 2022
     },
     {
@@ -9021,60 +9700,6 @@
     },
     {
       "author_names": [
-        "Debabala Swain",
-        "Prasant Kumar Pattnaik",
-        "Tushar M. Athawale"
-      ],
-      "authors": [
-        {
-          "name": "Debabala Swain",
-          "openalex_id": "https://openalex.org/A5066668148"
-        },
-        {
-          "name": "Prasant Kumar Pattnaik",
-          "openalex_id": "https://openalex.org/A5036243132"
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 6,
-      "doi": "10.1007/978-981-33-4859-2",
-      "doi_url": "https://doi.org/10.1007/978-981-33-4859-2",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1007/978-981-33-4859-2",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4254825199",
-      "openalex_ids": [
-        "https://openalex.org/W4254825199"
-      ],
-      "openalex_url": "https://openalex.org/W4254825199",
-      "orcid_person_ids": [],
-      "publication_date": "2021-01-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Machine Learning and Information Processing",
-      "type": "book",
-      "url": "https://doi.org/10.1007/978-981-33-4859-2",
-      "venue": "Advances in intelligent systems and computing",
-      "year": 2021
-    },
-    {
-      "author_names": [
         "Tushar M. Athawale",
         "Brooke J. Stanislawski",
         "Sudhanshu Sane",
@@ -9759,6 +10384,114 @@
     },
     {
       "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1814129",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1814129",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1814129",
+      "oa_url": "https://www.osti.gov/servlets/purl/1814129",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4287007263",
+      "openalex_ids": [
+        "https://openalex.org/W4287007263"
+      ],
+      "openalex_url": "https://openalex.org/W4287007263",
+      "orcid_person_ids": [],
+      "publication_date": "2021-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Pumped Storage Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN.",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814129",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2021
+    },
+    {
+      "author_names": [
+        "Erik Schmidt",
+        "Megan Johnson",
+        "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Megan Johnson",
+          "openalex_id": "https://openalex.org/A5114949271"
+        },
+        {
+          "name": "Roc\u00edo Ur\u00eda\u2010Mart\u00ednez",
+          "openalex_id": "https://openalex.org/A5060426876"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.21951/hmr_pipelinemaps/1814127",
+      "doi_url": "https://doi.org/10.21951/hmr_pipelinemaps/1814127",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.21951/hmr_pipelinemaps/1814127",
+      "oa_url": "https://www.osti.gov/servlets/purl/1814127",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W4403517158",
+      "openalex_ids": [
+        "https://openalex.org/W4403517158"
+      ],
+      "openalex_url": "https://openalex.org/W4403517158",
+      "orcid_person_ids": [],
+      "publication_date": "2021-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN",
+      "type": "article",
+      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814127",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2021
+    },
+    {
+      "author_names": [
         "Jieyang Chen",
         "Lipeng Wan",
         "Xin Liang",
@@ -9907,7 +10640,7 @@
       "title": "Large-Scale In Situ Visualization of Raleigh-Taylor Instability with Ascent and VTK-m",
       "type": "article",
       "url": "https://doi.org/10.6084/m9.figshare.16926130.v1",
-      "venue": "INDIGO (University of Illinois at Chicago)",
+      "venue": "Figshare",
       "year": 2021
     },
     {
@@ -10155,7 +10888,7 @@
         "last_page": "21",
         "volume": "223"
       },
-      "citation_count": 232,
+      "citation_count": 233,
       "doi": "10.1093/gji/ggaa253",
       "doi_url": "https://doi.org/10.1093/gji/ggaa253",
       "group_author_ids": [
@@ -10797,7 +11530,7 @@
         "last_page": "29",
         "volume": "87"
       },
-      "citation_count": 16,
+      "citation_count": 17,
       "doi": "10.1016/j.cag.2020.01.005",
       "doi_url": "https://doi.org/10.1016/j.cag.2020.01.005",
       "group_author_ids": [
@@ -10823,6 +11556,100 @@
       "type": "article",
       "url": "https://doi.org/10.1016/j.cag.2020.01.005",
       "venue": "Computers & Graphics",
+      "year": 2020
+    },
+    {
+      "author_names": [
+        "Gautam Thakur",
+        "K. Sparks",
+        "Andy Berres",
+        "Varisara Tansakul",
+        "Supriya Chinthavali",
+        "Matthew Whitehead",
+        "Erik Schmidt",
+        "Haowen Xu",
+        "Junchuan Fan",
+        "Dustin Spears",
+        "Elton Cranfill"
+      ],
+      "authors": [
+        {
+          "name": "Gautam Thakur",
+          "openalex_id": "https://openalex.org/A5109581864"
+        },
+        {
+          "name": "K. Sparks",
+          "openalex_id": "https://openalex.org/A5071367873"
+        },
+        {
+          "name": "Andy Berres",
+          "openalex_id": "https://openalex.org/A5015051311"
+        },
+        {
+          "name": "Varisara Tansakul",
+          "openalex_id": "https://openalex.org/A5081065900"
+        },
+        {
+          "name": "Supriya Chinthavali",
+          "openalex_id": "https://openalex.org/A5041052894"
+        },
+        {
+          "name": "Matthew Whitehead",
+          "openalex_id": "https://openalex.org/A5049406568"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Haowen Xu",
+          "openalex_id": "https://openalex.org/A5018883565"
+        },
+        {
+          "name": "Junchuan Fan",
+          "openalex_id": "https://openalex.org/A5018366475"
+        },
+        {
+          "name": "Dustin Spears",
+          "openalex_id": "https://openalex.org/A5012865256"
+        },
+        {
+          "name": "Elton Cranfill",
+          "openalex_id": "https://openalex.org/A5033221715"
+        }
+      ],
+      "biblio": {
+        "first_page": "43",
+        "issue": "",
+        "last_page": "52",
+        "volume": ""
+      },
+      "citation_count": 17,
+      "doi": "10.1145/3423459.3430760",
+      "doi_url": "https://doi.org/10.1145/3423459.3430760",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1145/3423459.3430760",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W3106969537",
+      "openalex_ids": [
+        "https://openalex.org/W3106969537"
+      ],
+      "openalex_url": "https://openalex.org/W3106969537",
+      "orcid_person_ids": [],
+      "publication_date": "2020-11-03",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "COVID-19 Joint Pandemic Modeling and Analysis Platform",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/3423459.3430760",
+      "venue": "",
       "year": 2020
     },
     {
@@ -11587,6 +12414,65 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.2172/1830929",
       "venue": "",
+      "year": 2020
+    },
+    {
+      "author_names": [
+        "Regan Moreno",
+        "Chad A. Steed",
+        "Katherine Engstrom",
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Regan Moreno",
+          "openalex_id": "https://openalex.org/A5006883368"
+        },
+        {
+          "name": "Chad A. Steed",
+          "openalex_id": "https://openalex.org/A5048471884"
+        },
+        {
+          "name": "Katherine Engstrom",
+          "openalex_id": "https://openalex.org/A5056174573"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "443",
+        "issue": "",
+        "last_page": "450",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.1007/978-3-030-63393-6_29",
+      "doi_url": "https://doi.org/10.1007/978-3-030-63393-6_29",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1007/978-3-030-63393-6_29",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W3118212170",
+      "openalex_ids": [
+        "https://openalex.org/W3118212170"
+      ],
+      "openalex_url": "https://openalex.org/W3118212170",
+      "orcid_person_ids": [],
+      "publication_date": "2020-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Examining and Presenting Cycles in Temperature Logs from the Vulcan Diffractometer",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1007/978-3-030-63393-6_29",
+      "venue": "Communications in computer and information science",
       "year": 2020
     },
     {
@@ -13943,7 +14829,9 @@
       ],
       "id": "doi:10.1080/15481603.2018.1460933",
       "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/15481603.2018.1460933?needAccess=true&role=button",
-      "openalex_author_person_ids": [],
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
       "openalex_id": "https://openalex.org/W2795622682",
       "openalex_ids": [
         "https://openalex.org/W2795622682"
@@ -15156,72 +16044,80 @@
     },
     {
       "author_names": [
-        "Kenneth Moreland",
-        "David Pugmire",
-        "David Rogers",
-        "Hank Childs",
-        "Kwan\u2010Liu Ma",
-        "Berk Geveci"
+        "Pranab K. Roy Chowdhury",
+        "Susanna Hannah Sutherland",
+        "Kathleen Ernst",
+        "Alexander Pawlowski",
+        "Erik Schmidt",
+        "Janna Caspersen",
+        "Ziliang Zhao",
+        "Budhendra Bhaduri"
       ],
       "authors": [
         {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
+          "name": "Pranab K. Roy Chowdhury",
+          "openalex_id": "https://openalex.org/A5057369823"
         },
         {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
+          "name": "Susanna Hannah Sutherland",
+          "openalex_id": "https://openalex.org/A5044543447"
         },
         {
-          "name": "David Rogers",
-          "openalex_id": "https://openalex.org/A5012560979"
+          "name": "Kathleen Ernst",
+          "openalex_id": "https://openalex.org/A5038579898"
         },
         {
-          "name": "Hank Childs",
-          "openalex_id": "https://openalex.org/A5015951381"
+          "name": "Alexander Pawlowski",
+          "openalex_id": "https://openalex.org/A5113856349"
         },
         {
-          "name": "Kwan\u2010Liu Ma",
-          "openalex_id": "https://openalex.org/A5037161857"
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
         },
         {
-          "name": "Berk Geveci",
-          "openalex_id": "https://openalex.org/A5079289629"
+          "name": "Janna Caspersen",
+          "openalex_id": "https://openalex.org/A5083500004"
+        },
+        {
+          "name": "Ziliang Zhao",
+          "openalex_id": "https://openalex.org/A5101087544"
+        },
+        {
+          "name": "Budhendra Bhaduri",
+          "openalex_id": "https://openalex.org/A5104505028"
         }
       ],
       "biblio": {
-        "first_page": "",
+        "first_page": "277",
         "issue": "",
-        "last_page": "",
+        "last_page": "291",
         "volume": ""
       },
-      "citation_count": 0,
-      "doi": "10.2172/1367456",
-      "doi_url": "https://doi.org/10.2172/1367456",
+      "citation_count": 1,
+      "doi": "10.4324/9781315270838-23",
+      "doi_url": "https://doi.org/10.4324/9781315270838-23",
       "group_author_ids": [
-        "david-pugmire",
-        "ken-moreland"
+        "erik-schmidt"
       ],
-      "id": "doi:10.2172/1367456",
-      "oa_url": "https://www.osti.gov/servlets/purl/1367456",
+      "id": "doi:10.4324/9781315270838-23",
+      "oa_url": "https://www.osti.gov/biblio/1376332",
       "openalex_author_person_ids": [
-        "david-pugmire",
-        "ken-moreland"
+        "erik-schmidt"
       ],
-      "openalex_id": "https://openalex.org/W4233823902",
+      "openalex_id": "https://openalex.org/W2904764515",
       "openalex_ids": [
-        "https://openalex.org/W4233823902"
+        "https://openalex.org/W2904764515"
       ],
-      "openalex_url": "https://openalex.org/W4233823902",
+      "openalex_url": "https://openalex.org/W2904764515",
       "orcid_person_ids": [],
-      "publication_date": "2017-05-01",
+      "publication_date": "2017-08-07",
       "review_notes": [
         "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
       ],
       "review_status": "candidate_openalex",
-      "title": "XVis: Visualization for the Extreme-Scale Scientific-Computation Ecosystem: Mid-year report FY17 Q2",
-      "type": "report",
-      "url": "https://doi.org/10.2172/1367456",
+      "title": "Big data in emerging cities",
+      "type": "book-chapter",
+      "url": "https://doi.org/10.4324/9781315270838-23",
       "venue": "",
       "year": 2017
     },
@@ -15306,9 +16202,14 @@
     },
     {
       "author_names": [
+        "Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States)",
         "Kenneth Moreland"
       ],
       "authors": [
+        {
+          "name": "Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States)",
+          "openalex_id": "https://openalex.org/A5148064109"
+        },
         {
           "name": "Kenneth Moreland",
           "openalex_id": "https://openalex.org/A5102833835"
@@ -15350,9 +16251,14 @@
     },
     {
       "author_names": [
+        "Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States)",
         "Kenneth Moreland"
       ],
       "authors": [
+        {
+          "name": "Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States)",
+          "openalex_id": "https://openalex.org/A5148064109"
+        },
         {
           "name": "Kenneth Moreland",
           "openalex_id": "https://openalex.org/A5102833835"
@@ -15600,7 +16506,7 @@
         "last_page": "1766",
         "volume": "207"
       },
-      "citation_count": 285,
+      "citation_count": 286,
       "doi": "10.1093/gji/ggw356",
       "doi_url": "https://doi.org/10.1093/gji/ggw356",
       "group_author_ids": [
@@ -15938,7 +16844,7 @@
         "last_page": "617",
         "volume": "35"
       },
-      "citation_count": 76,
+      "citation_count": 77,
       "doi": "10.1111/cgf.12931",
       "doi_url": "https://doi.org/10.1111/cgf.12931",
       "group_author_ids": [
@@ -17659,75 +18565,6 @@
     },
     {
       "author_names": [
-        "Kenneth Moreland",
-        "Christopher Sewell",
-        "Hank Childs",
-        "Kwan\u2010Liu Ma",
-        "Berk Geveci",
-        "Jeremy Meredith"
-      ],
-      "authors": [
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Christopher Sewell",
-          "openalex_id": "https://openalex.org/A5060041531"
-        },
-        {
-          "name": "Hank Childs",
-          "openalex_id": "https://openalex.org/A5015951381"
-        },
-        {
-          "name": "Kwan\u2010Liu Ma",
-          "openalex_id": "https://openalex.org/A5037161857"
-        },
-        {
-          "name": "Berk Geveci",
-          "openalex_id": "https://openalex.org/A5079289629"
-        },
-        {
-          "name": "Jeremy Meredith",
-          "openalex_id": "https://openalex.org/A5102930858"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.2172/1234815",
-      "doi_url": "https://doi.org/10.2172/1234815",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.2172/1234815",
-      "oa_url": "https://www.osti.gov/servlets/purl/1234815",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W4240064647",
-      "openalex_ids": [
-        "https://openalex.org/W4240064647"
-      ],
-      "openalex_url": "https://openalex.org/W4240064647",
-      "orcid_person_ids": [],
-      "publication_date": "2015-12-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "XVis: Visualization for the Extreme-Scale Scientific-Computation Ecosystem: Year-end report FY15 Q4.",
-      "type": "report",
-      "url": "https://doi.org/10.2172/1234815",
-      "venue": "",
-      "year": 2015
-    },
-    {
-      "author_names": [
         "Sungahnn Ko",
         "Shehzad Afzal",
         "Simon Walton",
@@ -18695,6 +19532,70 @@
     },
     {
       "author_names": [
+        "Am\u00e9lie Anglade",
+        "Eric J. Humphrey",
+        "Erik Schmidt",
+        "Sebastian Stober",
+        "Mohamed Sordo"
+      ],
+      "authors": [
+        {
+          "name": "Am\u00e9lie Anglade",
+          "openalex_id": "https://openalex.org/A5000116710"
+        },
+        {
+          "name": "Eric J. Humphrey",
+          "openalex_id": "https://openalex.org/A5072108348"
+        },
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Sebastian Stober",
+          "openalex_id": "https://openalex.org/A5034558147"
+        },
+        {
+          "name": "Mohamed Sordo",
+          "openalex_id": "https://openalex.org/A5079883919"
+        }
+      ],
+      "biblio": {
+        "first_page": "91",
+        "issue": "2",
+        "last_page": "93",
+        "volume": "37"
+      },
+      "citation_count": 2,
+      "doi": "10.1162/comj_r_00171",
+      "doi_url": "https://doi.org/10.1162/comj_r_00171",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1162/comj_r_00171",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2065529867",
+      "openalex_ids": [
+        "https://openalex.org/W2065529867"
+      ],
+      "openalex_url": "https://openalex.org/W2065529867",
+      "orcid_person_ids": [],
+      "publication_date": "2013-06-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Demos and Late-Breaking Session of the Thirteenth International Society for Music Information Retrieval Conference (ISMIR 2012)",
+      "type": "article",
+      "url": "https://doi.org/10.1162/comj_r_00171",
+      "venue": "Computer Music Journal",
+      "year": 2013
+    },
+    {
+      "author_names": [
         "Junghoon Chae",
         "Dennis Thom",
         "Yun Jang",
@@ -18872,7 +19773,7 @@
         "last_page": "152",
         "volume": ""
       },
-      "citation_count": 284,
+      "citation_count": 285,
       "doi": "10.1109/vast.2012.6400557",
       "doi_url": "https://doi.org/10.1109/vast.2012.6400557",
       "group_author_ids": [
@@ -19064,7 +19965,7 @@
         "last_page": "",
         "volume": ""
       },
-      "citation_count": 43,
+      "citation_count": 44,
       "doi": "10.1201/b12985-17",
       "doi_url": "https://doi.org/10.1201/b12985-17",
       "group_author_ids": [
@@ -20626,7 +21527,7 @@
       ],
       "review_status": "candidate_openalex",
       "title": "Advances in Visual Computing: 7th International Symposium, ISVC 2011, Las Vegas, NV, USA, September 26-28, 2011. Proceedings, Part I",
-      "type": "other",
+      "type": "article",
       "url": "https://doi.org/10.1007/978-3-642-24028-7",
       "venue": "Digital Access to Libraries (Universit\u00e9 catholique de Louvain (UCL), l'Universit\u00e9 de Namur (UNamur) and the Universit\u00e9 Saint-Louis (USL-B))",
       "year": 2011
@@ -21728,6 +22629,50 @@
       "type": "report",
       "url": "https://doi.org/10.2172/941404",
       "venue": "",
+      "year": 2008
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "193",
+        "issue": "",
+        "last_page": "204",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.1007/978-1-4020-6872-0_11",
+      "doi_url": "https://doi.org/10.1007/978-1-4020-6872-0_11",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1007/978-1-4020-6872-0_11",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W55329371",
+      "openalex_ids": [
+        "https://openalex.org/W55329371"
+      ],
+      "openalex_url": "https://openalex.org/W55329371",
+      "orcid_person_ids": [],
+      "publication_date": "2008-02-02",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Thresholds, Vagueness and the Psychology of Small Improvements",
+      "type": "book-chapter",
+      "url": "https://doi.org/10.1007/978-1-4020-6872-0_11",
+      "venue": "Philosophical studies series",
       "year": 2008
     },
     {
@@ -23396,6 +24341,50 @@
     },
     {
       "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1-6",
+        "last_page": "",
+        "volume": "34"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1989.34.16.424",
+      "doi_url": "https://doi.org/10.1524/slaw.1989.34.16.424",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1989.34.16.424",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2317557886",
+      "openalex_ids": [
+        "https://openalex.org/W2317557886"
+      ],
+      "openalex_url": "https://openalex.org/W2317557886",
+      "orcid_person_ids": [],
+      "publication_date": "1989-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "\u201eGeistiges Und Literarisches Leben In Ru\u00dfland 1789 \u2013 1825 Und Die Franz\u00f6sische Revolution\"",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1989.34.16.424",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1989
+    },
+    {
+      "author_names": [
         "David Pugmire"
       ],
       "authors": [
@@ -23484,6 +24473,94 @@
     },
     {
       "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1-6",
+        "last_page": "",
+        "volume": "30"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1985.30.16.598",
+      "doi_url": "https://doi.org/10.1524/slaw.1985.30.16.598",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1985.30.16.598",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2322424025",
+      "openalex_ids": [
+        "https://openalex.org/W2322424025"
+      ],
+      "openalex_url": "https://openalex.org/W2322424025",
+      "orcid_person_ids": [],
+      "publication_date": "1985-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "\u201eDie rassische Literatur der Aufkl\u00e4rung\u201c (1650\u20141825)",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1985.30.16.598",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1985
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1-6",
+        "last_page": "",
+        "volume": "30"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1985.30.16.331",
+      "doi_url": "https://doi.org/10.1524/slaw.1985.30.16.331",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1985.30.16.331",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2318305958",
+      "openalex_ids": [
+        "https://openalex.org/W2318305958"
+      ],
+      "openalex_url": "https://openalex.org/W2318305958",
+      "orcid_person_ids": [],
+      "publication_date": "1985-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "\u0397. F. Schmids und \u0392. Trautmanns Programmschrift \u201eWesen und Aufgaben der deutschen Slavistik\u201c (1927)",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1985.30.16.331",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1985
+    },
+    {
+      "author_names": [
         "D. F. Pears",
         "David Pugmire"
       ],
@@ -23533,6 +24610,50 @@
     },
     {
       "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1",
+        "last_page": "",
+        "volume": "23"
+      },
+      "citation_count": 1,
+      "doi": "10.1524/slaw.1978.23.1.38",
+      "doi_url": "https://doi.org/10.1524/slaw.1978.23.1.38",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1978.23.1.38",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2325606562",
+      "openalex_ids": [
+        "https://openalex.org/W2325606562"
+      ],
+      "openalex_url": "https://openalex.org/W2325606562",
+      "orcid_person_ids": [],
+      "publication_date": "1978-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "L. \u039d. Tolstoj in der realistischen deutschen Literatur des 20. Jahrhunderts",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1978.23.1.38",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1978
+    },
+    {
+      "author_names": [
         "David Pugmire"
       ],
       "authors": [
@@ -23577,6 +24698,50 @@
     },
     {
       "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1",
+        "last_page": "",
+        "volume": "16"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1971.16.1.873",
+      "doi_url": "https://doi.org/10.1524/slaw.1971.16.1.873",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1971.16.1.873",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2324167126",
+      "openalex_ids": [
+        "https://openalex.org/W2324167126"
+      ],
+      "openalex_url": "https://openalex.org/W2324167126",
+      "orcid_person_ids": [],
+      "publication_date": "1971-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Die deutsche Dostoevskij-Rezeption der 20er Jahre",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1971.16.1.873",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1971
+    },
+    {
+      "author_names": [
         "David Pugmire"
       ],
       "authors": [
@@ -23618,6 +24783,50 @@
       "url": "https://doi.org/10.1080/00201746908601568",
       "venue": "Inquiry",
       "year": 1969
+    },
+    {
+      "author_names": [
+        "Erik Schmidt"
+      ],
+      "authors": [
+        {
+          "name": "Erik Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "1",
+        "last_page": "",
+        "volume": "13"
+      },
+      "citation_count": 0,
+      "doi": "10.1524/slaw.1968.13.1.565",
+      "doi_url": "https://doi.org/10.1524/slaw.1968.13.1.565",
+      "group_author_ids": [
+        "erik-schmidt"
+      ],
+      "id": "doi:10.1524/slaw.1968.13.1.565",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "erik-schmidt"
+      ],
+      "openalex_id": "https://openalex.org/W2317361790",
+      "openalex_ids": [
+        "https://openalex.org/W2317361790"
+      ],
+      "openalex_url": "https://openalex.org/W2317361790",
+      "orcid_person_ids": [],
+      "publication_date": "1968-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Die Dostoevskij-Rezeption der deutschen revolution\u00e4ren Arbeiterbewegung (1920-1925)",
+      "type": "article",
+      "url": "https://doi.org/10.1524/slaw.1968.13.1.565",
+      "venue": "Zeitschrift f\u00fcr Slawistik",
+      "year": 1968
     }
   ],
   "source": "Curated OpenAlex author candidates with ORCID DOI evidence"
