@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:06:39+00:00",
+  "generated_at": "2026-09-07T15:06:03+00:00",
   "publications": [
     {
       "author_names": [
@@ -3478,7 +3478,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.2312/evs.20241071",
-      "oa_url": "https://www.osti.gov/servlets/purl/2406718",
+      "oa_url": "https://www.osti.gov/biblio/2406718",
       "openalex_author_person_ids": [
         "david-pugmire",
         "tushar-athawale"
@@ -4055,7 +4055,7 @@
         "ken-moreland"
       ],
       "id": "doi:10.2172/2448175",
-      "oa_url": "https://www.osti.gov/biblio/2448175",
+      "oa_url": "https://www.osti.gov/biblio/1592596",
       "openalex_author_person_ids": [
         "ken-moreland"
       ],
@@ -9670,7 +9670,7 @@
         "last_page": "150",
         "volume": "153"
       },
-      "citation_count": 7,
+      "citation_count": 8,
       "doi": "10.1016/j.tra.2021.07.013",
       "doi_url": "https://doi.org/10.1016/j.tra.2021.07.013",
       "group_author_ids": [
@@ -10645,6 +10645,95 @@
     },
     {
       "author_names": [
+        "Wenjie Lei",
+        "Youyi Ruan",
+        "E. Bozda\u011f",
+        "Daniel Peter",
+        "Matthieu Lef\u00e8bvre",
+        "Dimitri Komatitsch",
+        "Jeroen Tromp",
+        "Judith Hill",
+        "Norbert Podhorszki",
+        "David Pugmire"
+      ],
+      "authors": [
+        {
+          "name": "Wenjie Lei",
+          "openalex_id": "https://openalex.org/A5075601869"
+        },
+        {
+          "name": "Youyi Ruan",
+          "openalex_id": "https://openalex.org/A5038868566"
+        },
+        {
+          "name": "E. Bozda\u011f",
+          "openalex_id": "https://openalex.org/A5074274360"
+        },
+        {
+          "name": "Daniel Peter",
+          "openalex_id": "https://openalex.org/A5006190361"
+        },
+        {
+          "name": "Matthieu Lef\u00e8bvre",
+          "openalex_id": "https://openalex.org/A5103850694"
+        },
+        {
+          "name": "Dimitri Komatitsch",
+          "openalex_id": "https://openalex.org/A5001988181"
+        },
+        {
+          "name": "Jeroen Tromp",
+          "openalex_id": "https://openalex.org/A5034672570"
+        },
+        {
+          "name": "Judith Hill",
+          "openalex_id": "https://openalex.org/A5020527473"
+        },
+        {
+          "name": "Norbert Podhorszki",
+          "openalex_id": "https://openalex.org/A5071286199"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        }
+      ],
+      "biblio": {
+        "first_page": "1",
+        "issue": "1",
+        "last_page": "21",
+        "volume": "223"
+      },
+      "citation_count": 235,
+      "doi": "10.1093/gji/ggaa253",
+      "doi_url": "https://doi.org/10.1093/gji/ggaa253",
+      "group_author_ids": [
+        "david-pugmire"
+      ],
+      "id": "doi:10.1093/gji/ggaa253",
+      "oa_url": "https://www.osti.gov/biblio/1637980",
+      "openalex_author_person_ids": [
+        "david-pugmire"
+      ],
+      "openalex_id": "https://openalex.org/W3027649956",
+      "openalex_ids": [
+        "https://openalex.org/W3027649956"
+      ],
+      "openalex_url": "https://openalex.org/W3027649956",
+      "orcid_person_ids": [],
+      "publication_date": "2020-05-20",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global adjoint tomography\u2014model GLAD-M25",
+      "type": "article",
+      "url": "https://doi.org/10.1093/gji/ggaa253",
+      "venue": "Geophysical Journal International",
+      "year": 2020
+    },
+    {
+      "author_names": [
         "William F. Godoy",
         "Norbert Podhorszki",
         "Ruonan Wang",
@@ -10825,95 +10914,6 @@
       "type": "software-paper",
       "url": "https://doi.org/10.1016/j.softx.2020.100561",
       "venue": "SoftwareX",
-      "year": 2020
-    },
-    {
-      "author_names": [
-        "Wenjie Lei",
-        "Youyi Ruan",
-        "E. Bozda\u011f",
-        "Daniel Peter",
-        "Matthieu Lef\u00e8bvre",
-        "Dimitri Komatitsch",
-        "Jeroen Tromp",
-        "Judith Hill",
-        "Norbert Podhorszki",
-        "David Pugmire"
-      ],
-      "authors": [
-        {
-          "name": "Wenjie Lei",
-          "openalex_id": "https://openalex.org/A5075601869"
-        },
-        {
-          "name": "Youyi Ruan",
-          "openalex_id": "https://openalex.org/A5038868566"
-        },
-        {
-          "name": "E. Bozda\u011f",
-          "openalex_id": "https://openalex.org/A5074274360"
-        },
-        {
-          "name": "Daniel Peter",
-          "openalex_id": "https://openalex.org/A5006190361"
-        },
-        {
-          "name": "Matthieu Lef\u00e8bvre",
-          "openalex_id": "https://openalex.org/A5103850694"
-        },
-        {
-          "name": "Dimitri Komatitsch",
-          "openalex_id": "https://openalex.org/A5001988181"
-        },
-        {
-          "name": "Jeroen Tromp",
-          "openalex_id": "https://openalex.org/A5034672570"
-        },
-        {
-          "name": "Judith Hill",
-          "openalex_id": "https://openalex.org/A5020527473"
-        },
-        {
-          "name": "Norbert Podhorszki",
-          "openalex_id": "https://openalex.org/A5071286199"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        }
-      ],
-      "biblio": {
-        "first_page": "1",
-        "issue": "1",
-        "last_page": "21",
-        "volume": "223"
-      },
-      "citation_count": 233,
-      "doi": "10.1093/gji/ggaa253",
-      "doi_url": "https://doi.org/10.1093/gji/ggaa253",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1093/gji/ggaa253",
-      "oa_url": "https://www.osti.gov/biblio/1637980",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W3027649956",
-      "openalex_ids": [
-        "https://openalex.org/W3027649956"
-      ],
-      "openalex_url": "https://openalex.org/W3027649956",
-      "orcid_person_ids": [],
-      "publication_date": "2020-05-20",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Global adjoint tomography\u2014model GLAD-M25",
-      "type": "article",
-      "url": "https://doi.org/10.1093/gji/ggaa253",
-      "venue": "Geophysical Journal International",
       "year": 2020
     },
     {
@@ -15371,7 +15371,7 @@
         "last_page": "175",
         "volume": "32"
       },
-      "citation_count": 181,
+      "citation_count": 182,
       "doi": "10.1177/1094342017704893",
       "doi_url": "https://doi.org/10.1177/1094342017704893",
       "group_author_ids": [
@@ -16506,7 +16506,7 @@
         "last_page": "1766",
         "volume": "207"
       },
-      "citation_count": 286,
+      "citation_count": 289,
       "doi": "10.1093/gji/ggw356",
       "doi_url": "https://doi.org/10.1093/gji/ggw356",
       "group_author_ids": [

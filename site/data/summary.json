@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:06:39+00:00",
+  "generated_at": "2026-09-07T15:06:03+00:00",
   "h_index": 37,
   "i10_index": 95,
   "member_count": 6,
@@ -9,6 +9,6 @@
     "trusted_orcid": 86
   },
   "source": "Curated OpenAlex author candidates with ORCID DOI evidence",
-  "total_citations": 5739,
+  "total_citations": 5746,
   "warnings": []
 }

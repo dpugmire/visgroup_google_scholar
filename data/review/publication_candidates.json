@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T17:06:39+00:00",
+  "generated_at": "2026-09-07T15:06:03+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -1682,7 +1682,7 @@
       "year": 2021
     },
     {
-      "citation_count": 7,
+      "citation_count": 8,
       "doi": "10.1016/j.tra.2021.07.013",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -1906,6 +1906,20 @@
       "year": 2021
     },
     {
+      "citation_count": 235,
+      "doi": "10.1093/gji/ggaa253",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3027649956",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Global adjoint tomography\u2014model GLAD-M25",
+      "url": "https://doi.org/10.1093/gji/ggaa253",
+      "venue": "Geophysical Journal International",
+      "year": 2020
+    },
+    {
       "citation_count": 234,
       "doi": "10.1016/j.softx.2020.100561",
       "group_authors": "David Pugmire",
@@ -1917,20 +1931,6 @@
       "title": "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management",
       "url": "https://doi.org/10.1016/j.softx.2020.100561",
       "venue": "SoftwareX",
-      "year": 2020
-    },
-    {
-      "citation_count": 233,
-      "doi": "10.1093/gji/ggaa253",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3027649956",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Global adjoint tomography\u2014model GLAD-M25",
-      "url": "https://doi.org/10.1093/gji/ggaa253",
-      "venue": "Geophysical Journal International",
       "year": 2020
     },
     {
@@ -2774,7 +2774,7 @@
       "year": 2018
     },
     {
-      "citation_count": 181,
+      "citation_count": 182,
       "doi": "10.1177/1094342017704893",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -2984,7 +2984,7 @@
       "year": 2017
     },
     {
-      "citation_count": 286,
+      "citation_count": 289,
       "doi": "10.1093/gji/ggw356",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
