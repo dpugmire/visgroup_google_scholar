@@ -416,18 +416,20 @@
     "works_count": 54
   },
   {
-    "citation_count": 51,
+    "citation_count": 0,
     "google_scholar_url": "",
-    "h_index": 3,
-    "i10_index": 2,
+    "h_index": 0,
+    "i10_index": 0,
     "id": "erik-schmidt",
     "name": "Erik Schmidt",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-4454-1330",
-    "resolved_openalex_id": "https://openalex.org/A5040001193",
+    "publish_or_perish_query_type": "",
+    "resolved_openalex_id": "",
     "role": "Current member",
-    "works_count": 29
+    "scholar_user_id": "",
+    "works_count": 0
   },
   {
     "annual_citations": [
@@ -484,7 +486,7 @@
     ],
     "citation_count": 41,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=yjTNw5YAAAAJ",
-    "h_index": 3,
+    "h_index": 4,
     "i10_index": 0,
     "id": "timbwaoga-ouermi",
     "name": "Timbwaoga A. J. Ouermi",
