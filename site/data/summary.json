@@ -1,143 +1,138 @@
 {
-  "generated_at": "2026-06-23T23:12:32+00:00",
-  "h_index": 47,
-  "i10_index": 150,
-  "member_count": 6,
+  "generated_at": "2026-09-10T10:23:18+00:00",
+  "h_index": 49,
+  "i10_index": 159,
+  "member_count": 7,
   "person_metric_source": "Publish or Perish profile metrics when available",
   "profile_annual_citations": [
     {
-      "citations": 16,
-      "total": 134,
-      "year": 2002
-    },
-    {
-      "citations": 29,
-      "total": 163,
+      "citations": 27,
+      "total": 172,
       "year": 2003
     },
     {
-      "citations": 82,
-      "total": 245,
+      "citations": 81,
+      "total": 253,
       "year": 2004
     },
     {
-      "citations": 103,
-      "total": 348,
+      "citations": 104,
+      "total": 357,
       "year": 2005
     },
     {
-      "citations": 89,
-      "total": 437,
+      "citations": 87,
+      "total": 444,
       "year": 2006
     },
     {
-      "citations": 113,
-      "total": 550,
+      "citations": 111,
+      "total": 555,
       "year": 2007
     },
     {
-      "citations": 107,
-      "total": 657,
+      "citations": 111,
+      "total": 666,
       "year": 2008
     },
     {
       "citations": 147,
-      "total": 804,
+      "total": 813,
       "year": 2009
     },
     {
-      "citations": 156,
-      "total": 1022,
+      "citations": 162,
+      "total": 1039,
       "year": 2010
     },
     {
-      "citations": 290,
-      "total": 1312,
+      "citations": 285,
+      "total": 1324,
       "year": 2011
     },
     {
-      "citations": 343,
-      "total": 1680,
+      "citations": 348,
+      "total": 1700,
       "year": 2012
     },
     {
-      "citations": 329,
-      "total": 2009,
+      "citations": 323,
+      "total": 2023,
       "year": 2013
     },
     {
-      "citations": 375,
-      "total": 2384,
+      "citations": 369,
+      "total": 2392,
       "year": 2014
     },
     {
-      "citations": 498,
-      "total": 2885,
+      "citations": 494,
+      "total": 2891,
       "year": 2015
     },
     {
-      "citations": 542,
-      "total": 3427,
+      "citations": 550,
+      "total": 3441,
       "year": 2016
     },
     {
-      "citations": 588,
-      "total": 4015,
+      "citations": 585,
+      "total": 4026,
       "year": 2017
     },
     {
-      "citations": 709,
-      "total": 4724,
+      "citations": 708,
+      "total": 4736,
       "year": 2018
     },
     {
-      "citations": 761,
-      "total": 5485,
+      "citations": 754,
+      "total": 5490,
       "year": 2019
     },
     {
-      "citations": 859,
-      "total": 6344,
+      "citations": 849,
+      "total": 6339,
       "year": 2020
     },
     {
-      "citations": 833,
-      "total": 7177,
+      "citations": 849,
+      "total": 7188,
       "year": 2021
     },
     {
-      "citations": 970,
-      "total": 8147,
+      "citations": 999,
+      "total": 8187,
       "year": 2022
     },
     {
-      "citations": 884,
-      "total": 9031,
+      "citations": 921,
+      "total": 9108,
       "year": 2023
     },
     {
-      "citations": 883,
-      "total": 9914,
+      "citations": 924,
+      "total": 10032,
       "year": 2024
     },
     {
-      "citations": 955,
-      "total": 10869,
+      "citations": 1034,
+      "total": 11066,
       "year": 2025
     },
     {
-      "citations": 418,
-      "total": 11287,
+      "citations": 804,
+      "total": 11870,
       "year": 2026
     }
   ],
-  "profile_since_citations": 4943,
-  "publication_count": 583,
-  "publication_h_index": 47,
-  "publication_i10_index": 150,
+  "profile_since_citations": 5531,
+  "publication_count": 609,
+  "publication_h_index": 49,
+  "publication_i10_index": 159,
   "publication_since_citations": null,
-  "publication_total_citations": 10720,
-  "since_citations": 4943,
+  "publication_total_citations": 11254,
+  "since_citations": 5531,
   "since_h_index": null,
   "since_i10_index": null,
   "since_metric_source": "Publish or Perish profile annual totals",
@@ -145,10 +140,10 @@
   "since_metrics_complete": false,
   "since_metrics_counted_publications": 325,
   "since_metrics_inferred_zero_publications": 302,
-  "since_metrics_missing_publications": 258,
+  "since_metrics_missing_publications": 284,
   "since_year": 2021,
   "source": "Google Scholar via Publish or Perish",
-  "total_citations": 10720,
+  "total_citations": 11254,
   "warnings": [
     "erik-schmidt has no Google Scholar profile configured"
   ]
