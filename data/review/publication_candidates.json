@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:06:03+00:00",
+  "generated_at": "2026-09-14T15:55:51+00:00",
   "publications": [
     {
       "citation_count": 0,
@@ -13,6 +13,20 @@
       "title": "WebUVisBox: A Scenario-Based Framework for Collaborative and Accessible 3D Uncertainty Visualization on the Web",
       "url": "https://doi.org/10.1109/mcg.2026.3714725",
       "venue": "IEEE Computer Graphics and Applications",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.21951/hmr_relicensesurrender/3031246",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W7160849215",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "U.S. Hydropower Relicense and Surrender Pipeline Map, 2026",
+      "url": "https://doi.org/10.21951/hmr_relicensesurrender/3031246",
+      "venue": "DOE Oak Ridge National Laboratory (ORNL) Repository",
       "year": 2026
     },
     {
@@ -40,6 +54,20 @@
       "review_status": "candidate_openalex",
       "title": "REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization",
       "url": "https://doi.org/10.1109/pacificvis68791.2026.00029",
+      "venue": "",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.1109/ipdps65963.2026.00059",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W7166640244",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Quantifying the Impact of Lossy Compression on Neural Generative Surrogate Modeling",
+      "url": "https://doi.org/10.1109/ipdps65963.2026.00059",
       "venue": "",
       "year": 2026
     },
@@ -101,6 +129,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.11578/biomass_dss/dc.20260430.1",
+      "group_authors": "Erik Schmidt",
+      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_url": "https://openalex.org/W7158473150",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Decision Support System",
+      "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
       "doi": "10.1016/j.jocs.2026.102963",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -111,6 +153,20 @@
       "title": "Corrigendum to \u2018An uncertainty visualization framework for large-scale cardiovascular flow simulations: A case study on aortic stenosis\u2019 [J. Comput. Sci., vol. 99 (2026), 102914]",
       "url": "https://doi.org/10.1016/j.jocs.2026.102963",
       "venue": "Journal of Computational Science",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.48550/arxiv.2603.07053",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W7134814634",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Animating Petascale Time-varying Data on Commodity Hardware with LLM-assisted Scripting",
+      "url": "https://doi.org/10.48550/arxiv.2603.07053",
+      "venue": "arXiv (Cornell University)",
       "year": 2026
     },
     {
@@ -156,6 +212,20 @@
       "year": 2025
     },
     {
+      "citation_count": 6,
+      "doi": "10.1016/j.ijepes.2025.111503",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4417499142",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A risk assessment method of multi-form transient voltage stabilities for high-proportion renewable energy sending-end power grids",
+      "url": "https://doi.org/10.1016/j.ijepes.2025.111503",
+      "venue": "International Journal of Electrical Power & Energy Systems",
+      "year": 2025
+    },
+    {
       "citation_count": 3,
       "doi": "10.1145/3712285.3771989",
       "group_authors": "David Pugmire",
@@ -180,6 +250,20 @@
       "review_status": "candidate_openalex",
       "title": "Visualization of Noisy and Less Noisy Computational Basis States in Quantum Computing",
       "url": "https://doi.org/10.1109/qsw67625.2025.00011",
+      "venue": "",
+      "year": 2025
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/uncertaintyvisualization68947.2025.00007",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W7123589361",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Seeing the Many: Exploring Parameter Distributions Conditioned on Features in Surrogates",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00007",
       "venue": "",
       "year": 2025
     },
@@ -297,6 +381,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.1007/978-981-96-6803-8_11",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4413356857",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Truth as a Construct and the Growth of Knowledge",
+      "url": "https://doi.org/10.1007/978-981-96-6803-8_11",
+      "venue": "",
+      "year": 2025
+    },
+    {
+      "citation_count": 0,
       "doi": "10.2172/3006497",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "",
@@ -339,6 +437,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.1007/978-981-96-6803-8_5",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4413356819",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "The Interplay of \u201cCommon Morality\u201d and \u201cPhilosophy-Science\u201d",
+      "url": "https://doi.org/10.1007/978-981-96-6803-8_5",
+      "venue": "",
+      "year": 2025
+    },
+    {
+      "citation_count": 0,
       "doi": "10.2352/ei.2025.37.12.hpci-179",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -349,6 +461,20 @@
       "title": "Steady-state Particle Advection Speed-ups from GPU and CPU Parallelism",
       "url": "https://doi.org/10.2352/ei.2025.37.12.hpci-179",
       "venue": "Electronic Imaging",
+      "year": 2025
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.48550/arxiv.2504.09809",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4415158244",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "See or Recall: A Sanity Check for the Role of Vision in Solving Visualization Question Answer Tasks with Multimodal LLMs",
+      "url": "https://doi.org/10.48550/arxiv.2504.09809",
+      "venue": "arXiv (Cornell University)",
       "year": 2025
     },
     {
@@ -423,6 +549,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.48550/arxiv.2509.15160",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4417077864",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "An Evaluation-Centric Paradigm for Scientific Visualization Agents",
+      "url": "https://doi.org/10.48550/arxiv.2509.15160",
+      "venue": "arXiv (Cornell University)",
+      "year": 2025
+    },
+    {
+      "citation_count": 0,
       "doi": "10.48550/arxiv.2501.06910",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "",
@@ -453,7 +593,7 @@
       "citation_count": 20,
       "doi": "10.1038/s41597-024-03219-x",
       "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_candidate_for": "",
       "openalex_url": "https://openalex.org/W4396976240",
       "orcid_evidence": "Erik Schmidt",
       "review_notes": "",
@@ -461,6 +601,20 @@
       "title": "A baseline structure inventory with critical attribution for the US and its territories",
       "url": "https://doi.org/10.1038/s41597-024-03219-x",
       "venue": "Scientific Data",
+      "year": 2024
+    },
+    {
+      "citation_count": 14,
+      "doi": "10.1111/cgf.15093",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4399492331",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "AVA: Towards Autonomous Visualization Agents through Visual Perception\u2010Driven Decision\u2010Making",
+      "url": "https://doi.org/10.1111/cgf.15093",
+      "venue": "Computer Graphics Forum",
       "year": 2024
     },
     {
@@ -503,6 +657,34 @@
       "title": "Uncertainty-Informed Volume Visualization using Implicit Neural Representation",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00013",
       "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 4,
+      "doi": "10.54941/ahfe1005190",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4399478900",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Vigilant Air Traffic Control: Gaze-based Recognition of Detection Failures to Visual Warnings",
+      "url": "https://doi.org/10.54941/ahfe1005190",
+      "venue": "AHFE international",
+      "year": 2024
+    },
+    {
+      "citation_count": 3,
+      "doi": "10.1109/tvcg.2024.3514996",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4405179998",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "\u201cUnderstanding Robustness Lottery\u201d: A Geometric Visual Comparative Analysis of Neural Network Pruning Approaches",
+      "url": "https://doi.org/10.1109/tvcg.2024.3514996",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2024
     },
     {
@@ -573,6 +755,20 @@
       "title": "A General Framework for Error-controlled Unstructured Scientific Data Compression",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678699",
       "venue": "",
+      "year": 2024
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.48550/arxiv.2407.10996",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4403753170",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Visualization Literacy of Multimodal Large Language Models: A Comparative Study",
+      "url": "https://doi.org/10.48550/arxiv.2407.10996",
+      "venue": "arXiv (Cornell University)",
       "year": 2024
     },
     {
@@ -717,20 +913,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.21951/hmr_storymap/2447930",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4403381682",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "U.S. Hydropower Market Report Story Map",
-      "url": "https://doi.org/10.21951/hmr_storymap/2447930",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
       "doi": "10.1109/e-science62913.2024.10678727",
       "group_authors": "David Pugmire; Ken Moreland; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Ken Moreland; Tushar Athawale",
@@ -829,6 +1011,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.1007/978-981-97-3336-1_37",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4399665396",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Autonomous Exploration Path Planning Method for Unmanned Aerial Vehicle Based on Flight Safety Constraint",
+      "url": "https://doi.org/10.1007/978-981-97-3336-1_37",
+      "venue": "Lecture notes in electrical engineering",
+      "year": 2024
+    },
+    {
+      "citation_count": 0,
       "doi": "10.48550/arxiv.2409.08445",
       "group_authors": "David Pugmire; Ken Moreland; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Ken Moreland; Tushar Athawale",
@@ -898,10 +1094,38 @@
       "year": 2023
     },
     {
+      "citation_count": 21,
+      "doi": "10.1109/tie.2023.3260339",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4360993795",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A Protection Principle of LCC\u2013VSC Three-Terminal HVdc System Based on Instantaneous Boundary Impedance",
+      "url": "https://doi.org/10.1109/tie.2023.3260339",
+      "venue": "IEEE Transactions on Industrial Electronics",
+      "year": 2023
+    },
+    {
+      "citation_count": 11,
+      "doi": "10.1016/j.ijepes.2023.109138",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4366767041",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A protection method for LCC-VSC hybrid HVDC system based on boundary transient power direction",
+      "url": "https://doi.org/10.1016/j.ijepes.2023.109138",
+      "venue": "International Journal of Electrical Power & Energy Systems",
+      "year": 2023
+    },
+    {
       "citation_count": 5,
       "doi": "10.2172/2076189",
       "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "",
+      "openalex_candidate_for": "Erik Schmidt",
       "openalex_url": "https://openalex.org/W4387730001",
       "orcid_evidence": "Erik Schmidt",
       "review_notes": "",
@@ -983,6 +1207,20 @@
     },
     {
       "citation_count": 2,
+      "doi": "10.34028/iajit/20/5/3",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4385216409",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Design and Study of Zombie Enterprise Classification and Recognition Systems Based on Ensemble Learning",
+      "url": "https://doi.org/10.34028/iajit/20/5/3",
+      "venue": "The International Arab Journal of Information Technology",
+      "year": 2023
+    },
+    {
+      "citation_count": 2,
       "doi": "10.1145/3632291",
       "group_authors": "Timbwaoga A. J. Ouermi",
       "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
@@ -1011,20 +1249,6 @@
     },
     {
       "citation_count": 1,
-      "doi": "10.21951/hmr_pipelinemaps/1972066",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4392576714",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Map U.S. Pumped Storage Hydropower Development Pipeline, 2023",
-      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972066",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2023
-    },
-    {
-      "citation_count": 1,
       "doi": "10.2312/pgv.20231081",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "",
@@ -1035,6 +1259,20 @@
       "title": "FunMC^2: A Filter for Uncertainty Visualization of Marching Cubes on Multi-Core Devices",
       "url": "https://doi.org/10.2312/pgv.20231081",
       "venue": "Eurographics",
+      "year": 2023
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.48550/arxiv.2312.04494",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4389500092",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making",
+      "url": "https://doi.org/10.48550/arxiv.2312.04494",
+      "venue": "arXiv (Cornell University)",
       "year": 2023
     },
     {
@@ -1067,90 +1305,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.21951/hmr_pipelinemaps/1972065",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4392576715",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Map U.S. Hydropower Development Pipeline, 2023",
-      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1972065",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.21951/2000507",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4403517166",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Lifecycle of US Hydropower Facilities: How data at every stage drives growth",
-      "url": "https://doi.org/10.21951/2000507",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.21951/hmr_globalmaps/1972209",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4392576726",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Global Pumped Storage Hydropower Development Pipeline, 2023",
-      "url": "https://doi.org/10.21951/hmr_globalmaps/1972209",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.21951/hmr_globalmaps/1972208",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4392576727",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Global Operational Pumped Storage Hydropower, 2023",
-      "url": "https://doi.org/10.21951/hmr_globalmaps/1972208",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.21951/hmr_globalmaps/1972207",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4392576728",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Global Operational Hydropower, 2023",
-      "url": "https://doi.org/10.21951/hmr_globalmaps/1972207",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.21951/hmr_globalmaps/1972210",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4392576724",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Global Hydropower Development Pipeline, 2023",
-      "url": "https://doi.org/10.21951/hmr_globalmaps/1972210",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
       "doi": "10.2352/ei.2023.35.1.vda-395",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -1178,7 +1332,21 @@
       "year": 2023
     },
     {
-      "citation_count": 14,
+      "citation_count": 21,
+      "doi": "10.1016/j.epsr.2022.108148",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4281685585",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "An infrared image based state evaluation method for cable incipient faults",
+      "url": "https://doi.org/10.1016/j.epsr.2022.108148",
+      "venue": "Electric Power Systems Research",
+      "year": 2022
+    },
+    {
+      "citation_count": 15,
       "doi": "10.1109/tvcg.2022.3209424",
       "group_authors": "David Pugmire; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Tushar Athawale",
@@ -1234,6 +1402,20 @@
       "year": 2022
     },
     {
+      "citation_count": 8,
+      "doi": "10.1016/j.epsr.2022.108650",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4285890860",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A Faulty Pole Detection Method for the VSC-HVDC System Based on the Aperiodic Component Energy",
+      "url": "https://doi.org/10.1016/j.epsr.2022.108650",
+      "venue": "Electric Power Systems Research",
+      "year": 2022
+    },
+    {
       "citation_count": 6,
       "doi": "10.1109/cluster51413.2022.00035",
       "group_authors": "David Pugmire",
@@ -1245,6 +1427,20 @@
       "title": "Hybrid Analysis of Fusion Data for Online Understanding of Complex Science on Extreme Scale Computers",
       "url": "https://doi.org/10.1109/cluster51413.2022.00035",
       "venue": "",
+      "year": 2022
+    },
+    {
+      "citation_count": 6,
+      "doi": "10.1109/tvcg.2022.3230636",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4312366627",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "A Visual Comparison of Silent Error Propagation",
+      "url": "https://doi.org/10.1109/tvcg.2022.3230636",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2022
     },
     {
@@ -1333,20 +1529,6 @@
     },
     {
       "citation_count": 1,
-      "doi": "10.21951/hmr_pipelinemaps/1864509",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4229068496",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "U.S. Hydropower Development Pipeline Map 2022",
-      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864509",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2022
-    },
-    {
-      "citation_count": 1,
       "doi": "10.2172/1881112",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -1357,20 +1539,6 @@
       "title": "The Exploitation of Data Reduction for Visualization",
       "url": "https://doi.org/10.2172/1881112",
       "venue": "",
-      "year": 2022
-    },
-    {
-      "citation_count": 1,
-      "doi": "10.21951/nationalhydropowermap_fy22/1877924",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4288199915",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "The 2022 National Hydropower Map",
-      "url": "https://doi.org/10.21951/nationalhydropowermap_fy22/1877924",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2022
     },
     {
@@ -1416,31 +1584,17 @@
       "year": 2022
     },
     {
-      "citation_count": 0,
-      "doi": "10.6084/m9.figshare.20995453",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4394455181",
+      "citation_count": 1,
+      "doi": "10.48550/arxiv.2206.07918",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4283069225",
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "UT Bldgs - ORNL USA Structure Dataset",
-      "url": "https://doi.org/10.6084/m9.figshare.20995453",
-      "venue": "Figshare",
-      "year": 2022
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.21951/hmr_pipelinemaps/1864510",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4229007642",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "U.S. Pumped Storage Hydropower Development Pipeline Map 2022",
-      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1864510",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "title": "\"Understanding Robustness Lottery\": A Geometric Visual Comparative Analysis of Neural Network Pruning Approaches",
+      "url": "https://doi.org/10.48550/arxiv.2206.07918",
+      "venue": "arXiv (Cornell University)",
       "year": 2022
     },
     {
@@ -1473,6 +1627,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.1088/1742-6596/2360/1/012022",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4308522333",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Microgrid operation measurement evaluation method based on blockchain technology",
+      "url": "https://doi.org/10.1088/1742-6596/2360/1/012022",
+      "venue": "Journal of Physics Conference Series",
+      "year": 2022
+    },
+    {
+      "citation_count": 0,
       "doi": "10.21079/11681/44844",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -1483,20 +1651,6 @@
       "title": "Leveraging production visualization tools in situ",
       "url": "https://doi.org/10.21079/11681/44844",
       "venue": "",
-      "year": 2022
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.6084/m9.figshare.20514243",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4394518369",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "IL Bldgs - ORNL USA Structure Dataset",
-      "url": "https://doi.org/10.6084/m9.figshare.20514243",
-      "venue": "Figshare",
       "year": 2022
     },
     {
@@ -1622,6 +1776,20 @@
       "review_status": "candidate_openalex",
       "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
       "url": "https://doi.org/10.1109/ipdps49936.2021.00095",
+      "venue": "",
+      "year": 2021
+    },
+    {
+      "citation_count": 19,
+      "doi": "10.1145/3437801.3441589",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W3130004149",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Understanding a program's resiliency through error propagation",
+      "url": "https://doi.org/10.1145/3437801.3441589",
       "venue": "",
       "year": 2021
     },
@@ -1851,34 +2019,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.21951/hmr_pipelinemaps/1814129",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4287007263",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Pumped Storage Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN.",
-      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814129",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2021
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.21951/hmr_pipelinemaps/1814127",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W4403517158",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Schmidt, E., Johnson, M.M., and Ur\u00eda-Mart\u00ednez, R. (2021). U.S. Hydropower Development Pipeline Map 2021. HydroSource. Oak Ridge National Laboratory, Oak Ridge, TN",
-      "url": "https://doi.org/10.21951/hmr_pipelinemaps/1814127",
-      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
-      "year": 2021
-    },
-    {
-      "citation_count": 0,
       "doi": "10.48550/arxiv.2105.12764",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1906,7 +2046,21 @@
       "year": 2021
     },
     {
-      "citation_count": 235,
+      "citation_count": 0,
+      "doi": "10.1088/1742-6596/2033/1/012153",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W3203073067",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Computer Intelligent Analysis Model of Abnormal Smart Meter under Electric Energy Meter Measurement Principle",
+      "url": "https://doi.org/10.1088/1742-6596/2033/1/012153",
+      "venue": "Journal of Physics Conference Series",
+      "year": 2021
+    },
+    {
+      "citation_count": 234,
       "doi": "10.1093/gji/ggaa253",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1990,6 +2144,20 @@
       "year": 2020
     },
     {
+      "citation_count": 19,
+      "doi": "10.1109/tvcg.2020.2994954",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W3025856530",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "SpotSDC: Revealing the Silent Data Corruption Propagation in High-Performance Computing Systems",
+      "url": "https://doi.org/10.1109/tvcg.2020.2994954",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2020
+    },
+    {
       "citation_count": 17,
       "doi": "10.1016/j.cag.2020.01.005",
       "group_authors": "David Pugmire",
@@ -2001,20 +2169,6 @@
       "title": "The moving target of visualization software for an increasingly complex world",
       "url": "https://doi.org/10.1016/j.cag.2020.01.005",
       "venue": "Computers & Graphics",
-      "year": 2020
-    },
-    {
-      "citation_count": 17,
-      "doi": "10.1145/3423459.3430760",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W3106969537",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "COVID-19 Joint Pandemic Modeling and Analysis Platform",
-      "url": "https://doi.org/10.1145/3423459.3430760",
-      "venue": "",
       "year": 2020
     },
     {
@@ -2169,20 +2323,6 @@
       "title": "Large-Scale Visualization on Exascale Hardware Technical Advances in the Era of Big Data Analysis and Visualization LDAV 2020 Panel.",
       "url": "https://doi.org/10.2172/1830929",
       "venue": "",
-      "year": 2020
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1007/978-3-030-63393-6_29",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W3118212170",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Examining and Presenting Cycles in Temperature Logs from the Vulcan Diffractometer",
-      "url": "https://doi.org/10.1007/978-3-030-63393-6_29",
-      "venue": "Communications in computer and information science",
       "year": 2020
     },
     {
@@ -2536,6 +2676,20 @@
       "year": 2019
     },
     {
+      "citation_count": 51,
+      "doi": "10.1109/tvcg.2018.2865230",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W2889883176",
+      "orcid_evidence": "Zhimin Li",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models",
+      "url": "https://doi.org/10.1109/tvcg.2018.2865230",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2018
+    },
+    {
       "citation_count": 30,
       "doi": "10.1109/escience.2018.00133",
       "group_authors": "David Pugmire; Ken Moreland",
@@ -2606,6 +2760,20 @@
       "year": 2018
     },
     {
+      "citation_count": 6,
+      "doi": "10.3390/en11051164",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W2801596507",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Capacity Optimization of a Centralized Charging Station in Joint Operation with a Wind Farm",
+      "url": "https://doi.org/10.3390/en11051164",
+      "venue": "Energies",
+      "year": 2018
+    },
+    {
       "citation_count": 4,
       "doi": "10.1007/978-3-030-02465-9_16",
       "group_authors": "David Pugmire; Ken Moreland",
@@ -2637,7 +2805,7 @@
       "citation_count": 2,
       "doi": "10.1080/15481603.2018.1460933",
       "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
+      "openalex_candidate_for": "",
       "openalex_url": "https://openalex.org/W2795622682",
       "orcid_evidence": "Erik Schmidt",
       "review_notes": "",
@@ -2886,20 +3054,6 @@
       "year": 2017
     },
     {
-      "citation_count": 1,
-      "doi": "10.4324/9781315270838-23",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2904764515",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Big data in emerging cities",
-      "url": "https://doi.org/10.4324/9781315270838-23",
-      "venue": "",
-      "year": 2017
-    },
-    {
       "citation_count": 0,
       "doi": "10.1145/3093338.3104170",
       "group_authors": "David Pugmire",
@@ -2984,7 +3138,7 @@
       "year": 2017
     },
     {
-      "citation_count": 289,
+      "citation_count": 288,
       "doi": "10.1093/gji/ggw356",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -3428,7 +3582,7 @@
       "review_status": "candidate_openalex",
       "title": "Finely-Threaded History-Based Topology Computation",
       "url": "https://doi.org/10.2312/pgv.20141083",
-      "venue": "",
+      "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
       "year": 2014
     },
     {
@@ -3600,20 +3754,6 @@
       "year": 2013
     },
     {
-      "citation_count": 2,
-      "doi": "10.1162/comj_r_00171",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2065529867",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Demos and Late-Breaking Session of the Thirteenth International Society for Music Information Retrieval Conference (ISMIR 2012)",
-      "url": "https://doi.org/10.1162/comj_r_00171",
-      "venue": "Computer Music Journal",
-      "year": 2013
-    },
-    {
       "citation_count": 1,
       "doi": "10.2312/pe.eurovast.eurova13.067-071",
       "group_authors": "Junghoon Chae",
@@ -3642,7 +3782,7 @@
       "year": 2013
     },
     {
-      "citation_count": 285,
+      "citation_count": 284,
       "doi": "10.1109/vast.2012.6400557",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3656,7 +3796,7 @@
       "year": 2012
     },
     {
-      "citation_count": 88,
+      "citation_count": 87,
       "doi": "10.1109/tvcg.2012.133",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3824,6 +3964,20 @@
       "year": 2012
     },
     {
+      "citation_count": 4,
+      "doi": "10.1109/ipemc.2012.6259045",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W1972435033",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "PMU placement for voltage stability assessment and monitoring of power systems",
+      "url": "https://doi.org/10.1109/ipemc.2012.6259045",
+      "venue": "",
+      "year": 2012
+    },
+    {
       "citation_count": 2,
       "doi": "10.1109/escience.2012.6404418",
       "group_authors": "David Pugmire",
@@ -3849,6 +4003,20 @@
       "title": "Collaborative monitoring and visualization of HPC data",
       "url": "https://doi.org/10.1109/cts.2012.6261083",
       "venue": "",
+      "year": 2012
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/icee.2012.631",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W2261708483",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "The Application of Data Mining Technology on Human Resource Management System",
+      "url": "https://doi.org/10.1109/icee.2012.631",
+      "venue": "International Conference on E-Business and E-Government",
       "year": 2012
     },
     {
@@ -4090,7 +4258,7 @@
       "year": 2010
     },
     {
-      "citation_count": 218,
+      "citation_count": 217,
       "doi": "10.1007/978-3-642-10520-3_9",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4142,6 +4310,20 @@
       "review_status": "candidate_openalex",
       "title": "Scalable analysis tools for sensitivity analysis and UQ (3160) results.",
       "url": "https://doi.org/10.2172/972889",
+      "venue": "",
+      "year": 2009
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/cise.2009.5365533",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W1992243587",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Research on Web Services Application in Distance Education Platform Construction",
+      "url": "https://doi.org/10.1109/cise.2009.5365533",
       "venue": "",
       "year": 2009
     },
@@ -4216,18 +4398,18 @@
       "year": 2008
     },
     {
-      "citation_count": 0,
-      "doi": "10.1007/978-1-4020-6872-0_11",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W55329371",
+      "citation_count": 81,
+      "doi": "10.1109/jssc.2007.903086",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W1984736382",
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "Thresholds, Vagueness and the Psychology of Small Improvements",
-      "url": "https://doi.org/10.1007/978-1-4020-6872-0_11",
-      "venue": "Philosophical studies series",
-      "year": 2008
+      "title": "A 14 Bit Continuous-Time Delta-Sigma A/D Modulator With 2.5 MHz Signal Bandwidth",
+      "url": "https://doi.org/10.1109/jssc.2007.903086",
+      "venue": "IEEE Journal of Solid-State Circuits",
+      "year": 2007
     },
     {
       "citation_count": 33,
@@ -4339,6 +4521,20 @@
       "title": "The Secular Reception of Relgious Music",
       "url": "https://doi.org/10.1017/s0031819106000040",
       "venue": "Philosophy",
+      "year": 2006
+    },
+    {
+      "citation_count": 3,
+      "doi": "10.1109/vlsic.2006.1705361",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W2114108806",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A 14-Bit 5MS/s Continuous-Time Delta-Sigma A/D Modulator",
+      "url": "https://doi.org/10.1109/vlsic.2006.1705361",
+      "venue": "",
       "year": 2006
     },
     {
@@ -4538,6 +4734,20 @@
       "year": 2005
     },
     {
+      "citation_count": 99,
+      "doi": "10.1109/tpwrd.2003.822960",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W2122955556",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Reliability Evaluation of Complex Radial Distribution Systems Considering Restoration Sequence and Network Constraints",
+      "url": "https://doi.org/10.1109/tpwrd.2003.822960",
+      "venue": "IEEE Transactions on Power Delivery",
+      "year": 2004
+    },
+    {
       "citation_count": 23,
       "doi": "10.1109/pvgs.2003.1249039",
       "group_authors": "Ken Moreland",
@@ -4552,7 +4762,7 @@
       "year": 2004
     },
     {
-      "citation_count": 289,
+      "citation_count": 287,
       "doi": "10.5555/844174.844191",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4580,7 +4790,7 @@
       "year": 2003
     },
     {
-      "citation_count": 51,
+      "citation_count": 50,
       "doi": "10.1109/pvgs.2001.964408",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4665,20 +4875,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.1524/slaw.1989.34.16.424",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2317557886",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "\u201eGeistiges Und Literarisches Leben In Ru\u00dfland 1789 \u2013 1825 Und Die Franz\u00f6sische Revolution\"",
-      "url": "https://doi.org/10.1524/slaw.1989.34.16.424",
-      "venue": "Zeitschrift f\u00fcr Slawistik",
-      "year": 1989
-    },
-    {
-      "citation_count": 0,
       "doi": "10.1017/s003181910004448x",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4706,34 +4902,6 @@
       "year": 1987
     },
     {
-      "citation_count": 0,
-      "doi": "10.1524/slaw.1985.30.16.598",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2322424025",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "\u201eDie rassische Literatur der Aufkl\u00e4rung\u201c (1650\u20141825)",
-      "url": "https://doi.org/10.1524/slaw.1985.30.16.598",
-      "venue": "Zeitschrift f\u00fcr Slawistik",
-      "year": 1985
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1524/slaw.1985.30.16.331",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2318305958",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "\u0397. F. Schmids und \u0392. Trautmanns Programmschrift \u201eWesen und Aufgaben der deutschen Slavistik\u201c (1927)",
-      "url": "https://doi.org/10.1524/slaw.1985.30.16.331",
-      "venue": "Zeitschrift f\u00fcr Slawistik",
-      "year": 1985
-    },
-    {
       "citation_count": 109,
       "doi": "10.1093/aristoteliansupp/56.1.157",
       "group_authors": "David Pugmire",
@@ -4746,20 +4914,6 @@
       "url": "https://doi.org/10.1093/aristoteliansupp/56.1.157",
       "venue": "Aristotelian Society Supplementary Volume",
       "year": 1982
-    },
-    {
-      "citation_count": 1,
-      "doi": "10.1524/slaw.1978.23.1.38",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2325606562",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "L. \u039d. Tolstoj in der realistischen deutschen Literatur des 20. Jahrhunderts",
-      "url": "https://doi.org/10.1524/slaw.1978.23.1.38",
-      "venue": "Zeitschrift f\u00fcr Slawistik",
-      "year": 1978
     },
     {
       "citation_count": 0,
@@ -4776,20 +4930,6 @@
       "year": 1972
     },
     {
-      "citation_count": 0,
-      "doi": "10.1524/slaw.1971.16.1.873",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2324167126",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Die deutsche Dostoevskij-Rezeption der 20er Jahre",
-      "url": "https://doi.org/10.1524/slaw.1971.16.1.873",
-      "venue": "Zeitschrift f\u00fcr Slawistik",
-      "year": 1971
-    },
-    {
       "citation_count": 7,
       "doi": "10.1080/00201746908601568",
       "group_authors": "David Pugmire",
@@ -4802,20 +4942,6 @@
       "url": "https://doi.org/10.1080/00201746908601568",
       "venue": "Inquiry",
       "year": 1969
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1524/slaw.1968.13.1.565",
-      "group_authors": "Erik Schmidt",
-      "openalex_candidate_for": "Erik Schmidt",
-      "openalex_url": "https://openalex.org/W2317361790",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Die Dostoevskij-Rezeption der deutschen revolution\u00e4ren Arbeiterbewegung (1920-1925)",
-      "url": "https://doi.org/10.1524/slaw.1968.13.1.565",
-      "venue": "Zeitschrift f\u00fcr Slawistik",
-      "year": 1968
     }
   ]
 }
