@@ -1,9 +1,9 @@
 [
   {
-    "citation_count": 2267,
+    "citation_count": 2327,
     "google_scholar_url": "https://scholar.google.com/citations?user=FmxWGN0AAAAJ&hl=en",
-    "h_index": 22,
-    "i10_index": 44,
+    "h_index": 23,
+    "i10_index": 45,
     "id": "david-pugmire",
     "name": "David Pugmire",
     "openalex_id": "",
@@ -11,41 +11,41 @@
     "orcid": "0000-0003-0647-2634",
     "resolved_openalex_id": "https://openalex.org/A5041404935",
     "role": "Current member",
-    "works_count": 123
+    "works_count": 124
   },
   {
-    "citation_count": 19,
+    "citation_count": 2597,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=d00I5gUAAAAJ",
-    "h_index": 2,
-    "i10_index": 1,
+    "h_index": 23,
+    "i10_index": 37,
     "id": "ken-moreland",
     "name": "Ken Moreland",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0002-7051-3288",
-    "resolved_openalex_id": "https://openalex.org/A5134031795",
+    "resolved_openalex_id": "https://openalex.org/A5102833835",
     "role": "Current member",
-    "works_count": 19
+    "works_count": 138
   },
   {
-    "citation_count": 276,
+    "citation_count": 304,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=sMiEw1YAAAAJ",
-    "h_index": 8,
-    "i10_index": 8,
+    "h_index": 9,
+    "i10_index": 9,
     "id": "tushar-athawale",
     "name": "Tushar Athawale",
     "openalex_id": "",
     "openalex_url": "",
     "orcid": "0000-0003-3163-6274",
-    "resolved_openalex_id": "https://openalex.org/A5106247100",
+    "resolved_openalex_id": "https://openalex.org/A5080292005",
     "role": "Current member",
-    "works_count": 44
+    "works_count": 56
   },
   {
-    "citation_count": 890,
+    "citation_count": 906,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=98-9pVkAAAAJ",
-    "h_index": 11,
-    "i10_index": 11,
+    "h_index": 12,
+    "i10_index": 12,
     "id": "junghoon-chae",
     "name": "Junghoon Chae",
     "openalex_id": "",
@@ -84,7 +84,7 @@
     "works_count": 16
   },
   {
-    "citation_count": 385,
+    "citation_count": 388,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=hIj-ciYAAAAJ",
     "h_index": 9,
     "i10_index": 9,
