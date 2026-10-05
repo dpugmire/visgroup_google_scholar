@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T17:42:36+00:00",
+  "generated_at": "2026-10-05T18:34:15+00:00",
   "publications": [
     {
       "citation_count": 1,
@@ -21,10 +21,10 @@
       "group_authors": "Timbwaoga A. J. Ouermi",
       "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
       "openalex_url": "https://openalex.org/W7169606422",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "WebUVisBox: A Scenario-Based Framework for Collaborative and Accessible 3D Uncertainty Visualization on the Web",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "WebUVisBox: A Scenario-Based Framework for Collaborative and Accessible 3-D Uncertainty Visualization on the Web",
       "url": "https://doi.org/10.1109/mcg.2026.3714725",
       "venue": "IEEE Computer Graphics and Applications",
       "year": 2026
@@ -82,7 +82,7 @@
       "review_status": "candidate_openalex",
       "title": "REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization",
       "url": "https://doi.org/10.1109/pacificvis68791.2026.00029",
-      "venue": "",
+      "venue": "IEEE Pacific Visualization Conference (PacificVis)",
       "year": 2026
     },
     {
@@ -320,6 +320,34 @@
       "review_status": "candidate_openalex",
       "title": "Visualization of Noisy and Less Noisy Computational Basis States in Quantum Computing",
       "url": "https://doi.org/10.1109/qsw67625.2025.00011",
+      "venue": "IEEE International Conference on Quantum Software (QSW)",
+      "year": 2025
+    },
+    {
+      "citation_count": 2,
+      "doi": "10.1145/3712285.3759795",
+      "group_authors": "Tushar Athawale",
+      "openalex_candidate_for": "Tushar Athawale",
+      "openalex_url": "https://openalex.org/W4416199116",
+      "orcid_evidence": "Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data",
+      "url": "https://doi.org/10.1145/3712285.3759795",
+      "venue": "",
+      "year": 2025
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/uncertaintyvisualization68947.2025.00005",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "",
+      "openalex_url": "https://openalex.org/W7123445971",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Uncertainty Tube Visualization of Particle Trajectories",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00005",
       "venue": "",
       "year": 2025
     },
@@ -334,20 +362,6 @@
       "review_status": "trusted_orcid",
       "title": "Seeing the Many: Exploring Parameter Distributions Conditioned on Features in Surrogates",
       "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00007",
-      "venue": "",
-      "year": 2025
-    },
-    {
-      "citation_count": 1,
-      "doi": "10.1145/3712285.3759795",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4416199116",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data",
-      "url": "https://doi.org/10.1145/3712285.3759795",
       "venue": "",
       "year": 2025
     },
@@ -432,21 +446,7 @@
       "review_status": "candidate_openalex",
       "title": "Visual Analytics of Crosstalk in Quantum Hardware",
       "url": "https://doi.org/10.1109/qce65121.2025.10450",
-      "venue": "",
-      "year": 2025
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1109/uncertaintyvisualization68947.2025.00005",
-      "group_authors": "Timbwaoga A. J. Ouermi",
-      "openalex_candidate_for": "",
-      "openalex_url": "https://openalex.org/W7123445971",
-      "orcid_evidence": "Timbwaoga A. J. Ouermi",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Tube Visualization of Particle Trajectories",
-      "url": "https://doi.org/10.1109/uncertaintyvisualization68947.2025.00005",
-      "venue": "",
+      "venue": "IEEE International Conference on Quantum Computing and Engineering (QCE)",
       "year": 2025
     },
     {
@@ -460,7 +460,7 @@
       "review_status": "candidate_openalex",
       "title": "Truth as a Construct and the Growth of Knowledge",
       "url": "https://doi.org/10.1007/978-981-96-6803-8_11",
-      "venue": "",
+      "venue": "Springer eBooks",
       "year": 2025
     },
     {
@@ -516,7 +516,7 @@
       "review_status": "candidate_openalex",
       "title": "The Interplay of \u201cCommon Morality\u201d and \u201cPhilosophy-Science\u201d",
       "url": "https://doi.org/10.1007/978-981-96-6803-8_5",
-      "venue": "",
+      "venue": "Springer eBooks",
       "year": 2025
     },
     {
@@ -559,20 +559,6 @@
       "title": "STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data",
       "url": "https://doi.org/10.2172/3009669",
       "venue": "",
-      "year": 2025
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2505.04802",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4416014862",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling",
-      "url": "https://doi.org/10.48550/arxiv.2505.04802",
-      "venue": "arXiv (Cornell University)",
       "year": 2025
     },
     {
@@ -650,13 +636,13 @@
       "doi": "10.48550/arxiv.2501.06910",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "",
-      "openalex_url": "https://openalex.org/W6929426502",
+      "openalex_url": "",
       "orcid_evidence": "Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
       "title": "A General Framework for Error-controlled Unstructured Scientific Data Compression",
       "url": "https://doi.org/10.48550/arxiv.2501.06910",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "year": 2025
     },
     {
@@ -712,7 +698,7 @@
       "review_status": "trusted_orcid",
       "title": "A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization",
       "url": "https://doi.org/10.1109/sc41406.2024.00091",
-      "venue": "",
+      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",
       "year": 2024
     },
     {
@@ -726,7 +712,7 @@
       "review_status": "candidate_openalex",
       "title": "PQML: Enabling the Predictive Reproducibility on NISQ Machines for Quantum ML Applications",
       "url": "https://doi.org/10.1109/qce60285.2024.00168",
-      "venue": "",
+      "venue": "IEEE International Conference on Quantum Computing and Engineering (QCE)",
       "year": 2024
     },
     {
@@ -838,6 +824,20 @@
       "review_status": "trusted_orcid",
       "title": "A General Framework for Error-controlled Unstructured Scientific Data Compression",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678699",
+      "venue": "IEEE International Conference on eScience",
+      "year": 2024
+    },
+    {
+      "citation_count": 1,
+      "doi": "10.1109/uncertaintyvisualization63963.2024.00016",
+      "group_authors": "Timbwaoga A. J. Ouermi",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "openalex_url": "https://openalex.org/W4404371282",
+      "orcid_evidence": "Timbwaoga A. J. Ouermi",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Visualizing Uncertainties in Ensemble Wildfire Forecast Simulations",
+      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00016",
       "venue": "",
       "year": 2024
     },
@@ -866,7 +866,7 @@
       "review_status": "candidate_openalex",
       "title": "Visual Analytics of Performance of Quantum Computing Systems and Circuit Optimization",
       "url": "https://doi.org/10.1109/isvlsi61997.2024.00116",
-      "venue": "",
+      "venue": "IEEE Computer Society Annual Symposium on VLSI",
       "year": 2024
     },
     {
@@ -936,21 +936,7 @@
       "review_status": "candidate_openalex",
       "title": "A Personalized AI Assistant For Intuition-Driven Visual Explorations",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678681",
-      "venue": "",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1109/uncertaintyvisualization63963.2024.00016",
-      "group_authors": "Timbwaoga A. J. Ouermi",
-      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
-      "openalex_url": "https://openalex.org/W4404371282",
-      "orcid_evidence": "Timbwaoga A. J. Ouermi",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Visualizing Uncertainties in Ensemble Wildfire Forecast Simulations",
-      "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00016",
-      "venue": "",
+      "venue": "IEEE International Conference on eScience",
       "year": 2024
     },
     {
@@ -1006,7 +992,7 @@
       "review_status": "trusted_orcid",
       "title": "Top Research Challenges and Opportunities for Near Real-Time Extreme-Scale Visualization of Scientific Data",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678727",
-      "venue": "",
+      "venue": "IEEE International Conference on eScience",
       "year": 2024
     },
     {
@@ -1034,7 +1020,7 @@
       "review_status": "candidate_openalex",
       "title": "SNNVis: Visualizing Graph Embedding of Evolutionary Optimization for Spiking Neural Networks",
       "url": "https://doi.org/10.1109/icons62911.2024.00056",
-      "venue": "",
+      "venue": "International Conference on Neuromorphic Systems (ICONS)",
       "year": 2024
     },
     {
@@ -1076,21 +1062,21 @@
       "review_status": "candidate_openalex",
       "title": "IEEE LDAV 2024 Preface",
       "url": "https://doi.org/10.1109/ldav64567.2024.00005",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2024
     },
     {
       "citation_count": 0,
       "doi": "10.48550/arxiv.2409.00043",
       "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4402952979",
+      "openalex_candidate_for": "",
+      "openalex_url": "",
       "orcid_evidence": "Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
       "title": "Estimation and Visualization of Isosurface Uncertainty from Linear and High-Order Interpolation Methods",
       "url": "https://doi.org/10.48550/arxiv.2409.00043",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "year": 2024
     },
     {
@@ -1286,7 +1272,7 @@
       "review_status": "trusted_orcid",
       "title": "VTK-m: Visualization for the Exascale Era and Beyond",
       "url": "https://doi.org/10.1145/3587421.3595466",
-      "venue": "",
+      "venue": "ACM SIGGRAPH Talks",
       "year": 2023
     },
     {
@@ -1314,7 +1300,7 @@
       "review_status": "candidate_openalex",
       "title": "QVis: A Visual Analytics Tool for Exploring Noise and Errors in Quantum Computing Systems",
       "url": "https://doi.org/10.1109/qce57702.2023.10215",
-      "venue": "",
+      "venue": "IEEE International Conference on Quantum Computing and Engineering (QCE)",
       "year": 2023
     },
     {
@@ -1444,7 +1430,7 @@
       "year": 2023
     },
     {
-      "citation_count": 23,
+      "citation_count": 24,
       "doi": "10.1016/j.epsr.2022.108148",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -1496,7 +1482,7 @@
       "review_status": "trusted_orcid",
       "title": "Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles",
       "url": "https://doi.org/10.1109/vis54862.2022.00040",
-      "venue": "",
+      "venue": "IEEE Visualization and Visual Analytics (VIS)",
       "year": 2022
     },
     {
@@ -1557,20 +1543,6 @@
     },
     {
       "citation_count": 4,
-      "doi": "10.1007/978-3-031-23220-6_21",
-      "group_authors": "David Pugmire; Ken Moreland",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland",
-      "openalex_url": "https://openalex.org/W4313433613",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "The Need for Pervasive In Situ Analysis and Visualization (P-ISAV)",
-      "url": "https://doi.org/10.1007/978-3-031-23220-6_21",
-      "venue": "Lecture notes in computer science",
-      "year": 2022
-    },
-    {
-      "citation_count": 3,
       "doi": "10.1007/978-3-030-81627-8_13",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1581,6 +1553,20 @@
       "title": "The SENSEI Generic In Situ Interface: Tool and Processing Portability at Scale",
       "url": "https://doi.org/10.1007/978-3-030-81627-8_13",
       "venue": "Mathematics and visualization",
+      "year": 2022
+    },
+    {
+      "citation_count": 4,
+      "doi": "10.1007/978-3-031-23220-6_21",
+      "group_authors": "David Pugmire; Ken Moreland",
+      "openalex_candidate_for": "David Pugmire; Ken Moreland",
+      "openalex_url": "https://openalex.org/W4313433613",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "The Need for Pervasive In Situ Analysis and Visualization (P-ISAV)",
+      "url": "https://doi.org/10.1007/978-3-031-23220-6_21",
+      "venue": "Lecture notes in computer science",
       "year": 2022
     },
     {
@@ -1622,7 +1608,7 @@
       "review_status": "candidate_openalex",
       "title": "Graph-based Cascading Impact Estimation for Identifying Crucial Infrastructure Components",
       "url": "https://doi.org/10.1109/bigdata55660.2022.10020811",
-      "venue": "2022 IEEE International Conference on Big Data (Big Data)",
+      "venue": "IEEE International Conference on Big Data (BigData)",
       "year": 2022
     },
     {
@@ -1768,15 +1754,15 @@
     {
       "citation_count": 0,
       "doi": "10.48550/arxiv.2207.11318",
-      "group_authors": "David Pugmire; Tushar Athawale",
-      "openalex_candidate_for": "David Pugmire; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4288055845",
+      "group_authors": "Tushar Athawale",
+      "openalex_candidate_for": "",
+      "openalex_url": "",
       "orcid_evidence": "Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
       "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
       "url": "https://doi.org/10.48550/arxiv.2207.11318",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "year": 2022
     },
     {
@@ -1832,21 +1818,7 @@
       "review_status": "candidate_openalex",
       "title": "TangibleData: Interactive Data Visualization with Mid-Air Haptics",
       "url": "https://doi.org/10.1145/3489849.3489890",
-      "venue": "",
-      "year": 2021
-    },
-    {
-      "citation_count": 27,
-      "doi": "10.1177/10943420211019119",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3164444385",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "The Exascale Framework for High Fidelity coupled Simulations (EFFIS): Enabling whole device modeling in fusion science",
-      "url": "https://doi.org/10.1177/10943420211019119",
-      "venue": "The International Journal of High Performance Computing Applications",
+      "venue": "ACM Symposium on Virtual Reality Software and Technology (VRST)",
       "year": 2021
     },
     {
@@ -1861,6 +1833,20 @@
       "title": "Error-controlled, progressive, and adaptable retrieval of scientific data with multilevel decomposition",
       "url": "https://doi.org/10.1145/3458817.3476179",
       "venue": "",
+      "year": 2021
+    },
+    {
+      "citation_count": 26,
+      "doi": "10.1177/10943420211019119",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3164444385",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "The Exascale Framework for High Fidelity coupled Simulations (EFFIS): Enabling whole device modeling in fusion science",
+      "url": "https://doi.org/10.1177/10943420211019119",
+      "venue": "The International Journal of High Performance Computing Applications",
       "year": 2021
     },
     {
@@ -1902,11 +1888,11 @@
       "review_status": "trusted_orcid",
       "title": "Understanding a program's resiliency through error propagation",
       "url": "https://doi.org/10.1145/3437801.3441589",
-      "venue": "",
+      "venue": "ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming",
       "year": 2021
     },
     {
-      "citation_count": 17,
+      "citation_count": 18,
       "doi": "10.1007/978-3-030-90539-2_33",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -1930,7 +1916,7 @@
       "review_status": "trusted_orcid",
       "title": "Uncertainty Visualization of the Marching Squares and Marching Cubes Topology Cases",
       "url": "https://doi.org/10.1109/vis49827.2021.9623267",
-      "venue": "",
+      "venue": "IEEE Visualization Conference (VIS)",
       "year": 2021
     },
     {
@@ -1948,7 +1934,7 @@
       "year": 2021
     },
     {
-      "citation_count": 12,
+      "citation_count": 11,
       "doi": "10.1007/978-3-030-90539-2_34",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2000,7 +1986,7 @@
       "review_status": "trusted_orcid",
       "title": "Visualizing Interactions Between Solar Photovoltaic Farms and the Atmospheric Boundary Layer",
       "url": "https://doi.org/10.1145/3447555.3466599",
-      "venue": "",
+      "venue": "ACM International Conference on Future Energy Systems (e-Energy)",
       "year": 2021
     },
     {
@@ -2014,7 +2000,7 @@
       "review_status": "candidate_openalex",
       "title": "Visual Understanding of COVID-19 Knowledge Graph for Predictive Analysis",
       "url": "https://doi.org/10.1109/bigdata52589.2021.9672055",
-      "venue": "2021 IEEE International Conference on Big Data (Big Data)",
+      "venue": "IEEE International Conference on Big Data (BigData)",
       "year": 2021
     },
     {
@@ -2028,7 +2014,7 @@
       "review_status": "candidate_openalex",
       "title": "GPU-based Image Compression for Efficient Compositing in Distributed Rendering Applications",
       "url": "https://doi.org/10.1109/ldav53230.2021.00012",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2021
     },
     {
@@ -2042,7 +2028,7 @@
       "review_status": "candidate_openalex",
       "title": "Data Analysis Approach for Large Data Volumes in a Connected Community",
       "url": "https://doi.org/10.1109/isgt49243.2021.9372256",
-      "venue": "",
+      "venue": "IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT)",
       "year": 2021
     },
     {
@@ -2105,14 +2091,14 @@
       "citation_count": 0,
       "doi": "10.48550/arxiv.2108.03066",
       "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4287027970",
+      "openalex_candidate_for": "",
+      "openalex_url": "",
       "orcid_evidence": "Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
-      "title": "Uncertainty Visualization of the Marching Squares and Marching Cubes\\n Topology Cases",
+      "title": "Uncertainty visualization of the marching squares and marching cubes topology cases",
       "url": "https://doi.org/10.48550/arxiv.2108.03066",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "year": 2021
     },
     {
@@ -2186,7 +2172,7 @@
       "year": 2020
     },
     {
-      "citation_count": 235,
+      "citation_count": 237,
       "doi": "10.1016/j.softx.2020.100561",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2214,7 +2200,7 @@
       "year": 2020
     },
     {
-      "citation_count": 32,
+      "citation_count": 31,
       "doi": "10.1109/tvcg.2020.3030394",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2228,7 +2214,7 @@
       "year": 2020
     },
     {
-      "citation_count": 28,
+      "citation_count": 26,
       "doi": "10.1109/tvcg.2020.3022359",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2239,20 +2225,6 @@
       "title": "Uncertainty Visualization of 2D Morse Complex Ensembles Using Statistical Summary Maps",
       "url": "https://doi.org/10.1109/tvcg.2020.3022359",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
-      "year": 2020
-    },
-    {
-      "citation_count": 20,
-      "doi": "10.1007/978-3-030-50743-5_8",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3035074910",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Opportunities for Cost Savings with In-Transit Visualization",
-      "url": "https://doi.org/10.1007/978-3-030-50743-5_8",
-      "venue": "Lecture notes in computer science",
       "year": 2020
     },
     {
@@ -2267,6 +2239,20 @@
       "title": "SpotSDC: Revealing the Silent Data Corruption Propagation in High-Performance Computing Systems",
       "url": "https://doi.org/10.1109/tvcg.2020.2994954",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2020
+    },
+    {
+      "citation_count": 19,
+      "doi": "10.1007/978-3-030-50743-5_8",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3035074910",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Opportunities for Cost Savings with In-Transit Visualization",
+      "url": "https://doi.org/10.1007/978-3-030-50743-5_8",
+      "venue": "Lecture notes in computer science",
       "year": 2020
     },
     {
@@ -2298,20 +2284,6 @@
       "year": 2020
     },
     {
-      "citation_count": 8,
-      "doi": "10.1109/ldav51489.2020.00009",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3116688847",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Comparing Time-to-Solution for In Situ Visualization Paradigms at Scale",
-      "url": "https://doi.org/10.1109/ldav51489.2020.00009",
-      "venue": "",
-      "year": 2020
-    },
-    {
       "citation_count": 7,
       "doi": "10.1007/978-3-030-63393-6_11",
       "group_authors": "David Pugmire",
@@ -2323,6 +2295,20 @@
       "title": "Visualization as a Service for Scientific Data",
       "url": "https://doi.org/10.1007/978-3-030-63393-6_11",
       "venue": "Communications in computer and information science",
+      "year": 2020
+    },
+    {
+      "citation_count": 7,
+      "doi": "10.1109/ldav51489.2020.00009",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3116688847",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Comparing Time-to-Solution for In Situ Visualization Paradigms at Scale",
+      "url": "https://doi.org/10.1109/ldav51489.2020.00009",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2020
     },
     {
@@ -2350,7 +2336,7 @@
       "review_status": "candidate_openalex",
       "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
       "url": "https://doi.org/10.1109/cbms49503.2020.00092",
-      "venue": "",
+      "venue": "IEEE International Symposium on Computer-Based Medical Systems (CBMS)",
       "year": 2020
     },
     {
@@ -2470,17 +2456,17 @@
       "doi": "10.48550/arxiv.2008.13576",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "",
-      "openalex_url": "https://openalex.org/W6966675532",
+      "openalex_url": "",
       "orcid_evidence": "Tushar Athawale",
       "review_notes": "",
       "review_status": "trusted_orcid",
-      "title": "Direct Volume Rendering with Nonparametric Models of Uncertainty",
+      "title": "Direct volume rendering with nonparametric models of uncertainty",
       "url": "https://doi.org/10.48550/arxiv.2008.13576",
-      "venue": "arXiv (Cornell University)",
+      "venue": "arXiv",
       "year": 2020
     },
     {
-      "citation_count": 33,
+      "citation_count": 32,
       "doi": "10.1007/978-3-030-20656-7_6",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2504,7 +2490,7 @@
       "review_status": "candidate_openalex",
       "title": "Exascale Deep Learning to Accelerate Cancer Research",
       "url": "https://doi.org/10.1109/bigdata47090.2019.9006467",
-      "venue": "",
+      "venue": "IEEE International Conference on Big Data (BigData)",
       "year": 2019
     },
     {
@@ -2518,7 +2504,7 @@
       "review_status": "candidate_openalex",
       "title": "A Lifeline-Based Approach for Work Requesting and Parallel Particle Advection",
       "url": "https://doi.org/10.1109/ldav48142.2019.8944355",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2019
     },
     {
@@ -2536,20 +2522,6 @@
       "year": 2019
     },
     {
-      "citation_count": 10,
-      "doi": "10.1101/575183",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2920841458",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Cladocopium community divergence in two Acropora coral hosts across multiple spatial scales",
-      "url": "https://doi.org/10.1101/575183",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "year": 2019
-    },
-    {
       "citation_count": 6,
       "doi": "10.1109/bigdata47090.2019.9006048",
       "group_authors": "Junghoon Chae",
@@ -2560,7 +2532,7 @@
       "review_status": "candidate_openalex",
       "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
       "url": "https://doi.org/10.1109/bigdata47090.2019.9006048",
-      "venue": "",
+      "venue": "IEEE International Conference on Big Data (BigData)",
       "year": 2019
     },
     {
@@ -2588,7 +2560,7 @@
       "review_status": "candidate_openalex",
       "title": "Visualization System for Evolutionary Neural Networks for Deep Learning",
       "url": "https://doi.org/10.1109/bigdata47090.2019.9006470",
-      "venue": "",
+      "venue": "IEEE International Conference on Big Data (BigData)",
       "year": 2019
     },
     {
@@ -2634,7 +2606,7 @@
       "year": 2019
     },
     {
-      "citation_count": 2,
+      "citation_count": 1,
       "doi": "10.48550/arxiv.1912.06341",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2788,7 +2760,7 @@
       "year": 2019
     },
     {
-      "citation_count": 51,
+      "citation_count": 50,
       "doi": "10.1109/tvcg.2018.2865230",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -2812,11 +2784,11 @@
       "review_status": "candidate_openalex",
       "title": "Coupling Exascale Multiphysics Applications: Methods and Lessons Learned",
       "url": "https://doi.org/10.1109/escience.2018.00133",
-      "venue": "",
+      "venue": "IEEE International Conference on eScience",
       "year": 2018
     },
     {
-      "citation_count": 18,
+      "citation_count": 17,
       "doi": "10.1109/tvcg.2018.2864505",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2868,7 +2840,7 @@
       "review_status": "candidate_openalex",
       "title": "A View from ORNL: Scientific Data Research Opportunities in the Big Data Age",
       "url": "https://doi.org/10.1109/icdcs.2018.00136",
-      "venue": "",
+      "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
       "year": 2018
     },
     {
@@ -2952,7 +2924,7 @@
       "review_status": "candidate_openalex",
       "title": "Comparing Binary-Swap Algorithms for Odd Factors of Processes",
       "url": "https://doi.org/10.1109/ldav.2018.8739210",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2018
     },
     {
@@ -3092,7 +3064,7 @@
       "review_status": "candidate_openalex",
       "title": "Exacution: Enhancing Scientific Data Management for Exascale",
       "url": "https://doi.org/10.1109/icdcs.2017.256",
-      "venue": "",
+      "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
       "year": 2017
     },
     {
@@ -3106,7 +3078,7 @@
       "review_status": "trusted_orcid",
       "title": "Optimization Strategies for WRF Single-Moment 6-Class Microphysics Scheme (WSM6) on Intel Microarchitectures",
       "url": "https://doi.org/10.1109/candar.2017.58",
-      "venue": "",
+      "venue": "International Symposium on Computing and Networking",
       "year": 2017
     },
     {
@@ -3120,7 +3092,7 @@
       "review_status": "candidate_openalex",
       "title": "Techniques for data-parallel searching for duplicate elements",
       "url": "https://doi.org/10.1109/ldav.2017.8231845",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2017
     },
     {
@@ -3264,7 +3236,7 @@
       "year": 2016
     },
     {
-      "citation_count": 167,
+      "citation_count": 168,
       "doi": "10.1111/cgf.12930",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3278,7 +3250,7 @@
       "year": 2016
     },
     {
-      "citation_count": 154,
+      "citation_count": 153,
       "doi": "10.1109/mcg.2016.48",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -3292,7 +3264,7 @@
       "year": 2016
     },
     {
-      "citation_count": 80,
+      "citation_count": 81,
       "doi": "10.2352/issn.2470-1173.2016.16.hvei-133",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3358,7 +3330,7 @@
       "review_status": "candidate_openalex",
       "title": "Performance Modeling of In Situ Rendering",
       "url": "https://doi.org/10.1109/sc.2016.23",
-      "venue": "",
+      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",
       "year": 2016
     },
     {
@@ -3386,7 +3358,7 @@
       "review_status": "candidate_openalex",
       "title": "Optimizing multi-image sort-last parallel rendering",
       "url": "https://doi.org/10.1109/ldav.2016.7874308",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2016
     },
     {
@@ -3400,7 +3372,7 @@
       "review_status": "candidate_openalex",
       "title": "Visualization and Analysis for Near-Real-Time Decision Making in Distributed Workflows",
       "url": "https://doi.org/10.1109/ipdpsw.2016.175",
-      "venue": "",
+      "venue": "IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
       "year": 2016
     },
     {
@@ -3428,7 +3400,7 @@
       "review_status": "candidate_openalex",
       "title": "Tuned to Terrible: A Study of Parallel Particle Advection State of the Practice",
       "url": "https://doi.org/10.1109/ipdpsw.2016.173",
-      "venue": "",
+      "venue": "IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
       "year": 2016
     },
     {
@@ -3488,7 +3460,7 @@
       "year": 2016
     },
     {
-      "citation_count": 199,
+      "citation_count": 198,
       "doi": "10.1145/2828612.2828624",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3502,7 +3474,7 @@
       "year": 2015
     },
     {
-      "citation_count": 60,
+      "citation_count": 59,
       "doi": "10.1109/tvcg.2015.2467958",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3568,7 +3540,7 @@
       "review_status": "trusted_orcid",
       "title": "Visual analytics of heterogeneous data for criminal event analysis VAST challenge 2015: Grand challenge",
       "url": "https://doi.org/10.1109/vast.2015.7347654",
-      "venue": "",
+      "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
       "year": 2015
     },
     {
@@ -3582,7 +3554,7 @@
       "review_status": "trusted_orcid",
       "title": "ParkAnalyzer: Characterizing the movement patterns of visitors VAST 2015 Mini-Challenge 1",
       "url": "https://doi.org/10.1109/vast.2015.7347669",
-      "venue": "",
+      "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
       "year": 2015
     },
     {
@@ -3624,7 +3596,7 @@
       "review_status": "trusted_orcid",
       "title": "Visual Analytics of User Influence and Location-Based Social Networks",
       "url": "https://doi.org/10.1007/978-3-319-18552-1_12",
-      "venue": "",
+      "venue": "Springer eBooks",
       "year": 2015
     },
     {
@@ -3638,7 +3610,7 @@
       "review_status": "trusted_orcid",
       "title": "Visual analytics for detecting communication patterns",
       "url": "https://doi.org/10.1109/vast.2015.7347648",
-      "venue": "",
+      "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
       "year": 2015
     },
     {
@@ -3666,7 +3638,7 @@
       "review_status": "trusted_orcid",
       "title": "Analyzing High-dimensional Multivariate Network Links with Integrated Anomaly Detection, Highlighting and Exploration",
       "url": "https://doi.org/10.1109/vast.2014.7042484",
-      "venue": "",
+      "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
       "year": 2014
     },
     {
@@ -3680,7 +3652,7 @@
       "review_status": "candidate_openalex",
       "title": "Evaluation of methods to integrate analysis into a large-scale shock shock physics code",
       "url": "https://doi.org/10.1145/2597652.2597668",
-      "venue": "",
+      "venue": "ACM International Conference on Supercomputing (ICS)",
       "year": 2014
     },
     {
@@ -3782,7 +3754,7 @@
       "year": 2013
     },
     {
-      "citation_count": 39,
+      "citation_count": 38,
       "doi": "10.1109/mc.2013.119",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -3820,7 +3792,7 @@
       "review_status": "candidate_openalex",
       "title": "ADIOS Visualization Schema: A First Step Towards Improving Interdisciplinary Collaboration in High Performance Computing",
       "url": "https://doi.org/10.1109/escience.2013.24",
-      "venue": "",
+      "venue": "IEEE International Conference on eScience",
       "year": 2013
     },
     {
@@ -3908,7 +3880,7 @@
       "year": 2013
     },
     {
-      "citation_count": 285,
+      "citation_count": 286,
       "doi": "10.1109/vast.2012.6400557",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3918,7 +3890,7 @@
       "review_status": "trusted_orcid",
       "title": "Spatiotemporal social media analytics for abnormal event detection and examination using seasonal-trend decomposition",
       "url": "https://doi.org/10.1109/vast.2012.6400557",
-      "venue": "",
+      "venue": "IEEE Conference on Visual Analytics Science and Technology (VAST)",
       "year": 2012
     },
     {
@@ -3950,7 +3922,7 @@
       "year": 2012
     },
     {
-      "citation_count": 46,
+      "citation_count": 53,
       "doi": "10.1201/b12985-17",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -3974,7 +3946,7 @@
       "review_status": "candidate_openalex",
       "title": "Parallel stream surface computation for large data sets",
       "url": "https://doi.org/10.1109/ldav.2012.6378974",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2012
     },
     {
@@ -4030,7 +4002,7 @@
       "review_status": "candidate_openalex",
       "title": "Redirecting research in large-format displays for visualization",
       "url": "https://doi.org/10.1109/ldav.2012.6378981",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2012
     },
     {
@@ -4114,7 +4086,7 @@
       "review_status": "candidate_openalex",
       "title": "Mining hidden mixture context with ADIOS-P to improve predictive pre-fetcher accuracy",
       "url": "https://doi.org/10.1109/escience.2012.6404418",
-      "venue": "",
+      "venue": "IEEE International Conference on eScience",
       "year": 2012
     },
     {
@@ -4128,7 +4100,7 @@
       "review_status": "candidate_openalex",
       "title": "Collaborative monitoring and visualization of HPC data",
       "url": "https://doi.org/10.1109/cts.2012.6261083",
-      "venue": "",
+      "venue": "International Conference on Collaboration Technologies and Systems (CTS)",
       "year": 2012
     },
     {
@@ -4170,11 +4142,11 @@
       "review_status": "candidate_openalex",
       "title": "The ParaView Coprocessing Library: A scalable, general purpose in situ visualization library",
       "url": "https://doi.org/10.1109/ldav.2011.6092322",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2011
     },
     {
-      "citation_count": 83,
+      "citation_count": 82,
       "doi": "10.1117/12.876669",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -4226,7 +4198,7 @@
       "review_status": "candidate_openalex",
       "title": "Dax Toolkit: A proposed framework for data analysis and visualization at Extreme Scale",
       "url": "https://doi.org/10.1109/ldav.2011.6092323",
-      "venue": "",
+      "venue": "IEEE Symposium on Large Data Analysis and Visualization",
       "year": 2011
     },
     {
@@ -4328,7 +4300,7 @@
       "year": 2011
     },
     {
-      "citation_count": 86,
+      "citation_count": 85,
       "doi": "10.1109/mcg.2010.51",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4384,7 +4356,7 @@
       "year": 2010
     },
     {
-      "citation_count": 217,
+      "citation_count": 218,
       "doi": "10.1007/978-3-642-10520-3_9",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4451,20 +4423,6 @@
       "title": "Research on Web Services Application in Distance Education Platform Construction",
       "url": "https://doi.org/10.1109/cise.2009.5365533",
       "venue": "",
-      "year": 2009
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/oxfordhb/9780199235018.003.0017",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4205793263",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Saying It",
-      "url": "https://doi.org/10.1093/oxfordhb/9780199235018.003.0017",
-      "venue": "Oxford University Press eBooks",
       "year": 2009
     },
     {
@@ -4590,7 +4548,7 @@
       "review_status": "candidate_openalex",
       "title": "Intelligence Analysis Using Titan",
       "url": "https://doi.org/10.1109/vast.2007.4389036",
-      "venue": "",
+      "venue": "IEEE Symposium on Visual Analytics Science and Technology (VAST)",
       "year": 2007
     },
     {
@@ -4636,20 +4594,6 @@
       "year": 2007
     },
     {
-      "citation_count": 25,
-      "doi": "10.1017/s0031819106000040",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2048914314",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "The Secular Reception of Relgious Music",
-      "url": "https://doi.org/10.1017/s0031819106000040",
-      "venue": "Philosophy",
-      "year": 2006
-    },
-    {
       "citation_count": 3,
       "doi": "10.1109/vlsic.2006.1705361",
       "group_authors": "Zhimin Li",
@@ -4660,7 +4604,7 @@
       "review_status": "candidate_openalex",
       "title": "A 14-Bit 5MS/s Continuous-Time Delta-Sigma A/D Modulator",
       "url": "https://doi.org/10.1109/vlsic.2006.1705361",
-      "venue": "",
+      "venue": "Symposium on VLSI Circuits (VLSIC)",
       "year": 2006
     },
     {
@@ -4678,20 +4622,6 @@
       "year": 2006
     },
     {
-      "citation_count": 1,
-      "doi": "10.1353/ppp.2007.0019",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2140560983",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Taming the Beast Within",
-      "url": "https://doi.org/10.1353/ppp.2007.0019",
-      "venue": "Philosophy, psychiatry & psychology",
-      "year": 2006
-    },
-    {
       "citation_count": 0,
       "doi": "10.1145/1188455.1188700",
       "group_authors": "Ken Moreland",
@@ -4704,160 +4634,6 @@
       "url": "https://doi.org/10.1145/1188455.1188700",
       "venue": "",
       "year": 2006
-    },
-    {
-      "citation_count": 92,
-      "doi": "10.1093/0199276897.001.0001",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4231448080",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Sound Sentiments",
-      "url": "https://doi.org/10.1093/0199276897.001.0001",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 1,
-      "doi": "10.1093/0199276897.003.0008",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2475882280",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Conflict: Mixed Emotions and the Indivisible Heart",
-      "url": "https://doi.org/10.1093/0199276897.003.0008",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0004",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2491589847",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "The Work of Emotion",
-      "url": "https://doi.org/10.1093/0199276897.003.0004",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0009",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4235624920",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Sophistication",
-      "url": "https://doi.org/10.1093/0199276897.003.0009",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0006",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2507029837",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Sentiment and Sentimentality",
-      "url": "https://doi.org/10.1093/0199276897.003.0006",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0010",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4231554715",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Retrospective",
-      "url": "https://doi.org/10.1093/0199276897.003.0010",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0003",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2476327937",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Profundity in Emotion",
-      "url": "https://doi.org/10.1093/0199276897.003.0003",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0005",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4232519089",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Narcissism in Emotion",
-      "url": "https://doi.org/10.1093/0199276897.003.0005",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0001",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4252954192",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Introduction",
-      "url": "https://doi.org/10.1093/0199276897.003.0001",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0007",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2491355453",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Cynicism and Safe Sentiment",
-      "url": "https://doi.org/10.1093/0199276897.003.0007",
-      "venue": "",
-      "year": 2005
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/0199276897.003.0002",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2478335437",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "An Anatomy of Emotion",
-      "url": "https://doi.org/10.1093/0199276897.003.0002",
-      "venue": "",
-      "year": 2005
     },
     {
       "citation_count": 99,
@@ -4944,20 +4720,6 @@
       "year": 2002
     },
     {
-      "citation_count": 1,
-      "doi": "10.1023/a:1021364117802",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W1507154126",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Narcissism in emotion",
-      "url": "https://doi.org/10.1023/a:1021364117802",
-      "venue": "Phenomenology and the Cognitive Sciences",
-      "year": 2002
-    },
-    {
       "citation_count": 72,
       "doi": "10.1109/38.933525",
       "group_authors": "Ken Moreland",
@@ -4984,104 +4746,6 @@
       "url": "https://doi.org/10.5555/502125.502141",
       "venue": "",
       "year": 2001
-    },
-    {
-      "citation_count": 58,
-      "doi": "10.1080/00455091.1994.10717360",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2274464211",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Perverse Preference: Self-Beguilement Or Self-Division?",
-      "url": "https://doi.org/10.1080/00455091.1994.10717360",
-      "venue": "Canadian Journal of Philosophy",
-      "year": 1994
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1017/s003181910004448x",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2096096924",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Bat or Batman?",
-      "url": "https://doi.org/10.1017/s003181910004448x",
-      "venue": "Philosophy",
-      "year": 1989
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.22215/etd/1987-01243",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W4235926964",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Ocean scatter propagation models for aeronautical and maritime satellite communication applications.",
-      "url": "https://doi.org/10.22215/etd/1987-01243",
-      "venue": "",
-      "year": 1987
-    },
-    {
-      "citation_count": 109,
-      "doi": "10.1093/aristoteliansupp/56.1.157",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W4233256426",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Motivated Irrationality",
-      "url": "https://doi.org/10.1093/aristoteliansupp/56.1.157",
-      "venue": "Aristotelian Society Supplementary Volume",
-      "year": 1982
-    },
-    {
-      "citation_count": 5,
-      "doi": "10.1109/ceej.1981.6592448",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W2092624513",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Microprocessor based implementation and testing of a simple Viterbi detector",
-      "url": "https://doi.org/10.1109/ceej.1981.6592448",
-      "venue": "Canadian Electrical Engineering Journal",
-      "year": 1981
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1093/mind/lxxxi.324.584",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2005010390",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "A DOUBT ABOUT THE NORMATIVE THEORY OF BELIEF",
-      "url": "https://doi.org/10.1093/mind/lxxxi.324.584",
-      "venue": "Mind",
-      "year": 1972
-    },
-    {
-      "citation_count": 7,
-      "doi": "10.1080/00201746908601568",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2176560130",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "I. \u2018Strong\u2019 self\u2010deception",
-      "url": "https://doi.org/10.1080/00201746908601568",
-      "venue": "Inquiry",
-      "year": 1969
     }
   ]
 }

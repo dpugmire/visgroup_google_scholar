@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-28T17:42:36+00:00",
-  "h_index": 39,
-  "i10_index": 106,
+  "generated_at": "2026-10-05T18:34:15+00:00",
+  "h_index": 38,
+  "i10_index": 101,
   "member_count": 7,
-  "publication_count": 363,
+  "publication_count": 339,
   "review_status_counts": {
-    "candidate_openalex": 269,
-    "trusted_orcid": 94
+    "candidate_openalex": 244,
+    "trusted_orcid": 95
   },
   "source": "Curated OpenAlex author candidates with ORCID DOI evidence",
-  "total_citations": 6224,
+  "total_citations": 5917,
   "warnings": []
 }

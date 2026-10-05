@@ -1,9 +1,9 @@
 [
   {
-    "citation_count": 2327,
+    "citation_count": 2035,
     "google_scholar_url": "https://scholar.google.com/citations?user=FmxWGN0AAAAJ&hl=en",
-    "h_index": 23,
-    "i10_index": 45,
+    "h_index": 20,
+    "i10_index": 41,
     "id": "david-pugmire",
     "name": "David Pugmire",
     "openalex_id": "",
@@ -11,13 +11,13 @@
     "orcid": "0000-0003-0647-2634",
     "resolved_openalex_id": "https://openalex.org/A5041404935",
     "role": "Current member",
-    "works_count": 124
+    "works_count": 102
   },
   {
-    "citation_count": 2597,
+    "citation_count": 2584,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=d00I5gUAAAAJ",
     "h_index": 23,
-    "i10_index": 37,
+    "i10_index": 36,
     "id": "ken-moreland",
     "name": "Ken Moreland",
     "openalex_id": "",
@@ -25,10 +25,10 @@
     "orcid": "0000-0002-7051-3288",
     "resolved_openalex_id": "https://openalex.org/A5102833835",
     "role": "Current member",
-    "works_count": 138
+    "works_count": 135
   },
   {
-    "citation_count": 304,
+    "citation_count": 299,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=sMiEw1YAAAAJ",
     "h_index": 9,
     "i10_index": 9,
@@ -70,7 +70,7 @@
     "works_count": 5
   },
   {
-    "citation_count": 23,
+    "citation_count": 25,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=yjTNw5YAAAAJ",
     "h_index": 3,
     "i10_index": 0,
