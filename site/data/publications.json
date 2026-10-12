@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:34:15+00:00",
+  "generated_at": "2026-10-12T19:08:03+00:00",
   "publications": [
     {
       "author_names": [
@@ -150,7 +150,7 @@
         "Spiros Tsalikis",
         "G\u00fcnther Weber",
         "Tushar M. Athawale",
-        "Vicente Adolfo Bolea Sanchez",
+        "Vicente Bolea",
         "Mark Bolstad",
         "Hank Childs",
         "Berk Geveci",
@@ -181,7 +181,7 @@
         },
         {
           "name": "Silvio Rizzi",
-          "openalex_id": "https://openalex.org/A5127806598"
+          "openalex_id": "https://openalex.org/A5022638931"
         },
         {
           "name": "Spiros Tsalikis",
@@ -196,8 +196,8 @@
           "openalex_id": "https://openalex.org/A5080292005"
         },
         {
-          "name": "Vicente Adolfo Bolea Sanchez",
-          "openalex_id": "https://openalex.org/A5137551963"
+          "name": "Vicente Bolea",
+          "openalex_id": "https://openalex.org/A5084313153"
         },
         {
           "name": "Mark Bolstad",
@@ -262,7 +262,7 @@
       "author_names": [
         "Erik Schmidt",
         "Megan M. Johnson",
-        "Rocio Uria-Martinez"
+        "Rocio Uria Martinez"
       ],
       "authors": [
         {
@@ -274,8 +274,8 @@
           "openalex_id": "https://openalex.org/A5114949271"
         },
         {
-          "name": "Rocio Uria-Martinez",
-          "openalex_id": "https://openalex.org/A5099130915"
+          "name": "Rocio Uria Martinez",
+          "openalex_id": "https://openalex.org/A5060426876"
         }
       ],
       "biblio": {
@@ -464,11 +464,80 @@
     },
     {
       "author_names": [
+        "Shanu Saklani",
+        "Tushar M. Athawale",
+        "Nairita Pal",
+        "David Pugmire",
+        "Chris R. Johnson",
+        "Dutta, Soumya"
+      ],
+      "authors": [
+        {
+          "name": "Shanu Saklani",
+          "openalex_id": "https://openalex.org/A5106879330"
+        },
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Nairita Pal",
+          "openalex_id": "https://openalex.org/A5071005285"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5123902343"
+        },
+        {
+          "name": "Chris R. Johnson",
+          "openalex_id": "https://openalex.org/A5048780291"
+        },
+        {
+          "name": "Dutta, Soumya",
+          "openalex_id": ""
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.48550/arxiv.2601.17689",
+      "doi_url": "https://doi.org/10.48550/arxiv.2601.17689",
+      "group_author_ids": [
+        "tushar-athawale"
+      ],
+      "id": "doi:10.48550/arxiv.2601.17689",
+      "oa_url": "https://doi.org/10.48550/arxiv.2601.17689",
+      "openalex_author_person_ids": [
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W7125771044",
+      "openalex_ids": [
+        "https://openalex.org/W7125771044"
+      ],
+      "openalex_url": "https://openalex.org/W7125771044",
+      "orcid_person_ids": [],
+      "publication_date": "2026-01-25",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization",
+      "type": "preprint",
+      "url": "https://doi.org/10.48550/arxiv.2601.17689",
+      "venue": "arXiv (Cornell University)",
+      "year": 2026
+    },
+    {
+      "author_names": [
         "Zhimin Li",
         "Harshitha Menon",
         "Charles F. Jekel",
         "Valerio Pascucci",
-        "Peter Lindstrom"
+        "P Lindstrom"
       ],
       "authors": [
         {
@@ -488,8 +557,8 @@
           "openalex_id": "https://openalex.org/A5009460413"
         },
         {
-          "name": "Peter Lindstrom",
-          "openalex_id": "https://openalex.org/A5138699123"
+          "name": "P Lindstrom",
+          "openalex_id": "https://openalex.org/A5130187976"
         }
       ],
       "biblio": {
@@ -521,7 +590,7 @@
       "title": "Quantifying the Impact of Lossy Compression on Neural Generative Surrogate Modeling",
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/ipdps65963.2026.00059",
-      "venue": "",
+      "venue": "Proceedings - IEEE International Parallel and Distributed Processing Symposium",
       "year": 2026
     },
     {
@@ -594,7 +663,7 @@
         "Robert Underwood",
         "Ozan Tu\u011fluk",
         "Axel Huebl",
-        "William F Godoy",
+        "William F. Godoy",
         "Jong Choi"
       ],
       "authors": [
@@ -635,8 +704,8 @@
           "openalex_id": "https://openalex.org/A5146585947"
         },
         {
-          "name": "William F Godoy",
-          "openalex_id": "https://openalex.org/A5126266133"
+          "name": "William F. Godoy",
+          "openalex_id": "https://openalex.org/A5032103653"
         },
         {
           "name": "Jong Choi",
@@ -666,288 +735,6 @@
       ],
       "openalex_url": "https://openalex.org/W7154949799",
       "orcid_person_ids": [],
-      "publication_date": "2026-08-25",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "MasterVChicken/MGARD: sc26-blockmagrd-v3",
-      "type": "software",
-      "url": "https://doi.org/10.5281/zenodo.19656827",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2026
-    },
-    {
-      "author_names": [
-        "Jieyang Chen",
-        "ben-e-whitney",
-        "qliu21",
-        "Yanliang Li",
-        "Kenneth Moreland",
-        "Nick",
-        "Robert Underwood",
-        "Ozan Tu\u011fluk",
-        "Axel Huebl",
-        "William F Godoy",
-        "Jong Choi"
-      ],
-      "authors": [
-        {
-          "name": "Jieyang Chen",
-          "openalex_id": "https://openalex.org/A5134051021"
-        },
-        {
-          "name": "ben-e-whitney",
-          "openalex_id": "https://openalex.org/A5134034832"
-        },
-        {
-          "name": "qliu21",
-          "openalex_id": "https://openalex.org/A5134038095"
-        },
-        {
-          "name": "Yanliang Li",
-          "openalex_id": "https://openalex.org/A5134093128"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Nick",
-          "openalex_id": "https://openalex.org/A5134074946"
-        },
-        {
-          "name": "Robert Underwood",
-          "openalex_id": "https://openalex.org/A5056940311"
-        },
-        {
-          "name": "Ozan Tu\u011fluk",
-          "openalex_id": "https://openalex.org/A5090343953"
-        },
-        {
-          "name": "Axel Huebl",
-          "openalex_id": "https://openalex.org/A5146585947"
-        },
-        {
-          "name": "William F Godoy",
-          "openalex_id": "https://openalex.org/A5126266133"
-        },
-        {
-          "name": "Jong Choi",
-          "openalex_id": "https://openalex.org/A5134080214"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.5281/zenodo.22092142",
-      "doi_url": "https://doi.org/10.5281/zenodo.22092142",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.5281/zenodo.22092142",
-      "oa_url": "https://doi.org/10.5281/zenodo.22092142",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W7170153971",
-      "openalex_ids": [
-        "https://openalex.org/W7170153971"
-      ],
-      "openalex_url": "https://openalex.org/W7170153971",
-      "orcid_person_ids": [],
-      "publication_date": "2026-08-25",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "MasterVChicken/MGARD: sc26-blockmagrd-v3",
-      "type": "software",
-      "url": "https://doi.org/10.5281/zenodo.22092142",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2026
-    },
-    {
-      "author_names": [
-        "Jieyang Chen",
-        "ben-e-whitney",
-        "qliu21",
-        "Yanliang Li",
-        "Kenneth Moreland",
-        "Nick",
-        "Robert Underwood",
-        "Ozan Tu\u011fluk",
-        "Axel Huebl",
-        "William F Godoy",
-        "Jong Choi"
-      ],
-      "authors": [
-        {
-          "name": "Jieyang Chen",
-          "openalex_id": "https://openalex.org/A5134051021"
-        },
-        {
-          "name": "ben-e-whitney",
-          "openalex_id": "https://openalex.org/A5134034832"
-        },
-        {
-          "name": "qliu21",
-          "openalex_id": "https://openalex.org/A5134038095"
-        },
-        {
-          "name": "Yanliang Li",
-          "openalex_id": "https://openalex.org/A5134093128"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Nick",
-          "openalex_id": "https://openalex.org/A5151680064"
-        },
-        {
-          "name": "Robert Underwood",
-          "openalex_id": "https://openalex.org/A5056940311"
-        },
-        {
-          "name": "Ozan Tu\u011fluk",
-          "openalex_id": "https://openalex.org/A5090343953"
-        },
-        {
-          "name": "Axel Huebl",
-          "openalex_id": "https://openalex.org/A5146585947"
-        },
-        {
-          "name": "William F Godoy",
-          "openalex_id": "https://openalex.org/A5126266133"
-        },
-        {
-          "name": "Jong Choi",
-          "openalex_id": "https://openalex.org/A5134080214"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.5281/zenodo.21502784",
-      "doi_url": "https://doi.org/10.5281/zenodo.21502784",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.5281/zenodo.21502784",
-      "oa_url": "https://doi.org/10.5281/zenodo.21502784",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W7212904775",
-      "openalex_ids": [
-        "https://openalex.org/W7212904775"
-      ],
-      "openalex_url": "https://openalex.org/W7212904775",
-      "orcid_person_ids": [],
-      "publication_date": "2026-07-23",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "MasterVChicken/MGARD: sc26-blockmagrd-v2",
-      "type": "software",
-      "url": "https://doi.org/10.5281/zenodo.21502784",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2026
-    },
-    {
-      "author_names": [
-        "Jieyang Chen",
-        "ben-e-whitney",
-        "qliu21",
-        "Yanliang Li",
-        "Kenneth Moreland",
-        "Nick",
-        "Robert Underwood",
-        "Ozan Tu\u011fluk",
-        "Axel Huebl",
-        "William F Godoy",
-        "Jong Choi"
-      ],
-      "authors": [
-        {
-          "name": "Jieyang Chen",
-          "openalex_id": "https://openalex.org/A5134051021"
-        },
-        {
-          "name": "ben-e-whitney",
-          "openalex_id": "https://openalex.org/A5134034832"
-        },
-        {
-          "name": "qliu21",
-          "openalex_id": "https://openalex.org/A5134038095"
-        },
-        {
-          "name": "Yanliang Li",
-          "openalex_id": "https://openalex.org/A5134093128"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Nick",
-          "openalex_id": "https://openalex.org/A5134074946"
-        },
-        {
-          "name": "Robert Underwood",
-          "openalex_id": "https://openalex.org/A5056940311"
-        },
-        {
-          "name": "Ozan Tu\u011fluk",
-          "openalex_id": "https://openalex.org/A5090343953"
-        },
-        {
-          "name": "Axel Huebl",
-          "openalex_id": "https://openalex.org/A5146585947"
-        },
-        {
-          "name": "William F Godoy",
-          "openalex_id": "https://openalex.org/A5126266133"
-        },
-        {
-          "name": "Jong Choi",
-          "openalex_id": "https://openalex.org/A5134080214"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.5281/zenodo.19656828",
-      "doi_url": "https://doi.org/10.5281/zenodo.19656828",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.5281/zenodo.19656828",
-      "oa_url": "https://doi.org/10.5281/zenodo.19656828",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W7154937782",
-      "openalex_ids": [
-        "https://openalex.org/W7154937782"
-      ],
-      "openalex_url": "https://openalex.org/W7154937782",
-      "orcid_person_ids": [],
       "publication_date": "2026-04-20",
       "review_notes": [
         "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
@@ -955,7 +742,7 @@
       "review_status": "candidate_openalex",
       "title": "MasterVChicken/MGARD: sc26-BlockMGARD-v1",
       "type": "software",
-      "url": "https://doi.org/10.5281/zenodo.19656828",
+      "url": "https://doi.org/10.5281/zenodo.19656827",
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "year": 2026
     },
@@ -1047,7 +834,7 @@
     {
       "author_names": [
         "T. A. J. Ouermi",
-        "Nina M. Gottschling",
+        "Nina Maria Gottschling",
         "Alex Gorczowski",
         "Tushar M. Athawale"
       ],
@@ -1057,8 +844,8 @@
           "openalex_id": "https://openalex.org/A5061777250"
         },
         {
-          "name": "Nina M. Gottschling",
-          "openalex_id": "https://openalex.org/A5124741508"
+          "name": "Nina Maria Gottschling",
+          "openalex_id": "https://openalex.org/A5006433290"
         },
         {
           "name": "Alex Gorczowski",
@@ -1066,7 +853,7 @@
         },
         {
           "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5123984660"
+          "openalex_id": "https://openalex.org/A5080292005"
         }
       ],
       "biblio": {
@@ -1079,12 +866,14 @@
       "doi": "10.48550/arxiv.2608.18220",
       "doi_url": "https://doi.org/10.48550/arxiv.2608.18220",
       "group_author_ids": [
-        "timbwaoga-ouermi"
+        "timbwaoga-ouermi",
+        "tushar-athawale"
       ],
       "id": "doi:10.48550/arxiv.2608.18220",
       "oa_url": "https://arxiv.org/pdf/2608.18220",
       "openalex_author_person_ids": [
-        "timbwaoga-ouermi"
+        "timbwaoga-ouermi",
+        "tushar-athawale"
       ],
       "openalex_id": "https://openalex.org/W7203870500",
       "openalex_ids": [
@@ -1234,6 +1023,403 @@
       "type": "software",
       "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2026
+    },
+    {
+      "author_names": [
+        "Rafael Ferreira da Silva",
+        "USDOE",
+        "Scott Klasky",
+        "Robert M. Patton",
+        "David Pugmire",
+        "Thomas L. Papatheodore",
+        "Patrick M Widener",
+        "Tushar M. Athawale",
+        "Chandreyee Bhowmick",
+        "Junghoon Chae",
+        "Jong Youl Choi",
+        "Mark A. Coletti",
+        "Guojing Cong",
+        "Sanjay Kumar Das",
+        "Prasanna Date",
+        "Chelsey Dunivan Stahl",
+        "Katherine Engstrom",
+        "Ashish Gautam",
+        "Qian Gong",
+        "Zac Johnson-Scott",
+        "Minsu Kim",
+        "Olivera Kotevska",
+        "Jaemoon Lee",
+        "Zhimin Li",
+        "Jeremy S. Logan",
+        "Kshitij Mehta",
+        "Kenneth Moreland",
+        "Norbert Podhorszki",
+        "Erik H. Schmidt",
+        "Eric Suchyta",
+        "Fr\u00e9d\u00e9ric Suter"
+      ],
+      "authors": [
+        {
+          "name": "Rafael Ferreira da Silva",
+          "openalex_id": "https://openalex.org/A5072339196"
+        },
+        {
+          "name": "USDOE",
+          "openalex_id": "https://openalex.org/A5147706587"
+        },
+        {
+          "name": "Scott Klasky",
+          "openalex_id": "https://openalex.org/A5030373337"
+        },
+        {
+          "name": "Robert M. Patton",
+          "openalex_id": "https://openalex.org/A5021986280"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        },
+        {
+          "name": "Thomas L. Papatheodore",
+          "openalex_id": "https://openalex.org/A5004677675"
+        },
+        {
+          "name": "Patrick M Widener",
+          "openalex_id": "https://openalex.org/A5005946388"
+        },
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Chandreyee Bhowmick",
+          "openalex_id": "https://openalex.org/A5035036858"
+        },
+        {
+          "name": "Junghoon Chae",
+          "openalex_id": "https://openalex.org/A5061467967"
+        },
+        {
+          "name": "Jong Youl Choi",
+          "openalex_id": "https://openalex.org/A5054451484"
+        },
+        {
+          "name": "Mark A. Coletti",
+          "openalex_id": "https://openalex.org/A5068431797"
+        },
+        {
+          "name": "Guojing Cong",
+          "openalex_id": "https://openalex.org/A5089801879"
+        },
+        {
+          "name": "Sanjay Kumar Das",
+          "openalex_id": "https://openalex.org/A5109719660"
+        },
+        {
+          "name": "Prasanna Date",
+          "openalex_id": "https://openalex.org/A5047288261"
+        },
+        {
+          "name": "Chelsey Dunivan Stahl",
+          "openalex_id": "https://openalex.org/A5070629921"
+        },
+        {
+          "name": "Katherine Engstrom",
+          "openalex_id": "https://openalex.org/A5056174573"
+        },
+        {
+          "name": "Ashish Gautam",
+          "openalex_id": "https://openalex.org/A5101431514"
+        },
+        {
+          "name": "Qian Gong",
+          "openalex_id": "https://openalex.org/A5063502813"
+        },
+        {
+          "name": "Zac Johnson-Scott",
+          "openalex_id": "https://openalex.org/A5157888287"
+        },
+        {
+          "name": "Minsu Kim",
+          "openalex_id": "https://openalex.org/A5103250279"
+        },
+        {
+          "name": "Olivera Kotevska",
+          "openalex_id": "https://openalex.org/A5021188335"
+        },
+        {
+          "name": "Jaemoon Lee",
+          "openalex_id": "https://openalex.org/A5057988780"
+        },
+        {
+          "name": "Zhimin Li",
+          "openalex_id": "https://openalex.org/A5102018107"
+        },
+        {
+          "name": "Jeremy S. Logan",
+          "openalex_id": "https://openalex.org/A5042731390"
+        },
+        {
+          "name": "Kshitij Mehta",
+          "openalex_id": "https://openalex.org/A5025779441"
+        },
+        {
+          "name": "Kenneth Moreland",
+          "openalex_id": "https://openalex.org/A5102833835"
+        },
+        {
+          "name": "Norbert Podhorszki",
+          "openalex_id": "https://openalex.org/A5071286199"
+        },
+        {
+          "name": "Erik H. Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Eric Suchyta",
+          "openalex_id": "https://openalex.org/A5030809044"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Suter",
+          "openalex_id": "https://openalex.org/A5087786962"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.2172/17197384",
+      "doi_url": "https://doi.org/10.2172/17197384",
+      "group_author_ids": [
+        "david-pugmire",
+        "junghoon-chae",
+        "ken-moreland",
+        "tushar-athawale",
+        "zhimin-li"
+      ],
+      "id": "doi:10.2172/17197384",
+      "oa_url": "https://www.osti.gov/servlets/purl/17197384",
+      "openalex_author_person_ids": [
+        "david-pugmire",
+        "junghoon-chae",
+        "ken-moreland",
+        "tushar-athawale",
+        "zhimin-li"
+      ],
+      "openalex_id": "https://openalex.org/W7221348807",
+      "openalex_ids": [
+        "https://openalex.org/W7221348807"
+      ],
+      "openalex_url": "https://openalex.org/W7221348807",
+      "orcid_person_ids": [
+        "david-pugmire",
+        "junghoon-chae",
+        "tushar-athawale"
+      ],
+      "publication_date": "2026-10-01",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "Data and AI Systems FY 2026 Highlights",
+      "type": "report",
+      "url": "https://doi.org/10.2172/17197384",
+      "venue": "",
+      "year": 2026
+    },
+    {
+      "author_names": [
+        "Rafael Ferreira da Silva",
+        "Scott Klasky",
+        "Robert M. Patton",
+        "Dave Pugmire",
+        "Todd Thomas",
+        "Patrick M Widener",
+        "Tushar M. Athawale",
+        "Chandreyee Bhowmick",
+        "Junghoon Chae",
+        "Jong Choi",
+        "Mark A. Coletti",
+        "Guojing Cong",
+        "Sanjay Das",
+        "Prasanna Date",
+        "Chelsey Dunivan Stahl",
+        "Katherine Engstrom",
+        "Ashish Gautam",
+        "Qian Gong",
+        "Zac Johnson-Scott",
+        "Minsu Kim",
+        "Olivera Kotevska",
+        "Jaemoon Lee",
+        "Li Zhimin",
+        "Jeremy S. Logan",
+        "Kshitiji Mehta",
+        "Kenneth Moreland",
+        "Norbert Podhorszki",
+        "Erik H. Schmidt",
+        "Eric Suchyta",
+        "Fr\u00e9d\u00e9ric Suter"
+      ],
+      "authors": [
+        {
+          "name": "Rafael Ferreira da Silva",
+          "openalex_id": "https://openalex.org/A5072339196"
+        },
+        {
+          "name": "Scott Klasky",
+          "openalex_id": "https://openalex.org/A5030373337"
+        },
+        {
+          "name": "Robert M. Patton",
+          "openalex_id": "https://openalex.org/A5021986280"
+        },
+        {
+          "name": "Dave Pugmire",
+          "openalex_id": "https://openalex.org/A5044429826"
+        },
+        {
+          "name": "Todd Thomas",
+          "openalex_id": "https://openalex.org/A5113292516"
+        },
+        {
+          "name": "Patrick M Widener",
+          "openalex_id": "https://openalex.org/A5005946388"
+        },
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Chandreyee Bhowmick",
+          "openalex_id": "https://openalex.org/A5035036858"
+        },
+        {
+          "name": "Junghoon Chae",
+          "openalex_id": "https://openalex.org/A5061467967"
+        },
+        {
+          "name": "Jong Choi",
+          "openalex_id": "https://openalex.org/A5157950816"
+        },
+        {
+          "name": "Mark A. Coletti",
+          "openalex_id": "https://openalex.org/A5068431797"
+        },
+        {
+          "name": "Guojing Cong",
+          "openalex_id": "https://openalex.org/A5089801879"
+        },
+        {
+          "name": "Sanjay Das",
+          "openalex_id": "https://openalex.org/A5130188732"
+        },
+        {
+          "name": "Prasanna Date",
+          "openalex_id": "https://openalex.org/A5047288261"
+        },
+        {
+          "name": "Chelsey Dunivan Stahl",
+          "openalex_id": "https://openalex.org/A5070629921"
+        },
+        {
+          "name": "Katherine Engstrom",
+          "openalex_id": "https://openalex.org/A5056174573"
+        },
+        {
+          "name": "Ashish Gautam",
+          "openalex_id": "https://openalex.org/A5101431514"
+        },
+        {
+          "name": "Qian Gong",
+          "openalex_id": "https://openalex.org/A5063502813"
+        },
+        {
+          "name": "Zac Johnson-Scott",
+          "openalex_id": "https://openalex.org/A5157888287"
+        },
+        {
+          "name": "Minsu Kim",
+          "openalex_id": "https://openalex.org/A5147006233"
+        },
+        {
+          "name": "Olivera Kotevska",
+          "openalex_id": "https://openalex.org/A5021188335"
+        },
+        {
+          "name": "Jaemoon Lee",
+          "openalex_id": "https://openalex.org/A5157963209"
+        },
+        {
+          "name": "Li Zhimin",
+          "openalex_id": "https://openalex.org/A5151222107"
+        },
+        {
+          "name": "Jeremy S. Logan",
+          "openalex_id": "https://openalex.org/A5042731390"
+        },
+        {
+          "name": "Kshitiji Mehta",
+          "openalex_id": "https://openalex.org/A5157941136"
+        },
+        {
+          "name": "Kenneth Moreland",
+          "openalex_id": "https://openalex.org/A5102833835"
+        },
+        {
+          "name": "Norbert Podhorszki",
+          "openalex_id": "https://openalex.org/A5071286199"
+        },
+        {
+          "name": "Erik H. Schmidt",
+          "openalex_id": "https://openalex.org/A5040001193"
+        },
+        {
+          "name": "Eric Suchyta",
+          "openalex_id": "https://openalex.org/A5030809044"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Suter",
+          "openalex_id": "https://openalex.org/A5087786962"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": ""
+      },
+      "citation_count": 0,
+      "doi": "10.2172/17168022",
+      "doi_url": "https://doi.org/10.2172/17168022",
+      "group_author_ids": [
+        "junghoon-chae",
+        "ken-moreland",
+        "tushar-athawale"
+      ],
+      "id": "doi:10.2172/17168022",
+      "oa_url": "https://www.osti.gov/servlets/purl/17168022",
+      "openalex_author_person_ids": [
+        "junghoon-chae",
+        "ken-moreland",
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W7220914793",
+      "openalex_ids": [
+        "https://openalex.org/W7220914793"
+      ],
+      "openalex_url": "https://openalex.org/W7220914793",
+      "orcid_person_ids": [],
+      "publication_date": "2026-10-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Data and AI Systems FY 2026 Highlights",
+      "type": "report",
+      "url": "https://doi.org/10.2172/17168022",
+      "venue": "",
       "year": 2026
     },
     {
@@ -1539,7 +1725,7 @@
       "title": "Stability-preserving Lossy Compression for Large-scale Partial Differential Equations",
       "type": "conference-paper",
       "url": "https://doi.org/10.1145/3712285.3759878",
-      "venue": "",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2025
     },
     {
@@ -1727,7 +1913,7 @@
       "title": "ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling",
       "type": "conference-paper",
       "url": "https://doi.org/10.1145/3712285.3771989",
-      "venue": "",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2025
     },
     {
@@ -1892,7 +2078,7 @@
       "title": "STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data",
       "type": "conference-paper",
       "url": "https://doi.org/10.1145/3712285.3759795",
-      "venue": "",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2025
     },
     {
@@ -1995,7 +2181,7 @@
         "zhimin-li"
       ],
       "id": "doi:10.1109/uncertaintyvisualization68947.2025.00007",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2508.13088",
       "openalex_author_person_ids": [],
       "openalex_id": "https://openalex.org/W7123589361",
       "openalex_ids": [
@@ -2251,7 +2437,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/uncertaintyvisualization68947.2025.00006",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2510.01190",
       "openalex_author_person_ids": [
         "ken-moreland",
         "timbwaoga-ouermi",
@@ -3059,7 +3245,7 @@
         "timbwaoga-ouermi"
       ],
       "id": "doi:10.1615/int.j.uncertaintyquantification.2025059589",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2504.19812",
       "openalex_author_person_ids": [
         "timbwaoga-ouermi"
       ],
@@ -3082,86 +3268,13 @@
     },
     {
       "author_names": [
-        "T. A. J. Ouermi",
-        "Eric Li",
-        "Kenneth Moreland",
-        "Pugmire, Dave",
-        "Chris R. Johnson",
-        "Tushar M. Athawale"
-      ],
-      "authors": [
-        {
-          "name": "T. A. J. Ouermi",
-          "openalex_id": "https://openalex.org/A5061777250"
-        },
-        {
-          "name": "Eric Li",
-          "openalex_id": "https://openalex.org/A5111132214"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Pugmire, Dave",
-          "openalex_id": ""
-        },
-        {
-          "name": "Chris R. Johnson",
-          "openalex_id": "https://openalex.org/A5048780291"
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2510.01190",
-      "doi_url": "https://doi.org/10.48550/arxiv.2510.01190",
-      "group_author_ids": [
-        "ken-moreland",
-        "timbwaoga-ouermi",
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2510.01190",
-      "oa_url": "https://arxiv.org/pdf/2510.01190",
-      "openalex_author_person_ids": [
-        "ken-moreland",
-        "timbwaoga-ouermi",
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4414814330",
-      "openalex_ids": [
-        "https://openalex.org/W4414814330"
-      ],
-      "openalex_url": "https://openalex.org/W4414814330",
-      "orcid_person_ids": [],
-      "publication_date": "2025-08-21",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2510.01190",
-      "venue": "arXiv (Cornell University)",
-      "year": 2025
-    },
-    {
-      "author_names": [
         "Jieyang Chen",
         "Ben Whitney",
         "Qing Liu",
         "Kenneth Moreland",
         "Ozan Tu\u011fluk",
         "Qian Gong",
-        "William F Godoy",
+        "William F. Godoy",
         "Jong Choi",
         "Scott Klasky",
         "Mark Ainsworth"
@@ -3192,8 +3305,8 @@
           "openalex_id": "https://openalex.org/A5063502813"
         },
         {
-          "name": "William F Godoy",
-          "openalex_id": "https://openalex.org/A5126266133"
+          "name": "William F. Godoy",
+          "openalex_id": "https://openalex.org/A5032103653"
         },
         {
           "name": "Jong Choi",
@@ -3201,7 +3314,7 @@
         },
         {
           "name": "Scott Klasky",
-          "openalex_id": "https://openalex.org/A5126202447"
+          "openalex_id": "https://openalex.org/A5030373337"
         },
         {
           "name": "Mark Ainsworth",
@@ -3304,39 +3417,6 @@
       "type": "preprint",
       "url": "https://doi.org/10.48550/arxiv.2509.15160",
       "venue": "arXiv (Cornell University)",
-      "year": 2025
-    },
-    {
-      "author_names": [],
-      "authors": [],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2501.06910",
-      "doi_url": "https://doi.org/10.48550/arxiv.2501.06910",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2501.06910",
-      "oa_url": "",
-      "openalex_author_person_ids": [],
-      "openalex_id": "",
-      "openalex_ids": [],
-      "openalex_url": "",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "A General Framework for Error-controlled Unstructured Scientific Data Compression",
-      "type": "other",
-      "url": "https://doi.org/10.48550/arxiv.2501.06910",
-      "venue": "arXiv",
       "year": 2025
     },
     {
@@ -3494,7 +3574,7 @@
         "last_page": "502",
         "volume": "11"
       },
-      "citation_count": 20,
+      "citation_count": 19,
       "doi": "10.1038/s41597-024-03219-x",
       "doi_url": "https://doi.org/10.1038/s41597-024-03219-x",
       "group_author_ids": [
@@ -3527,7 +3607,7 @@
         "Zhimin Li",
         "Makaila Olson",
         "Valerio Pascucci",
-        "P-T Bremer"
+        "Peer\u2010Timo Bremer"
       ],
       "authors": [
         {
@@ -3551,8 +3631,8 @@
           "openalex_id": "https://openalex.org/A5009460413"
         },
         {
-          "name": "P-T Bremer",
-          "openalex_id": "https://openalex.org/A5108323360"
+          "name": "Peer\u2010Timo Bremer",
+          "openalex_id": "https://openalex.org/A5019902487"
         }
       ],
       "biblio": {
@@ -3561,7 +3641,7 @@
         "last_page": "",
         "volume": "43"
       },
-      "citation_count": 15,
+      "citation_count": 16,
       "doi": "10.1111/cgf.15093",
       "doi_url": "https://doi.org/10.1111/cgf.15093",
       "group_author_ids": [
@@ -3662,7 +3742,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/sc41406.2024.00091",
-      "oa_url": "https://escholarship.org/content/qt4g7005dx/qt4g7005dx.pdf",
+      "oa_url": "https://arxiv.org/pdf/2407.04267",
       "openalex_author_person_ids": [
         "tushar-athawale"
       ],
@@ -3680,7 +3760,7 @@
       "title": "A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization",
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc41406.2024.00091",
-      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2024
     },
     {
@@ -3821,7 +3901,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/uncertaintyvisualization63963.2024.00013",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2408.06018",
       "openalex_author_person_ids": [
         "david-pugmire",
         "tushar-athawale"
@@ -3841,55 +3921,6 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/uncertaintyvisualization63963.2024.00013",
       "venue": "",
-      "year": 2024
-    },
-    {
-      "author_names": [
-        "Zhimin Li",
-        "Fan Li"
-      ],
-      "authors": [
-        {
-          "name": "Zhimin Li",
-          "openalex_id": "https://openalex.org/A5102018107"
-        },
-        {
-          "name": "Fan Li",
-          "openalex_id": "https://openalex.org/A5102941950"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": "148"
-      },
-      "citation_count": 4,
-      "doi": "10.54941/ahfe1005190",
-      "doi_url": "https://doi.org/10.54941/ahfe1005190",
-      "group_author_ids": [
-        "zhimin-li"
-      ],
-      "id": "doi:10.54941/ahfe1005190",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "zhimin-li"
-      ],
-      "openalex_id": "https://openalex.org/W4399478900",
-      "openalex_ids": [
-        "https://openalex.org/W4399478900"
-      ],
-      "openalex_url": "https://openalex.org/W4399478900",
-      "orcid_person_ids": [],
-      "publication_date": "2024-01-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Vigilant Air Traffic Control: Gaze-based Recognition of Detection Failures to Visual Warnings",
-      "type": "conference-paper",
-      "url": "https://doi.org/10.54941/ahfe1005190",
-      "venue": "AHFE international",
       "year": 2024
     },
     {
@@ -3943,14 +3974,14 @@
         "last_page": "6352",
         "volume": "31"
       },
-      "citation_count": 3,
+      "citation_count": 4,
       "doi": "10.1109/tvcg.2024.3514996",
       "doi_url": "https://doi.org/10.1109/tvcg.2024.3514996",
       "group_author_ids": [
         "zhimin-li"
       ],
       "id": "doi:10.1109/tvcg.2024.3514996",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2206.07918",
       "openalex_author_person_ids": [
         "zhimin-li"
       ],
@@ -3969,6 +4000,55 @@
       "type": "article",
       "url": "https://doi.org/10.1109/tvcg.2024.3514996",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2024
+    },
+    {
+      "author_names": [
+        "Zhimin Li",
+        "Fan Li"
+      ],
+      "authors": [
+        {
+          "name": "Zhimin Li",
+          "openalex_id": "https://openalex.org/A5102018107"
+        },
+        {
+          "name": "Fan Li",
+          "openalex_id": "https://openalex.org/A5102941950"
+        }
+      ],
+      "biblio": {
+        "first_page": "",
+        "issue": "",
+        "last_page": "",
+        "volume": "148"
+      },
+      "citation_count": 3,
+      "doi": "10.54941/ahfe1005190",
+      "doi_url": "https://doi.org/10.54941/ahfe1005190",
+      "group_author_ids": [
+        "zhimin-li"
+      ],
+      "id": "doi:10.54941/ahfe1005190",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "zhimin-li"
+      ],
+      "openalex_id": "https://openalex.org/W4399478900",
+      "openalex_ids": [
+        "https://openalex.org/W4399478900"
+      ],
+      "openalex_url": "https://openalex.org/W4399478900",
+      "orcid_person_ids": [],
+      "publication_date": "2024-01-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Vigilant Air Traffic Control: Gaze-based Recognition of Detection Failures to Visual Warnings",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.54941/ahfe1005190",
+      "venue": "AHFE international",
       "year": 2024
     },
     {
@@ -4212,7 +4292,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/tvcg.2024.3456393",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2407.18015",
       "openalex_author_person_ids": [
         "david-pugmire",
         "ken-moreland",
@@ -4578,7 +4658,7 @@
         "junghoon-chae"
       ],
       "id": "doi:10.1109/isvlsi61997.2024.00116",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2409.06159",
       "openalex_author_person_ids": [
         "junghoon-chae"
       ],
@@ -4932,224 +5012,6 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/e-science62913.2024.10678681",
       "venue": "IEEE International Conference on eScience",
-      "year": 2024
-    },
-    {
-      "author_names": [
-        "Junghoon Chae",
-        "Chad A. Steed",
-        "Travis S. Humble"
-      ],
-      "authors": [
-        {
-          "name": "Junghoon Chae",
-          "openalex_id": "https://openalex.org/A5061467967"
-        },
-        {
-          "name": "Chad A. Steed",
-          "openalex_id": "https://openalex.org/A5048471884"
-        },
-        {
-          "name": "Travis S. Humble",
-          "openalex_id": "https://openalex.org/A5001784263"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2409.06159",
-      "doi_url": "https://doi.org/10.48550/arxiv.2409.06159",
-      "group_author_ids": [
-        "junghoon-chae"
-      ],
-      "id": "doi:10.48550/arxiv.2409.06159",
-      "oa_url": "https://arxiv.org/pdf/2409.06159",
-      "openalex_author_person_ids": [
-        "junghoon-chae"
-      ],
-      "openalex_id": "https://openalex.org/W4403593130",
-      "openalex_ids": [
-        "https://openalex.org/W4403593130"
-      ],
-      "openalex_url": "https://openalex.org/W4403593130",
-      "orcid_person_ids": [],
-      "publication_date": "2024-09-10",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Visual Analytics of Performance of Quantum Computing Systems and Circuit Optimization",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2409.06159",
-      "venue": "arXiv (Cornell University)",
-      "year": 2024
-    },
-    {
-      "author_names": [
-        "Shanu Saklani",
-        "Chitwan Goel",
-        "Shrey Bansal",
-        "Zhe Wang",
-        "Dutta, Soumya",
-        "Tushar M. Athawale",
-        "David Pugmire",
-        "Christopher R. Johnson"
-      ],
-      "authors": [
-        {
-          "name": "Shanu Saklani",
-          "openalex_id": "https://openalex.org/A5106879330"
-        },
-        {
-          "name": "Chitwan Goel",
-          "openalex_id": "https://openalex.org/A5112265235"
-        },
-        {
-          "name": "Shrey Bansal",
-          "openalex_id": "https://openalex.org/A5086526904"
-        },
-        {
-          "name": "Zhe Wang",
-          "openalex_id": "https://openalex.org/A5100407628"
-        },
-        {
-          "name": "Dutta, Soumya",
-          "openalex_id": ""
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Christopher R. Johnson",
-          "openalex_id": "https://openalex.org/A5015016256"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2408.06018",
-      "doi_url": "https://doi.org/10.48550/arxiv.2408.06018",
-      "group_author_ids": [
-        "david-pugmire",
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2408.06018",
-      "oa_url": "https://arxiv.org/pdf/2408.06018",
-      "openalex_author_person_ids": [
-        "david-pugmire",
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4402387266",
-      "openalex_ids": [
-        "https://openalex.org/W4402387266"
-      ],
-      "openalex_url": "https://openalex.org/W4402387266",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2024-08-12",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty-Informed Volume Visualization using Implicit Neural Representation",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2408.06018",
-      "venue": "arXiv (Cornell University)",
-      "year": 2024
-    },
-    {
-      "author_names": [
-        "Tushar M. Athawale",
-        "Zhe Wang",
-        "David Pugmire",
-        "Kenneth Moreland",
-        "Qian Gong",
-        "Scott Klasky",
-        "Chris R. Johnson",
-        "Paul Rosen"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Zhe Wang",
-          "openalex_id": "https://openalex.org/A5080609811"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Qian Gong",
-          "openalex_id": "https://openalex.org/A5063502813"
-        },
-        {
-          "name": "Scott Klasky",
-          "openalex_id": "https://openalex.org/A5030373337"
-        },
-        {
-          "name": "Chris R. Johnson",
-          "openalex_id": "https://openalex.org/A5048780291"
-        },
-        {
-          "name": "Paul Rosen",
-          "openalex_id": "https://openalex.org/A5036159118"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2407.18015",
-      "doi_url": "https://doi.org/10.48550/arxiv.2407.18015",
-      "group_author_ids": [
-        "david-pugmire",
-        "ken-moreland",
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2407.18015",
-      "oa_url": "https://arxiv.org/pdf/2407.18015",
-      "openalex_author_person_ids": [
-        "david-pugmire",
-        "ken-moreland",
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4402619103",
-      "openalex_ids": [
-        "https://openalex.org/W4402619103"
-      ],
-      "openalex_url": "https://openalex.org/W4402619103",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2024-07-25",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Visualization of Critical Points of 2D Scalar Fields for Parametric and Nonparametric Probabilistic Models",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2407.18015",
-      "venue": "arXiv (Cornell University)",
       "year": 2024
     },
     {
@@ -5600,39 +5462,6 @@
       "year": 2024
     },
     {
-      "author_names": [],
-      "authors": [],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2409.00043",
-      "doi_url": "https://doi.org/10.48550/arxiv.2409.00043",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2409.00043",
-      "oa_url": "",
-      "openalex_author_person_ids": [],
-      "openalex_id": "",
-      "openalex_ids": [],
-      "openalex_url": "",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Estimation and Visualization of Isosurface Uncertainty from Linear and High-Order Interpolation Methods",
-      "type": "other",
-      "url": "https://doi.org/10.48550/arxiv.2409.00043",
-      "venue": "arXiv",
-      "year": 2024
-    },
-    {
       "author_names": [
         "Jaydeep M. Karandikar",
         "Energy Efficiency Office. Advanced Materials & Manufacturing Technologies Office (AMMTO) USDOE Office of Energy Efficiency and Renewable Energy (EERE)",
@@ -5774,69 +5603,6 @@
       "author_names": [
         "Robert Sisneros",
         "Tushar M. Athawale",
-        "David Pugmire",
-        "Kenneth Moreland"
-      ],
-      "authors": [
-        {
-          "name": "Robert Sisneros",
-          "openalex_id": "https://openalex.org/A5113487859"
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2409.08445",
-      "doi_url": "https://doi.org/10.48550/arxiv.2409.08445",
-      "group_author_ids": [
-        "david-pugmire",
-        "ken-moreland",
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2409.08445",
-      "oa_url": "https://arxiv.org/pdf/2409.08445",
-      "openalex_author_person_ids": [
-        "david-pugmire",
-        "ken-moreland",
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4403661748",
-      "openalex_ids": [
-        "https://openalex.org/W4403661748"
-      ],
-      "openalex_url": "https://openalex.org/W4403661748",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2024-09-13",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "An Entropy-Based Test and Development Framework for Uncertainty Modeling in Level-Set Visualizations",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2409.08445",
-      "venue": "arXiv (Cornell University)",
-      "year": 2024
-    },
-    {
-      "author_names": [
-        "Robert Sisneros",
-        "Tushar M. Athawale",
         "David L. Pugmire",
         "Kenneth Moreland"
       ],
@@ -5872,7 +5638,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/uncertaintyvisualization63963.2024.00015",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2409.08445",
       "openalex_author_person_ids": [
         "ken-moreland",
         "tushar-athawale"
@@ -6005,100 +5771,6 @@
       "type": "article",
       "url": "https://doi.org/10.1109/mcg.2024.3383137",
       "venue": "IEEE Computer Graphics and Applications",
-      "year": 2024
-    },
-    {
-      "author_names": [
-        "Daoce Wang",
-        "Pascal Grosset",
-        "Jesus Pulido",
-        "Tushar M. Athawale",
-        "Jiannan Tian",
-        "Kai Zhao",
-        "Zarija Luki\u0107",
-        "Huebl, Axel",
-        "Zhe Wang",
-        "James Paul Ahrens",
-        "Dingwen Tao"
-      ],
-      "authors": [
-        {
-          "name": "Daoce Wang",
-          "openalex_id": "https://openalex.org/A5017676165"
-        },
-        {
-          "name": "Pascal Grosset",
-          "openalex_id": "https://openalex.org/A5088426387"
-        },
-        {
-          "name": "Jesus Pulido",
-          "openalex_id": "https://openalex.org/A5030549072"
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Jiannan Tian",
-          "openalex_id": "https://openalex.org/A5064166827"
-        },
-        {
-          "name": "Kai Zhao",
-          "openalex_id": "https://openalex.org/A5100643412"
-        },
-        {
-          "name": "Zarija Luki\u0107",
-          "openalex_id": "https://openalex.org/A5020065129"
-        },
-        {
-          "name": "Huebl, Axel",
-          "openalex_id": ""
-        },
-        {
-          "name": "Zhe Wang",
-          "openalex_id": "https://openalex.org/A5100621319"
-        },
-        {
-          "name": "James Paul Ahrens",
-          "openalex_id": "https://openalex.org/A5000687536"
-        },
-        {
-          "name": "Dingwen Tao",
-          "openalex_id": "https://openalex.org/A5063703614"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2407.04267",
-      "doi_url": "https://doi.org/10.48550/arxiv.2407.04267",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2407.04267",
-      "oa_url": "https://arxiv.org/pdf/2407.04267",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4400517286",
-      "openalex_ids": [
-        "https://openalex.org/W4400517286"
-      ],
-      "openalex_url": "https://openalex.org/W4400517286",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2024-07-05",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2407.04267",
-      "venue": "arXiv (Cornell University)",
       "year": 2024
     },
     {
@@ -6427,7 +6099,7 @@
         "last_page": "1838",
         "volume": "51"
       },
-      "citation_count": 85,
+      "citation_count": 87,
       "doi": "10.1109/tps.2023.3268170",
       "doi_url": "https://doi.org/10.1109/tps.2023.3268170",
       "group_author_ids": [
@@ -6481,7 +6153,7 @@
         "last_page": "2038",
         "volume": "71"
       },
-      "citation_count": 22,
+      "citation_count": 23,
       "doi": "10.1109/tie.2023.3260339",
       "doi_url": "https://doi.org/10.1109/tie.2023.3260339",
       "group_author_ids": [
@@ -6904,7 +6576,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/tvcg.2023.3326592",
-      "oa_url": "https://www.osti.gov/servlets/purl/2311303",
+      "oa_url": "https://arxiv.org/pdf/2307.08795",
       "openalex_author_person_ids": [
         "david-pugmire",
         "tushar-athawale"
@@ -7212,75 +6884,6 @@
     },
     {
       "author_names": [
-        "Shusen Liu",
-        "Haichao Miao",
-        "Zhimin Li",
-        "Matthew Olson",
-        "Valerio Pascucci",
-        "Peer\u2010Timo Bremer"
-      ],
-      "authors": [
-        {
-          "name": "Shusen Liu",
-          "openalex_id": "https://openalex.org/A5013952808"
-        },
-        {
-          "name": "Haichao Miao",
-          "openalex_id": "https://openalex.org/A5078150260"
-        },
-        {
-          "name": "Zhimin Li",
-          "openalex_id": "https://openalex.org/A5102018107"
-        },
-        {
-          "name": "Matthew Olson",
-          "openalex_id": "https://openalex.org/A5064025350"
-        },
-        {
-          "name": "Valerio Pascucci",
-          "openalex_id": "https://openalex.org/A5009460413"
-        },
-        {
-          "name": "Peer\u2010Timo Bremer",
-          "openalex_id": "https://openalex.org/A5019902487"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 1,
-      "doi": "10.48550/arxiv.2312.04494",
-      "doi_url": "https://doi.org/10.48550/arxiv.2312.04494",
-      "group_author_ids": [
-        "zhimin-li"
-      ],
-      "id": "doi:10.48550/arxiv.2312.04494",
-      "oa_url": "https://arxiv.org/pdf/2312.04494",
-      "openalex_author_person_ids": [
-        "zhimin-li"
-      ],
-      "openalex_id": "https://openalex.org/W4389500092",
-      "openalex_ids": [
-        "https://openalex.org/W4389500092"
-      ],
-      "openalex_url": "https://openalex.org/W4389500092",
-      "orcid_person_ids": [],
-      "publication_date": "2023-12-07",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2312.04494",
-      "venue": "arXiv (Cornell University)",
-      "year": 2023
-    },
-    {
-      "author_names": [
         "Kenneth Moreland",
         "David Pugmire",
         "Maynard, Robert",
@@ -7575,70 +7178,6 @@
     },
     {
       "author_names": [
-        "Tushar M. Athawale",
-        "Bryan Triana",
-        "Tanmay Kotha",
-        "Pugmire, Dave",
-        "Paul Rosen"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Bryan Triana",
-          "openalex_id": "https://openalex.org/A5092498989"
-        },
-        {
-          "name": "Tanmay Kotha",
-          "openalex_id": "https://openalex.org/A5063887911"
-        },
-        {
-          "name": "Pugmire, Dave",
-          "openalex_id": ""
-        },
-        {
-          "name": "Paul Rosen",
-          "openalex_id": "https://openalex.org/A5036159118"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2307.08795",
-      "doi_url": "https://doi.org/10.48550/arxiv.2307.08795",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2307.08795",
-      "oa_url": "https://arxiv.org/pdf/2307.08795",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4384807702",
-      "openalex_ids": [
-        "https://openalex.org/W4384807702"
-      ],
-      "openalex_url": "https://openalex.org/W4384807702",
-      "orcid_person_ids": [],
-      "publication_date": "2023-07-17",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "A Comparative Study of the Perceptual Sensitivity of Topological Visualizations to Feature Variations",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2307.08795",
-      "venue": "arXiv (Cornell University)",
-      "year": 2023
-    },
-    {
-      "author_names": [
         "Zhimin Li",
         "Hao Yang",
         "Fan Yang",
@@ -7926,7 +7465,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/vis54862.2022.00040",
-      "oa_url": "https://www.osti.gov/servlets/purl/1991676",
+      "oa_url": "https://arxiv.org/pdf/2207.07260",
       "openalex_author_person_ids": [
         "david-pugmire",
         "tushar-athawale"
@@ -8207,7 +7746,7 @@
       "title": "Hybrid Analysis of Fusion Data for Online Understanding of Complex Science on Extreme Scale Computers",
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/cluster51413.2022.00035",
-      "venue": "",
+      "venue": "Proceedings",
       "year": 2022
     },
     {
@@ -8487,7 +8026,7 @@
         "George Ostrouchov",
         "Lipeng Wan",
         "Jieyang Chen",
-        "Berk Geveci Chuck Atkins",
+        "Berk Geveci",
         "Caitlin J. Ross",
         "Greg Eisenhauer",
         "Junmin Gu",
@@ -8561,8 +8100,8 @@
           "openalex_id": "https://openalex.org/A5063649910"
         },
         {
-          "name": "Berk Geveci Chuck Atkins",
-          "openalex_id": "https://openalex.org/A5092309889"
+          "name": "Berk Geveci",
+          "openalex_id": "https://openalex.org/A5079289629"
         },
         {
           "name": "Caitlin J. Ross",
@@ -9125,85 +8664,6 @@
     },
     {
       "author_names": [
-        "Zhimin Li",
-        "Shusen Liu",
-        "Xin Feng Yu",
-        "Bhavya Kailkhura",
-        "Jie Cao",
-        "Diffenderfer James Daniel",
-        "Peer\u2010Timo Bremer",
-        "Valerio Pascucci"
-      ],
-      "authors": [
-        {
-          "name": "Zhimin Li",
-          "openalex_id": "https://openalex.org/A5102018107"
-        },
-        {
-          "name": "Shusen Liu",
-          "openalex_id": "https://openalex.org/A5101523517"
-        },
-        {
-          "name": "Xin Feng Yu",
-          "openalex_id": "https://openalex.org/A5003076238"
-        },
-        {
-          "name": "Bhavya Kailkhura",
-          "openalex_id": "https://openalex.org/A5041470575"
-        },
-        {
-          "name": "Jie Cao",
-          "openalex_id": "https://openalex.org/A5100632744"
-        },
-        {
-          "name": "Diffenderfer James Daniel",
-          "openalex_id": "https://openalex.org/A5052940247"
-        },
-        {
-          "name": "Peer\u2010Timo Bremer",
-          "openalex_id": "https://openalex.org/A5019902487"
-        },
-        {
-          "name": "Valerio Pascucci",
-          "openalex_id": "https://openalex.org/A5009460413"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 1,
-      "doi": "10.48550/arxiv.2206.07918",
-      "doi_url": "https://doi.org/10.48550/arxiv.2206.07918",
-      "group_author_ids": [
-        "zhimin-li"
-      ],
-      "id": "doi:10.48550/arxiv.2206.07918",
-      "oa_url": "https://arxiv.org/pdf/2206.07918",
-      "openalex_author_person_ids": [
-        "zhimin-li"
-      ],
-      "openalex_id": "https://openalex.org/W4283069225",
-      "openalex_ids": [
-        "https://openalex.org/W4283069225"
-      ],
-      "openalex_url": "https://openalex.org/W4283069225",
-      "orcid_person_ids": [],
-      "publication_date": "2022-06-16",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "\"Understanding Robustness Lottery\": A Geometric Visual Comparative Analysis of Neural Network Pruning Approaches",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2206.07918",
-      "venue": "arXiv (Cornell University)",
-      "year": 2022
-    },
-    {
-      "author_names": [
         "Kenneth Moreland",
         "Vicente Bolea",
         "Hank Childs",
@@ -9543,100 +9003,6 @@
       "year": 2022
     },
     {
-      "author_names": [],
-      "authors": [],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2207.11318",
-      "doi_url": "https://doi.org/10.48550/arxiv.2207.11318",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2207.11318",
-      "oa_url": "",
-      "openalex_author_person_ids": [],
-      "openalex_id": "",
-      "openalex_ids": [],
-      "openalex_url": "",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
-      "type": "other",
-      "url": "https://doi.org/10.48550/arxiv.2207.11318",
-      "venue": "arXiv",
-      "year": 2022
-    },
-    {
-      "author_names": [
-        "Mengjiao Han",
-        "Tushar M. Athawale",
-        "David Pugmire",
-        "Chris R. Johnson"
-      ],
-      "authors": [
-        {
-          "name": "Mengjiao Han",
-          "openalex_id": "https://openalex.org/A5057174051"
-        },
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Chris R. Johnson",
-          "openalex_id": "https://openalex.org/A5048780291"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2207.07260",
-      "doi_url": "https://doi.org/10.48550/arxiv.2207.07260",
-      "group_author_ids": [
-        "david-pugmire",
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2207.07260",
-      "oa_url": "https://arxiv.org/pdf/2207.07260",
-      "openalex_author_person_ids": [
-        "david-pugmire",
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W4285787365",
-      "openalex_ids": [
-        "https://openalex.org/W4285787365"
-      ],
-      "openalex_url": "https://openalex.org/W4285787365",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2022-07-15",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2207.07260",
-      "venue": "arXiv (Cornell University)",
-      "year": 2022
-    },
-    {
       "author_names": [
         "Abhishek Yenpure",
         "Sudhanshu Sane",
@@ -9778,7 +9144,7 @@
         "david-pugmire"
       ],
       "id": "doi:10.1109/tc.2021.3092201",
-      "oa_url": "",
+      "oa_url": "https://arxiv.org/pdf/2010.05872",
       "openalex_author_person_ids": [
         "david-pugmire"
       ],
@@ -9856,95 +9222,6 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.1145/3489849.3489890",
       "venue": "ACM Symposium on Virtual Reality Software and Technology (VRST)",
-      "year": 2021
-    },
-    {
-      "author_names": [
-        "Xin Liang",
-        "Qian Gong",
-        "Jieyang Chen",
-        "Ben Whitney",
-        "Lipeng Wan",
-        "Qing Liu",
-        "David Pugmire",
-        "Richard K. Archibald",
-        "Norbert Podhorszki",
-        "Scott Klasky"
-      ],
-      "authors": [
-        {
-          "name": "Xin Liang",
-          "openalex_id": "https://openalex.org/A5103064768"
-        },
-        {
-          "name": "Qian Gong",
-          "openalex_id": "https://openalex.org/A5063502813"
-        },
-        {
-          "name": "Jieyang Chen",
-          "openalex_id": "https://openalex.org/A5063649910"
-        },
-        {
-          "name": "Ben Whitney",
-          "openalex_id": "https://openalex.org/A5027043347"
-        },
-        {
-          "name": "Lipeng Wan",
-          "openalex_id": "https://openalex.org/A5101790449"
-        },
-        {
-          "name": "Qing Liu",
-          "openalex_id": "https://openalex.org/A5100345219"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Richard K. Archibald",
-          "openalex_id": "https://openalex.org/A5043192992"
-        },
-        {
-          "name": "Norbert Podhorszki",
-          "openalex_id": "https://openalex.org/A5071286199"
-        },
-        {
-          "name": "Scott Klasky",
-          "openalex_id": "https://openalex.org/A5030373337"
-        }
-      ],
-      "biblio": {
-        "first_page": "1",
-        "issue": "",
-        "last_page": "13",
-        "volume": ""
-      },
-      "citation_count": 27,
-      "doi": "10.1145/3458817.3476179",
-      "doi_url": "https://doi.org/10.1145/3458817.3476179",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1145/3458817.3476179",
-      "oa_url": "https://www.osti.gov/servlets/purl/1855631",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W3211226812",
-      "openalex_ids": [
-        "https://openalex.org/W3211226812"
-      ],
-      "openalex_url": "https://openalex.org/W3211226812",
-      "orcid_person_ids": [],
-      "publication_date": "2021-10-21",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Error-controlled, progressive, and adaptable retrieval of scientific data with multilevel decomposition",
-      "type": "conference-paper",
-      "url": "https://doi.org/10.1145/3458817.3476179",
-      "venue": "",
       "year": 2021
     },
     {
@@ -10133,6 +9410,194 @@
     },
     {
       "author_names": [
+        "Xin Liang",
+        "Qian Gong",
+        "Jieyang Chen",
+        "Ben Whitney",
+        "Lipeng Wan",
+        "Qing Liu",
+        "David Pugmire",
+        "Richard K. Archibald",
+        "Norbert Podhorszki",
+        "Scott Klasky"
+      ],
+      "authors": [
+        {
+          "name": "Xin Liang",
+          "openalex_id": "https://openalex.org/A5103064768"
+        },
+        {
+          "name": "Qian Gong",
+          "openalex_id": "https://openalex.org/A5063502813"
+        },
+        {
+          "name": "Jieyang Chen",
+          "openalex_id": "https://openalex.org/A5063649910"
+        },
+        {
+          "name": "Ben Whitney",
+          "openalex_id": "https://openalex.org/A5027043347"
+        },
+        {
+          "name": "Lipeng Wan",
+          "openalex_id": "https://openalex.org/A5101790449"
+        },
+        {
+          "name": "Qing Liu",
+          "openalex_id": "https://openalex.org/A5100345219"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        },
+        {
+          "name": "Richard K. Archibald",
+          "openalex_id": "https://openalex.org/A5043192992"
+        },
+        {
+          "name": "Norbert Podhorszki",
+          "openalex_id": "https://openalex.org/A5071286199"
+        },
+        {
+          "name": "Scott Klasky",
+          "openalex_id": "https://openalex.org/A5030373337"
+        }
+      ],
+      "biblio": {
+        "first_page": "1",
+        "issue": "",
+        "last_page": "13",
+        "volume": ""
+      },
+      "citation_count": 26,
+      "doi": "10.1145/3458817.3476179",
+      "doi_url": "https://doi.org/10.1145/3458817.3476179",
+      "group_author_ids": [
+        "david-pugmire"
+      ],
+      "id": "doi:10.1145/3458817.3476179",
+      "oa_url": "https://www.osti.gov/servlets/purl/1855631",
+      "openalex_author_person_ids": [
+        "david-pugmire"
+      ],
+      "openalex_id": "https://openalex.org/W3211226812",
+      "openalex_ids": [
+        "https://openalex.org/W3211226812"
+      ],
+      "openalex_url": "https://openalex.org/W3211226812",
+      "orcid_person_ids": [],
+      "publication_date": "2021-10-21",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Error-controlled, progressive, and adaptable retrieval of scientific data with multilevel decomposition",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/3458817.3476179",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "year": 2021
+    },
+    {
+      "author_names": [
+        "Jieyang Chen",
+        "Lipeng Wan",
+        "Xin Liang",
+        "Ben Whitney",
+        "Qing Liu",
+        "David Pugmire",
+        "Nicholas Thompson",
+        "Jong Youl Choi",
+        "Matthew Wolf",
+        "Todd Munson",
+        "Ian T Foster",
+        "Scott Klasky"
+      ],
+      "authors": [
+        {
+          "name": "Jieyang Chen",
+          "openalex_id": "https://openalex.org/A5063649910"
+        },
+        {
+          "name": "Lipeng Wan",
+          "openalex_id": "https://openalex.org/A5101790449"
+        },
+        {
+          "name": "Xin Liang",
+          "openalex_id": "https://openalex.org/A5103064768"
+        },
+        {
+          "name": "Ben Whitney",
+          "openalex_id": "https://openalex.org/A5027043347"
+        },
+        {
+          "name": "Qing Liu",
+          "openalex_id": "https://openalex.org/A5100345219"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        },
+        {
+          "name": "Nicholas Thompson",
+          "openalex_id": ""
+        },
+        {
+          "name": "Jong Youl Choi",
+          "openalex_id": "https://openalex.org/A5054451484"
+        },
+        {
+          "name": "Matthew Wolf",
+          "openalex_id": "https://openalex.org/A5015973975"
+        },
+        {
+          "name": "Todd Munson",
+          "openalex_id": "https://openalex.org/A5086190700"
+        },
+        {
+          "name": "Ian T Foster",
+          "openalex_id": "https://openalex.org/A5032231503"
+        },
+        {
+          "name": "Scott Klasky",
+          "openalex_id": "https://openalex.org/A5030373337"
+        }
+      ],
+      "biblio": {
+        "first_page": "859",
+        "issue": "",
+        "last_page": "868",
+        "volume": ""
+      },
+      "citation_count": 24,
+      "doi": "10.1109/ipdps49936.2021.00095",
+      "doi_url": "https://doi.org/10.1109/ipdps49936.2021.00095",
+      "group_author_ids": [
+        "david-pugmire"
+      ],
+      "id": "doi:10.1109/ipdps49936.2021.00095",
+      "oa_url": "https://arxiv.org/pdf/2007.04457",
+      "openalex_author_person_ids": [
+        "david-pugmire"
+      ],
+      "openalex_id": "https://openalex.org/W3173669904",
+      "openalex_ids": [
+        "https://openalex.org/W3173669904"
+      ],
+      "openalex_url": "https://openalex.org/W3173669904",
+      "orcid_person_ids": [],
+      "publication_date": "2021-05-01",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1109/ipdps49936.2021.00095",
+      "venue": "Proceedings - IEEE International Parallel and Distributed Processing Symposium",
+      "year": 2021
+    },
+    {
+      "author_names": [
         "J. Dominski",
         "Junyi Cheng",
         "G. Merlo",
@@ -10282,105 +9747,6 @@
     },
     {
       "author_names": [
-        "Jieyang Chen",
-        "Lipeng Wan",
-        "Xin Liang",
-        "Ben Whitney",
-        "Qing Liu",
-        "David Pugmire",
-        "Nicholas Thompson",
-        "Jong Youl Choi",
-        "Matthew Wolf",
-        "Todd Munson",
-        "Ian T Foster",
-        "Scott Klasky"
-      ],
-      "authors": [
-        {
-          "name": "Jieyang Chen",
-          "openalex_id": "https://openalex.org/A5063649910"
-        },
-        {
-          "name": "Lipeng Wan",
-          "openalex_id": "https://openalex.org/A5101790449"
-        },
-        {
-          "name": "Xin Liang",
-          "openalex_id": "https://openalex.org/A5103064768"
-        },
-        {
-          "name": "Ben Whitney",
-          "openalex_id": "https://openalex.org/A5027043347"
-        },
-        {
-          "name": "Qing Liu",
-          "openalex_id": "https://openalex.org/A5100345219"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Nicholas Thompson",
-          "openalex_id": ""
-        },
-        {
-          "name": "Jong Youl Choi",
-          "openalex_id": "https://openalex.org/A5054451484"
-        },
-        {
-          "name": "Matthew Wolf",
-          "openalex_id": "https://openalex.org/A5015973975"
-        },
-        {
-          "name": "Todd Munson",
-          "openalex_id": "https://openalex.org/A5086190700"
-        },
-        {
-          "name": "Ian T Foster",
-          "openalex_id": "https://openalex.org/A5032231503"
-        },
-        {
-          "name": "Scott Klasky",
-          "openalex_id": "https://openalex.org/A5030373337"
-        }
-      ],
-      "biblio": {
-        "first_page": "859",
-        "issue": "",
-        "last_page": "868",
-        "volume": ""
-      },
-      "citation_count": 23,
-      "doi": "10.1109/ipdps49936.2021.00095",
-      "doi_url": "https://doi.org/10.1109/ipdps49936.2021.00095",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1109/ipdps49936.2021.00095",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W3173669904",
-      "openalex_ids": [
-        "https://openalex.org/W3173669904"
-      ],
-      "openalex_url": "https://openalex.org/W3173669904",
-      "orcid_person_ids": [],
-      "publication_date": "2021-05-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
-      "type": "conference-paper",
-      "url": "https://doi.org/10.1109/ipdps49936.2021.00095",
-      "venue": "",
-      "year": 2021
-    },
-    {
-      "author_names": [
         "Zhimin Li",
         "Harshitha Menon",
         "Kathryn Mohror",
@@ -10420,7 +9786,7 @@
         "last_page": "373",
         "volume": ""
       },
-      "citation_count": 19,
+      "citation_count": 20,
       "doi": "10.1145/3437801.3441589",
       "doi_url": "https://doi.org/10.1145/3437801.3441589",
       "group_author_ids": [
@@ -10611,7 +9977,7 @@
         "David Pugmire",
         "Sivasankaran Rajamanickam",
         "Vinay Ramakrishniah",
-        "Malachi Schram",
+        "M. Schram",
         "Sudip K. Seal",
         "Ganesh Sivaraman",
         "Christine M. Sweeney",
@@ -10760,8 +10126,8 @@
           "openalex_id": "https://openalex.org/A5112691225"
         },
         {
-          "name": "Malachi Schram",
-          "openalex_id": "https://openalex.org/A5002582478"
+          "name": "M. Schram",
+          "openalex_id": "https://openalex.org/A5101414524"
         },
         {
           "name": "Sudip K. Seal",
@@ -10822,7 +10188,7 @@
         "last_page": "616",
         "volume": "35"
       },
-      "citation_count": 14,
+      "citation_count": 13,
       "doi": "10.1177/10943420211029302",
       "doi_url": "https://doi.org/10.1177/10943420211029302",
       "group_author_ids": [
@@ -11602,39 +10968,6 @@
       "year": 2021
     },
     {
-      "author_names": [],
-      "authors": [],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2108.03066",
-      "doi_url": "https://doi.org/10.48550/arxiv.2108.03066",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2108.03066",
-      "oa_url": "",
-      "openalex_author_person_ids": [],
-      "openalex_id": "",
-      "openalex_ids": [],
-      "openalex_url": "",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty visualization of the marching squares and marching cubes topology cases",
-      "type": "other",
-      "url": "https://doi.org/10.48550/arxiv.2108.03066",
-      "venue": "arXiv",
-      "year": 2021
-    },
-    {
       "author_names": [
         "Tushar M. Athawale",
         "Alireza Entezari",
@@ -11799,55 +11132,6 @@
     },
     {
       "author_names": [
-        "Kenneth Moreland",
-        "Larsen, Matthew"
-      ],
-      "authors": [
-        {
-          "name": "Kenneth Moreland",
-          "openalex_id": "https://openalex.org/A5102833835"
-        },
-        {
-          "name": "Larsen, Matthew",
-          "openalex_id": ""
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.6084/m9.figshare.16926130.v1",
-      "doi_url": "https://doi.org/10.6084/m9.figshare.16926130.v1",
-      "group_author_ids": [
-        "ken-moreland"
-      ],
-      "id": "doi:10.6084/m9.figshare.16926130.v1",
-      "oa_url": "https://figshare.com/articles/presentation/Large-Scale_In_Situ_Visualization_of_Raleigh-Taylor_Instability_with_Ascent_and_VTK-m/16926130",
-      "openalex_author_person_ids": [
-        "ken-moreland"
-      ],
-      "openalex_id": "https://openalex.org/W3213912475",
-      "openalex_ids": [
-        "https://openalex.org/W3213912475"
-      ],
-      "openalex_url": "https://openalex.org/W3213912475",
-      "orcid_person_ids": [],
-      "publication_date": "2021-01-01",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Large-Scale In Situ Visualization of Raleigh-Taylor Instability with Ascent and VTK-m",
-      "type": "article",
-      "url": "https://doi.org/10.6084/m9.figshare.16926130.v1",
-      "venue": "Figshare",
-      "year": 2021
-    },
-    {
-      "author_names": [
         "D. M. Li",
         "Yanjie Dai",
         "Xinku Wang",
@@ -11944,95 +11228,6 @@
       "url": "https://doi.org/10.1088/1742-6596/2033/1/012153",
       "venue": "Journal of Physics Conference Series",
       "year": 2021
-    },
-    {
-      "author_names": [
-        "Wenjie Lei",
-        "Youyi Ruan",
-        "E. Bozda\u011f",
-        "Daniel Peter",
-        "Matthieu Lef\u00e8bvre",
-        "Dimitri Komatitsch",
-        "Jeroen Tromp",
-        "Judith C. Hill",
-        "Norbert Podhorszki",
-        "David Pugmire"
-      ],
-      "authors": [
-        {
-          "name": "Wenjie Lei",
-          "openalex_id": "https://openalex.org/A5075601869"
-        },
-        {
-          "name": "Youyi Ruan",
-          "openalex_id": "https://openalex.org/A5038868566"
-        },
-        {
-          "name": "E. Bozda\u011f",
-          "openalex_id": "https://openalex.org/A5074274360"
-        },
-        {
-          "name": "Daniel Peter",
-          "openalex_id": "https://openalex.org/A5006190361"
-        },
-        {
-          "name": "Matthieu Lef\u00e8bvre",
-          "openalex_id": "https://openalex.org/A5103850694"
-        },
-        {
-          "name": "Dimitri Komatitsch",
-          "openalex_id": "https://openalex.org/A5001988181"
-        },
-        {
-          "name": "Jeroen Tromp",
-          "openalex_id": "https://openalex.org/A5034672570"
-        },
-        {
-          "name": "Judith C. Hill",
-          "openalex_id": "https://openalex.org/A5020527473"
-        },
-        {
-          "name": "Norbert Podhorszki",
-          "openalex_id": "https://openalex.org/A5071286199"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        }
-      ],
-      "biblio": {
-        "first_page": "1",
-        "issue": "1",
-        "last_page": "21",
-        "volume": "223"
-      },
-      "citation_count": 237,
-      "doi": "10.1093/gji/ggaa253",
-      "doi_url": "https://doi.org/10.1093/gji/ggaa253",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1093/gji/ggaa253",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W3027649956",
-      "openalex_ids": [
-        "https://openalex.org/W3027649956"
-      ],
-      "openalex_url": "https://openalex.org/W3027649956",
-      "orcid_person_ids": [],
-      "publication_date": "2020-05-20",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Global adjoint tomography\u2014model GLAD-M25",
-      "type": "article",
-      "url": "https://doi.org/10.1093/gji/ggaa253",
-      "venue": "Geophysical Journal International",
-      "year": 2020
     },
     {
       "author_names": [
@@ -12190,7 +11385,7 @@
         "last_page": "100561",
         "volume": "12"
       },
-      "citation_count": 237,
+      "citation_count": 235,
       "doi": "10.1016/j.softx.2020.100561",
       "doi_url": "https://doi.org/10.1016/j.softx.2020.100561",
       "group_author_ids": [
@@ -12216,6 +11411,95 @@
       "type": "software-paper",
       "url": "https://doi.org/10.1016/j.softx.2020.100561",
       "venue": "SoftwareX",
+      "year": 2020
+    },
+    {
+      "author_names": [
+        "Wenjie Lei",
+        "Youyi Ruan",
+        "E. Bozda\u011f",
+        "Daniel Peter",
+        "Matthieu Lef\u00e8bvre",
+        "Dimitri Komatitsch",
+        "Jeroen Tromp",
+        "Judith C. Hill",
+        "Norbert Podhorszki",
+        "David Pugmire"
+      ],
+      "authors": [
+        {
+          "name": "Wenjie Lei",
+          "openalex_id": "https://openalex.org/A5075601869"
+        },
+        {
+          "name": "Youyi Ruan",
+          "openalex_id": "https://openalex.org/A5038868566"
+        },
+        {
+          "name": "E. Bozda\u011f",
+          "openalex_id": "https://openalex.org/A5074274360"
+        },
+        {
+          "name": "Daniel Peter",
+          "openalex_id": "https://openalex.org/A5006190361"
+        },
+        {
+          "name": "Matthieu Lef\u00e8bvre",
+          "openalex_id": "https://openalex.org/A5103850694"
+        },
+        {
+          "name": "Dimitri Komatitsch",
+          "openalex_id": "https://openalex.org/A5001988181"
+        },
+        {
+          "name": "Jeroen Tromp",
+          "openalex_id": "https://openalex.org/A5034672570"
+        },
+        {
+          "name": "Judith C. Hill",
+          "openalex_id": "https://openalex.org/A5020527473"
+        },
+        {
+          "name": "Norbert Podhorszki",
+          "openalex_id": "https://openalex.org/A5071286199"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        }
+      ],
+      "biblio": {
+        "first_page": "1",
+        "issue": "1",
+        "last_page": "21",
+        "volume": "223"
+      },
+      "citation_count": 230,
+      "doi": "10.1093/gji/ggaa253",
+      "doi_url": "https://doi.org/10.1093/gji/ggaa253",
+      "group_author_ids": [
+        "david-pugmire"
+      ],
+      "id": "doi:10.1093/gji/ggaa253",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "david-pugmire"
+      ],
+      "openalex_id": "https://openalex.org/W3027649956",
+      "openalex_ids": [
+        "https://openalex.org/W3027649956"
+      ],
+      "openalex_url": "https://openalex.org/W3027649956",
+      "orcid_person_ids": [],
+      "publication_date": "2020-05-20",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "Global adjoint tomography\u2014model GLAD-M25",
+      "type": "article",
+      "url": "https://doi.org/10.1093/gji/ggaa253",
+      "venue": "Geophysical Journal International",
       "year": 2020
     },
     {
@@ -12656,7 +11940,7 @@
         "tushar-athawale"
       ],
       "id": "doi:10.1109/tvcg.2020.3022359",
-      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8935531",
+      "oa_url": "https://arxiv.org/pdf/1912.06341",
       "openalex_author_person_ids": [
         "tushar-athawale"
       ],
@@ -13277,7 +12561,7 @@
       "title": "Parallel Particle Advection Bake-Off for Scientific Visualization Workloads",
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/cluster49012.2020.00048",
-      "venue": "",
+      "venue": "Proceedings",
       "year": 2020
     },
     {
@@ -13342,100 +12626,6 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/cbms49503.2020.00092",
       "venue": "IEEE International Symposium on Computer-Based Medical Systems (CBMS)",
-      "year": 2020
-    },
-    {
-      "author_names": [
-        "Jieyang Chen",
-        "Lipeng Wan",
-        "Xin Liang",
-        "Ben Whitney",
-        "Qing Liu",
-        "David Pugmire",
-        "Nicholas Thompson",
-        "Matthew Wolf",
-        "Todd Munson",
-        "Ian T Foster",
-        "Scott Klasky"
-      ],
-      "authors": [
-        {
-          "name": "Jieyang Chen",
-          "openalex_id": "https://openalex.org/A5063649910"
-        },
-        {
-          "name": "Lipeng Wan",
-          "openalex_id": "https://openalex.org/A5101790449"
-        },
-        {
-          "name": "Xin Liang",
-          "openalex_id": "https://openalex.org/A5103064768"
-        },
-        {
-          "name": "Ben Whitney",
-          "openalex_id": "https://openalex.org/A5027043347"
-        },
-        {
-          "name": "Qing Liu",
-          "openalex_id": "https://openalex.org/A5100345219"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Nicholas Thompson",
-          "openalex_id": "https://openalex.org/A5032831588"
-        },
-        {
-          "name": "Matthew Wolf",
-          "openalex_id": "https://openalex.org/A5015973975"
-        },
-        {
-          "name": "Todd Munson",
-          "openalex_id": "https://openalex.org/A5086190700"
-        },
-        {
-          "name": "Ian T Foster",
-          "openalex_id": "https://openalex.org/A5032231503"
-        },
-        {
-          "name": "Scott Klasky",
-          "openalex_id": "https://openalex.org/A5030373337"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 3,
-      "doi": "10.48550/arxiv.2007.04457",
-      "doi_url": "https://doi.org/10.48550/arxiv.2007.04457",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.48550/arxiv.2007.04457",
-      "oa_url": "https://arxiv.org/pdf/2007.04457",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W3041216812",
-      "openalex_ids": [
-        "https://openalex.org/W3041216812"
-      ],
-      "openalex_url": "https://openalex.org/W3041216812",
-      "orcid_person_ids": [],
-      "publication_date": "2020-07-08",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.2007.04457",
-      "venue": "arXiv (Cornell University)",
       "year": 2020
     },
     {
@@ -13802,39 +12992,6 @@
       "year": 2020
     },
     {
-      "author_names": [],
-      "authors": [],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2008.13576",
-      "doi_url": "https://doi.org/10.48550/arxiv.2008.13576",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.2008.13576",
-      "oa_url": "",
-      "openalex_author_person_ids": [],
-      "openalex_id": "",
-      "openalex_ids": [],
-      "openalex_url": "",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Direct volume rendering with nonparametric models of uncertainty",
-      "type": "other",
-      "url": "https://doi.org/10.48550/arxiv.2008.13576",
-      "venue": "arXiv",
-      "year": 2020
-    },
-    {
       "author_names": [
         "James Kress",
         "Matthew Larsen",
@@ -14137,7 +13294,7 @@
         "last_page": "7",
         "volume": ""
       },
-      "citation_count": 10,
+      "citation_count": 9,
       "doi": "10.1109/drbsd-549595.2019.00006",
       "doi_url": "https://doi.org/10.1109/drbsd-549595.2019.00006",
       "group_author_ids": [
@@ -14208,7 +13365,7 @@
         "junghoon-chae"
       ],
       "id": "doi:10.1109/bigdata47090.2019.9006048",
-      "oa_url": "https://www.osti.gov/servlets/purl/1606818",
+      "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2019/11/04/830844.full.pdf",
       "openalex_author_person_ids": [
         "junghoon-chae"
       ],
@@ -14542,70 +13699,6 @@
     {
       "author_names": [
         "Tushar M. Athawale",
-        "Dan Maljovec",
-        "Chris R. Johnson",
-        "Valerio Pascucci",
-        "Bei Wang"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Dan Maljovec",
-          "openalex_id": "https://openalex.org/A5112096823"
-        },
-        {
-          "name": "Chris R. Johnson",
-          "openalex_id": "https://openalex.org/A5048780291"
-        },
-        {
-          "name": "Valerio Pascucci",
-          "openalex_id": "https://openalex.org/A5009460413"
-        },
-        {
-          "name": "Bei Wang",
-          "openalex_id": "https://openalex.org/A5100349956"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 1,
-      "doi": "10.48550/arxiv.1912.06341",
-      "doi_url": "https://doi.org/10.48550/arxiv.1912.06341",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.48550/arxiv.1912.06341",
-      "oa_url": "https://arxiv.org/pdf/1912.06341",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W2995021441",
-      "openalex_ids": [
-        "https://openalex.org/W2995021441"
-      ],
-      "openalex_url": "https://openalex.org/W2995021441",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2019-12-13",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Visualization of 2D Morse Complex Ensembles Using Statistical Summary Maps",
-      "type": "preprint",
-      "url": "https://doi.org/10.48550/arxiv.1912.06341",
-      "venue": "arXiv (Cornell University)",
-      "year": 2019
-    },
-    {
-      "author_names": [
-        "Tushar M. Athawale",
         "Kara A. Johnson",
         "Christopher R. Butson",
         "Chris R. Johnson"
@@ -14660,70 +13753,6 @@
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/vahc47919.2019.8945037",
       "venue": "",
-      "year": 2019
-    },
-    {
-      "author_names": [
-        "Junghoon Chae",
-        "Debsindhu Bhowmik",
-        "Heng Ma",
-        "Arvind Ramanathan",
-        "Chad A. Steed"
-      ],
-      "authors": [
-        {
-          "name": "Junghoon Chae",
-          "openalex_id": "https://openalex.org/A5061467967"
-        },
-        {
-          "name": "Debsindhu Bhowmik",
-          "openalex_id": "https://openalex.org/A5032222900"
-        },
-        {
-          "name": "Heng Ma",
-          "openalex_id": "https://openalex.org/A5100710715"
-        },
-        {
-          "name": "Arvind Ramanathan",
-          "openalex_id": "https://openalex.org/A5028188095"
-        },
-        {
-          "name": "Chad A. Steed",
-          "openalex_id": "https://openalex.org/A5048471884"
-        }
-      ],
-      "biblio": {
-        "first_page": "",
-        "issue": "",
-        "last_page": "",
-        "volume": ""
-      },
-      "citation_count": 0,
-      "doi": "10.1101/830844",
-      "doi_url": "https://doi.org/10.1101/830844",
-      "group_author_ids": [
-        "junghoon-chae"
-      ],
-      "id": "doi:10.1101/830844",
-      "oa_url": "https://www.biorxiv.org/content/biorxiv/early/2019/11/04/830844.full.pdf",
-      "openalex_author_person_ids": [
-        "junghoon-chae"
-      ],
-      "openalex_id": "https://openalex.org/W2988000369",
-      "openalex_ids": [
-        "https://openalex.org/W2988000369"
-      ],
-      "openalex_url": "https://openalex.org/W2988000369",
-      "orcid_person_ids": [],
-      "publication_date": "2019-11-04",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
-      "type": "preprint",
-      "url": "https://doi.org/10.1101/830844",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2019
     },
     {
@@ -15209,7 +14238,7 @@
         "last_page": "660",
         "volume": "25"
       },
-      "citation_count": 50,
+      "citation_count": 48,
       "doi": "10.1109/tvcg.2018.2865230",
       "doi_url": "https://doi.org/10.1109/tvcg.2018.2865230",
       "group_author_ids": [
@@ -15484,7 +14513,7 @@
         "last_page": "1172",
         "volume": "25"
       },
-      "citation_count": 17,
+      "citation_count": 16,
       "doi": "10.1109/tvcg.2018.2864505",
       "doi_url": "https://doi.org/10.1109/tvcg.2018.2864505",
       "group_author_ids": [
@@ -15884,7 +14913,7 @@
         "Kshitij Mehta",
         "Kevin Huck",
         "Berk Geveci",
-        "Sujin Phillip",
+        "Sujin Philip",
         "Robert Maynard",
         "Hanqi Guo",
         "Tom Peterka",
@@ -15932,8 +14961,8 @@
           "openalex_id": "https://openalex.org/A5079289629"
         },
         {
-          "name": "Sujin Phillip",
-          "openalex_id": "https://openalex.org/A5038468185"
+          "name": "Sujin Philip",
+          "openalex_id": "https://openalex.org/A5114034624"
         },
         {
           "name": "Robert Maynard",
@@ -16652,7 +15681,7 @@
         "last_page": "175",
         "volume": "32"
       },
-      "citation_count": 183,
+      "citation_count": 180,
       "doi": "10.1177/1094342017704893",
       "doi_url": "https://doi.org/10.1177/1094342017704893",
       "group_author_ids": [
@@ -16736,7 +15765,7 @@
         "last_page": "688",
         "volume": "21"
       },
-      "citation_count": 29,
+      "citation_count": 27,
       "doi": "10.1177/1094428117720014",
       "doi_url": "https://doi.org/10.1177/1094428117720014",
       "group_author_ids": [
@@ -17131,7 +16160,7 @@
         },
         {
           "name": "Eli Dart",
-          "openalex_id": "https://openalex.org/A5112770534"
+          "openalex_id": "https://openalex.org/A5060289662"
         },
         {
           "name": "Sudip S. Dosanjh",
@@ -17708,7 +16737,7 @@
         "last_page": "1766",
         "volume": "207"
       },
-      "citation_count": 294,
+      "citation_count": 287,
       "doi": "10.1093/gji/ggw356",
       "doi_url": "https://doi.org/10.1093/gji/ggw356",
       "group_author_ids": [
@@ -17802,7 +16831,7 @@
         "last_page": "597",
         "volume": "35"
       },
-      "citation_count": 168,
+      "citation_count": 167,
       "doi": "10.1111/cgf.12930",
       "doi_url": "https://doi.org/10.1111/cgf.12930",
       "group_author_ids": [
@@ -17911,7 +16940,7 @@
         "last_page": "58",
         "volume": "36"
       },
-      "citation_count": 153,
+      "citation_count": 151,
       "doi": "10.1109/mcg.2016.48",
       "doi_url": "https://doi.org/10.1109/mcg.2016.48",
       "group_author_ids": [
@@ -17957,7 +16986,7 @@
         "last_page": "6",
         "volume": "28"
       },
-      "citation_count": 81,
+      "citation_count": 76,
       "doi": "10.2352/issn.2470-1173.2016.16.hvei-133",
       "doi_url": "https://doi.org/10.2352/issn.2470-1173.2016.16.hvei-133",
       "group_author_ids": [
@@ -18046,7 +17075,7 @@
         "last_page": "617",
         "volume": "35"
       },
-      "citation_count": 77,
+      "citation_count": 73,
       "doi": "10.1111/cgf.12931",
       "doi_url": "https://doi.org/10.1111/cgf.12931",
       "group_author_ids": [
@@ -18071,80 +17100,6 @@
       "title": "A Survey on Visual Analysis Approaches for Financial Data",
       "type": "article",
       "url": "https://doi.org/10.1111/cgf.12931",
-      "venue": "Computer Graphics Forum",
-      "year": 2016
-    },
-    {
-      "author_names": [
-        "Jiawei Zhang",
-        "Benjamin Ahlbrand",
-        "Abish Malik",
-        "Junghoon Chae",
-        "Zhiyu Min",
-        "Sungahn Ko",
-        "David S. Ebert"
-      ],
-      "authors": [
-        {
-          "name": "Jiawei Zhang",
-          "openalex_id": "https://openalex.org/A5100462860"
-        },
-        {
-          "name": "Benjamin Ahlbrand",
-          "openalex_id": "https://openalex.org/A5035241303"
-        },
-        {
-          "name": "Abish Malik",
-          "openalex_id": "https://openalex.org/A5114250719"
-        },
-        {
-          "name": "Junghoon Chae",
-          "openalex_id": "https://openalex.org/A5061467967"
-        },
-        {
-          "name": "Zhiyu Min",
-          "openalex_id": ""
-        },
-        {
-          "name": "Sungahn Ko",
-          "openalex_id": "https://openalex.org/A5020791375"
-        },
-        {
-          "name": "David S. Ebert",
-          "openalex_id": "https://openalex.org/A5018584803"
-        }
-      ],
-      "biblio": {
-        "first_page": "441",
-        "issue": "3",
-        "last_page": "450",
-        "volume": "35"
-      },
-      "citation_count": 22,
-      "doi": "10.1111/cgf.12920",
-      "doi_url": "https://doi.org/10.1111/cgf.12920",
-      "group_author_ids": [
-        "junghoon-chae"
-      ],
-      "id": "doi:10.1111/cgf.12920",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "junghoon-chae"
-      ],
-      "openalex_id": "https://openalex.org/W2416356973",
-      "openalex_ids": [
-        "https://openalex.org/W2416356973"
-      ],
-      "openalex_url": "https://openalex.org/W2416356973",
-      "orcid_person_ids": [
-        "junghoon-chae"
-      ],
-      "publication_date": "2016-06-01",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation",
-      "type": "article",
-      "url": "https://doi.org/10.1111/cgf.12920",
       "venue": "Computer Graphics Forum",
       "year": 2016
     },
@@ -18258,7 +17213,81 @@
       "title": "Performance Modeling of In Situ Rendering",
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc.2016.23",
-      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "year": 2016
+    },
+    {
+      "author_names": [
+        "Jiawei Zhang",
+        "Benjamin Ahlbrand",
+        "Abish Malik",
+        "Junghoon Chae",
+        "Zhiyu Min",
+        "Sungahn Ko",
+        "David S. Ebert"
+      ],
+      "authors": [
+        {
+          "name": "Jiawei Zhang",
+          "openalex_id": "https://openalex.org/A5100462860"
+        },
+        {
+          "name": "Benjamin Ahlbrand",
+          "openalex_id": "https://openalex.org/A5035241303"
+        },
+        {
+          "name": "Abish Malik",
+          "openalex_id": "https://openalex.org/A5114250719"
+        },
+        {
+          "name": "Junghoon Chae",
+          "openalex_id": "https://openalex.org/A5061467967"
+        },
+        {
+          "name": "Zhiyu Min",
+          "openalex_id": ""
+        },
+        {
+          "name": "Sungahn Ko",
+          "openalex_id": "https://openalex.org/A5020791375"
+        },
+        {
+          "name": "David S. Ebert",
+          "openalex_id": "https://openalex.org/A5018584803"
+        }
+      ],
+      "biblio": {
+        "first_page": "441",
+        "issue": "3",
+        "last_page": "450",
+        "volume": "35"
+      },
+      "citation_count": 20,
+      "doi": "10.1111/cgf.12920",
+      "doi_url": "https://doi.org/10.1111/cgf.12920",
+      "group_author_ids": [
+        "junghoon-chae"
+      ],
+      "id": "doi:10.1111/cgf.12920",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "junghoon-chae"
+      ],
+      "openalex_id": "https://openalex.org/W2416356973",
+      "openalex_ids": [
+        "https://openalex.org/W2416356973"
+      ],
+      "openalex_url": "https://openalex.org/W2416356973",
+      "orcid_person_ids": [
+        "junghoon-chae"
+      ],
+      "publication_date": "2016-06-01",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation",
+      "type": "article",
+      "url": "https://doi.org/10.1111/cgf.12920",
+      "venue": "Computer Graphics Forum",
       "year": 2016
     },
     {
@@ -18351,7 +17380,7 @@
         "last_page": "46",
         "volume": ""
       },
-      "citation_count": 13,
+      "citation_count": 11,
       "doi": "10.1109/ldav.2016.7874308",
       "doi_url": "https://doi.org/10.1109/ldav.2016.7874308",
       "group_author_ids": [
@@ -18832,7 +17861,7 @@
       "author_names": [
         "Sandia National Laboratories (SNL-NM), Albuquerque, NM (United States)",
         "KENNETH MORELAND",
-        "Christopher Sewell",
+        "Christopher M. Sewell",
         "Hank Childs",
         "Kwan\u2010Liu Ma",
         "Berk Geveci",
@@ -18848,8 +17877,8 @@
           "openalex_id": "https://openalex.org/A5020742602"
         },
         {
-          "name": "Christopher Sewell",
-          "openalex_id": "https://openalex.org/A5147737949"
+          "name": "Christopher M. Sewell",
+          "openalex_id": "https://openalex.org/A5060041531"
         },
         {
           "name": "Hank Childs",
@@ -18948,7 +17977,7 @@
         "last_page": "29",
         "volume": ""
       },
-      "citation_count": 198,
+      "citation_count": 197,
       "doi": "10.1145/2828612.2828624",
       "doi_url": "https://doi.org/10.1145/2828612.2828624",
       "group_author_ids": [
@@ -19002,7 +18031,7 @@
         "last_page": "786",
         "volume": "22"
       },
-      "citation_count": 59,
+      "citation_count": 58,
       "doi": "10.1109/tvcg.2015.2467958",
       "doi_url": "https://doi.org/10.1109/tvcg.2015.2467958",
       "group_author_ids": [
@@ -19071,7 +18100,7 @@
         "last_page": "6",
         "volume": ""
       },
-      "citation_count": 27,
+      "citation_count": 26,
       "doi": "10.1145/2828612.2828623",
       "doi_url": "https://doi.org/10.1145/2828612.2828623",
       "group_author_ids": [
@@ -19821,7 +18850,7 @@
         "last_page": "92",
         "volume": ""
       },
-      "citation_count": 30,
+      "citation_count": 28,
       "doi": "10.1109/vast.2014.7042484",
       "doi_url": "https://doi.org/10.1109/vast.2014.7042484",
       "group_author_ids": [
@@ -20155,7 +19184,7 @@
         "last_page": "60",
         "volume": "38"
       },
-      "citation_count": 187,
+      "citation_count": 182,
       "doi": "10.1016/j.cag.2013.10.008",
       "doi_url": "https://doi.org/10.1016/j.cag.2013.10.008",
       "group_author_ids": [
@@ -20181,55 +19210,6 @@
       "type": "article",
       "url": "https://doi.org/10.1016/j.cag.2013.10.008",
       "venue": "Computers & Graphics",
-      "year": 2013
-    },
-    {
-      "author_names": [
-        "Tushar M. Athawale",
-        "Alireza Entezari"
-      ],
-      "authors": [
-        {
-          "name": "Tushar M. Athawale",
-          "openalex_id": "https://openalex.org/A5080292005"
-        },
-        {
-          "name": "Alireza Entezari",
-          "openalex_id": "https://openalex.org/A5058158315"
-        }
-      ],
-      "biblio": {
-        "first_page": "2723",
-        "issue": "12",
-        "last_page": "2732",
-        "volume": "19"
-      },
-      "citation_count": 52,
-      "doi": "10.1109/tvcg.2013.208",
-      "doi_url": "https://doi.org/10.1109/tvcg.2013.208",
-      "group_author_ids": [
-        "tushar-athawale"
-      ],
-      "id": "doi:10.1109/tvcg.2013.208",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "tushar-athawale"
-      ],
-      "openalex_id": "https://openalex.org/W2165453175",
-      "openalex_ids": [
-        "https://openalex.org/W2165453175"
-      ],
-      "openalex_url": "https://openalex.org/W2165453175",
-      "orcid_person_ids": [
-        "tushar-athawale"
-      ],
-      "publication_date": "2013-10-16",
-      "review_notes": [],
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction",
-      "type": "article",
-      "url": "https://doi.org/10.1109/tvcg.2013.208",
-      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2013
     },
     {
@@ -20309,6 +19289,55 @@
       "type": "article",
       "url": "https://doi.org/10.1109/mc.2013.179",
       "venue": "Computer",
+      "year": 2013
+    },
+    {
+      "author_names": [
+        "Tushar M. Athawale",
+        "Alireza Entezari"
+      ],
+      "authors": [
+        {
+          "name": "Tushar M. Athawale",
+          "openalex_id": "https://openalex.org/A5080292005"
+        },
+        {
+          "name": "Alireza Entezari",
+          "openalex_id": "https://openalex.org/A5058158315"
+        }
+      ],
+      "biblio": {
+        "first_page": "2723",
+        "issue": "12",
+        "last_page": "2732",
+        "volume": "19"
+      },
+      "citation_count": 51,
+      "doi": "10.1109/tvcg.2013.208",
+      "doi_url": "https://doi.org/10.1109/tvcg.2013.208",
+      "group_author_ids": [
+        "tushar-athawale"
+      ],
+      "id": "doi:10.1109/tvcg.2013.208",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "tushar-athawale"
+      ],
+      "openalex_id": "https://openalex.org/W2165453175",
+      "openalex_ids": [
+        "https://openalex.org/W2165453175"
+      ],
+      "openalex_url": "https://openalex.org/W2165453175",
+      "orcid_person_ids": [
+        "tushar-athawale"
+      ],
+      "publication_date": "2013-10-16",
+      "review_notes": [],
+      "review_status": "trusted_orcid",
+      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction",
+      "type": "article",
+      "url": "https://doi.org/10.1109/tvcg.2013.208",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2013
     },
     {
@@ -20521,7 +19550,7 @@
         "last_page": "523",
         "volume": "55"
       },
-      "citation_count": 17,
+      "citation_count": 16,
       "doi": "10.1080/00401706.2013.826146",
       "doi_url": "https://doi.org/10.1080/00401706.2013.826146",
       "group_author_ids": [
@@ -21085,7 +20114,7 @@
         "last_page": "152",
         "volume": ""
       },
-      "citation_count": 286,
+      "citation_count": 281,
       "doi": "10.1109/vast.2012.6400557",
       "doi_url": "https://doi.org/10.1109/vast.2012.6400557",
       "group_author_ids": [
@@ -21203,7 +20232,7 @@
         "last_page": "434",
         "volume": "6"
       },
-      "citation_count": 61,
+      "citation_count": 58,
       "doi": "10.1177/193229681200600231",
       "doi_url": "https://doi.org/10.1177/193229681200600231",
       "group_author_ids": [
@@ -21371,65 +20400,6 @@
     },
     {
       "author_names": [
-        "Jeremy S. Meredith",
-        "Robert Sisneros",
-        "David Pugmire",
-        "Sean D. Ahern"
-      ],
-      "authors": [
-        {
-          "name": "Jeremy S. Meredith",
-          "openalex_id": "https://openalex.org/A5103542489"
-        },
-        {
-          "name": "Robert Sisneros",
-          "openalex_id": "https://openalex.org/A5113487859"
-        },
-        {
-          "name": "David Pugmire",
-          "openalex_id": "https://openalex.org/A5041404935"
-        },
-        {
-          "name": "Sean D. Ahern",
-          "openalex_id": "https://openalex.org/A5110760354"
-        }
-      ],
-      "biblio": {
-        "first_page": "11",
-        "issue": "",
-        "last_page": "19",
-        "volume": ""
-      },
-      "citation_count": 15,
-      "doi": "10.1145/2159430.2159432",
-      "doi_url": "https://doi.org/10.1145/2159430.2159432",
-      "group_author_ids": [
-        "david-pugmire"
-      ],
-      "id": "doi:10.1145/2159430.2159432",
-      "oa_url": "",
-      "openalex_author_person_ids": [
-        "david-pugmire"
-      ],
-      "openalex_id": "https://openalex.org/W2026431783",
-      "openalex_ids": [
-        "https://openalex.org/W2026431783"
-      ],
-      "openalex_url": "https://openalex.org/W2026431783",
-      "orcid_person_ids": [],
-      "publication_date": "2012-03-03",
-      "review_notes": [
-        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
-      ],
-      "review_status": "candidate_openalex",
-      "title": "A distributed data-parallel framework for analysis and visualization algorithm development",
-      "type": "conference-paper",
-      "url": "https://doi.org/10.1145/2159430.2159432",
-      "venue": "",
-      "year": 2012
-    },
-    {
-      "author_names": [
         "Kenneth Moreland"
       ],
       "authors": [
@@ -21469,6 +20439,65 @@
       "title": "Oh, $#*@! Exascale! The Effect of Emerging Architectures on Scientific Discovery",
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/sc.companion.2012.38",
+      "venue": "",
+      "year": 2012
+    },
+    {
+      "author_names": [
+        "Jeremy S. Meredith",
+        "Robert Sisneros",
+        "David Pugmire",
+        "Sean D. Ahern"
+      ],
+      "authors": [
+        {
+          "name": "Jeremy S. Meredith",
+          "openalex_id": "https://openalex.org/A5103542489"
+        },
+        {
+          "name": "Robert Sisneros",
+          "openalex_id": "https://openalex.org/A5113487859"
+        },
+        {
+          "name": "David Pugmire",
+          "openalex_id": "https://openalex.org/A5041404935"
+        },
+        {
+          "name": "Sean D. Ahern",
+          "openalex_id": "https://openalex.org/A5110760354"
+        }
+      ],
+      "biblio": {
+        "first_page": "11",
+        "issue": "",
+        "last_page": "19",
+        "volume": ""
+      },
+      "citation_count": 14,
+      "doi": "10.1145/2159430.2159432",
+      "doi_url": "https://doi.org/10.1145/2159430.2159432",
+      "group_author_ids": [
+        "david-pugmire"
+      ],
+      "id": "doi:10.1145/2159430.2159432",
+      "oa_url": "",
+      "openalex_author_person_ids": [
+        "david-pugmire"
+      ],
+      "openalex_id": "https://openalex.org/W2026431783",
+      "openalex_ids": [
+        "https://openalex.org/W2026431783"
+      ],
+      "openalex_url": "https://openalex.org/W2026431783",
+      "orcid_person_ids": [],
+      "publication_date": "2012-03-03",
+      "review_notes": [
+        "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended."
+      ],
+      "review_status": "candidate_openalex",
+      "title": "A distributed data-parallel framework for analysis and visualization algorithm development",
+      "type": "conference-paper",
+      "url": "https://doi.org/10.1145/2159430.2159432",
       "venue": "",
       "year": 2012
     },
@@ -22342,7 +21371,7 @@
         "last_page": "96",
         "volume": ""
       },
-      "citation_count": 217,
+      "citation_count": 213,
       "doi": "10.1109/ldav.2011.6092322",
       "doi_url": "https://doi.org/10.1109/ldav.2011.6092322",
       "group_author_ids": [
@@ -22421,7 +21450,7 @@
         "last_page": "78730K",
         "volume": "7873"
       },
-      "citation_count": 82,
+      "citation_count": 80,
       "doi": "10.1117/12.876669",
       "doi_url": "https://doi.org/10.1117/12.876669",
       "group_author_ids": [
@@ -22480,7 +21509,7 @@
         "last_page": "10",
         "volume": ""
       },
-      "citation_count": 61,
+      "citation_count": 57,
       "doi": "10.1145/2063384.2063417",
       "doi_url": "https://doi.org/10.1145/2063384.2063417",
       "group_author_ids": [
@@ -23073,7 +22102,7 @@
     {
       "author_names": [
         "David Pugmire",
-        "Paul M. Sutter",
+        "P. M. Sutter",
         "P. M. Ricker",
         "Hsiang-Yi Karen Yang",
         "George Foreman"
@@ -23084,8 +22113,8 @@
           "openalex_id": "https://openalex.org/A5041404935"
         },
         {
-          "name": "Paul M. Sutter",
-          "openalex_id": "https://openalex.org/A5106409089"
+          "name": "P. M. Sutter",
+          "openalex_id": "https://openalex.org/A5106453855"
         },
         {
           "name": "P. M. Ricker",
@@ -23185,7 +22214,7 @@
         "last_page": "31",
         "volume": "30"
       },
-      "citation_count": 85,
+      "citation_count": 84,
       "doi": "10.1109/mcg.2010.51",
       "doi_url": "https://doi.org/10.1109/mcg.2010.51",
       "group_author_ids": [
@@ -23254,7 +22283,7 @@
         "last_page": "1440",
         "volume": "16"
       },
-      "citation_count": 35,
+      "citation_count": 36,
       "doi": "10.1109/tvcg.2010.133",
       "doi_url": "https://doi.org/10.1109/tvcg.2010.133",
       "group_author_ids": [
@@ -23406,7 +22435,7 @@
         "last_page": "103",
         "volume": ""
       },
-      "citation_count": 218,
+      "citation_count": 212,
       "doi": "10.1007/978-3-642-10520-3_9",
       "doi_url": "https://doi.org/10.1007/978-3-642-10520-3_9",
       "group_author_ids": [
@@ -24077,7 +23106,7 @@
         "last_page": "1883",
         "volume": "42"
       },
-      "citation_count": 81,
+      "citation_count": 82,
       "doi": "10.1109/jssc.2007.903086",
       "doi_url": "https://doi.org/10.1109/jssc.2007.903086",
       "group_author_ids": [
@@ -24141,7 +23170,7 @@
         "last_page": "1383",
         "volume": "13"
       },
-      "citation_count": 31,
+      "citation_count": 30,
       "doi": "10.1109/tvcg.2007.70600",
       "doi_url": "https://doi.org/10.1109/tvcg.2007.70600",
       "group_author_ids": [
@@ -24624,7 +23653,7 @@
       "title": "A 14-Bit 5MS/s Continuous-Time Delta-Sigma A/D Modulator",
       "type": "conference-paper",
       "url": "https://doi.org/10.1109/vlsic.2006.1705361",
-      "venue": "Symposium on VLSI Circuits (VLSIC)",
+      "venue": "Symposium on VLSI Circuits",
       "year": 2006
     },
     {
@@ -24806,7 +23835,7 @@
         "last_page": "758",
         "volume": "19"
       },
-      "citation_count": 99,
+      "citation_count": 98,
       "doi": "10.1109/tpwrd.2003.822960",
       "doi_url": "https://doi.org/10.1109/tpwrd.2003.822960",
       "group_author_ids": [
@@ -25017,7 +24046,7 @@
         "last_page": "154",
         "volume": ""
       },
-      "citation_count": 50,
+      "citation_count": 48,
       "doi": "10.1109/pvgs.2001.964408",
       "doi_url": "https://doi.org/10.1109/pvgs.2001.964408",
       "group_author_ids": [
@@ -25189,7 +24218,7 @@
         "last_page": "92",
         "volume": ""
       },
-      "citation_count": 41,
+      "citation_count": 40,
       "doi": "10.5555/502125.502141",
       "doi_url": "https://doi.org/10.5555/502125.502141",
       "group_author_ids": [

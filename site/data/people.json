@@ -1,9 +1,9 @@
 [
   {
-    "citation_count": 2035,
+    "citation_count": 2011,
     "google_scholar_url": "https://scholar.google.com/citations?user=FmxWGN0AAAAJ&hl=en",
     "h_index": 20,
-    "i10_index": 41,
+    "i10_index": 40,
     "id": "david-pugmire",
     "name": "David Pugmire",
     "openalex_id": "",
@@ -11,10 +11,10 @@
     "orcid": "0000-0003-0647-2634",
     "resolved_openalex_id": "https://openalex.org/A5041404935",
     "role": "Current member",
-    "works_count": 102
+    "works_count": 98
   },
   {
-    "citation_count": 2584,
+    "citation_count": 2552,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=d00I5gUAAAAJ",
     "h_index": 23,
     "i10_index": 36,
@@ -25,10 +25,10 @@
     "orcid": "0000-0002-7051-3288",
     "resolved_openalex_id": "https://openalex.org/A5102833835",
     "role": "Current member",
-    "works_count": 135
+    "works_count": 130
   },
   {
-    "citation_count": 299,
+    "citation_count": 295,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=sMiEw1YAAAAJ",
     "h_index": 9,
     "i10_index": 9,
@@ -39,10 +39,10 @@
     "orcid": "0000-0003-3163-6274",
     "resolved_openalex_id": "https://openalex.org/A5080292005",
     "role": "Current member",
-    "works_count": 56
+    "works_count": 47
   },
   {
-    "citation_count": 906,
+    "citation_count": 881,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=98-9pVkAAAAJ",
     "h_index": 12,
     "i10_index": 12,
@@ -56,7 +56,7 @@
     "works_count": 36
   },
   {
-    "citation_count": 27,
+    "citation_count": 26,
     "google_scholar_url": "",
     "h_index": 2,
     "i10_index": 1,
@@ -81,10 +81,10 @@
     "orcid": "0000-0002-3406-899X",
     "resolved_openalex_id": "https://openalex.org/A5061777250",
     "role": "Current member",
-    "works_count": 16
+    "works_count": 15
   },
   {
-    "citation_count": 388,
+    "citation_count": 387,
     "google_scholar_url": "https://scholar.google.com/citations?hl=en&user=hIj-ciYAAAAJ",
     "h_index": 9,
     "i10_index": 9,
@@ -95,6 +95,6 @@
     "orcid": "0000-0003-4324-741X",
     "resolved_openalex_id": "https://openalex.org/A5102018107",
     "role": "Current member",
-    "works_count": 33
+    "works_count": 32
   }
 ]

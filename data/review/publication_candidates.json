@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T18:34:15+00:00",
+  "generated_at": "2026-10-12T19:08:03+00:00",
   "publications": [
     {
       "citation_count": 1,
@@ -87,6 +87,20 @@
     },
     {
       "citation_count": 0,
+      "doi": "10.48550/arxiv.2601.17689",
+      "group_authors": "Tushar Athawale",
+      "openalex_candidate_for": "Tushar Athawale",
+      "openalex_url": "https://openalex.org/W7125771044",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "REV-INR: Regularized Evidential Implicit Neural Representation for Uncertainty-Aware Volume Visualization",
+      "url": "https://doi.org/10.48550/arxiv.2601.17689",
+      "venue": "arXiv (Cornell University)",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
       "doi": "10.1109/ipdps65963.2026.00059",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "",
@@ -96,7 +110,7 @@
       "review_status": "trusted_orcid",
       "title": "Quantifying the Impact of Lossy Compression on Neural Generative Surrogate Modeling",
       "url": "https://doi.org/10.1109/ipdps65963.2026.00059",
-      "venue": "",
+      "venue": "Proceedings - IEEE International Parallel and Distributed Processing Symposium",
       "year": 2026
     },
     {
@@ -122,50 +136,8 @@
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
       "review_status": "candidate_openalex",
-      "title": "MasterVChicken/MGARD: sc26-blockmagrd-v3",
-      "url": "https://doi.org/10.5281/zenodo.19656827",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2026
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.5281/zenodo.22092142",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W7170153971",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "MasterVChicken/MGARD: sc26-blockmagrd-v3",
-      "url": "https://doi.org/10.5281/zenodo.22092142",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2026
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.5281/zenodo.21502784",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W7212904775",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "MasterVChicken/MGARD: sc26-blockmagrd-v2",
-      "url": "https://doi.org/10.5281/zenodo.21502784",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "year": 2026
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.5281/zenodo.19656828",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W7154937782",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
       "title": "MasterVChicken/MGARD: sc26-BlockMGARD-v1",
-      "url": "https://doi.org/10.5281/zenodo.19656828",
+      "url": "https://doi.org/10.5281/zenodo.19656827",
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
       "year": 2026
     },
@@ -186,8 +158,8 @@
     {
       "citation_count": 0,
       "doi": "10.48550/arxiv.2608.18220",
-      "group_authors": "Timbwaoga A. J. Ouermi",
-      "openalex_candidate_for": "Timbwaoga A. J. Ouermi",
+      "group_authors": "Timbwaoga A. J. Ouermi; Tushar Athawale",
+      "openalex_candidate_for": "Timbwaoga A. J. Ouermi; Tushar Athawale",
       "openalex_url": "https://openalex.org/W7203870500",
       "orcid_evidence": "",
       "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
@@ -223,6 +195,34 @@
       "title": "Decision Support System",
       "url": "https://doi.org/10.11578/biomass_dss/dc.20260430.1",
       "venue": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.2172/17197384",
+      "group_authors": "David Pugmire; Junghoon Chae; Ken Moreland; Tushar Athawale; Zhimin Li",
+      "openalex_candidate_for": "David Pugmire; Junghoon Chae; Ken Moreland; Tushar Athawale; Zhimin Li",
+      "openalex_url": "https://openalex.org/W7221348807",
+      "orcid_evidence": "David Pugmire; Junghoon Chae; Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Data and AI Systems FY 2026 Highlights",
+      "url": "https://doi.org/10.2172/17197384",
+      "venue": "",
+      "year": 2026
+    },
+    {
+      "citation_count": 0,
+      "doi": "10.2172/17168022",
+      "group_authors": "Junghoon Chae; Ken Moreland; Tushar Athawale",
+      "openalex_candidate_for": "Junghoon Chae; Ken Moreland; Tushar Athawale",
+      "openalex_url": "https://openalex.org/W7220914793",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Data and AI Systems FY 2026 Highlights",
+      "url": "https://doi.org/10.2172/17168022",
+      "venue": "",
       "year": 2026
     },
     {
@@ -278,7 +278,7 @@
       "review_status": "trusted_orcid",
       "title": "Stability-preserving Lossy Compression for Large-scale Partial Differential Equations",
       "url": "https://doi.org/10.1145/3712285.3759878",
-      "venue": "",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2025
     },
     {
@@ -306,7 +306,7 @@
       "review_status": "trusted_orcid",
       "title": "ORBIT-2: Scaling Exascale Vision Foundation Models for Weather and Climate Downscaling",
       "url": "https://doi.org/10.1145/3712285.3771989",
-      "venue": "",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2025
     },
     {
@@ -334,7 +334,7 @@
       "review_status": "trusted_orcid",
       "title": "STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data",
       "url": "https://doi.org/10.1145/3712285.3759795",
-      "venue": "",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2025
     },
     {
@@ -591,20 +591,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.48550/arxiv.2510.01190",
-      "group_authors": "Ken Moreland; Timbwaoga A. J. Ouermi; Tushar Athawale",
-      "openalex_candidate_for": "Ken Moreland; Timbwaoga A. J. Ouermi; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4414814330",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Efficient Probabilistic Visualization of Local Divergence of 2D Vector Fields with Independent Gaussian Uncertainty",
-      "url": "https://doi.org/10.48550/arxiv.2510.01190",
-      "venue": "arXiv (Cornell University)",
-      "year": 2025
-    },
-    {
-      "citation_count": 0,
       "doi": "10.11578/dc.20260217.1",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -632,20 +618,6 @@
       "year": 2025
     },
     {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2501.06910",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "",
-      "openalex_url": "",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "A General Framework for Error-controlled Unstructured Scientific Data Compression",
-      "url": "https://doi.org/10.48550/arxiv.2501.06910",
-      "venue": "arXiv",
-      "year": 2025
-    },
-    {
       "citation_count": 48,
       "doi": "10.1093/gji/ggae270",
       "group_authors": "David Pugmire",
@@ -660,7 +632,7 @@
       "year": 2024
     },
     {
-      "citation_count": 20,
+      "citation_count": 19,
       "doi": "10.1038/s41597-024-03219-x",
       "group_authors": "Erik Schmidt",
       "openalex_candidate_for": "",
@@ -674,7 +646,7 @@
       "year": 2024
     },
     {
-      "citation_count": 15,
+      "citation_count": 16,
       "doi": "10.1111/cgf.15093",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -698,7 +670,7 @@
       "review_status": "trusted_orcid",
       "title": "A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization",
       "url": "https://doi.org/10.1109/sc41406.2024.00091",
-      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
       "year": 2024
     },
     {
@@ -731,20 +703,6 @@
     },
     {
       "citation_count": 4,
-      "doi": "10.54941/ahfe1005190",
-      "group_authors": "Zhimin Li",
-      "openalex_candidate_for": "Zhimin Li",
-      "openalex_url": "https://openalex.org/W4399478900",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Vigilant Air Traffic Control: Gaze-based Recognition of Detection Failures to Visual Warnings",
-      "url": "https://doi.org/10.54941/ahfe1005190",
-      "venue": "AHFE international",
-      "year": 2024
-    },
-    {
-      "citation_count": 3,
       "doi": "10.1109/tvcg.2024.3514996",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -755,6 +713,20 @@
       "title": "\u201cUnderstanding Robustness Lottery\u201d: A Geometric Visual Comparative Analysis of Neural Network Pruning Approaches",
       "url": "https://doi.org/10.1109/tvcg.2024.3514996",
       "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2024
+    },
+    {
+      "citation_count": 3,
+      "doi": "10.54941/ahfe1005190",
+      "group_authors": "Zhimin Li",
+      "openalex_candidate_for": "Zhimin Li",
+      "openalex_url": "https://openalex.org/W4399478900",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Vigilant Air Traffic Control: Gaze-based Recognition of Detection Failures to Visual Warnings",
+      "url": "https://doi.org/10.54941/ahfe1005190",
+      "venue": "AHFE international",
       "year": 2024
     },
     {
@@ -941,48 +913,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.48550/arxiv.2409.06159",
-      "group_authors": "Junghoon Chae",
-      "openalex_candidate_for": "Junghoon Chae",
-      "openalex_url": "https://openalex.org/W4403593130",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Visual Analytics of Performance of Quantum Computing Systems and Circuit Optimization",
-      "url": "https://doi.org/10.48550/arxiv.2409.06159",
-      "venue": "arXiv (Cornell University)",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2408.06018",
-      "group_authors": "David Pugmire; Tushar Athawale",
-      "openalex_candidate_for": "David Pugmire; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4402387266",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty-Informed Volume Visualization using Implicit Neural Representation",
-      "url": "https://doi.org/10.48550/arxiv.2408.06018",
-      "venue": "arXiv (Cornell University)",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2407.18015",
-      "group_authors": "David Pugmire; Ken Moreland; Tushar Athawale",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4402619103",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Visualization of Critical Points of 2D Scalar Fields for Parametric and Nonparametric Probabilistic Models",
-      "url": "https://doi.org/10.48550/arxiv.2407.18015",
-      "venue": "arXiv (Cornell University)",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
       "doi": "10.1109/e-science62913.2024.10678727",
       "group_authors": "David Pugmire; Ken Moreland; Tushar Athawale",
       "openalex_candidate_for": "David Pugmire; Ken Moreland; Tushar Athawale",
@@ -1067,20 +997,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.48550/arxiv.2409.00043",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "",
-      "openalex_url": "",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Estimation and Visualization of Isosurface Uncertainty from Linear and High-Order Interpolation Methods",
-      "url": "https://doi.org/10.48550/arxiv.2409.00043",
-      "venue": "arXiv",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
       "doi": "10.2172/2462877",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -1105,20 +1021,6 @@
       "title": "Autonomous Exploration Path Planning Method for Unmanned Aerial Vehicle Based on Flight Safety Constraint",
       "url": "https://doi.org/10.1007/978-981-97-3336-1_37",
       "venue": "Lecture notes in electrical engineering",
-      "year": 2024
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2409.08445",
-      "group_authors": "David Pugmire; Ken Moreland; Tushar Athawale",
-      "openalex_candidate_for": "David Pugmire; Ken Moreland; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4403661748",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "An Entropy-Based Test and Development Framework for Uncertainty Modeling in Level-Set Visualizations",
-      "url": "https://doi.org/10.48550/arxiv.2409.08445",
-      "venue": "arXiv (Cornell University)",
       "year": 2024
     },
     {
@@ -1164,21 +1066,7 @@
       "year": 2024
     },
     {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2407.04267",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4400517286",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "A High-Quality Workflow for Multi-Resolution Scientific Data Reduction and Visualization",
-      "url": "https://doi.org/10.48550/arxiv.2407.04267",
-      "venue": "arXiv (Cornell University)",
-      "year": 2024
-    },
-    {
-      "citation_count": 85,
+      "citation_count": 87,
       "doi": "10.1109/tps.2023.3268170",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1192,7 +1080,7 @@
       "year": 2023
     },
     {
-      "citation_count": 22,
+      "citation_count": 23,
       "doi": "10.1109/tie.2023.3260339",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -1360,20 +1248,6 @@
       "year": 2023
     },
     {
-      "citation_count": 1,
-      "doi": "10.48550/arxiv.2312.04494",
-      "group_authors": "Zhimin Li",
-      "openalex_candidate_for": "Zhimin Li",
-      "openalex_url": "https://openalex.org/W4389500092",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "AVA: Towards Autonomous Visualization Agents through Visual Perception-Driven Decision-Making",
-      "url": "https://doi.org/10.48550/arxiv.2312.04494",
-      "venue": "arXiv (Cornell University)",
-      "year": 2023
-    },
-    {
       "citation_count": 0,
       "doi": "10.11578/dc.20230405.1",
       "group_authors": "David Pugmire; Ken Moreland",
@@ -1413,20 +1287,6 @@
       "title": "CPViz: Visualizing clinical pathways represented in higher-order networks",
       "url": "https://doi.org/10.2352/ei.2023.35.1.vda-395",
       "venue": "Electronic Imaging",
-      "year": 2023
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2307.08795",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4384807702",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "A Comparative Study of the Perceptual Sensitivity of Topological Visualizations to Feature Variations",
-      "url": "https://doi.org/10.48550/arxiv.2307.08795",
-      "venue": "arXiv (Cornell University)",
       "year": 2023
     },
     {
@@ -1524,7 +1384,7 @@
       "review_status": "candidate_openalex",
       "title": "Hybrid Analysis of Fusion Data for Online Understanding of Complex Science on Extreme Scale Computers",
       "url": "https://doi.org/10.1109/cluster51413.2022.00035",
-      "venue": "",
+      "venue": "Proceedings",
       "year": 2022
     },
     {
@@ -1682,20 +1542,6 @@
       "year": 2022
     },
     {
-      "citation_count": 1,
-      "doi": "10.48550/arxiv.2206.07918",
-      "group_authors": "Zhimin Li",
-      "openalex_candidate_for": "Zhimin Li",
-      "openalex_url": "https://openalex.org/W4283069225",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "\"Understanding Robustness Lottery\": A Geometric Visual Comparative Analysis of Neural Network Pruning Approaches",
-      "url": "https://doi.org/10.48550/arxiv.2206.07918",
-      "venue": "arXiv (Cornell University)",
-      "year": 2022
-    },
-    {
       "citation_count": 0,
       "doi": "10.2172/1895214",
       "group_authors": "David Pugmire; Ken Moreland",
@@ -1753,34 +1599,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.48550/arxiv.2207.11318",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "",
-      "openalex_url": "",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Fiber Uncertainty Visualization for Bivariate Data With Parametric and Nonparametric Noise Models",
-      "url": "https://doi.org/10.48550/arxiv.2207.11318",
-      "venue": "arXiv",
-      "year": 2022
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2207.07260",
-      "group_authors": "David Pugmire; Tushar Athawale",
-      "openalex_candidate_for": "David Pugmire; Tushar Athawale",
-      "openalex_url": "https://openalex.org/W4285787365",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Accelerated Probabilistic Marching Cubes by Deep Learning for Time-Varying Scalar Ensembles",
-      "url": "https://doi.org/10.48550/arxiv.2207.07260",
-      "venue": "arXiv (Cornell University)",
-      "year": 2022
-    },
-    {
-      "citation_count": 0,
       "doi": "10.48550/arxiv.2201.08440",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -1822,20 +1640,6 @@
       "year": 2021
     },
     {
-      "citation_count": 27,
-      "doi": "10.1145/3458817.3476179",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3211226812",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Error-controlled, progressive, and adaptable retrieval of scientific data with multilevel decomposition",
-      "url": "https://doi.org/10.1145/3458817.3476179",
-      "venue": "",
-      "year": 2021
-    },
-    {
       "citation_count": 26,
       "doi": "10.1177/10943420211019119",
       "group_authors": "David Pugmire",
@@ -1847,6 +1651,34 @@
       "title": "The Exascale Framework for High Fidelity coupled Simulations (EFFIS): Enabling whole device modeling in fusion science",
       "url": "https://doi.org/10.1177/10943420211019119",
       "venue": "The International Journal of High Performance Computing Applications",
+      "year": 2021
+    },
+    {
+      "citation_count": 26,
+      "doi": "10.1145/3458817.3476179",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3211226812",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Error-controlled, progressive, and adaptable retrieval of scientific data with multilevel decomposition",
+      "url": "https://doi.org/10.1145/3458817.3476179",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "year": 2021
+    },
+    {
+      "citation_count": 24,
+      "doi": "10.1109/ipdps49936.2021.00095",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3173669904",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
+      "url": "https://doi.org/10.1109/ipdps49936.2021.00095",
+      "venue": "Proceedings - IEEE International Parallel and Distributed Processing Symposium",
       "year": 2021
     },
     {
@@ -1864,21 +1696,7 @@
       "year": 2021
     },
     {
-      "citation_count": 23,
-      "doi": "10.1109/ipdps49936.2021.00095",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3173669904",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
-      "url": "https://doi.org/10.1109/ipdps49936.2021.00095",
-      "venue": "",
-      "year": 2021
-    },
-    {
-      "citation_count": 19,
+      "citation_count": 20,
       "doi": "10.1145/3437801.3441589",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -1920,7 +1738,7 @@
       "year": 2021
     },
     {
-      "citation_count": 14,
+      "citation_count": 13,
       "doi": "10.1177/10943420211029302",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2089,20 +1907,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.48550/arxiv.2108.03066",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "",
-      "openalex_url": "",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty visualization of the marching squares and marching cubes topology cases",
-      "url": "https://doi.org/10.48550/arxiv.2108.03066",
-      "venue": "arXiv",
-      "year": 2021
-    },
-    {
-      "citation_count": 0,
       "doi": "10.48550/arxiv.2106.12138",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2131,20 +1935,6 @@
     },
     {
       "citation_count": 0,
-      "doi": "10.6084/m9.figshare.16926130.v1",
-      "group_authors": "Ken Moreland",
-      "openalex_candidate_for": "Ken Moreland",
-      "openalex_url": "https://openalex.org/W3213912475",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Large-Scale In Situ Visualization of Raleigh-Taylor Instability with Ascent and VTK-m",
-      "url": "https://doi.org/10.6084/m9.figshare.16926130.v1",
-      "venue": "Figshare",
-      "year": 2021
-    },
-    {
-      "citation_count": 0,
       "doi": "10.1088/1742-6596/2033/1/012153",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -2158,21 +1948,7 @@
       "year": 2021
     },
     {
-      "citation_count": 237,
-      "doi": "10.1093/gji/ggaa253",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3027649956",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Global adjoint tomography\u2014model GLAD-M25",
-      "url": "https://doi.org/10.1093/gji/ggaa253",
-      "venue": "Geophysical Journal International",
-      "year": 2020
-    },
-    {
-      "citation_count": 237,
+      "citation_count": 235,
       "doi": "10.1016/j.softx.2020.100561",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2183,6 +1959,20 @@
       "title": "ADIOS 2: The Adaptable Input Output System. A framework for high-performance data management",
       "url": "https://doi.org/10.1016/j.softx.2020.100561",
       "venue": "SoftwareX",
+      "year": 2020
+    },
+    {
+      "citation_count": 230,
+      "doi": "10.1093/gji/ggaa253",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W3027649956",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "Global adjoint tomography\u2014model GLAD-M25",
+      "url": "https://doi.org/10.1093/gji/ggaa253",
+      "venue": "Geophysical Journal International",
       "year": 2020
     },
     {
@@ -2322,7 +2112,7 @@
       "review_status": "candidate_openalex",
       "title": "Parallel Particle Advection Bake-Off for Scientific Visualization Workloads",
       "url": "https://doi.org/10.1109/cluster49012.2020.00048",
-      "venue": "",
+      "venue": "Proceedings",
       "year": 2020
     },
     {
@@ -2337,20 +2127,6 @@
       "title": "Converting Clinical Pathways to BPM+ Standards: A Case Study in Stable Ischemic Heart Disease",
       "url": "https://doi.org/10.1109/cbms49503.2020.00092",
       "venue": "IEEE International Symposium on Computer-Based Medical Systems (CBMS)",
-      "year": 2020
-    },
-    {
-      "citation_count": 3,
-      "doi": "10.48550/arxiv.2007.04457",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W3041216812",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
-      "url": "https://doi.org/10.48550/arxiv.2007.04457",
-      "venue": "arXiv (Cornell University)",
       "year": 2020
     },
     {
@@ -2452,20 +2228,6 @@
       "year": 2020
     },
     {
-      "citation_count": 0,
-      "doi": "10.48550/arxiv.2008.13576",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "",
-      "openalex_url": "",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Direct volume rendering with nonparametric models of uncertainty",
-      "url": "https://doi.org/10.48550/arxiv.2008.13576",
-      "venue": "arXiv",
-      "year": 2020
-    },
-    {
       "citation_count": 32,
       "doi": "10.1007/978-3-030-20656-7_6",
       "group_authors": "David Pugmire",
@@ -2508,7 +2270,7 @@
       "year": 2019
     },
     {
-      "citation_count": 10,
+      "citation_count": 9,
       "doi": "10.1109/drbsd-549595.2019.00006",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -2607,20 +2369,6 @@
     },
     {
       "citation_count": 1,
-      "doi": "10.48550/arxiv.1912.06341",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W2995021441",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Visualization of 2D Morse Complex Ensembles Using Statistical Summary Maps",
-      "url": "https://doi.org/10.48550/arxiv.1912.06341",
-      "venue": "arXiv (Cornell University)",
-      "year": 2019
-    },
-    {
-      "citation_count": 1,
       "doi": "10.1109/vahc47919.2019.8945037",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -2631,20 +2379,6 @@
       "title": "A Statistical Framework for Visualization of Positional Uncertainty in Deep Brain Stimulation Electrodes",
       "url": "https://doi.org/10.1109/vahc47919.2019.8945037",
       "venue": "",
-      "year": 2019
-    },
-    {
-      "citation_count": 0,
-      "doi": "10.1101/830844",
-      "group_authors": "Junghoon Chae",
-      "openalex_candidate_for": "Junghoon Chae",
-      "openalex_url": "https://openalex.org/W2988000369",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "Visual Analytics for Deep Embeddings of Large Scale Molecular Dynamics Simulations",
-      "url": "https://doi.org/10.1101/830844",
-      "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
       "year": 2019
     },
     {
@@ -2760,7 +2494,7 @@
       "year": 2019
     },
     {
-      "citation_count": 50,
+      "citation_count": 48,
       "doi": "10.1109/tvcg.2018.2865230",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -2788,7 +2522,7 @@
       "year": 2018
     },
     {
-      "citation_count": 17,
+      "citation_count": 16,
       "doi": "10.1109/tvcg.2018.2864505",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3026,7 +2760,7 @@
       "year": 2018
     },
     {
-      "citation_count": 183,
+      "citation_count": 180,
       "doi": "10.1177/1094342017704893",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3040,7 +2774,7 @@
       "year": 2017
     },
     {
-      "citation_count": 29,
+      "citation_count": 27,
       "doi": "10.1177/1094428117720014",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3222,7 +2956,7 @@
       "year": 2017
     },
     {
-      "citation_count": 294,
+      "citation_count": 287,
       "doi": "10.1093/gji/ggw356",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -3236,7 +2970,7 @@
       "year": 2016
     },
     {
-      "citation_count": 168,
+      "citation_count": 167,
       "doi": "10.1111/cgf.12930",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3250,7 +2984,7 @@
       "year": 2016
     },
     {
-      "citation_count": 153,
+      "citation_count": 151,
       "doi": "10.1109/mcg.2016.48",
       "group_authors": "David Pugmire; Ken Moreland",
       "openalex_candidate_for": "David Pugmire; Ken Moreland",
@@ -3264,7 +2998,7 @@
       "year": 2016
     },
     {
-      "citation_count": 81,
+      "citation_count": 76,
       "doi": "10.2352/issn.2470-1173.2016.16.hvei-133",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3278,7 +3012,7 @@
       "year": 2016
     },
     {
-      "citation_count": 77,
+      "citation_count": 73,
       "doi": "10.1111/cgf.12931",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3288,20 +3022,6 @@
       "review_status": "candidate_openalex",
       "title": "A Survey on Visual Analysis Approaches for Financial Data",
       "url": "https://doi.org/10.1111/cgf.12931",
-      "venue": "Computer Graphics Forum",
-      "year": 2016
-    },
-    {
-      "citation_count": 22,
-      "doi": "10.1111/cgf.12920",
-      "group_authors": "Junghoon Chae",
-      "openalex_candidate_for": "Junghoon Chae",
-      "openalex_url": "https://openalex.org/W2416356973",
-      "orcid_evidence": "Junghoon Chae",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation",
-      "url": "https://doi.org/10.1111/cgf.12920",
       "venue": "Computer Graphics Forum",
       "year": 2016
     },
@@ -3330,7 +3050,21 @@
       "review_status": "candidate_openalex",
       "title": "Performance Modeling of In Situ Rendering",
       "url": "https://doi.org/10.1109/sc.2016.23",
-      "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis (SC)",
+      "venue": "2012 International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "year": 2016
+    },
+    {
+      "citation_count": 20,
+      "doi": "10.1111/cgf.12920",
+      "group_authors": "Junghoon Chae",
+      "openalex_candidate_for": "Junghoon Chae",
+      "openalex_url": "https://openalex.org/W2416356973",
+      "orcid_evidence": "Junghoon Chae",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "A Visual Analytics Framework for Microblog Data Analysis at Multiple Scales of Aggregation",
+      "url": "https://doi.org/10.1111/cgf.12920",
+      "venue": "Computer Graphics Forum",
       "year": 2016
     },
     {
@@ -3348,7 +3082,7 @@
       "year": 2016
     },
     {
-      "citation_count": 13,
+      "citation_count": 11,
       "doi": "10.1109/ldav.2016.7874308",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3460,7 +3194,7 @@
       "year": 2016
     },
     {
-      "citation_count": 198,
+      "citation_count": 197,
       "doi": "10.1145/2828612.2828624",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -3474,7 +3208,7 @@
       "year": 2015
     },
     {
-      "citation_count": 59,
+      "citation_count": 58,
       "doi": "10.1109/tvcg.2015.2467958",
       "group_authors": "Tushar Athawale",
       "openalex_candidate_for": "Tushar Athawale",
@@ -3488,7 +3222,7 @@
       "year": 2015
     },
     {
-      "citation_count": 27,
+      "citation_count": 26,
       "doi": "10.1145/2828612.2828623",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -3628,7 +3362,7 @@
       "year": 2015
     },
     {
-      "citation_count": 30,
+      "citation_count": 28,
       "doi": "10.1109/vast.2014.7042484",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3712,7 +3446,7 @@
       "year": 2014
     },
     {
-      "citation_count": 187,
+      "citation_count": 182,
       "doi": "10.1016/j.cag.2013.10.008",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3723,20 +3457,6 @@
       "title": "Public behavior response analysis in disaster events utilizing visual analytics of microblog data",
       "url": "https://doi.org/10.1016/j.cag.2013.10.008",
       "venue": "Computers & Graphics",
-      "year": 2013
-    },
-    {
-      "citation_count": 52,
-      "doi": "10.1109/tvcg.2013.208",
-      "group_authors": "Tushar Athawale",
-      "openalex_candidate_for": "Tushar Athawale",
-      "openalex_url": "https://openalex.org/W2165453175",
-      "orcid_evidence": "Tushar Athawale",
-      "review_notes": "",
-      "review_status": "trusted_orcid",
-      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction",
-      "url": "https://doi.org/10.1109/tvcg.2013.208",
-      "venue": "IEEE Transactions on Visualization and Computer Graphics",
       "year": 2013
     },
     {
@@ -3754,6 +3474,20 @@
       "year": 2013
     },
     {
+      "citation_count": 51,
+      "doi": "10.1109/tvcg.2013.208",
+      "group_authors": "Tushar Athawale",
+      "openalex_candidate_for": "Tushar Athawale",
+      "openalex_url": "https://openalex.org/W2165453175",
+      "orcid_evidence": "Tushar Athawale",
+      "review_notes": "",
+      "review_status": "trusted_orcid",
+      "title": "Uncertainty Quantification in Linear Interpolation for Isosurface Extraction",
+      "url": "https://doi.org/10.1109/tvcg.2013.208",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2013
+    },
+    {
       "citation_count": 38,
       "doi": "10.1109/mc.2013.119",
       "group_authors": "David Pugmire",
@@ -3768,7 +3502,7 @@
       "year": 2013
     },
     {
-      "citation_count": 17,
+      "citation_count": 16,
       "doi": "10.1080/00401706.2013.826146",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -3880,7 +3614,7 @@
       "year": 2013
     },
     {
-      "citation_count": 286,
+      "citation_count": 281,
       "doi": "10.1109/vast.2012.6400557",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3908,7 +3642,7 @@
       "year": 2012
     },
     {
-      "citation_count": 61,
+      "citation_count": 58,
       "doi": "10.1177/193229681200600231",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -3950,20 +3684,6 @@
       "year": 2012
     },
     {
-      "citation_count": 15,
-      "doi": "10.1145/2159430.2159432",
-      "group_authors": "David Pugmire",
-      "openalex_candidate_for": "David Pugmire",
-      "openalex_url": "https://openalex.org/W2026431783",
-      "orcid_evidence": "",
-      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
-      "review_status": "candidate_openalex",
-      "title": "A distributed data-parallel framework for analysis and visualization algorithm development",
-      "url": "https://doi.org/10.1145/2159430.2159432",
-      "venue": "",
-      "year": 2012
-    },
-    {
       "citation_count": 14,
       "doi": "10.1109/sc.companion.2012.38",
       "group_authors": "Ken Moreland",
@@ -3974,6 +3694,20 @@
       "review_status": "candidate_openalex",
       "title": "Oh, $#*@! Exascale! The Effect of Emerging Architectures on Scientific Discovery",
       "url": "https://doi.org/10.1109/sc.companion.2012.38",
+      "venue": "",
+      "year": 2012
+    },
+    {
+      "citation_count": 14,
+      "doi": "10.1145/2159430.2159432",
+      "group_authors": "David Pugmire",
+      "openalex_candidate_for": "David Pugmire",
+      "openalex_url": "https://openalex.org/W2026431783",
+      "orcid_evidence": "",
+      "review_notes": "Included from OpenAlex author-profile data without ORCID DOI evidence; review recommended.",
+      "review_status": "candidate_openalex",
+      "title": "A distributed data-parallel framework for analysis and visualization algorithm development",
+      "url": "https://doi.org/10.1145/2159430.2159432",
       "venue": "",
       "year": 2012
     },
@@ -4132,7 +3866,7 @@
       "year": 2012
     },
     {
-      "citation_count": 217,
+      "citation_count": 213,
       "doi": "10.1109/ldav.2011.6092322",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4146,7 +3880,7 @@
       "year": 2011
     },
     {
-      "citation_count": 82,
+      "citation_count": 80,
       "doi": "10.1117/12.876669",
       "group_authors": "Junghoon Chae",
       "openalex_candidate_for": "Junghoon Chae",
@@ -4160,7 +3894,7 @@
       "year": 2011
     },
     {
-      "citation_count": 61,
+      "citation_count": 57,
       "doi": "10.1145/2063384.2063417",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4300,7 +4034,7 @@
       "year": 2011
     },
     {
-      "citation_count": 85,
+      "citation_count": 84,
       "doi": "10.1109/mcg.2010.51",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4314,7 +4048,7 @@
       "year": 2010
     },
     {
-      "citation_count": 35,
+      "citation_count": 36,
       "doi": "10.1109/tvcg.2010.133",
       "group_authors": "David Pugmire",
       "openalex_candidate_for": "David Pugmire",
@@ -4356,7 +4090,7 @@
       "year": 2010
     },
     {
-      "citation_count": 218,
+      "citation_count": 212,
       "doi": "10.1007/978-3-642-10520-3_9",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4482,7 +4216,7 @@
       "year": 2008
     },
     {
-      "citation_count": 81,
+      "citation_count": 82,
       "doi": "10.1109/jssc.2007.903086",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -4496,7 +4230,7 @@
       "year": 2007
     },
     {
-      "citation_count": 31,
+      "citation_count": 30,
       "doi": "10.1109/tvcg.2007.70600",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4604,7 +4338,7 @@
       "review_status": "candidate_openalex",
       "title": "A 14-Bit 5MS/s Continuous-Time Delta-Sigma A/D Modulator",
       "url": "https://doi.org/10.1109/vlsic.2006.1705361",
-      "venue": "Symposium on VLSI Circuits (VLSIC)",
+      "venue": "Symposium on VLSI Circuits",
       "year": 2006
     },
     {
@@ -4636,7 +4370,7 @@
       "year": 2006
     },
     {
-      "citation_count": 99,
+      "citation_count": 98,
       "doi": "10.1109/tpwrd.2003.822960",
       "group_authors": "Zhimin Li",
       "openalex_candidate_for": "Zhimin Li",
@@ -4692,7 +4426,7 @@
       "year": 2003
     },
     {
-      "citation_count": 50,
+      "citation_count": 48,
       "doi": "10.1109/pvgs.2001.964408",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
@@ -4734,7 +4468,7 @@
       "year": 2001
     },
     {
-      "citation_count": 41,
+      "citation_count": 40,
       "doi": "10.5555/502125.502141",
       "group_authors": "Ken Moreland",
       "openalex_candidate_for": "Ken Moreland",
